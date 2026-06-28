@@ -3,42 +3,76 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Site</title>
-  <meta name="description" content="A static website hosted on GitHub Pages." />
+  <title>AI Wiki — Live News Feeds</title>
+  <meta name="description" content="A static AI wiki with live news feeds for AI hardware, foundation models, and OpenAI updates." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="site-header">
-    <nav class="container">
-      <a class="brand" href="/">My Site</a>
-      <div class="nav-links">
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
-      </div>
-    </nav>
+    <div class="container">
+      <button id="menuToggle" class="menu-toggle" aria-label="Toggle menu">☰</button>
+      <a class="brand" href="#home">🧠 AI Wiki</a>
+    </div>
   </header>
 
-  <main>
-    <section class="hero container">
-      <h1>Hello, world 👋</h1>
-      <p class="lead">This is a static website — no backend, deployed for free with GitHub Pages.</p>
-      <a class="btn" href="#about">Learn more</a>
-    </section>
+  <div class="layout">
+    <aside id="sidebar" class="sidebar">
+      <nav>
+        <p class="nav-label">Overview</p>
+        <a class="nav-link" href="#home" data-tab="home">Home</a>
+        <p class="nav-label">Live Feeds</p>
+        <a class="nav-link" href="#hardware" data-tab="hardware">🔌 AI Hardware</a>
+        <a class="nav-link" href="#foundation-models" data-tab="foundation-models">🧱 Foundation Models</a>
+        <a class="nav-link" href="#openai" data-tab="openai">✴️ OpenAI Updates</a>
+      </nav>
+    </aside>
 
-    <section id="about" class="container section">
-      <h2>About</h2>
-      <p>Edit <code>index.html</code> and <code>styles.css</code> to make this your own. Push to GitHub and your changes go live in about a minute.</p>
-    </section>
+    <main class="content container">
+      <!-- Home tab -->
+      <section class="tab" id="tab-home">
+        <h1>AI Wiki</h1>
+        <p class="lead">A living reference of the latest in artificial intelligence. Pick a feed from the sidebar.</p>
+        <div class="cards">
+          <a class="card" href="#hardware" data-tab="hardware">
+            <h3>🔌 AI Hardware</h3>
+            <p>GPUs, accelerators, and chips powering modern AI.</p>
+          </a>
+          <a class="card" href="#foundation-models" data-tab="foundation-models">
+            <h3>🧱 Foundation Models</h3>
+            <p>New model releases and research across the field.</p>
+          </a>
+          <a class="card" href="#openai" data-tab="openai">
+            <h3>✴️ OpenAI Updates</h3>
+            <p>The latest news and announcements about OpenAI.</p>
+          </a>
+        </div>
+        <p class="note">Feeds refresh automatically a few times a day via a GitHub Action — no server required.</p>
+      </section>
 
-    <section id="contact" class="container section">
-      <h2>Contact</h2>
-      <p>Reach out at <a href="mailto:hello@example.com">hello@example.com</a>.</p>
-    </section>
-  </main>
+      <!-- Feed tabs (populated by main.js) -->
+      <section class="tab" id="tab-hardware" hidden>
+        <h1>🔌 AI Hardware</h1>
+        <p class="feed-meta" data-meta="hardware"></p>
+        <div class="feed" data-feed="hardware"><p class="loading">Loading…</p></div>
+      </section>
+
+      <section class="tab" id="tab-foundation-models" hidden>
+        <h1>🧱 Foundation Models</h1>
+        <p class="feed-meta" data-meta="foundation-models"></p>
+        <div class="feed" data-feed="foundation-models"><p class="loading">Loading…</p></div>
+      </section>
+
+      <section class="tab" id="tab-openai" hidden>
+        <h1>✴️ OpenAI Updates</h1>
+        <p class="feed-meta" data-meta="openai"></p>
+        <div class="feed" data-feed="openai"><p class="loading">Loading…</p></div>
+      </section>
+    </main>
+  </div>
 
   <footer class="site-footer">
     <div class="container">
-      <p>&copy; <span id="year"></span> My Site. Built with plain HTML/CSS/JS.</p>
+      <p>&copy; <span id="year"></span> AI Wiki · Built with plain HTML/CSS/JS on GitHub Pages.</p>
     </div>
   </footer>
 
