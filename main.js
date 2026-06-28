@@ -1,7 +1,7 @@
 // ---- Footer year ----
 document.getElementById("year").textContent = new Date().getFullYear();
 
-const TABS = ["home", "hardware", "foundation-models", "openai"];
+const TABS = ["home", "hardware", "foundation-models", "openai", "chess"];
 const loaded = {}; // cache: key -> true once a feed is fetched
 
 // ---- Tab switching ----

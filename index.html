@@ -24,6 +24,8 @@
         <a class="nav-link" href="#hardware" data-tab="hardware">🔌 AI Hardware</a>
         <a class="nav-link" href="#foundation-models" data-tab="foundation-models">🧱 Foundation Models</a>
         <a class="nav-link" href="#openai" data-tab="openai">✴️ OpenAI Updates</a>
+        <p class="nav-label">Play</p>
+        <a class="nav-link" href="#chess" data-tab="chess">♟️ Chess</a>
       </nav>
     </aside>
 
@@ -67,6 +69,50 @@
         <p class="feed-meta" data-meta="openai"></p>
         <div class="feed" data-feed="openai"><p class="loading">Loading…</p></div>
       </section>
+
+      <!-- Chess tab -->
+      <section class="tab" id="tab-chess" hidden>
+        <h1>♟️ Chess</h1>
+
+        <h2 class="chess-h2">Play a game</h2>
+        <p class="lead chess-lead">Start a new game and play right here — two players, or against a simple bot.</p>
+        <div class="chess-controls">
+          <button id="newGameBtn" class="btn">New game</button>
+          <label class="chess-mode">
+            Mode:
+            <select id="playMode">
+              <option value="bot">Vs computer</option>
+              <option value="two">Two players</option>
+            </select>
+          </label>
+          <button id="flipBtn" class="btn btn-ghost">Flip board</button>
+        </div>
+        <div class="board-wrap">
+          <div id="playBoard" class="board"></div>
+        </div>
+        <p id="playStatus" class="chess-status"></p>
+        <div id="playMoves" class="chess-moves"></div>
+
+        <hr class="chess-divider" />
+
+        <h2 class="chess-h2">Your chess.com account</h2>
+        <div id="ccAccount" class="cc-account"><p class="loading">Connecting to chess.com…</p></div>
+
+        <h3 class="chess-h3">Replay a recent game</h3>
+        <div class="chess-controls">
+          <select id="gameSelect" class="cc-select"><option>Loading games…</option></select>
+        </div>
+        <div class="board-wrap">
+          <div id="replayBoard" class="board"></div>
+        </div>
+        <div class="chess-controls replay-controls">
+          <button id="replayStart" class="btn btn-ghost">⏮</button>
+          <button id="replayPrev" class="btn btn-ghost">◀ Prev</button>
+          <button id="replayNext" class="btn btn-ghost">Next ▶</button>
+          <button id="replayEnd" class="btn btn-ghost">⏭</button>
+        </div>
+        <p id="replayStatus" class="chess-status"></p>
+      </section>
     </main>
   </div>
 
@@ -76,6 +122,8 @@
     </div>
   </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/chess.js@0.13.4/chess.min.js"></script>
+  <script src="board.js"></script>
   <script src="main.js"></script>
 </body>
 </html>
