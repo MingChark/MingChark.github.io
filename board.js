@@ -1,7 +1,20 @@
-/* Chess: a playable board on the page. Loaded as an ES module. */
-import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@0.13.4/+esm";
+/* Chess: a playable board on the page. Loaded as an ES module.
+   The engine is self-hosted in ./vendor so it works with no external CDN. */
+(async function () {
+  let Chess;
+  try {
+    ({ Chess } = await import("./vendor/chess.min.js"));
+  } catch (e) {
+    console.error("Chess engine failed to load:", e);
+    const el = document.getElementById("playBoard");
+    if (el) {
+      el.style.display = "block";
+      el.innerHTML =
+        '<p style="padding:16px;color:var(--muted)">The chess engine couldn\'t load. Try a hard refresh (Cmd/Ctrl+Shift+R).</p>';
+    }
+    return;
+  }
 
-(function () {
   const FILES = ["a", "b", "c", "d", "e", "f", "g", "h"];
   const GLYPH = {
     w: { p: "♙", n: "♘", b: "♗", r: "♖", q: "♕", k: "♔" },
