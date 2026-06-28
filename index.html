@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI Wiki — Live News Feeds</title>
   <meta name="description" content="A static AI wiki with live news feeds for AI hardware, foundation models, and OpenAI updates." />
-  <link rel="stylesheet" href="styles.css?v=3" />
+  <link rel="stylesheet" href="styles.css?v=4" />
 </head>
 <body>
   <header class="site-header">
@@ -47,27 +47,6 @@
           </a>
         </div>
         <p class="note">Feeds refresh automatically a few times a day via a GitHub Action — no server required.</p>
-
-        <hr class="chess-divider" />
-
-        <h2 class="chess-h2">♟️ Play chess</h2>
-        <p class="chess-lead">Start a new game and play right here — two players, or against a simple bot.</p>
-        <div class="chess-controls">
-          <button id="newGameBtn" class="btn">New game</button>
-          <label class="chess-mode">
-            Mode:
-            <select id="playMode">
-              <option value="bot">Vs computer</option>
-              <option value="two">Two players</option>
-            </select>
-          </label>
-          <button id="flipBtn" class="btn btn-ghost">Flip board</button>
-        </div>
-        <div class="board-wrap">
-          <div id="playBoard" class="board"></div>
-        </div>
-        <p id="playStatus" class="chess-status"></p>
-        <div id="playMoves" class="chess-moves"></div>
       </section>
 
       <!-- Feed tabs (populated by main.js) -->
@@ -97,7 +76,6 @@
     </div>
   </footer>
 
-  <script type="module" src="board.js?v=3"></script>
-  <script src="main.js?v=3"></script>
+  <script src="main.js?v=4"></script>
 </body>
 </html>
