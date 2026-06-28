@@ -1,10 +1,7 @@
-/* Chess: a playable board on the page. Requires chess.js (global `Chess`). */
-(function () {
-  if (typeof Chess === "undefined") {
-    console.warn("chess.js not loaded");
-    return;
-  }
+/* Chess: a playable board on the page. Loaded as an ES module. */
+import { Chess } from "https://cdn.jsdelivr.net/npm/chess.js@0.13.4/+esm";
 
+(function () {
   const FILES = ["a", "b", "c", "d", "e", "f", "g", "h"];
   const GLYPH = {
     w: { p: "♙", n: "♘", b: "♗", r: "♖", q: "♕", k: "♔" },
