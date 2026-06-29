@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T14:51:34.959515+00:00",
+  "generated": "2026-06-29T22:18:52.814744+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,27 +24,6 @@
       "summary": "Qualcomm Wants to Bring AI Data Center Power to Your Smartphone&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-      "source": "OpenAI",
-      "published": "2026-06-24T13:05:15+00:00",
-      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Firmus, Nvidia partner to build 170,000-GPU AI facility in Indonesia - verdict.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85N1JvY1VndmtaUGl6Y1ktRFJRdm5KNHNPRnNHb2N4NmdrWjNwQm5jZWhndmN4ZXpodjQwQTBSdzdVSzBWRk9jandwT0pKaUxBdnU2YUpuZnFqZHg4TXNOSHM4ODJYRlNuMGE4TEVULTZaU1k?oc=5",
-      "source": "verdict.co.uk",
-      "published": "2026-06-29T10:20:41+00:00",
-      "summary": "Firmus, Nvidia partner to build 170,000-GPU AI facility in Indonesia&nbsp;&nbsp;verdict.co.uk"
-    },
-    {
-      "title": "OpenAI's Jalapeño Chip Signals End of Nvidia's AI Monopoly - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2JCb0tLVTdMS2hvMkxISmtLRlk3aVJQRldzbzdlX2YwVUpGWTRMaWF2Vno1X3gwMnVpR1dNQzZzVkUxLVdrbWQtckJlYjc0ZFJMSXphUjdBZENYazZsNGRSN0FEd3phWTQ4cmI4U1NPRDVseUR6ZEdRckRla1NEVnFkLWxGVEczMUN2b0Y0dEZBLU5MY1E?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-06-26T18:22:00+00:00",
-      "summary": "OpenAI's Jalapeño Chip Signals End of Nvidia's AI Monopoly&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
       "title": "Hygon Reveals 512-Thread CPU And AI GPU To Rival Intel Xeon And NVIDIA - Ubergizmo",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DN3J3S3FGNVl5dVFIcUdHVVlNdEJCdEZYREM5WWMwRlVJaVVXVTlqV0Y3U0djc3M1eVVRcmhjZ1hlaXhiT3dYV1ZoNWFkMlVfX29nTnk4M2NkZHczRVAwTVpaSkRoQQ?oc=5",
       "source": "Ubergizmo",
@@ -52,11 +31,25 @@
       "summary": "Hygon Reveals 512-Thread CPU And AI GPU To Rival Intel Xeon And NVIDIA&nbsp;&nbsp;Ubergizmo"
     },
     {
+      "title": "Qualcomm Dragonfly Roadmap Expands AI Data Center Fight - WinBuzzer",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEJLS3ppMF9hbG5CaVZTZlBwRTZDaS04UkFnQWdBa25Bb1NXdl9JNHQ0WHh0eFRpRzRHb2RIS2JhMnV5YVVocmN3YkNTT18xRXk0WE5MZmc0YWMtVi1mb2VnMURHX3h4ZkxHbVNOcmNUaXFheWVhQmo0SERFcjJaQjFuVWFheXlVUDBPdk9STU10bzVHX0RwMUN5RlA?oc=5",
+      "source": "WinBuzzer",
+      "published": "2026-06-29T13:22:21+00:00",
+      "summary": "Qualcomm Dragonfly Roadmap Expands AI Data Center Fight&nbsp;&nbsp;WinBuzzer"
+    },
+    {
       "title": "Qualcomm targets AI data centers - Jon Peddie Research",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nN0hsNng0ZTc4QThjeE9DQWwyUnV4MjFXaUl4ckFuOVlHcC13d3ExVlBNS3cwNUw0V3NXRWw2RHRVdWMteWVHd3dWQ0VLZVFkcE9hV01PQmtPV2loY1ExVjh1NldiY2RYcEFaTDZha0JhZw?oc=5",
       "source": "Jon Peddie Research",
       "published": "2026-06-26T16:16:41+00:00",
       "summary": "Qualcomm targets AI data centers&nbsp;&nbsp;Jon Peddie Research"
+    },
+    {
+      "title": "Firmus, Nvidia partner to build 170,000-GPU AI facility in Indonesia - verdict.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85N1JvY1VndmtaUGl6Y1ktRFJRdm5KNHNPRnNHb2N4NmdrWjNwQm5jZWhndmN4ZXpodjQwQTBSdzdVSzBWRk9jandwT0pKaUxBdnU2YUpuZnFqZHg4TXNOSHM4ODJYRlNuMGE4TEVULTZaU1k?oc=5",
+      "source": "verdict.co.uk",
+      "published": "2026-06-29T10:20:41+00:00",
+      "summary": "Firmus, Nvidia partner to build 170,000-GPU AI facility in Indonesia&nbsp;&nbsp;verdict.co.uk"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -115,6 +108,13 @@
       "summary": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles&nbsp;&nbsp;crn.com"
     },
     {
+      "title": "Nvidia has a radical new AI-RAN plan – a 6G radio unit chip - Light Reading",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1RWWFRsODRGQVpfd3ptbVRKWlNJY3Y4SVBQbkhpSnJTUTNYeEdOdE5UcHRTNDV3QmZWYTVoZnpNUXBnVnA3cTJyTHhtY3lOajRGNU1vc2pLU0ZITk9QVWlwR2xiVVA4X1FnVW45LVVMZEQxYmI4c1dCUlVTd0pwd2pLYnVKdDJXbVhESzJ0Mi13VnM?oc=5",
+      "source": "Light Reading",
+      "published": "2026-06-08T07:00:00+00:00",
+      "summary": "Nvidia has a radical new AI-RAN plan – a 6G radio unit chip&nbsp;&nbsp;Light Reading"
+    },
+    {
       "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ4dzJPVGhvWnBvWlJvaHpaLTk3Y3BVajV2OG03QkFhMERtdVJMMGhuNFZzZjdOaW8zaUV2THJNTDZ5YTFaM1ZHYTh0Yy0tOUFxTHpnM2h3cEdLZU9qcEFxd0dQTkJFYmRDX0FBMzFlcjQtcWtkRDRFLTJNNDU5WVhnbDBtN1d0SEUyR0dPc3JrUFBBUjdyT2ZvWXZVbUh4RVNFTU81dC1pbl9rVnZjOXI0NA?oc=5",
       "source": "Bloomberg.com",
@@ -143,13 +143,6 @@
       "summary": "Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "Nvidia has a radical new AI-RAN plan – a 6G radio unit chip - Light Reading",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1RWWFRsODRGQVpfd3ptbVRKWlNJY3Y4SVBQbkhpSnJTUTNYeEdOdE5UcHRTNDV3QmZWYTVoZnpNUXBnVnA3cTJyTHhtY3lOajRGNU1vc2pLU0ZITk9QVWlwR2xiVVA4X1FnVW45LVVMZEQxYmI4c1dCUlVTd0pwd2pLYnVKdDJXbVhESzJ0Mi13VnM?oc=5",
-      "source": "Light Reading",
-      "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Nvidia has a radical new AI-RAN plan – a 6G radio unit chip&nbsp;&nbsp;Light Reading"
-    },
-    {
       "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
       "source": "NVIDIA Newsroom",
@@ -171,11 +164,18 @@
       "summary": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AI start-up Firmus, Nvidia to build data centre in Batam - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0xLV3NOMHlQaEFaZkVkS1RzUGlGMWxJbmJzcDFZZzFwU0E1dEpUb19Gc0JKdGFvSlhqR1BuQjE1WU9JbDVseXFiUXRqZjFiMjByVUtzazRlNGY1SHg4LVpvNDlfenRYdVE0cEFHODY1NVl6WUJPTTJuZEFnTG51TG85UlVFNGFGM0tnYk43aFJuWXh2NU9ublFnbkFFWEdOeU1xQmVQbzE5RlJUcHRHNGRjUzR5Mkk?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-06-28T23:35:03+00:00",
-      "summary": "AI start-up Firmus, Nvidia to build data centre in Batam&nbsp;&nbsp;The Straits Times"
+      "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnNCaTNzdjNZMUk1eFQxU2RLRWtBZDlLRnM0RktYeDI4ZWpiRTVwU2NPRHR6X2xVaEpxUkh0dXVOSktad1RReC1YaVdEOFhVU05tRW9ZWHJxMDg0ZDM3UG5fdGM3SmxnLTRta3JGQ1NubmpUaVlpWG5Nb0poZXhxeE83YmdFelZiTndBZzlESkFOYzjSAZgBQVVfeXFMTm9CVGJuamU0a1Y4SjdJZW00djdiVXNYbVJ5V3JFd0swYmk1c0ZoSjhrQzhsSkZEWS1YUWxtUlFSUzFKdlh4bHoxdEhYSngyLXZTSzZ6UlNHZXFSXzJOSk9OMk5qczc0ZjZnRVpFcmp4SGpRTnBXRmlPQ3ltMktTNy0yOUZyX0s3aUtMNmpyeDAtS2M2Q2V1U0o?oc=5",
+      "source": "CNBC",
+      "published": "2026-05-19T07:00:00+00:00",
+      "summary": "Alibaba reveals more powerful Zhenwu AI chip, new LLM&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMXd4N2x1NTJ6NHVNYVBrMGU2M3pMUTR0OWxSTGpMcVBhWkh4WmZWRHFycVlXYUtYeDhMNHRDZXFzMGFlQVJ2ODFwY1BFVUQ3TUlxTVpMZUV1N3E5N3NnZWk5cEpBTnNVX200cTNBdm1sOHk50gF6QVVfeXFMTXFaeTZVb05qUGtpX2oxTmlUdWRVUTFlei04RXFSWXJ1aFpXUjY5bGg4azF6eUZaSUNMS29kcXZZWDZxVDFNc3FWdmZ0bENhRDZ4SV9nbzVfNUE3TUcta19lRDNYUGp3RE00MFIzSW1QX0E0cnlHbzBFR0E?oc=5",
+      "source": "CNBC",
+      "published": "2026-03-11T07:00:00+00:00",
+      "summary": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals&nbsp;&nbsp;CNBC"
     }
   ]
 }
