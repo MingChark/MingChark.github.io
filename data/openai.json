@@ -1,14 +1,7 @@
 {
-  "generated": "2026-06-29T22:18:52.814744+00:00",
+  "generated": "2026-06-30T11:29:51.183314+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "'A death knell': 35 news publishers allege OpenAI scraped their articles - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GU1JGR0RBd0s3Tk9mekl0Y05ESDFqM3dmOEhuYTQwTi15NFRSZ0pORW9TcTMwbXdTeHlTU1JiWjRRWWlQNzVibmdwUnB5eHhTeVRuNkJUdmJtT05VU3FjSWtHWE1zSUU3SXlIY0tGRlY2U1R4bHhTa1FVVG9Xdw?oc=5",
-      "source": "SFGATE",
-      "published": "2026-06-29T14:14:00+00:00",
-      "summary": "'A death knell': 35 news publishers allege OpenAI scraped their articles&nbsp;&nbsp;SFGATE"
-    },
     {
       "title": "OpenAI is teasing new hardware… for Codex - The Verge",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0lTMVR3Z1lGRDRTMjZZMTJvOUJsbHJ1R2FpNmFqbV92VzNmcVUwQlAtTkFWNzk4Ynp4REQtRmJqazhaU2g4RjhrMWM1QUtGZ05BN21TYnVlakVKOEViUEtzUzBYdFVIS2E2UGNfWGlaSlpFcjRzN3Znc3c4Mk4td21qQjN0anF2UHRGaGJaVkRhRkZYN01B?oc=5",
@@ -17,25 +10,39 @@
       "summary": "OpenAI is teasing new hardware… for Codex&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQTlGUGd4VTV5LTBwLS1NdVhVQlNSX3dfZEF3enBqU2ozbTlNQ0FQRzMxdVhIejE5MmFsS296R21tMXk1YmtPQ3BGaFZZQ2dGVFZkdDhFZ3ZUY29Xc19ZQWFMNk9wNXdpaWpURk45REJmTzdUVWJSSkcwOVlSeUw4ejdHZHZoM2tDQWRHbmhUYWRoY0l4cHRMekxiY094dw?oc=5",
+      "title": "'A death knell': 35 news publishers allege OpenAI scraped their articles - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GU1JGR0RBd0s3Tk9mekl0Y05ESDFqM3dmOEhuYTQwTi15NFRSZ0pORW9TcTMwbXdTeHlTU1JiWjRRWWlQNzVibmdwUnB5eHhTeVRuNkJUdmJtT05VU3FjSWtHWE1zSUU3SXlIY0tGRlY2U1R4bHhTa1FVVG9Xdw?oc=5",
+      "source": "SFGATE",
+      "published": "2026-06-29T14:14:00+00:00",
+      "summary": "'A death knell': 35 news publishers allege OpenAI scraped their articles&nbsp;&nbsp;SFGATE"
+    },
+    {
+      "title": "‘There’s two ways to build these platforms’: OpenAI’s ads boss David Dugan on going the other way - Digiday",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDZrekstNUFNd05fMG50NTFlcXpZTC1UYkJkaUdkN1EtMFlKMUotWVd0S2dhdmxXZ1hvSjlhbVJfRkxwQ0E2T2JPbHJuVy1OcEliUXA4SU9jYWtZSHJ0Y3loYkRfSm80akw2UjRLVmo2QjgwR0JLWkxhZ1JwSlZ3OVlzcEFNa0dQdHZSSzk1Vk1NeE45QWRMZGFpaVpsckZEZC1SZmZVSmFVREFJaFNITmhNdGdfbDdnLVFwTzRiSTU?oc=5",
+      "source": "Digiday",
+      "published": "2026-06-30T09:58:25+00:00",
+      "summary": "‘There’s two ways to build these platforms’: OpenAI’s ads boss David Dugan on going the other way&nbsp;&nbsp;Digiday"
+    },
+    {
+      "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-06-29T16:27:45+00:00",
+      "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Micron Stock Falls on Reports OpenAI May Delay Historic Public Debut. How to Trade MU Stock Here. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamp1NkN0VllCaEVJTURJcDRMY0x6elJSak1MTVE2YnRtZWVoMkpYcW9zS1FFRTdCcFBxLUxIZ1R1S19YLTJfaTBxUGNWbC1Ncl9FUnpyWXkxOXQ3NTVvaG4yWU1WU09idXhmNkNOUHNVOVVOS0hZV2dSdEZ3NTlwRWFwRk45U0FKVGdhakx6Q0ZJeUNwdmdCaEFrYUJYYkk?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-06-28T22:06:13+00:00",
-      "summary": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI&nbsp;&nbsp;Yahoo Finance"
+      "published": "2026-06-29T17:38:48+00:00",
+      "summary": "Micron Stock Falls on Reports OpenAI May Delay Historic Public Debut. How to Trade MU Stock Here.&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "The pro-AI movement is splintering - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5",
-      "source": "Axios",
-      "published": "2026-06-29T09:01:34+00:00",
-      "summary": "The pro-AI movement is splintering&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5",
-      "source": "CNBC",
-      "published": "2026-06-26T12:00:01+00:00",
-      "summary": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency&nbsp;&nbsp;CNBC"
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier - AI News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5",
+      "source": "AI News",
+      "published": "2026-06-29T12:26:13+00:00",
+      "summary": "HP accelerates enterprise workflows with OpenAI Frontier&nbsp;&nbsp;AI News"
     },
     {
       "title": "OpenAI sets up 'warroom' to investigate users burning through Codex credits faster than usual - Business Insider",
@@ -45,6 +52,13 @@
       "summary": "OpenAI sets up 'warroom' to investigate users burning through Codex credits faster than usual&nbsp;&nbsp;Business Insider"
     },
     {
+      "title": "The pro-AI movement is splintering - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5",
+      "source": "Axios",
+      "published": "2026-06-29T16:05:43+00:00",
+      "summary": "The pro-AI movement is splintering&nbsp;&nbsp;Axios"
+    },
+    {
       "title": "Europe Will Never Be an AI Superpower - Foreign Policy",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0E1VjBhRnBjN0JDcHBJSzB2Q3ZXTWlUOUJvWDJKam9ndG9LWHBwWExZMUhIcmFJeUZMdWtLODR1eDhNMnJRMEpfNmNNaTBnRS00aVFBa3A4SVNJTWZZUlV5cV9EWUZSUDAyakNsVW9nZmYwQk05MWt2bVVwWG9xWE1WVHZNMjYxb1lzQUdWUTg4V0wxWE44?oc=5",
       "source": "Foreign Policy",
@@ -52,32 +66,11 @@
       "summary": "Europe Will Never Be an AI Superpower&nbsp;&nbsp;Foreign Policy"
     },
     {
-      "title": "OpenAI Limits Access to New Models, Citing Government Security Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0FjSVdydU0tWTBoZXIteHVvenBCeTRJSDZfZTdjMFdMZFZMZ0ppY3UzbXU5d3E3dDgtVnYtWV93WWtmVmxwVVZvVlBvN3VzbHFUODRVem5HNjlGUkVTS2t5dUdhSlFfLUJJRzRjZEZubXU3ZFhnZ1hhSURsOEpEQ3NleWFMUGxpOTdmVXdBazBWbXZuN2x6cUZIcGtER1JFR1N1by1Ndkl2Zw?oc=5",
-      "source": "WSJ",
-      "published": "2026-06-26T17:00:00+00:00",
-      "summary": "OpenAI Limits Access to New Models, Citing Government Security Concerns&nbsp;&nbsp;WSJOpenAI unveils GPT-5.6 amid US AI regulatory drama&nbsp;&nbsp;The VergeWhite House asks OpenAI to limit its next model release&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "The U.S. government will decide who gets to use the latest American AI technology - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-06-27T03:59:00+00:00",
-      "summary": "The U.S. government will decide who gets to use the latest American AI technology&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblp4QmlkcFE5TFR2MDNveFZBMTN6TnV2bzNVbkJEQXd6WlRMWmYtSlhEQXZ5cjlCUjBKWHJGdmVOUHB1RUc1YmMzWGZPMlZfWHlHeFA1Y3VWT1ZCSWNENWVPanU1YXJVWVh6MWQ2ZE9pWk44cVo3WDhVZ3pMbFNxMGZCWUJJUXYwZE1aa2t5dG1WWG8?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-06-27T16:45:09+00:00",
-      "summary": "Apple Vision Pro exec is reportedly leaving for OpenAI&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
-      "source": "OpenAI",
-      "published": "2026-06-29T00:04:00+00:00",
-      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGlFUnNYTkg1c3hnemVBQXU0djdfSnFtdmFfc1BGWHlEVkIxeDdxVU1oMzhRbW9DdUlPajV6SzFFaGJvYW9QQ1Q0ckMtTFpMSnBjMUNPcDc5MlZVcExDblVuNU9pckticGsxYnZaYnZPMzd2RlRXb2NmaWZIdFFzdTIzalB3Q1NUa0VJaG42c0lWSnpoVmhDbzJVMU4xdGpzc2R6UVRVLVNGUU85VndWVlVLYXVjQWJJUFVHcmFvNFo3dEh50gHKAUFVX3lxTFAwMDhhYk1NVkxteWRlX3VMdERVOWc0NjhDYmpocEJwQjU0Z3FxblBhOXZvR19QS2dSWkJBb003cVhCQ0hydzhtTGhmLWZSMXRocnFGLXdfbnlvNUVUckZuZlNWMFhma0JiTG91TTZIOExWdUFrS1VReWUzMGNrbThvQXh4SHQ2TWFHTDA0NWZHRXhoZGFRdzI3bnMwOFVRTF9UUHJ0Q0tZblNzc1Y3VlRHNERsbkdiaWJybi1vdWN0VWFOZnYyaWpBNUE?oc=5",
+      "source": "SecurityWeek",
+      "published": "2026-06-29T10:14:01+00:00",
+      "summary": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review&nbsp;&nbsp;SecurityWeek"
     },
     {
       "title": "OpenAI voluntarily limits new AI models at government’s request - Cybersecurity Dive",
@@ -87,18 +80,18 @@
       "summary": "OpenAI voluntarily limits new AI models at government’s request&nbsp;&nbsp;Cybersecurity Dive"
     },
     {
-      "title": "HP prepares to roll out OpenAI’s agentic platform - CIO Dive",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5WE9ZVW9GTE1QZlkzMHU5TWlYZ2JFZ3ZXRHFNM0RVanN3NkstYVBiRjIzZG5wMEx1a3NXS0RfU0V1a3VITklOYWNoeDZlRFVhV0pKVEkzeElibTNtVTFQT0dvcjVtOUFaOW4xcnR1cDVVWk1RZzdCbXdBQmtQclk?oc=5",
-      "source": "CIO Dive",
-      "published": "2026-06-29T20:21:29+00:00",
-      "summary": "HP prepares to roll out OpenAI’s agentic platform&nbsp;&nbsp;CIO Dive"
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "source": "OpenAI",
+      "published": "2026-06-26T17:02:16+00:00",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "'The Next Vanguard': OpenAI, Altman Hit With New Lawsuit Over FSU Shooting - Law.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVRxb2I2b0tTRnFEaW9TRHR0R3J5ZUNKVU12TUJ6Q1FmLXFaX3poZEl1N0tXVXVhelpQU0xqU3Mwd013SUpEOTVXeHVKS1lTT3lrc3RoSkpsX08wRUwtSmxZR1pVYXVybk94MEJ4a1phdXVrUjZvOXZ4VXZ0X1lJVjFFRm5hUW9DNldUamJFQThIMm8xZG9LcFhXZUFjTDRmdDlUY1VwQmxxS3A3ak80bkkxVjVKcFpaVzBsanBFMA?oc=5",
-      "source": "Law.com",
-      "published": "2026-06-29T18:51:00+00:00",
-      "summary": "'The Next Vanguard': OpenAI, Altman Hit With New Lawsuit Over FSU Shooting&nbsp;&nbsp;Law.com"
+      "title": "OpenAI ads boss David Dugan on third-party measurement: ‘it’s a natural step’ - Digiday",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmxyenBBeG5iVUl3MzVLVjhERlZ3bkI3bzRqTTVaaXc2U053SWdLQWFaa2wyQTJaQ2oxN0pxVG16eTVlVzBFVERCR1VsRlhoNTNmU3g2Zy1RYkdKV3MzU1d5Q1VteXZNWVdaTy1DdlVqVHJkSjBDM1lSMTUyME82SU0td20tQUZ1VTVjaXdxWHI4UC05U0tLZS04b2R2a0o2UEVkUkF3RQ?oc=5",
+      "source": "Digiday",
+      "published": "2026-06-30T04:02:15+00:00",
+      "summary": "OpenAI ads boss David Dugan on third-party measurement: ‘it’s a natural step’&nbsp;&nbsp;Digiday"
     },
     {
       "title": "OpenAI Leans Toward Waiting Until Next Year for I.P.O. - The New York Times",
@@ -108,11 +101,32 @@
       "summary": "OpenAI Leans Toward Waiting Until Next Year for I.P.O.&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Anthropic, OpenAI Tax-Exempt IPO Move to Stoke Congress’ Ire - news.bloombergtax.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0xyempFMVd6OE1PMlR3dEtEY3FvcHVGa0Rfa1ZhUnlaXzc0d3N0ZllDRnBCRXNKMVBnU2xLVlBRZVhNN05qYVhXWm9nejRJU25PcGk4SlpCM0QxZWswRTZOSEVWemQ3QzBodzJGTnBVTW9wZTg5TE42SV9zc2dySUNGcFpzODhPTldlY3NHT2dldkc3aE5CUUdTVjJwUHpWbnhxcHVXRHpKOWg5SGc?oc=5",
-      "source": "news.bloombergtax.com",
-      "published": "2026-06-29T09:00:00+00:00",
-      "summary": "Anthropic, OpenAI Tax-Exempt IPO Move to Stoke Congress’ Ire&nbsp;&nbsp;news.bloombergtax.com"
+      "title": "HP prepares to roll out OpenAI’s agentic platform - CIO Dive",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5WE9ZVW9GTE1QZlkzMHU5TWlYZ2JFZ3ZXRHFNM0RVanN3NkstYVBiRjIzZG5wMEx1a3NXS0RfU0V1a3VITklOYWNoeDZlRFVhV0pKVEkzeElibTNtVTFQT0dvcjVtOUFaOW4xcnR1cDVVWk1RZzdCbXdBQmtQclk?oc=5",
+      "source": "CIO Dive",
+      "published": "2026-06-29T20:21:29+00:00",
+      "summary": "HP prepares to roll out OpenAI’s agentic platform&nbsp;&nbsp;CIO Dive"
+    },
+    {
+      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5",
+      "source": "CNBC",
+      "published": "2026-06-26T12:00:01+00:00",
+      "summary": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Amazon weighs OpenAI and Nova models as Anthropic raises costs - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlNKWGJGRDFiRGZpT2Fpb1JpV09vUTU4bFhXSTkwTmFNWmhYLWttZzlVXzZ6bXNpSWc3UXlXd1FPZzFtZXN2ejlLaHI4QUNUNnQ1Q3BwUW9ER1NEQzZlYkdrRm1uZUthanBOczNRYzJhdmpHZWplOU5yUGJfVktqYVpKS1c1T3I1SHJjMGpjc0Nwb0MwX01ic1NMa3BlX0JHSUVOdE1KejZ1T3EwVmU3NFh1bHE?oc=5",
+      "source": "Techzine Global",
+      "published": "2026-06-30T06:57:00+00:00",
+      "summary": "Amazon weighs OpenAI and Nova models as Anthropic raises costs&nbsp;&nbsp;Techzine Global"
+    },
+    {
+      "title": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFhoNllZR2xXaWZ3dmhfWFRCSThnVXBrQWtyOFRqSF80cUJsRVd2bE8tUlRwc1JOSHBCTGdzc1JRbXlrN2c4dmsyQlpOOTV1Q3NJVG5QeDF0d3BLYm94YkxySWktb1JjcHAwMmE3ejNydW4xUFlFeWF0LXh6UDVWaEN0Q2xDekRlOHR3c1d4RHZBT2V4NlAyNTVMS3BkNl96RTZWOU9yQ0lGbHNQWERN?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-29T17:16:00+00:00",
+      "summary": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? - Yahoo Finance",
@@ -122,18 +136,11 @@
       "summary": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "OpenAI becomes latest AI firm to delay model rollout - WBFF",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU53MnpfM1Uza0JWS1VLUmxBcjYwZjlGZ19ZdldlX290T3RlcTdXaFZIeEtRTEpNTi14WWVHTmhTN3k3YzJZR2ZOem9ZTnlxR3VCYVJPdlZDMjhsejVmQXBaeTZMRGwzeUs2NUN5WUJZRW9NcXZwMlFIT3dtM3YzMUxoRXQ2TFNLcUN2NXVVdHFLcEY1Ul9kc1RFREpqT05sejNJWWxIdTJJZ1ZIY2x1TU05WS03MjRWdmJkaFhuc200elRjQmI0QWVuaVY?oc=5",
-      "source": "WBFF",
-      "published": "2026-06-29T19:52:15+00:00",
-      "summary": "OpenAI becomes latest AI firm to delay model rollout&nbsp;&nbsp;WBFF"
-    },
-    {
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
-      "source": "CNBC",
-      "published": "2026-06-26T17:02:44+00:00",
-      "summary": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government&nbsp;&nbsp;CNBC"
+      "title": "OpenAI Unveils GPT-5.6 Preview, Public Release Delayed Following US Government Review Request - thelec.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOUdUbUZ5R0xKUHZucXpjcFA0LTVBcUV6OUJPWXJVQ2hoNXdIVDJxS2hRRVV3MlF5LU5pWHBwTjNKRk5XNndqU0t5c3dVaFRwZGJsckVFVHhqNlhGSzFMY05pVFI2V0E?oc=5",
+      "source": "thelec.net",
+      "published": "2026-06-30T08:42:45+00:00",
+      "summary": "OpenAI Unveils GPT-5.6 Preview, Public Release Delayed Following US Government Review Request&nbsp;&nbsp;thelec.net"
     },
     {
       "title": "Only Users Approved By U.S. Can Access OpenAI’s New ChatGPT Model - Forbes",
@@ -143,11 +150,11 @@
       "summary": "Only Users Approved By U.S. Can Access OpenAI’s New ChatGPT Model&nbsp;&nbsp;Forbes"
     },
     {
-      "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI - SecurityWeek",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDU2WWlibEJZZkNOVFd3cUJkVHV5bmpwX3o3akRFSlBtY1RvbUFlZ2MzZkxJSTlTdU5Ya19zZlFaeDJxQ0dMVU9iR21HVk9ocnZFM3BHbi1WR3NIVHJQZ1JuVlExVFB6VUdDN1JhUVk5YVlrSjRDOXpsRTNnbGFjSVNseDZzQ3Q0MDFYNXNIaXFsakxnN3lzSlRn0gGfAUFVX3lxTE5IYU5HNjNjTWpZQU0wY2U1Z2E4NG1RX3g5NWZ5Mzh2SEljOGtoWVBnZEw3YUlFNTZWRFhFN1ppckdNYTl2YXFjNWd2X0dhcXdvdW5TTjRaTGtCdXpjS3ZpS3p0X3VCck5lcXpPOV8zNkJxQVFNM1p3dzhVODhjejNpNWxGWUdWbUJHck1oUjFUdGlVRXB2VG1XS21Vd2k0dw?oc=5",
-      "source": "SecurityWeek",
-      "published": "2026-06-29T07:45:57+00:00",
-      "summary": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI&nbsp;&nbsp;SecurityWeek"
+      "title": "OpenAI IPO likely won't wait until 2027 says analyst - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXWkh4dE1KYmpxa1JXNnJzVzRudWJCcmt1U2oyMTNnMzcwVVp1aTFncjc2WnZTeER6UElRc2d6b2Y2N1h3ZVZ4a1dBZEQwYnh1QXVjOS1TNFVNRUZNVkUyc0Y5T2JuWk0?oc=5",
+      "source": "Reuters",
+      "published": "2026-06-30T08:07:17+00:00",
+      "summary": "OpenAI IPO likely won't wait until 2027 says analyst&nbsp;&nbsp;Reuters"
     },
     {
       "title": "OpenAI releases powerful new GPT-5.6 model under restrictions - Axios",
@@ -157,25 +164,18 @@
       "summary": "OpenAI releases powerful new GPT-5.6 model under restrictions&nbsp;&nbsp;Axios"
     },
     {
-      "title": "How agents are transforming work - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
       "source": "OpenAI",
-      "published": "2026-06-25T17:06:11+00:00",
-      "summary": "How agents are transforming work&nbsp;&nbsp;OpenAI"
+      "published": "2026-06-29T00:04:00+00:00",
+      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWhuRl8ta2xQUXdpMnZJTDk5MWdubE1LMXRxbVpCV3dJZmZOVEcyVnVRQl9xMm1tXzJlRVdXaHhHSVNua2lHaWc5MTlHeE03clRsbVRpUTFGWmQtS3U2dW5xbkJ3ZXpMcWpWR0dOc1ZTYnFFcWJQV1RoeVAtc0Y1akxpVmc2dG9tSm02c2pheklYMHdGV0Iw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-06-29T15:15:40+00:00",
-      "summary": "OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-      "source": "OpenAI",
-      "published": "2026-06-24T13:05:15+00:00",
-      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sd9IBrwFBVV95cUxNQ2tyUVkzakNiV1hERTNhVXNKdXAwWmVmZU5MeEg5QUhMYzB4dVBPYzBMZWxPRUhBTm9MYlZfbWRzaUllS19PMjU1MkNWRGtCNVNGQWhYemttSWtyTGhnTU9CLWVhQUd1MXFIb1VjNXVDSE9hX0tubVpuSTB6MTBDMlFzejk5Z2MyNEdVY0xsQTdrdjBlS2pVWUo3eTgwc0hFWlI1emNVMDZ1c3NaT3pZ?oc=5",
+      "source": "CNBC",
+      "published": "2026-06-26T17:02:44+00:00",
+      "summary": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government&nbsp;&nbsp;CNBC"
     }
   ]
 }

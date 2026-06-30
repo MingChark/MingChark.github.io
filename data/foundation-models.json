@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T22:18:52.814744+00:00",
+  "generated": "2026-06-30T11:29:51.183314+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,18 +17,18 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
+      "source": "VentureBeat",
+      "published": "2026-06-10T07:00:00+00:00",
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+    },
+    {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
       "source": "The Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
-    },
-    {
-      "title": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeG9pYldNRkpaZWsybEdqSVZnZzdLOS1jZnpxVDZ5emJmU1FBekRiRlk4c2Q4emJwTlIwWDJTT0dKZXo2MGZWaUpoTlZxZFdRM1psWmtsbnJHOW1xX3VRRzFDN3A2bVNRbi1kdFRmUV92TkFfNGlPdGhReFdvb3A2UGtiV3pfU01qNmZhSEZDWG5IbGhEX0xhYmtfaFdIMmFxXzR1bnB0cGJvb3cza09vbWZ4Qy1ORzVTSlBrcUxEWDQ3VkFlLVVINEg1bC03TmZIVXFyaG81TjFOeGROVmduRzdqd0F1SkJmVktXNU1UUWg5Smp5U0RoSlZZSDdraDhHYjR6ZkJ5TV9qMlh2TVQ2b05EZEVrbW9INHc?oc=5",
-      "source": "GlobeNewswire",
-      "published": "2026-06-24T12:01:00+00:00",
-      "summary": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology&nbsp;&nbsp;GlobeNewswire"
     },
     {
       "title": "What are Large Language Models (LLM)? - Databricks",
@@ -50,6 +50,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeG9pYldNRkpaZWsybEdqSVZnZzdLOS1jZnpxVDZ5emJmU1FBekRiRlk4c2Q4emJwTlIwWDJTT0dKZXo2MGZWaUpoTlZxZFdRM1psWmtsbnJHOW1xX3VRRzFDN3A2bVNRbi1kdFRmUV92TkFfNGlPdGhReFdvb3A2UGtiV3pfU01qNmZhSEZDWG5IbGhEX0xhYmtfaFdIMmFxXzR1bnB0cGJvb3cza09vbWZ4Qy1ORzVTSlBrcUxEWDQ3VkFlLVVINEg1bC03TmZIVXFyaG81TjFOeGROVmduRzdqd0F1SkJmVktXNU1UUWg5Smp5U0RoSlZZSDdraDhHYjR6ZkJ5TV9qMlh2TVQ2b05EZEVrbW9INHc?oc=5",
+      "source": "GlobeNewswire",
+      "published": "2026-06-24T12:01:00+00:00",
+      "summary": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology&nbsp;&nbsp;GlobeNewswire"
     },
     {
       "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac",
@@ -150,25 +157,18 @@
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     },
     {
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
+      "source": "TechRadar",
+      "published": "2026-03-29T07:00:00+00:00",
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
       "title": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkt1MlU1dVRiX28tbUk1RDF5Y3NGMXBiMXUzN1lmek5RaFJHUXA1RlJyQ05yWlI2VVU0VTZ5OFloYUt5cmNwTHlQTThseUt4ZXVYTDRVdUo1bmw2eThLdUVXYTNBOUdfaDFKWS1DNVJ2ZlRaVXBMX1lIUl9XbzBfMnhBTUZBZEFSOG5CRy1ydmRkTnRTSExVd3I3ZVNrX0xnbVQ4MUdKMC1TT2JoVjRPTXJRWGl0Y0t4SXhCTThkYzdaYnV0aVRZa2NRZnhhaXRiNUtwNWtSV2hzMzRvdFhUY21HaFhJNmkxVkE?oc=5",
       "source": "PR Newswire",
       "published": "2026-01-15T08:00:00+00:00",
       "summary": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "A new era of intelligence with Gemini 3 - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sN1JBSE91VzRrenAzV2E5Sk5jdURtejZuejZNamlOeFVCN3FEYm55VzFNSEdqYmhTSFdyZ0FCelZMZ2Nfd3Y5MlA4YzNYU3hFNHRIZmtSSENqMUczMTdPUkJlTkJ1TlZzcVhfcklRMFp0TzJwRllB?oc=5",
-      "source": "blog.google",
-      "published": "2025-11-18T08:00:00+00:00",
-      "summary": "A new era of intelligence with Gemini 3&nbsp;&nbsp;blog.google"
-    },
-    {
-      "title": "A multimodal whole-slide foundation model for pathology - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQVRiS1VfWUJoeWFHaEt3MlZQMm9YSVZhU1g5YU9ycVBfTFJzUGg1MGRObE1Tc3RrS183MGFmSkc5UUM4M3Qtd1hPeE9felJRa2FmMm5xQjNOQ2VVUG9J?oc=5",
-      "source": "Nature",
-      "published": "2025-11-05T08:00:00+00:00",
-      "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
     },
     {
       "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
