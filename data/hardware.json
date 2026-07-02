@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T10:20:10.784628+00:00",
+  "generated": "2026-07-02T18:17:37.802185+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,11 +24,11 @@
       "summary": "Qualcomm challenges Nvidia's AI grip with chip that ditches HBM&nbsp;&nbsp;Nikkei Asia"
     },
     {
-      "title": "Nvidia and Australian startup Firmus are building a 170,000-GPU data center in Indonesia - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLaTJza1UtNlc5Z2g5d0hKMUZCb2h5TFM4OTJmUTVoWXlPbXA4cERTekRzSTlkdjJQRmEwLU1fQzA3bWRzYW9ReHUtejF0TU1JUmNLNHhkenNzeThDd00yLXB1SnF2U1dJWkhFSkhzRFk?oc=5",
-      "source": "qz.com",
-      "published": "2026-06-29T13:24:30+00:00",
-      "summary": "Nvidia and Australian startup Firmus are building a 170,000-GPU data center in Indonesia&nbsp;&nbsp;qz.com"
+      "title": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns' - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWVRsVlduRHdRT0x3Tm5CNFBaZUVaLVFGbDBObTRvOUZnWHlvREpBVmE4YkFIZG1waUZ6LWNaQkdNYkJob0VlTUU4YUJPaG1yVFVGTUY0TjZfRjROZVd2Yk5yQ1hNOGVLcklDSy1GY0FXbTI4eTBNbEtVRDh5NVpsbEZSbDY0LUlkSTdNeVdqdFBYTkdIS1NETThiTTMxMHZENHJnUVVYalRfYzdtNnFXSmU5dWRYczI1VTNxckVFdFNnT1hfYWh3MTlocFd2N0k4NVQtVVV6dlBRbTNueWN1cGpoZDN1M1FrRHZCaWloaW5rbjZpNXFIcmRwblpMVkFKQkxFSFE3ckI0YzY2Qm11MFVOVUNDZlBmdzhSTGF6TWdPSTVLVEtQcjdOcThBMUxKTzI5NTlVbkxXbWRqdEU0VnJaYmhRaWktX2VJY2FHWHN4aGc?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-06-30T12:45:00+00:00",
+      "summary": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns'&nbsp;&nbsp;Tom's Hardware"
     },
     {
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -38,11 +38,11 @@
       "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns' - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWVRsVlduRHdRT0x3Tm5CNFBaZUVaLVFGbDBObTRvOUZnWHlvREpBVmE4YkFIZG1waUZ6LWNaQkdNYkJob0VlTUU4YUJPaG1yVFVGTUY0TjZfRjROZVd2Yk5yQ1hNOGVLcklDSy1GY0FXbTI4eTBNbEtVRDh5NVpsbEZSbDY0LUlkSTdNeVdqdFBYTkdIS1NETThiTTMxMHZENHJnUVVYalRfYzdtNnFXSmU5dWRYczI1VTNxckVFdFNnT1hfYWh3MTlocFd2N0k4NVQtVVV6dlBRbTNueWN1cGpoZDN1M1FrRHZCaWloaW5rbjZpNXFIcmRwblpMVkFKQkxFSFE3ckI0YzY2Qm11MFVOVUNDZlBmdzhSTGF6TWdPSTVLVEtQcjdOcThBMUxKTzI5NTlVbkxXbWRqdEU0VnJaYmhRaWktX2VJY2FHWHN4aGc?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-06-30T12:45:00+00:00",
-      "summary": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns'&nbsp;&nbsp;Tom's Hardware"
+      "title": "Nvidia and Australian startup Firmus are building a 170,000-GPU data center in Indonesia - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLaTJza1UtNlc5Z2g5d0hKMUZCb2h5TFM4OTJmUTVoWXlPbXA4cERTekRzSTlkdjJQRmEwLU1fQzA3bWRzYW9ReHUtejF0TU1JUmNLNHhkenNzeThDd00yLXB1SnF2U1dJWkhFSkhzRFk?oc=5",
+      "source": "qz.com",
+      "published": "2026-06-29T13:24:30+00:00",
+      "summary": "Nvidia and Australian startup Firmus are building a 170,000-GPU data center in Indonesia&nbsp;&nbsp;qz.com"
     },
     {
       "title": "AI Chip Stocks Just Had Their Best Half-Year Ever — Here's What's Driving It - Memeburn",
@@ -59,53 +59,18 @@
       "summary": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack&nbsp;&nbsp;TechRadar"
     },
     {
+      "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Vera Rubin Opens Agentic AI Frontier&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "NVIDIA Rubin Ultra Four-Die GPU Cancelled: Packaging Limits Cut 2027 Performance in Half - Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWd2d2VuTTBxd2JIclBHQTlRZ2k3bHBKSExvSHhtNWtYeFMwVzRLdXhYU2dMOHoxeE8tRFB6WlRkekRZU1RfdzNaUzdtM0RxWkFRcE1QNUFvenRyQjhDS3VZTkpsV0xwYWtCbUZLcDBPdkpscGNwbjFQbXNkY21Namd4MS1GVFY1TENqamJ5WndJd01yMzlVT2RKdWtQNGloQU5vUGhSaGg0dmxobWpsSkhEOHpRUDFibmlld214WGEzY203ak1zUE9NVTdhZV91SXN0YlNR?oc=5",
       "source": "Tech Times",
       "published": "2026-07-01T05:44:19+00:00",
       "summary": "NVIDIA Rubin Ultra Four-Die GPU Cancelled: Packaging Limits Cut 2027 Performance in Half&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "Databricks and NVIDIA: Building for the Agentic Era - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUXJpQWd0WW50MmN2cDllX2h1alVzVE1WWFlyUlJtMlZqbmtrbG0wVVVwZnRMcUZPYy0zMHlRT2x4S2hJSmV5YjE4Tldka3AwY2RCYWFkcUxuMy1ZM0FRTkRMRkZDRnU4MmxjOXhsdmJlSTdXLUljUEFYUUU0Z2c?oc=5",
-      "source": "Databricks",
-      "published": "2026-06-17T07:00:00+00:00",
-      "summary": "Databricks and NVIDIA: Building for the Agentic Era&nbsp;&nbsp;Databricks"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Qualcomm takes on Nvidia with new AI chip architecture - Taiwan News",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52c3dEdHVUSUpyWEtsemxhVGd1YUZHdmtYT1lWQ3JyQ2haOEtEVTRtaEtlcE9RSzZCdnJaYkxVOENFekpITk5XbkhtUVo5MmF4akZOQXg4c2I?oc=5",
-      "source": "Taiwan News",
-      "published": "2026-07-01T10:00:00+00:00",
-      "summary": "Qualcomm takes on Nvidia with new AI chip architecture&nbsp;&nbsp;Taiwan News"
-    },
-    {
-      "title": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception - News at IU",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV19ZdVBaOXo0cFk1SHFnX2MyWllGSUJiNmtuY2Y0QnRGV25NQ0lMOHpQbkNEMHhOcWpoOWVORWlWVzNaaHVxeVdhQmMyc0c3V2Z4YTBnckl3c195bDg4bzZyX19jLWFEZmhQTDZXVXFnSjhpb2xTWVBTMC1Ia0JUXzBwei1vVkFyQXYyOA?oc=5",
-      "source": "News at IU",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception&nbsp;&nbsp;News at IU"
-    },
-    {
-      "title": "Nvidia Started the AI Boom. These 2 Stocks Could Fuel Its Next Chapter. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFdJWlVpZVpJenJIV2NTcTNMT1kyVVNGZlpNSmU4YmZneHVaclcyZDJUaldZMjVlWFZWOGZuMUtFWlhubkN1OEhMS09LUW0zVXAtVEhOdmxUMUYwU1lHY040RkJoZW9iUkhGcWpvR1hVLW02UFFnbW03OVl1N0hmNFJLeV9JN0w1TWdGOG0yUDV6U0xjSm4wcg?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Nvidia Started the AI Boom. These 2 Stocks Could Fuel Its Next Chapter.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDZ0UWxqZGxjNjRFRjhJNkJqQk52eUpaT1A0RnFOVDJpUVFFcU91RWdfWHFZYjhRaGRFakdoVVFJWEhOWUlHZDF2YXh3dHJkazhHT3pHcTV3MVVrQW9SaFFtWUpfbldmekY4RUFXcjJJVWhueE9jUGE5a0Exdm5YVjZtLWUyTF9yWmp1U1l2WWwyU1I5V2huYjhlWk4tOTBRT01ieVpLbjN0OU8tWFRwSE56YjdMSWtJSWl1LUFfWkdFU3ZmMmhyNjJVLVV4dw?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published": "2026-06-18T07:00:00+00:00",
-      "summary": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs&nbsp;&nbsp;Amazon Web Services (AWS)"
     },
     {
       "title": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles - crn.com",
@@ -115,11 +80,25 @@
       "summary": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "Hygon Reveals 512-Thread CPU And AI GPU To Rival Intel Xeon And NVIDIA - Ubergizmo",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DN3J3S3FGNVl5dVFIcUdHVVlNdEJCdEZYREM5WWMwRlVJaVVXVTlqV0Y3U0djc3M1eVVRcmhjZ1hlaXhiT3dYV1ZoNWFkMlVfX29nTnk4M2NkZHczRVAwTVpaSkRoQQ?oc=5",
-      "source": "Ubergizmo",
-      "published": "2026-06-25T12:55:39+00:00",
-      "summary": "Hygon Reveals 512-Thread CPU And AI GPU To Rival Intel Xeon And NVIDIA&nbsp;&nbsp;Ubergizmo"
+      "title": "Qualcomm takes on Nvidia with new AI chip architecture - Taiwan News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52c3dEdHVUSUpyWEtsemxhVGd1YUZHdmtYT1lWQ3JyQ2haOEtEVTRtaEtlcE9RSzZCdnJaYkxVOENFekpITk5XbkhtUVo5MmF4akZOQXg4c2I?oc=5",
+      "source": "Taiwan News",
+      "published": "2026-07-01T10:00:00+00:00",
+      "summary": "Qualcomm takes on Nvidia with new AI chip architecture&nbsp;&nbsp;Taiwan News"
+    },
+    {
+      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
+      "source": "The Official Microsoft Blog",
+      "published": "2026-01-26T08:00:00+00:00",
+      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
+    },
+    {
+      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia — stock soars 11% - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2U3bkkwSEVJdXJxZ3IySWRZQlZKcHl4TklYS0tMQjhvSUlNd1pELXc2Q1BaQ1Jfc3ZRX1RYRExXUjUxaDhHNXdXLUtLaTdCS01KNENsU2hkWkJiQWhJUjV5YXFWWTdha1ZaVWRnN1hYUnZHcUNlZlpRNVZ1eEx4Z2phMNIBiAFBVV95cUxNbjBaOWpHSkpIYzAycW5lZGU0UjBzbTNyTDhsdnQ1ejVKRzFpcjYwQjJVc2pFNGpkUDhqM0VoVmZWMEotOC1Jb1kwWEMzd09nUHFJRzZWR3UtWWpUTkx6MEZ6SDRwZzBnZTUweEhSdjk5bmZidFhPWGJBLWVZN24xcmpaRGxZcWh6?oc=5",
+      "source": "CNBC",
+      "published": "2025-10-27T07:00:00+00:00",
+      "summary": "Qualcomm announces AI chips to compete with AMD and Nvidia — stock soars 11%&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Chip Rally Adds $2T to Micron, Intel, AMD as AI Boom Spreads - The Tech Buzz",
@@ -129,18 +108,18 @@
       "summary": "Chip Rally Adds $2T to Micron, Intel, AMD as AI Boom Spreads&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "source": "NVIDIA Newsroom",
-      "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Partners With Anthropic to Bring GPU-Powered AI to Life Sciences - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHFLZEpsUjA4M19jZng5dUprVWRoZ05qeHBtbU12dkZISHlSMDRRSThHNHFIcjZyd2RiZWgxOEZWaVVJM1BldUVMUTZFa1BiSWQ2T251T2RmYWR2Yy1YN0Fkd2Qycm5naXg0ZlZGWWM1emZpUW9pVm4waFVxV3I5QVgwMkRTSU1HRmNKYkpYUGdFbjRQSkt5aHQ0R2h3NHQyVm1PQlc1QQ?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-06-30T18:00:00+00:00",
-      "summary": "NVIDIA Partners With Anthropic to Bring GPU-Powered AI to Life Sciences&nbsp;&nbsp;The Tech Buzz"
+      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMXd4N2x1NTJ6NHVNYVBrMGU2M3pMUTR0OWxSTGpMcVBhWkh4WmZWRHFycVlXYUtYeDhMNHRDZXFzMGFlQVJ2ODFwY1BFVUQ3TUlxTVpMZUV1N3E5N3NnZWk5cEpBTnNVX200cTNBdm1sOHk50gF6QVVfeXFMTXFaeTZVb05qUGtpX2oxTmlUdWRVUTFlei04RXFSWXJ1aFpXUjY5bGg4azF6eUZaSUNMS29kcXZZWDZxVDFNc3FWdmZ0bENhRDZ4SV9nbzVfNUE3TUcta19lRDNYUGp3RE00MFIzSW1QX0E0cnlHbzBFR0E?oc=5",
+      "source": "CNBC",
+      "published": "2026-03-11T07:00:00+00:00",
+      "summary": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals&nbsp;&nbsp;CNBC"
     },
     {
       "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
@@ -150,25 +129,46 @@
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ4dzJPVGhvWnBvWlJvaHpaLTk3Y3BVajV2OG03QkFhMERtdVJMMGhuNFZzZjdOaW8zaUV2THJNTDZ5YTFaM1ZHYTh0Yy0tOUFxTHpnM2h3cEdLZU9qcEFxd0dQTkJFYmRDX0FBMzFlcjQtcWtkRDRFLTJNNDU5WVhnbDBtN1d0SEUyR0dPc3JrUFBBUjdyT2ZvWXZVbUh4RVNFTU81dC1pbl9rVnZjOXI0NA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-06-07T07:00:00+00:00",
-      "summary": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips&nbsp;&nbsp;Bloomberg.com"
+      "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN201YmZQQ1VvVDJNcVZKdFQ2S0xwRUVZYjdmeW9sMzJzbnhmNXFTdkxSV2NMQU43SDlNMDBrUVRNZUJ3WU9DQ3hkRDFmQmFrUjZoeG1maVVXOTVBcWxRU3lITmt5MDdhSEdlNEp6ekV4NGhiRm9WS1JSUjZMV0lGWW5TeDRWSm9xaXI0RjFYZHJfb3pCbmJVcWY1TnpKaHUxaVAyaQ?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0M3cl9OMVlYSk91ZWJsZEtHbEVHQjBhVFRzVHpZd3JVOXBEZUxZVmJMa3d0c19VQ0NXWW5nVlFmMm53eEI4UDd6SEVhb2lUWGNMVHVZYjBRWE9lN0M4QVNCUHVZZWJIMzFKbFExMkRmRjRBR3M0MU1zMnpDWEJMcWpMVTgzMzVSbHV1X2pJM1BjTmI1akxVYWYzLWJjbFE?oc=5",
-      "source": "Cisco Blogs",
-      "published": "2026-06-02T07:00:00+00:00",
-      "summary": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing&nbsp;&nbsp;Cisco Blogs"
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-04-14T07:00:00+00:00",
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "SpaceX Is Now Powering the AI Arms Race. These 2 Stocks Let You Invest in the Infrastructure Behind It. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnluTjJsRHg1eF9VbUlTVUpSSzZHVEFZZGVQX2VlTW9ZcXRJNHZyUFhYWnQ1UW5LWDZmUlhQOUVfckZfc3dRWWFSQ0UwY0gwRWdWM2o4eEZ2eVJfcVdvMkdDRU5tSzFyVW11OFBwOUlUaEF0bktsVXBBbk9SN3dFUHR4VTl0VVFLWmc?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-06-02T07:00:00+00:00",
-      "summary": "SpaceX Is Now Powering the AI Arms Race. These 2 Stocks Let You Invest in the Infrastructure Behind It.&nbsp;&nbsp;The Motley Fool"
+      "title": "NVIDIA Groq 3 LPX: Inference Accelerator for Agentic AI - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZklPT3k4WU9mQ0JTekJiZXVOUXo4YlpUTGFpdHZsMlNUN1IzbUVJcUJKUDFSTXVWczM0ZlEybjhiQ0JtRnRHa3BKaURBcC1PdXJINjZYZTQ?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-03-16T19:36:38+00:00",
+      "summary": "NVIDIA Groq 3 LPX: Inference Accelerator for Agentic AI&nbsp;&nbsp;NVIDIA"
+    },
+    {
+      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDZ0UWxqZGxjNjRFRjhJNkJqQk52eUpaT1A0RnFOVDJpUVFFcU91RWdfWHFZYjhRaGRFakdoVVFJWEhOWUlHZDF2YXh3dHJkazhHT3pHcTV3MVVrQW9SaFFtWUpfbldmekY4RUFXcjJJVWhueE9jUGE5a0Exdm5YVjZtLWUyTF9yWmp1U1l2WWwyU1I5V2huYjhlWk4tOTBRT01ieVpLbjN0OU8tWFRwSE56YjdMSWtJSWl1LUFfWkdFU3ZmMmhyNjJVLVV4dw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-06-18T07:00:00+00:00",
+      "summary": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs&nbsp;&nbsp;Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWdrWVVRYXNzNE5MNWptY0dLak8tLXhiaVhmVlBscHVkV1ZkNnFTRTQ2WWhlNTloUmlYTDNya00xYVg5MDhjSG53ek0xRDB3VlJidFplSzQ5Vi1hUUVhbEVrUTJWVzdjNjNBZXFTYkx0ZExwb19rVjByNnFUOG1uckIwU2x2TGZqVmN3WGljYkszYlZ4Z2U2N2w1ZlBJd3ZXWE4zaXN2N01HZ05ORWQwczR4WmNUR3AwcVE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-03-11T07:00:00+00:00",
+      "summary": "Meta announces 4 new AI chips, raising competitive stakes with Nvidia, AMD&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM - CNBC",
