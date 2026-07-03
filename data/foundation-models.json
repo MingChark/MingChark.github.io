@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T14:17:41.705922+00:00",
+  "generated": "2026-07-03T19:35:15.249702+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,13 +10,6 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFJBTkV0dE1NQ0w1VnJiUTliNno1X2VkUXNsRTZ2QWhzcWZ2V3ZxUnZmdF9NSDQxbFNTczVsZXBYWWVsQ20xdm1sX3pKRkZtUGRhOEIxN196WjdNYlBYczBGWnM4eVk3NEx6QnhnY21mRXVWdXFrNTNaYkUxYkhyTk1Ocno0MDIyd1pYZkQ5bUFKbThsc2dEakF0TWo0Y0dYbWtfR3hpN0RTd3gyZDlrYUNSLVZVa1VyWXc?oc=5",
-      "source": "Morningstar",
-      "published": "2026-06-29T14:30:00+00:00",
-      "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Morningstar"
-    },
-    {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
       "source": "Apple Machine Learning Research",
@@ -24,11 +17,11 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
+      "source": "Venturebeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
     },
     {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
@@ -45,13 +38,6 @@
       "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
-      "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
       "source": "NVIDIA Newsroom",
@@ -59,11 +45,11 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
-      "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+      "title": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -80,6 +66,13 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
+      "source": "Nature",
+      "published": "2026-06-09T07:00:00+00:00",
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
       "source": "NASA Science (.gov)",
@@ -94,6 +87,20 @@
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
+      "title": "30 of the best large language models in 2026 - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjF2MmV5ZFV4QmdPUERXdDRuOVdjX09zMzZlNTN3emJKWlhZbDdBQ2hZNTJkVjh0ZHF6amhVenJMRmlheUg2NzFFZnNQQ3JhYjg5SGlpQnJKSEg5UG1ncDNsUHByWGxicmtidGxjUEs0b2FLMVVmTmtEdDJLRS1EUGNBMkI?oc=5",
+      "source": "TechTarget",
+      "published": "2025-12-03T08:00:00+00:00",
+      "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
+    },
+    {
+      "title": "AI model trained on 100,000+ species learns to read and design genetic code - Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHlWd0t0Qm9VLW4tVWJ2dFVTRzhRQlNtaDkyTmptUTFyd0Ztc1hGZDExanhlVkxseUFOM3lNMnFUbXhYWjlSeERNVXRsTk9Zb0J2Y2QtVFlNTWZ6Y2RtMzJsOUVCVEg4UFlSYUZBbDgzZGFUMnBrLU9EZ1A4SU00SWxsZncwaHBIRVdhTFg4OEJ6dEIyNG1fVm0xRXM2Zk9neE5VR18zSFE4QlZtZXRkVTVoQUc?oc=5",
+      "source": "Drug Discovery News",
+      "published": "2026-03-05T14:50:43+00:00",
+      "summary": "AI model trained on 100,000+ species learns to read and design genetic code&nbsp;&nbsp;Drug Discovery News"
+    },
+    {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
       "source": "EurekAlert!",
@@ -106,13 +113,6 @@
       "source": "Towards Data Science",
       "published": "2026-03-18T07:00:00+00:00",
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
-    },
-    {
-      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "TechRadar",
-      "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -143,25 +143,11 @@
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
-      "source": "The Robot Report",
-      "published": "2026-05-11T07:00:00+00:00",
-      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
-    },
-    {
       "title": "A new era of intelligence with Gemini 3 - blog.google",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sN1JBSE91VzRrenAzV2E5Sk5jdURtejZuejZNamlOeFVCN3FEYm55VzFNSEdqYmhTSFdyZ0FCelZMZ2Nfd3Y5MlA4YzNYU3hFNHRIZmtSSENqMUczMTdPUkJlTkJ1TlZzcVhfcklRMFp0TzJwRllB?oc=5",
       "source": "blog.google",
       "published": "2025-11-18T08:00:00+00:00",
       "summary": "A new era of intelligence with Gemini 3&nbsp;&nbsp;blog.google"
-    },
-    {
-      "title": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkt1MlU1dVRiX28tbUk1RDF5Y3NGMXBiMXUzN1lmek5RaFJHUXA1RlJyQ05yWlI2VVU0VTZ5OFloYUt5cmNwTHlQTThseUt4ZXVYTDRVdUo1bmw2eThLdUVXYTNBOUdfaDFKWS1DNVJ2ZlRaVXBMX1lIUl9XbzBfMnhBTUZBZEFSOG5CRy1ydmRkTnRTSExVd3I3ZVNrX0xnbVQ4MUdKMC1TT2JoVjRPTXJRWGl0Y0t4SXhCTThkYzdaYnV0aVRZa2NRZnhhaXRiNUtwNWtSV2hzMzRvdFhUY21HaFhJNmkxVkE?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-01-15T08:00:00+00:00",
-      "summary": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
@@ -176,6 +162,20 @@
       "source": "Linux Foundation",
       "published": "2025-12-09T08:00:00+00:00",
       "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
+    },
+    {
+      "title": "A multimodal whole-slide foundation model for pathology - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQVRiS1VfWUJoeWFHaEt3MlZQMm9YSVZhU1g5YU9ycVBfTFJzUGg1MGRObE1Tc3RrS183MGFmSkc5UUM4M3Qtd1hPeE9felJRa2FmMm5xQjNOQ2VVUG9J?oc=5",
+      "source": "Nature",
+      "published": "2025-11-05T08:00:00+00:00",
+      "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11RVVNOGRfY01MbEEybkdoMGdybDk4bUExRlp2UVlzNktGaGFxcnloZmhNWlVIdjVQUmlTRGxNUjlRN0duNmdFM1hROEZsTEp5ZmV5ZjRpLWxobWRmSEloaWctbENkNThzTUZaNExWUE9MMl90TnNj0gF8QVVfeXFMTnZiTDBBR2VtQzhNQ3pHUFBzYUpFZ09SWEdEZHVSVEs2ald2R0l4Z0NMYTRMVDdneVZBWFp4d25uWV8tWXYySHBzQkpQdDhEN0FvRlhGQ1Z2SHdKWVdTZEF0WWNrLWpXZi1seFZiY1lSalBEdU5mLWtXUEVUQg?oc=5",
+      "source": "CNBC",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion&nbsp;&nbsp;CNBC"
     }
   ]
 }
