@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T10:16:21.647105+00:00",
+  "generated": "2026-07-03T14:17:41.705922+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,6 +24,13 @@
       "summary": "Anthropic Pursues In-House AI Chips Against Nvidia, Eying Samsung Foundry&nbsp;&nbsp;Businesskorea"
     },
     {
+      "title": "Anthropic Discusses Custom AI Chip With Samsung - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjMtZmZ2TjFLT3hxSFhmU1R6WGtVZ3NlZW9mNUFWaGJ3WkRkY1JKakNBUW1DY2hteFRMWFZJMEo5YUlKdV9Ga2ViUGh6c3RuY3VmV09QS1AyQnJsUE5Bd2F2dVE4X184S1Jia19GQ0VBdHhWUU9FN0RZQlJQcVJvUGNMY2pTNFljTFFTaWQ1MzZNN0E?oc=5",
+      "source": "Let's Data Science",
+      "published": "2026-07-03T00:56:48+00:00",
+      "summary": "Anthropic Discusses Custom AI Chip With Samsung&nbsp;&nbsp;Let's Data Science"
+    },
+    {
       "title": "3 AI Stocks to Still Buy If Inflation Stays Sticky - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd2lUME43SDdYUWRMXzVDX1p5ckhaSDRtQnRDZjVmQ2FVQmIzb2w1RzJqTWE1QlA4LTQwR0RkSkpzSk9pLVRESzkxSGlFdVBLYVdFWi14eXRTS3BnVDF0Ml9UREdsZGdqckZ1X0NPdGNabXFPcERsUXoxam5zbVVFVW5XOW1WZVdUOS1OeFVhR1VJbWVFSnJvQkNmUUcyUDhQODRvUGZYVExmQ21mel9IS2VZRWxkdmo5aHR0Q3pESzNsUHdPekNOMks2NWtQUGM?oc=5",
       "source": "The Globe and Mail",
@@ -31,11 +38,11 @@
       "summary": "3 AI Stocks to Still Buy If Inflation Stays Sticky&nbsp;&nbsp;The Globe and Mail"
     },
     {
-      "title": "Anthropic Discusses Custom AI Chip With Samsung - Let's Data Science",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjMtZmZ2TjFLT3hxSFhmU1R6WGtVZ3NlZW9mNUFWaGJ3WkRkY1JKakNBUW1DY2hteFRMWFZJMEo5YUlKdV9Ga2ViUGh6c3RuY3VmV09QS1AyQnJsUE5Bd2F2dVE4X184S1Jia19GQ0VBdHhWUU9FN0RZQlJQcVJvUGNMY2pTNFljTFFTaWQ1MzZNN0E?oc=5",
-      "source": "Let's Data Science",
-      "published": "2026-07-03T00:56:48+00:00",
-      "summary": "Anthropic Discusses Custom AI Chip With Samsung&nbsp;&nbsp;Let's Data Science"
+      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVozSWNTY01Kd3VqaHpmMk1WOEZfUjdCeXRXYUt1TFpwejVKVEh0bDNYVTZSYnRoOEVhRlFxSkIyaHVqamEzMFpfcFM5YlNxdFZjQ0FSWE5XbEF2dzZOVXVVN0xFMjA5UDN6Vzl0Z21rbU1VLVM4YWFhQk9YbEIwODluWkxoSWhPc25HTDRlbm5ISzAy?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-06-30T17:38:13+00:00",
+      "summary": "Designing GPU-Accelerated Query Engines with NVIDIA GQE | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "AMD: Market Has Completely Misread The AI CPU Supercycle (NASDAQ:AMD) - Seeking Alpha",
@@ -59,18 +66,18 @@
       "summary": "Chip Rally Adds $2T to Micron, Intel, AMD as AI Boom Spreads&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "NVIDIA (NASDAQ:NVDA) holds as 210,000-GPU cloud move set for July milestone - TechStock²",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGdNVmdBX011Z2tsR0xNMUU1Rk9sSkdod21lLTlfank3a252SDhsS0JGaDNtQS1ETVRKb0NFeUpkbHE2Z3NYaXpQMGVEU1dFNmRtZ1ZIU1ZWMnR4UkhoZ19DV3pOeUNHOTVBSVo5VVhOQkM5WkFVdTNPU2t6VlJ3QTByX1h6X1FUc3Jnck5wdjhXYVdrdlB3?oc=5",
-      "source": "TechStock²",
-      "published": "2026-07-03T09:29:32+00:00",
-      "summary": "NVIDIA (NASDAQ:NVDA) holds as 210,000-GPU cloud move set for July milestone&nbsp;&nbsp;TechStock²"
-    },
-    {
       "title": "AI Chip Stocks Just Had Their Best Half-Year Ever — Here's What's Driving It - Memeburn",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10THBQV0Fjb0QwNGJQd0VwNURSUUJrOXIyNEFzQUVjdkxaSEIzOXBIWlJsZXJtTlhNN0RCNjMwNWc1VXo3amZRM3RiV3FqWVg2N3VFM3FULUJ6WXJMcm11dU9ib0E?oc=5",
       "source": "Memeburn",
       "published": "2026-06-30T10:47:32+00:00",
       "summary": "AI Chip Stocks Just Had Their Best Half-Year Ever — Here's What's Driving It&nbsp;&nbsp;Memeburn"
+    },
+    {
+      "title": "NVIDIA (NASDAQ:NVDA) holds as 210,000-GPU cloud move set for July milestone - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGdNVmdBX011Z2tsR0xNMUU1Rk9sSkdod21lLTlfank3a252SDhsS0JGaDNtQS1ETVRKb0NFeUpkbHE2Z3NYaXpQMGVEU1dFNmRtZ1ZIU1ZWMnR4UkhoZ19DV3pOeUNHOTVBSVo5VVhOQkM5WkFVdTNPU2t6VlJ3QTByX1h6X1FUc3Jnck5wdjhXYVdrdlB3?oc=5",
+      "source": "TechStock²",
+      "published": "2026-07-03T09:29:32+00:00",
+      "summary": "NVIDIA (NASDAQ:NVDA) holds as 210,000-GPU cloud move set for July milestone&nbsp;&nbsp;TechStock²"
     },
     {
       "title": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack - TechRadar",
@@ -85,13 +92,6 @@
       "source": "CNBC",
       "published": "2026-06-24T07:00:00+00:00",
       "summary": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Databricks and NVIDIA: Building for the Agentic Era - Databricks",
@@ -115,13 +115,6 @@
       "summary": "Qualcomm takes on Nvidia with new AI chip architecture&nbsp;&nbsp;Taiwan News"
     },
     {
-      "title": "AMD Price Forecast: Stock Falls 6% After Record High—Is This the Best Buy-the-Dip Opportunity? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSXpZcmt2Q2ZjM1hGSGZJckp4ZWdrd2JzRXlyVGt6TVhrX2dVRFFnMkhhUFhxV0xNUzhFNmZqaXlSeThqclFWTEtYb1VxRi1zLXN4ckdnOWk1UE5OclpHdXgyXzBLNnJmUW5oaTNhbzlXcU1aZjI1V3Z3RWFta0RpeFRBemh2VVRfOVE1N09yWlRzbUREb0s5WG9FTFE4bHd6ZUVtRlM3QVNyVW9pMWMyb0p5S2o4VExMcWwzSmZ5X1JBV3Rt?oc=5",
-      "source": "TradingKey",
-      "published": "2026-07-02T12:04:46+00:00",
-      "summary": "AMD Price Forecast: Stock Falls 6% After Record High—Is This the Best Buy-the-Dip Opportunity?&nbsp;&nbsp;TradingKey"
-    },
-    {
       "title": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles - crn.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDNRUlBxLXQ2Z1ZjOTlwdkdna2pTV25ydkxxekpqNHlJYUdEMGNzQmhfZk1SWXFTNXhieHlVMXg2VGlwSV80RWd3cG0wVlg3TWd2RC1CMzVSNGZ5V0Y3bDU3Q3pxbFk0dUl1c2pwdWtZYjZkTjM5MEl2VlB6VTM4WFFGUElRa1F2UXRnOU9lOHRnWnFFX3F2N2tORDZzTlVNQW8zYXZ0bmdGTkpUYkY4WjkyRHAzVFk2QzBqN2tjMGtHOXVMVWc?oc=5",
       "source": "crn.com",
@@ -141,6 +134,13 @@
       "source": "The Tech Buzz",
       "published": "2026-07-02T04:11:00+00:00",
       "summary": "Nvidia Opens AI Infrastructure to Capital Partners&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs - Amazon Web Services (AWS)",
@@ -164,18 +164,18 @@
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ4dzJPVGhvWnBvWlJvaHpaLTk3Y3BVajV2OG03QkFhMERtdVJMMGhuNFZzZjdOaW8zaUV2THJNTDZ5YTFaM1ZHYTh0Yy0tOUFxTHpnM2h3cEdLZU9qcEFxd0dQTkJFYmRDX0FBMzFlcjQtcWtkRDRFLTJNNDU5WVhnbDBtN1d0SEUyR0dPc3JrUFBBUjdyT2ZvWXZVbUh4RVNFTU81dC1pbl9rVnZjOXI0NA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-06-07T07:00:00+00:00",
-      "summary": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
       "title": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0M3cl9OMVlYSk91ZWJsZEtHbEVHQjBhVFRzVHpZd3JVOXBEZUxZVmJMa3d0c19VQ0NXWW5nVlFmMm53eEI4UDd6SEVhb2lUWGNMVHVZYjBRWE9lN0M4QVNCUHVZZWJIMzFKbFExMkRmRjRBR3M0MU1zMnpDWEJMcWpMVTgzMzVSbHV1X2pJM1BjTmI1akxVYWYzLWJjbFE?oc=5",
       "source": "Cisco Blogs",
       "published": "2026-06-02T07:00:00+00:00",
       "summary": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnNCaTNzdjNZMUk1eFQxU2RLRWtBZDlLRnM0RktYeDI4ZWpiRTVwU2NPRHR6X2xVaEpxUkh0dXVOSktad1RReC1YaVdEOFhVU05tRW9ZWHJxMDg0ZDM3UG5fdGM3SmxnLTRta3JGQ1NubmpUaVlpWG5Nb0poZXhxeE83YmdFelZiTndBZzlESkFOYzjSAZgBQVVfeXFMTm9CVGJuamU0a1Y4SjdJZW00djdiVXNYbVJ5V3JFd0swYmk1c0ZoSjhrQzhsSkZEWS1YUWxtUlFSUzFKdlh4bHoxdEhYSngyLXZTSzZ6UlNHZXFSXzJOSk9OMk5qczc0ZjZnRVpFcmp4SGpRTnBXRmlPQ3ltMktTNy0yOUZyX0s3aUtMNmpyeDAtS2M2Q2V1U0o?oc=5",
+      "source": "CNBC",
+      "published": "2026-05-19T07:00:00+00:00",
+      "summary": "Alibaba reveals more powerful Zhenwu AI chip, new LLM&nbsp;&nbsp;CNBC"
     }
   ]
 }
