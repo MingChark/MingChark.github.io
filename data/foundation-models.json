@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-04T13:42:25.242739+00:00",
+  "generated": "2026-07-04T19:20:10.744124+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
       "source": "Google Research",
-      "published": "2026-07-04T12:22:41+00:00",
+      "published": "2026-07-04T18:25:22+00:00",
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
@@ -29,13 +29,6 @@
       "source": "MarkTechPost",
       "published": "2026-07-01T07:48:59+00:00",
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "Venturebeat",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
     },
     {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
@@ -134,6 +127,13 @@
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
+    },
+    {
+      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
+      "source": "FICO",
+      "published": "2025-09-23T07:00:00+00:00",
+      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
     },
     {
       "title": "Densing law of LLMs - Nature",
