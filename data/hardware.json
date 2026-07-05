@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T03:50:58.161360+00:00",
+  "generated": "2026-07-05T09:11:25.475578+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,13 +17,6 @@
       "summary": "Anthropic reportedly in talks with Samsung to manufacture custom AI chip&nbsp;&nbsp;SiliconANGLE"
     },
     {
-      "title": "Anthropic Discusses Custom AI Chip With Samsung - Let's Data Science",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjMtZmZ2TjFLT3hxSFhmU1R6WGtVZ3NlZW9mNUFWaGJ3WkRkY1JKakNBUW1DY2hteFRMWFZJMEo5YUlKdV9Ga2ViUGh6c3RuY3VmV09QS1AyQnJsUE5Bd2F2dVE4X184S1Jia19GQ0VBdHhWUU9FN0RZQlJQcVJvUGNMY2pTNFljTFFTaWQ1MzZNN0E?oc=5",
-      "source": "Let's Data Science",
-      "published": "2026-07-04T15:45:00+00:00",
-      "summary": "Anthropic Discusses Custom AI Chip With Samsung&nbsp;&nbsp;Let's Data Science"
-    },
-    {
       "title": "Anthropic is considering developing its own AI chip with Samsung - Techzine Global",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWllRdUU1cGFFdXFDdjFxS1Z5ODBBVmp1QnIwUzRTUGVmcnN6QXNqd3JuZnhDNFNWTERLd3YzUXRJMUQycVowWDMyOWFzUnYwSFYyVGdFakZYeUJqNXYwbTlMdTViaUZGS0lRdEphNFBJb1p0blVxQXE5N0lISUNyUEJMbEVFUVVpcV9tSnFfRU9DbnI3UmFRLXVhdEZDcUduekFJQlJmZmNRSldDV01UNXB1X2pwaWM?oc=5",
       "source": "Techzine Global",
@@ -31,11 +24,11 @@
       "summary": "Anthropic is considering developing its own AI chip with Samsung&nbsp;&nbsp;Techzine Global"
     },
     {
-      "title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta - SamMobile",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlQtRjNwRlk2YnRPN3FGUm95dG51NVpWbmpYdGd3NmZUOFNLWkZnZVh3T0ktdWFCMHlsZ1R2dDlIUi1qZDl1Wkk1cVV5RXQtNkRheDJOcVBzQnJYYjh4N0ljeXFUa2pzTUdTN2wzS2hIYkdJYl8tOC1kNVl1QlFNcEgwY09VNG1TRnlzZA?oc=5",
-      "source": "SamMobile",
-      "published": "2026-07-04T14:02:00+00:00",
-      "summary": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta&nbsp;&nbsp;SamMobile"
+      "title": "Anthropic Discusses Custom AI Chip With Samsung - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjMtZmZ2TjFLT3hxSFhmU1R6WGtVZ3NlZW9mNUFWaGJ3WkRkY1JKakNBUW1DY2hteFRMWFZJMEo5YUlKdV9Ga2ViUGh6c3RuY3VmV09QS1AyQnJsUE5Bd2F2dVE4X184S1Jia19GQ0VBdHhWUU9FN0RZQlJQcVJvUGNMY2pTNFljTFFTaWQ1MzZNN0E?oc=5",
+      "source": "Let's Data Science",
+      "published": "2026-07-04T15:45:00+00:00",
+      "summary": "Anthropic Discusses Custom AI Chip With Samsung&nbsp;&nbsp;Let's Data Science"
     },
     {
       "title": "AI Chip Stocks Investment July 2026: NVDA vs AMD Analysis & Forecasts - Intellectia AI",
@@ -43,6 +36,13 @@
       "source": "Intellectia AI",
       "published": "2026-07-04T04:14:17+00:00",
       "summary": "AI Chip Stocks Investment July 2026: NVDA vs AMD Analysis & Forecasts&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta - SamMobile",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlQtRjNwRlk2YnRPN3FGUm95dG51NVpWbmpYdGd3NmZUOFNLWkZnZVh3T0ktdWFCMHlsZ1R2dDlIUi1qZDl1Wkk1cVV5RXQtNkRheDJOcVBzQnJYYjh4N0ljeXFUa2pzTUdTN2wzS2hIYkdJYl8tOC1kNVl1QlFNcEgwY09VNG1TRnlzZA?oc=5",
+      "source": "SamMobile",
+      "published": "2026-07-04T14:02:00+00:00",
+      "summary": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta&nbsp;&nbsp;SamMobile"
     },
     {
       "title": "AMD: Market Has Completely Misread The AI CPU Supercycle (NASDAQ:AMD) - Seeking Alpha",
@@ -94,18 +94,18 @@
       "summary": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQVRWTG9UaFZTZWpzNEd5MXdmaUFNNHpOaTFjR3g2TnZFTVRLcWVMQmIxbjEweWxjVWx1QnQxSFZ2THU2LXB5TkQ3QW5obnNvRkFOS1JtWHFHa002VmxTZ0pFaVE1OGM3RHV5SVN0NnFfUXlSYTM4ZGxzSWx5bVhqMng1MndnNnZQSmVHcW5iN2Rjekpmck5JaXlrNFJrSE1GT2g3Vy1Kazl0bEptYWl1VWdZSGEyWklQaEhFRGtnMHpQVTI2MG9Jall2X0N6bTJRekdZS0MyaG5PR0taZlpmTThtc2JuSUdHdjlNRzd3RmxDRHJEamhfTWNnTVU0LW40WUh3WXpB?oc=5",
-      "source": "TechRadar",
-      "published": "2026-06-30T18:25:00+00:00",
-      "summary": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack&nbsp;&nbsp;TechRadar"
-    },
-    {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQVRWTG9UaFZTZWpzNEd5MXdmaUFNNHpOaTFjR3g2TnZFTVRLcWVMQmIxbjEweWxjVWx1QnQxSFZ2THU2LXB5TkQ3QW5obnNvRkFOS1JtWHFHa002VmxTZ0pFaVE1OGM3RHV5SVN0NnFfUXlSYTM4ZGxzSWx5bVhqMng1MndnNnZQSmVHcW5iN2Rjekpmck5JaXlrNFJrSE1GT2g3Vy1Kazl0bEptYWl1VWdZSGEyWklQaEhFRGtnMHpQVTI2MG9Jall2X0N6bTJRekdZS0MyaG5PR0taZlpmTThtc2JuSUdHdjlNRzd3RmxDRHJEamhfTWNnTVU0LW40WUh3WXpB?oc=5",
+      "source": "TechRadar",
+      "published": "2026-06-30T18:25:00+00:00",
+      "summary": "Qualcomm targets Nvidia, AMD, Huawei with Dragonfly AI accelerator rack&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -129,18 +129,18 @@
       "summary": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "How Cadence Design Systems Powers the Chips Behind AI - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRU8xUGl1a0VyZ0N3SDZ0cG1WTEg0czM4Zkl4ZXNPd2lMWUNHS0g5djdUOXpNdl93eXRibzNOOFE5WEJyR0NjZHRsLWNpdksyckRVVEp3dnFwMlBrZXpuc0w2U0tXcFoyWVdmd091V0RVNkhjR3ZvMnE2YUxIWmxLa080bjZqUVA3RTFyMjlfZm9BUG1uTzVLeWZZT3ZVZw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-03T17:59:44+00:00",
-      "summary": "How Cadence Design Systems Powers the Chips Behind AI&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception - News at IU",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV19ZdVBaOXo0cFk1SHFnX2MyWllGSUJiNmtuY2Y0QnRGV25NQ0lMOHpQbkNEMHhOcWpoOWVORWlWVzNaaHVxeVdhQmMyc0c3V2Z4YTBnckl3c195bDg4bzZyX19jLWFEZmhQTDZXVXFnSjhpb2xTWVBTMC1Ia0JUXzBwei1vVkFyQXYyOA?oc=5",
       "source": "News at IU",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception&nbsp;&nbsp;News at IU"
+    },
+    {
+      "title": "How Cadence Design Systems Powers the Chips Behind AI - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRU8xUGl1a0VyZ0N3SDZ0cG1WTEg0czM4Zkl4ZXNPd2lMWUNHS0g5djdUOXpNdl93eXRibzNOOFE5WEJyR0NjZHRsLWNpdksyckRVVEp3dnFwMlBrZXpuc0w2U0tXcFoyWVdmd091V0RVNkhjR3ZvMnE2YUxIWmxLa080bjZqUVA3RTFyMjlfZm9BUG1uTzVLeWZZT3ZVZw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-03T17:59:44+00:00",
+      "summary": "How Cadence Design Systems Powers the Chips Behind AI&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
@@ -164,18 +164,18 @@
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AMD’s Pivot from Alternative to Accelerator: How Two Mega-Clients Are Rewriting the Chip Maker’s - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTlpOXZacl9HR3Z3ZFJkdDBodVFJMENNV01mTExFeVJ5S002Q3I1eFZlSVpaSmN1WmM2cTlyT01BcUFNTWxnekxBY05oa2tEanVqUTBiQ1NQcWsxcWJPWWtDWlZ3VlAwQ3YzclZyVHJMYXY0Sm9NUnpKeXlrT0Nmc3NlNXhJYzQySmFtS2UyV3pTdldlVS1PRW9kcnJaa21NNDdwYnBkbXJzbGFLN1ZIZ1VsUWJERHdDdnJxajRSTWdXdGY4enc?oc=5",
-      "source": "AD HOC NEWS",
-      "published": "2026-07-05T00:53:31+00:00",
-      "summary": "AMD’s Pivot from Alternative to Accelerator: How Two Mega-Clients Are Rewriting the Chip Maker’s&nbsp;&nbsp;AD HOC NEWS"
+      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDZ0UWxqZGxjNjRFRjhJNkJqQk52eUpaT1A0RnFOVDJpUVFFcU91RWdfWHFZYjhRaGRFakdoVVFJWEhOWUlHZDF2YXh3dHJkazhHT3pHcTV3MVVrQW9SaFFtWUpfbldmekY4RUFXcjJJVWhueE9jUGE5a0Exdm5YVjZtLWUyTF9yWmp1U1l2WWwyU1I5V2huYjhlWk4tOTBRT01ieVpLbjN0OU8tWFRwSE56YjdMSWtJSWl1LUFfWkdFU3ZmMmhyNjJVLVV4dw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published": "2026-06-18T07:00:00+00:00",
+      "summary": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs&nbsp;&nbsp;Amazon Web Services (AWS)"
     },
     {
-      "title": "NVIDIA Rubin Ultra: Four-Die design reportedly dropped according to SemiAnalysis – NVIDIA is said to be backing down on its largest AI accelerator - igor´sLAB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55WUhob005SGJMTWNpcGtIaXVRMm9XYzVzYjFOZ1JlWUc1RGp6dVJXMVFWLUVBNWlUclRzWUF5cGJ4cHljLU4xM1laTjFWOXBIaUtlZUpVVW9LMFRHSnBWZWtWSVdCY0VnYUM4UXB0SUt6elJsejFjZ3V3?oc=5",
-      "source": "igor´sLAB",
-      "published": "2026-07-04T04:00:00+00:00",
-      "summary": "NVIDIA Rubin Ultra: Four-Die design reportedly dropped according to SemiAnalysis – NVIDIA is said to be backing down on its largest AI accelerator&nbsp;&nbsp;igor´sLAB"
+      "title": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0M3cl9OMVlYSk91ZWJsZEtHbEVHQjBhVFRzVHpZd3JVOXBEZUxZVmJMa3d0c19VQ0NXWW5nVlFmMm53eEI4UDd6SEVhb2lUWGNMVHVZYjBRWE9lN0M4QVNCUHVZZWJIMzFKbFExMkRmRjRBR3M0MU1zMnpDWEJMcWpMVTgzMzVSbHV1X2pJM1BjTmI1akxVYWYzLWJjbFE?oc=5",
+      "source": "Cisco Blogs",
+      "published": "2026-06-02T07:00:00+00:00",
+      "summary": "AI Security Everywhere: Cisco AI Defense on NVIDIA Accelerated Computing&nbsp;&nbsp;Cisco Blogs"
     }
   ]
 }
