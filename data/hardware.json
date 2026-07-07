@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-06T20:03:20.352045+00:00",
+  "generated": "2026-07-07T03:49:07.074234+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMzZBLVVubkluVkNDXzRtX0Z3U0hDVnFiek9YUTFKeUdpVVAzVHQwRXlRS0lGM2wtNGJka3ZiQ3BsNkQzdllNSGx5dGctZWFiZF9RYzI4SkpUYU5mcTFIWWYwdGJ6T2hEbkZNbWJYTWJLQW10ZDQxN2p2alI?oc=5",
+      "source": "SemiAnalysis",
+      "published": "2026-07-06T21:54:51+00:00",
+      "summary": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis"
+    },
+    {
+      "title": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEJVZnVCVDdwMk1BeTlCcmVySFczRzlpTVR1akJpSUNYRm50N1I1MFA5SEp3T0lyYnhXckR5YTBvNC1RcHVzMUNiZDdFckhhZ2ZfODgzeFliM3ZQT0R0QkJQZDNzRUlLcnVScmwyN2Y0NEhjQi04ZVNFb2NMc0N6OHlsYlVFZkd3U3RUa3NTZjl4Sm1qb2x1MHgzSXMxMFozZ25DTXNZVng5UlpjeFVSUFVXdFpBSlVUUHc?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-04T12:06:02+00:00",
+      "summary": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover&nbsp;&nbsp;24/7 Wall St."
+    },
     {
       "title": "Nvidia and Intel Highlight U.S. Chip Supply Gains, Packaging Gaps Persist - Let's Data Science",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXliWkZhQkRSUWNPY1BqckJ0WjZvM01BUHlqMEE4VElkYU5WNHBBVWhDOVhWQkhreUNvR3JJNTNxdGVtY2FLQ0hGMFdXXzZOZFFNS09oRkJLMThGaC1kdjFGeVVGMmt1ZTdYdHYxWmVIa1JBWkRocnRPSjNmX2h1ZWRQakM4eDk3bDM5bFpNYzVEZ3BFWVJSMkNQVGJTeGc3bGRDbg?oc=5",
@@ -15,13 +29,6 @@
       "source": "SNS Insider",
       "published": "2026-07-06T09:35:32+00:00",
       "summary": "Top AI Processor Companies Driving Next-Generation Computing And Artificial Intelligence Innovation&nbsp;&nbsp;SNS Insider"
-    },
-    {
-      "title": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEJVZnVCVDdwMk1BeTlCcmVySFczRzlpTVR1akJpSUNYRm50N1I1MFA5SEp3T0lyYnhXckR5YTBvNC1RcHVzMUNiZDdFckhhZ2ZfODgzeFliM3ZQT0R0QkJQZDNzRUlLcnVScmwyN2Y0NEhjQi04ZVNFb2NMc0N6OHlsYlVFZkd3U3RUa3NTZjl4Sm1qb2x1MHgzSXMxMFozZ25DTXNZVng5UlpjeFVSUFVXdFpBSlVUUHc?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-04T12:06:02+00:00",
-      "summary": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "NVIDIA Stock Forecast 2026: Is NVDA Still a Good Investment After the $4 Trillion AI Rally? - WEEX",
@@ -73,6 +80,13 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
+      "source": "OpenAI",
+      "published": "2026-06-24T07:00:00+00:00",
+      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles - crn.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDNRUlBxLXQ2Z1ZjOTlwdkdna2pTV25ydkxxekpqNHlJYUdEMGNzQmhfZk1SWXFTNXhieHlVMXg2VGlwSV80RWd3cG0wVlg3TWd2RC1CMzVSNGZ5V0Y3bDU3Q3pxbFk0dUl1c2pwdWtZYjZkTjM5MEl2VlB6VTM4WFFGUElRa1F2UXRnOU9lOHRnWnFFX3F2N2tORDZzTlVNQW8zYXZ0bmdGTkpUYkY4WjkyRHAzVFk2QzBqN2tjMGtHOXVMVWc?oc=5",
       "source": "crn.com",
@@ -94,18 +108,11 @@
       "summary": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception&nbsp;&nbsp;News at IU"
     },
     {
-      "title": "AI Revolution: VKAE System Boosts GPU Performance Up to 23x - Zamin.uz",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFN5R20tOUlqRnZOdTdBQlYxbWMwczZDaFdFdnVENGlsQ0F2eGNTMk5rSW5xVUJhTngxOGNSZV9nVUpwUzFDOFBFb0Ryc0JNRm1xby0ySTFqNk51ZFFUMXM1R0prSlEtTWN2bU5ZXzVHT0JkRnV6blhaVXJ4MFVOMlVyeWRjWWVxV29mZEh3UlNfbmRULWN3bDF1QWN5dlZPQ01V?oc=5",
-      "source": "Zamin.uz",
-      "published": "2026-07-06T18:29:33+00:00",
-      "summary": "AI Revolution: VKAE System Boosts GPU Performance Up to 23x&nbsp;&nbsp;Zamin.uz"
-    },
-    {
-      "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ4dzJPVGhvWnBvWlJvaHpaLTk3Y3BVajV2OG03QkFhMERtdVJMMGhuNFZzZjdOaW8zaUV2THJNTDZ5YTFaM1ZHYTh0Yy0tOUFxTHpnM2h3cEdLZU9qcEFxd0dQTkJFYmRDX0FBMzFlcjQtcWtkRDRFLTJNNDU5WVhnbDBtN1d0SEUyR0dPc3JrUFBBUjdyT2ZvWXZVbUh4RVNFTU81dC1pbl9rVnZjOXI0NA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-06-07T07:00:00+00:00",
-      "summary": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips&nbsp;&nbsp;Bloomberg.com"
+      "title": "Forget GPUs: Custom AI Chips Are the Next Trillion-Dollar Opportunity. Here Are 2 Stocks to Buy Now. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlV2ZUtva0w2YjlrbTkyVmhIZWgtTlJ3U1ZDM0RkV3J6X1RsU0hJN3ZPRVJkTjdUa1VKcGllcTFTeE1INUlvS3RCOTdjRXdDQnpZTkJFQVAzRXpYVFYwUWVPSjQ1SmIybTFXaThFQzVWSmZyU0JydGp0akJGMDdEVVFUX1JyNVFuQmFXTGNmLTExS2N4UzA4MzM2d0w?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Forget GPUs: Custom AI Chips Are the Next Trillion-Dollar Opportunity. Here Are 2 Stocks to Buy Now.&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "How Cadence Design Systems Powers the Chips Behind AI - 24/7 Wall St.",
@@ -136,6 +143,13 @@
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ4dzJPVGhvWnBvWlJvaHpaLTk3Y3BVajV2OG03QkFhMERtdVJMMGhuNFZzZjdOaW8zaUV2THJNTDZ5YTFaM1ZHYTh0Yy0tOUFxTHpnM2h3cEdLZU9qcEFxd0dQTkJFYmRDX0FBMzFlcjQtcWtkRDRFLTJNNDU5WVhnbDBtN1d0SEUyR0dPc3JrUFBBUjdyT2ZvWXZVbUh4RVNFTU81dC1pbl9rVnZjOXI0NA?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-06-07T07:00:00+00:00",
+      "summary": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
       "title": "NVIDIA Groq 3 LPX: Inference Accelerator for Agentic AI - NVIDIA",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZklPT3k4WU9mQ0JTekJiZXVOUXo4YlpUTGFpdHZsMlNUN1IzbUVJcUJKUDFSTXVWczM0ZlEybjhiQ0JtRnRHa3BKaURBcC1PdXJINjZYZTQ?oc=5",
       "source": "NVIDIA",
@@ -157,25 +171,11 @@
       "summary": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDZ0UWxqZGxjNjRFRjhJNkJqQk52eUpaT1A0RnFOVDJpUVFFcU91RWdfWHFZYjhRaGRFakdoVVFJWEhOWUlHZDF2YXh3dHJkazhHT3pHcTV3MVVrQW9SaFFtWUpfbldmekY4RUFXcjJJVWhueE9jUGE5a0Exdm5YVjZtLWUyTF9yWmp1U1l2WWwyU1I5V2huYjhlWk4tOTBRT01ieVpLbjN0OU8tWFRwSE56YjdMSWtJSWl1LUFfWkdFU3ZmMmhyNjJVLVV4dw?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published": "2026-06-18T07:00:00+00:00",
-      "summary": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs&nbsp;&nbsp;Amazon Web Services (AWS)"
-    },
-    {
       "title": "Alibaba reveals more powerful Zhenwu AI chip, new LLM - CNBC",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnNCaTNzdjNZMUk1eFQxU2RLRWtBZDlLRnM0RktYeDI4ZWpiRTVwU2NPRHR6X2xVaEpxUkh0dXVOSktad1RReC1YaVdEOFhVU05tRW9ZWHJxMDg0ZDM3UG5fdGM3SmxnLTRta3JGQ1NubmpUaVlpWG5Nb0poZXhxeE83YmdFelZiTndBZzlESkFOYzjSAZgBQVVfeXFMTm9CVGJuamU0a1Y4SjdJZW00djdiVXNYbVJ5V3JFd0swYmk1c0ZoSjhrQzhsSkZEWS1YUWxtUlFSUzFKdlh4bHoxdEhYSngyLXZTSzZ6UlNHZXFSXzJOSk9OMk5qczc0ZjZnRVpFcmp4SGpRTnBXRmlPQ3ltMktTNy0yOUZyX0s3aUtMNmpyeDAtS2M2Q2V1U0o?oc=5",
       "source": "CNBC",
       "published": "2026-05-19T07:00:00+00:00",
       "summary": "Alibaba reveals more powerful Zhenwu AI chip, new LLM&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
-      "source": "The Official Microsoft Blog",
-      "published": "2026-01-26T08:00:00+00:00",
-      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
     }
   ]
 }
