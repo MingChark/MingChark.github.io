@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T14:24:11.582905+00:00",
+  "generated": "2026-07-08T19:39:02.709324+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -31,13 +31,6 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
       "source": "The Cloudflare Blog",
@@ -45,11 +38,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -94,48 +87,6 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
-      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "TechRadar",
-      "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
-    },
-    {
-      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR0owNkJfRE5lWHd2a2F1QWZjaWNkYnEzTC1UZC1KRXRlM1lUZzVFb09NLWdsa1MtQUdjd3o5Z2c1WWEyY0JXVzE5YVpseENlTzNOYVlzcVluMHcxMVd3TEJEaUdyR2dfT00wb01hdUVtR0cxV1lKQTJOelduYXY1ak5GSXI3NExrS0daY1ZGT29UZVpPRWpISTN2X2htQnhObDZZTTY4RFlycFU2REVxRWJrT1FyVWV0WjVRMjlueWMyMy1Ycmd0TEVUcWlHbFpUVDhuRUllWXlETGI1b3Z0ME8yblFIcUU1TkVxY29ySUpkb3lmRGc?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-05-30T07:00:00+00:00",
-      "summary": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
-      "source": "The Robot Report",
-      "published": "2026-05-11T07:00:00+00:00",
-      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
-    },
-    {
       "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnRpWXM5aWdGR2lFdGk1cXh1WnhOTUwzUXZLQlpFRVRZZFBmSzViRG80a0xyYVRqVmp6Yk52SmtsUTRFNVZncFR4LXF5ZUszOV9JWm1zQy1nei1PdGYtNm1LRUxBaWJpVFJwNmw3MFBabER2NzBTamxBQTR0ZEpLOUJzOVlfRm1SbzBHU1gwRHh5cVI2WWczQ2p2OXlLYmt4cmZkdElrZXJ2V0ZQVGc?oc=5",
       "source": "NVIDIA Developer",
@@ -143,11 +94,11 @@
       "summary": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ0o3Q3BTS2YzSFIxT3VZQ0xUX0NxcXdYWHllNEFqYlpKYlo1M1NZbnpuQXZaek9XTFJmNjc0aHVIMUgtUmU3WTloRVROZzdRTXNQYm9BV0V3WXlYMUo3Z3g2RzVjcklrSXc2VHhjODdNbV9rZW5YNkNZSDBSZ0JQUEk3azdTaUFkdkZVa0Q5SEdxZ3JjTzc4b2F5M1NrMEVucHQ2bVQwLTRhbEEtRERLU0Z1NXVteHNGMko3WDBOSEJ5LXptSm95alNPVEFMTW9fX1huWl9qeHFZSE5YYWZoemowS0hCOUg4N1FERGk4eVpHejF3V1B4SGc3eVVtYk5oRHMzMHlnTFA4eUNRak9GVWg0VQ?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-06-03T07:00:00+00:00",
-      "summary": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation&nbsp;&nbsp;MarkTechPost"
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
+      "source": "TechRadar",
+      "published": "2026-03-29T07:00:00+00:00",
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "The Best AI Models: A Comparison - Built In",
@@ -171,11 +122,60 @@
       "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
     },
     {
+      "title": "UniSound Joins Top Tier of Chinese LLMs with Token-Efficient U2 Foundation Model - Pandaily",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFoRHRSREtPVmcyMXliVzNDVE9JT0pNcF9vV1BndzgxLW1iTVk1Uk5UTkVZSjZhcU9yaGdIQUI5NmJUR0FRN19ueTQzQUVuUkd4YUNXM1ZhZnBndll3ZzlKVXhlVktzNW5VbDN5SDc2YVk0OUl2RjY2S3dMQjBzeG9wNA?oc=5",
+      "source": "Pandaily",
+      "published": "2026-06-09T08:28:07+00:00",
+      "summary": "UniSound Joins Top Tier of Chinese LLMs with Token-Efficient U2 Foundation Model&nbsp;&nbsp;Pandaily"
+    },
+    {
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
+      "source": "The Robot Report",
+      "published": "2026-05-11T07:00:00+00:00",
+      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
+    },
+    {
       "title": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications - SK텔레콤 뉴스룸",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUNIcVlCanRNVG1TTE5Da2kzWU93UmRkbmlteHBNRmd0SkJhN3Z1RzhpYjBIWXNqd2ozSnZtM2YtOXJPWXdlZy13?oc=5",
       "source": "SK텔레콤 뉴스룸",
       "published": "2026-05-14T07:00:00+00:00",
       "summary": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications&nbsp;&nbsp;SK텔레콤 뉴스룸"
+    },
+    {
+      "title": "Launch of the First Open Large Language Model for Latin America & the Caribbean: LATAM-GPT. - Access Partnership",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaV9zUVVTdTY2TmhjY0JOQmd5SEs0d25BcjRwRjFvdGN1a2NWMjVPS21WcmVuQ3ZCLVQ5SVhWTHZQVXlVVHR1QzVpUExNcUZaRmtvWFNuMVUtWDFyclBhRi05d2wzZEc0NUVkZy16Uy1GQzBiQzJ6VnhQTVJhZC1uYU5xTl9pQWlOcmhGWVk1ZzhvMmpZS1dCOGJGVm9iX3FyQ0ZBZ2JORzAxRTlvelZHX1ZWRjVmR215S0ZYaTdscURLdWFU?oc=5",
+      "source": "Access Partnership",
+      "published": "2026-02-12T08:00:00+00:00",
+      "summary": "Launch of the First Open Large Language Model for Latin America & the Caribbean: LATAM-GPT.&nbsp;&nbsp;Access Partnership"
+    },
+    {
+      "title": "Musk: Grok Foundation Model V9 nears release after training completion - Caliber.Az",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdU1XY1FzdS1TVjZMREJGeWlkd2cyNzBxdzk1RXFLdW5ud0NSelVlcHpGZTBkYlFueDZDVmE0NktYbXRJVWhwdEx1QS01X1puSDVYWTZLS3NLNkdpR3FDZTF4bW5JX2hZUnk3dWpwZXJ5Ty0yNV85RlNHNS1MNGNvRGdJdkFBYkVQY3lLN2RQTno4aXhxRmx5aDRobHc?oc=5",
+      "source": "Caliber.Az",
+      "published": "2026-05-26T07:00:00+00:00",
+      "summary": "Musk: Grok Foundation Model V9 nears release after training completion&nbsp;&nbsp;Caliber.Az"
+    },
+    {
+      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFYNGZyckh2M29xNjctTlhkeGgyVmFEQjREc1UtTjdwTEtqWVpZdnhKdXlUVXFaQ2RHQkdvajJuRGtkRkhHVDVnUU5GTlNMMmVqY2YyQ2hCZ2J2ZlcwN25IZEc2Rmh4a3IxbFFLUjN3a3hVTUFKcE5fc1h4T210X3VLMU5oTUt2VGFFbmZGTWwxVXowMGxHUjkwNkxrUnY4czB5VjNFWDJoUjRURjlaOUMyWHUxRWtJb3c?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-01-28T08:00:00+00:00",
+      "summary": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Taimoor Hassan: Developer of Qalb, the world's largest Urdu large language model - The Auburn Plainsman",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjJCdHBnanhMWVhRTWJLekdMYkVWY2JvbUxqbHZDc1paOV9XTXJJUWNTUU1BYTNXMm1QU3RuenR0OVd3elJxalA4Z2pPVWFDbDhIUkFwVnhVMm5sQWM5WTNQank2ZnZseng0ZXNMc212cmZURjB4N1JqdlJTOUtNa0kyYm51T0NzSXhnTl96amNzWkc2SlY4c0k4S2pCdVJSSzFIWTRGTGVTRUl0blE2N3pScU1SSGdmQ2ZFdmw1UQ?oc=5",
+      "source": "The Auburn Plainsman",
+      "published": "2026-02-23T08:00:00+00:00",
+      "summary": "Taimoor Hassan: Developer of Qalb, the world's largest Urdu large language model&nbsp;&nbsp;The Auburn Plainsman"
     }
   ]
 }
