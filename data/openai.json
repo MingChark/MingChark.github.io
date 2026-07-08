@@ -1,47 +1,26 @@
 {
-  "generated": "2026-07-08T08:35:22.279376+00:00",
+  "generated": "2026-07-08T14:24:11.582905+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-08T03:19:00+00:00",
-      "summary": "OpenAI set to launch most capable GPT model after delayed rollout&nbsp;&nbsp;ReutersScoop: Trump administration lifts restrictions on OpenAI's GPT 5.6&nbsp;&nbsp;AxiosOpenAI to Roll Out Top AI Model Globally After Limited Preview&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTkxeF8tdmdaMFhaSjhMemJ5eE9UdEotZ3JtNl9FYXJnQTdVaEpjbnNhaTBtNXAzQjZybW8tcEw2WWEyNlpNR1NvdG4wcXJsTDk1dU1WM3JfOUZ3OHBXbEJ3RWV2aFlmS1drUXlfZnNESDhURG9UblNCOEJIMlBET1VHY2kwbFBLblFYSXZWeTA?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-07T21:30:00+00:00",
-      "summary": "OpenAI’s Chief Futurist Is Leaving the Company&nbsp;&nbsp;WIRED"
-    },
-    {
-      "title": "Microsoft Cuts AI Bill by Replacing OpenAI and Anthropic in Software Products - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmVkUGZZbVN6Y19WeHVsX0xvNHFLMUhIR2ZGRlVrQ1MwVjB0cVhGdXdRb2hNdXBNZzE2S1pSaEluNjV4Sll0V1N6QVA2NHNieWxQUmRQTElMbENxdmplNmQ5Vm91bXZkc0tpeFFZSmFIZFZXQXRyaFVFak1MbUFLZVJ6NlVjRmxCcjVxX0VSQmt2V1BseHFOdE1nVFY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-08T06:58:00+00:00",
-      "summary": "Microsoft Cuts AI Bill by Replacing OpenAI and Anthropic in Software Products&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5",
-      "source": "Forbes",
-      "published": "2026-07-07T10:30:00+00:00",
-      "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals&nbsp;&nbsp;Forbes"
-    },
-    {
-      "title": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnZYNDNjeUh0NFBnbDJGMDlzUTl1aUxuUmRSdmk2czVTcjRFNlRtNEtxcmJ3ZkpDRTVZMWRYNDV2bUdCN3lBS08xckFmUWtOdGU5TDZOdXRxcmgwNjBwS3NSWHJDTnJHM0dFQWFiUVBxRjRnRlBKTmc4YU9Rd3ZDY2VoUlBQT1hWLVdZREwzYlRIejBKdHJHdUJxMTA1eGxadkNhRVdLd9IBrAFBVV95cUxNMkQ0UTNWOW9Bd2VLUHhBMEs2blBfLUFuMmpPNzRNaGJtcXo0dlNQWmUxM2tiRlI5ZGVianVwNDlSY0tkR1VhbGJkWElSdF85UTJCVXExX2toNUFxVjJISWtfRWJobWlpM3BuX3RSdHY5bjZKbnlYQXk5d2NNd2ZYQlNKYzJsRFhxTVdhdzdQc212bzJQTDdqS1oxNUxiQWhMWXNvb3NhY2JTOXIw?oc=5",
+      "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem_SAbABQVVfeXFMTmVxUzkzSXlkQTVxOEFyeDNuTDQxV0ZVV05pRENKRXZrTmRLWnZET2pFbm15ZURsbm1ZbmpCMmdMZkdXNHZYYjN4ME1pWV9waGt5aDY4SHh4Nno5V0NfQmZsU2U3YzFtVUtIN2lOYmpvc1JueHpXWTVQRE1obC0yR1E4dlJXNm9INmhQVU5YYkJBM1gwTElpcW5YY1ZsM0lfaGdDbFdxMlFhNUNjTFJlYlA?oc=5",
       "source": "CNBC",
-      "published": "2026-07-07T22:51:08+00:00",
-      "summary": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year&nbsp;&nbsp;CNBC"
+      "published": "2026-07-08T12:48:17+00:00",
+      "summary": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits&nbsp;&nbsp;CNBCScoop: Trump administration lifts restrictions on OpenAI's GPT 5.6&nbsp;&nbsp;AxiosOpenAI will publicly release advanced GPT model after government-requested delay&nbsp;&nbsp;The Hill"
+    },
+    {
+      "title": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTlLUFhqUTVNZU90LWJLT3ZOeXRscy02N0RIM21ZQTNGWlkycDNkZ3M0ZFlhd1RlOE5zYjF6VlhyQjJ0THljcWhLUnVBT3hmWVF2cmF5TFBwejZJLUlzVFE4M2d0OG5ZMlBjNUN4Y1dybjFnWVpleE1hcEEyX1hieC02ajZ4UXR0dkpFQVVqTU9iSDhpa1pWSkljZkw3MkNiTFhmTHFNWVZqaVlkNlBaMVNQQlE0ZXloSmNfYzB4ZzlxSkFI?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-07-08T13:26:06+00:00",
+      "summary": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "title": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5",
       "source": "WSJ",
-      "published": "2026-07-08T08:27:34+00:00",
+      "published": "2026-07-07T01:00:00+00:00",
       "summary": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share&nbsp;&nbsp;WSJ"
     },
     {
@@ -52,17 +31,17 @@
       "summary": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak&nbsp;&nbsp;SemiAnalysis"
     },
     {
-      "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWdtT0ZVa2thRi0xQ1F5SV9oWUcyNUpBYmVFc0cwV09vbk84WW1POFZLWUJUUkp5MFNYVWlMZ0Q0d2YxdGhmT1pJaHNpRXljT2tUcHV1clFlZmVGcHpfZkYxMVVQcHlUR3VqQUlnaW9sVFNLU3M5TGtqV3hObnZOdTZodGJiUF9YZTl4QnRNcEtaRmhNUzM5UGVmcDdfZ2sxU05Ja2ZIS0wwUk1pT2xOV3FUamVHUdIBuwFBVV95cUxPcFdyMlA0N2ZDXy14Y3E5VzRwb3ExankyN0dvai1rRTRrMU53RnhCNkJRRHV2NmgzX29TTVdlQzNENkV2T04yclVDVWxCX3JMN1Z6aGNJQVNvVzY4ejBVbk14SWtSV2FnQlY4RUZ5cDczZFlkOUVKZjFWQUpZUXB3emJBemowZDBhZFVXaHROZGl4NUZ0Wmd5ejNrZDkyaUNzYWFFNFJWTEhDX2Nhc3lFZE0yQTNfZ0lGU0FZ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-07T20:22:10+00:00",
-      "summary": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings&nbsp;&nbsp;Al Jazeera"
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTkxeF8tdmdaMFhaSjhMemJ5eE9UdEotZ3JtNl9FYXJnQTdVaEpjbnNhaTBtNXAzQjZybW8tcEw2WWEyNlpNR1NvdG4wcXJsTDk1dU1WM3JfOUZ3OHBXbEJ3RWV2aFlmS1drUXlfZnNESDhURG9UblNCOEJIMlBET1VHY2kwbFBLblFYSXZWeTA?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-07T21:30:00+00:00",
+      "summary": "OpenAI’s Chief Futurist Is Leaving the Company&nbsp;&nbsp;WIRED"
     },
     {
       "title": "Canada province preparing lawsuit against OpenAI over school shooting - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQVZfSWxFdUhvaGktaFVpZEI5MmRKWXhCcU52THJvRTRGVG82TElfaFBTalROeHFJaXlJTUFIMG5TbDgwOGdhdF93ck5Ca2Z6TUJrWXZPTllrTzB3QVJ6WnpKWTVOeFJIbTBRUGRXX2pZeXhGTnVuWUcyZDNTU2JHekU0V01zdmxJVF9VZVpGeWxIVDRPTUh6OHYzSk8yd05FWXlJNHpiczdEd0V2d0tfelQtUU9JSlR3Mm10WkRDYWJ0enVxSW4wX01NRkFTT1pkclQzaHIzbjBrM1k?oc=5",
       "source": "Le Monde.fr",
-      "published": "2026-07-07T05:36:08+00:00",
+      "published": "2026-07-07T20:59:50+00:00",
       "summary": "Canada province preparing lawsuit against OpenAI over school shooting&nbsp;&nbsp;Le Monde.fr"
     },
     {
@@ -73,39 +52,25 @@
       "summary": "B.C. 'preparing legal action' against OpenAI in wake of Tumbler Ridge mass shooting&nbsp;&nbsp;CBC"
     },
     {
-      "title": "Hot job alert: OpenAI is hiring an investment banker, paying up to $205K plus equity - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1VBdVJ1Y3prZjlUT2R4TzRpMU5rOW00MmZfeVF5eU1aVHhWdVh2ek96aXM4ODE5MW1Dd2hxRkIzSGl6QXFIeEVZb3A3NVhPT3lnUjM2bW5lSnRwVGtERXVvcHNQeGE0UVU4YTZ1Wm0yRWpOS3BzbXFScThTWnBMYUQ3NUI3a25vdnVCRUhQRU9MYzdlcmphYV9lUEVkQQ?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-07T16:08:00+00:00",
-      "summary": "Hot job alert: OpenAI is hiring an investment banker, paying up to $205K plus equity&nbsp;&nbsp;Business Insider"
+      "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWdtT0ZVa2thRi0xQ1F5SV9oWUcyNUpBYmVFc0cwV09vbk84WW1POFZLWUJUUkp5MFNYVWlMZ0Q0d2YxdGhmT1pJaHNpRXljT2tUcHV1clFlZmVGcHpfZkYxMVVQcHlUR3VqQUlnaW9sVFNLU3M5TGtqV3hObnZOdTZodGJiUF9YZTl4QnRNcEtaRmhNUzM5UGVmcDdfZ2sxU05Ja2ZIS0wwUk1pT2xOV3FUamVHUdIBuwFBVV95cUxPcFdyMlA0N2ZDXy14Y3E5VzRwb3ExankyN0dvai1rRTRrMU53RnhCNkJRRHV2NmgzX29TTVdlQzNENkV2T04yclVDVWxCX3JMN1Z6aGNJQVNvVzY4ejBVbk14SWtSV2FnQlY4RUZ5cDczZFlkOUVKZjFWQUpZUXB3emJBemowZDBhZFVXaHROZGl4NUZ0Wmd5ejNrZDkyaUNzYWFFNFJWTEhDX2Nhc3lFZE0yQTNfZ0lGU0FZ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-07T20:22:10+00:00",
+      "summary": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "title": "Palantir CEO Alex Karp is paranoid about Anthropic and OpenAI. That doesn't mean he has nothing to fear. - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2stcnlNanVCSUpZa3NLV1czMk5ocXVRMjRxZWhkWVh6NkZTT1RvVUF3V0gyVXpKdWlFSjFHZ3duVUNtaV80UkFPVjRIZ3d5a051bnFFLUlsYmttWnl0X0ZTNnFISFdCSm1JQXVuNzFRcERDVXpFdWFsamMwdkJWbV9ybE1rdGdSMk5MVURfQ2JqeG0xUFM1QzNfc0QyWjBXLUNDLWp4R05RRWwyWkFFQjNCLXlZNVhWRzVTa2xSZjZsaTYzTlhoNg?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-07T18:42:00+00:00",
-      "summary": "Palantir CEO Alex Karp is paranoid about Anthropic and OpenAI. That doesn't mean he has nothing to fear.&nbsp;&nbsp;Fortune"
+      "title": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5",
+      "source": "Forbes",
+      "published": "2026-07-07T10:30:00+00:00",
+      "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals&nbsp;&nbsp;Forbes"
     },
     {
-      "title": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUx2dVFRSmJVMUV5dWR0cDg4SGQ1MnljZEtmQWpROTRaRjJreVYzYzZoVkVjalliLUJrNV91Nk4xcjNwWFFheEJvTFFsVVBTaGVvNGtoenZEcTJnWE01VHh2NUdiTXFDZUZzeU9kZXdQc3JwMUtOaVRncEMxLWZNYzBvQ09BV3NtdnplMXBBVEFSR0NiM3Q1Ung3ekx1MWxhTkRkOA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-07T15:15:34+00:00",
-      "summary": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUZkbGszNF83RWNtT29kcEhLYzlsVml2MXVMVWVsUGVGQW1VYm8zcjJ0anZFNFp6UlNtWDFBTzRhMnVmVnNpMHZWeTNnUVNYb0JEbGF5Rm1aR183cWNmYWVlQmhuNEZUcWxINTFUOTRZSzFoM09YUFJzb01HUy1ZX1p0YlB1LTFLaTBfelBKUWM5RmVHOVE0TGFTdHkyQnlNbTFUWG1IRjFqZzJwOVUzV3B4bEp5blRTV0E?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-07T15:15:34+00:00",
-      "summary": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-07T16:19:46+00:00",
-      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps&nbsp;&nbsp;Yahoo Finance"
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWZsXzVqRGZtOENYUnJjY0lRWEphTUJQYW84dGEwNmVqbmRkNU5FUmtNak1ra1pGNFZEUXJjSmh4djVzdmtfeDc1TERlVFVOWTZCU2tmRHc5blBFd0MxSFAxWUoxelJwR1V1c2ZiZk96aE9fUUllN25weGJhV0VFNWFiMmxYanlial9TUjh2cG03ZU5XUVV2eERNYzRqRVBO?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-08T12:00:00+00:00",
+      "summary": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
@@ -115,39 +80,11 @@
       "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta - Georgia Recorder",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNF9IZXRsandrWFFfTEVwS25uaHhsVzNVZko1bWNEOXJkeWt2czhsaWVMYVREaEZRamY2SmhYOERuWm96aDFrWUFPTVVoMDR6X1NtMzJpWEllN2hZX0FjWEZKREsycDVHQnM2ZU42X0d1ZGpRcnlyYVVJdDdvby1oN2hqRlBDNnFfMks0OUVscmt5b3MtcVdCZ08wc2VaSnVS?oc=5",
-      "source": "Georgia Recorder",
-      "published": "2026-07-07T19:32:38+00:00",
-      "summary": "Kemp holds meeting with OpenAI and Georgia Power in Atlanta&nbsp;&nbsp;Georgia Recorder"
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JOHRUWm40a2RBeFhtVlVoZkJnXy1iNWdvLV96YVpuUi10QlVFMzljRC04a0J1QWFMTTFzVkYxRzJST2dXSWVNRlVMNTJiQ2xxTU5qaUpSUnlMeDZ6SWxz?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-07T18:51:55+00:00",
-      "summary": "Australian Payments Plus moves faster with ChatGPT and Codex&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI To Launch New Model After US Freeze - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFqR1BqN2xYdlhzZUNWZmlfNGsyT3Q5VlFxaHZ5eDA1V0pFUW5wMXdkc0VYV0lSV3BWSDZmbkFyNW5WNWV5bVFYN2l1VzJRZjVSUk9NVExHaExGQXQ3dUV5eFJNVkd2UGoxVm5SSXZlQ25LOHl2YmVjcnhsMjJqdHQ2aWJuWUU?oc=5",
-      "source": "Barron's",
-      "published": "2026-07-08T06:02:00+00:00",
-      "summary": "OpenAI To Launch New Model After US Freeze&nbsp;&nbsp;Barron's"
-    },
-    {
-      "title": "Canadian province prepares lawsuit against OpenAI after school mass shooting - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3JnVnF0YUxFYzFISnNYSnRyRlFSeDl5QXFDSVRQVmlhRGRJTU91cUVGT2Y5UTNvQjVuem9wbWlwRzBNbmt0by1UZ1lYZi0zWkFoaXVjekdZR0txeHRIQjBFU083S3M5WHBNVWpMeG8zQy1LOGNzTkpqM3NHdEFUQ3N4QVI0M2kybzRpTm4zS3BiaGhPRFd4WmJMcG5vUlVBWkowV19NTXFWSDJaNFdFWnVaWllrZUZWZVhEWndlSFdkc3YxdUtDVWtmMURMSEhmSGZBYzl5cTdkWkRsaWc?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-07-08T06:57:37+00:00",
-      "summary": "Canadian province prepares lawsuit against OpenAI after school mass shooting&nbsp;&nbsp;South China Morning Post"
-    },
-    {
-      "title": "OpenAI and Anthropic are pulling in different directions - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHNzZ2V0ZXpkaWZfQnFxd29qS25VZGJWUkVQNmZYX18yU3pLVmdHQUNlajdMSlBaM2dXZ3pVVmh5dEdGRzVmOVB2WDR1bnU5TW9ZaVdGbXJCamE4c1NOczBRVUZPeDZUakFqMm1XRUtueDdyR0FHbzlQNnE0a2V1NlM0MDBnUllranF4T0RB?oc=5",
-      "source": "Help Net Security",
-      "published": "2026-07-08T04:00:42+00:00",
-      "summary": "OpenAI and Anthropic are pulling in different directions&nbsp;&nbsp;Help Net Security"
+      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-07T16:19:46+00:00",
+      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Microsoft is reportedly ditching OpenAI's and Anthropic's AI models in favor of its own to cut costs - SiliconANGLE",
@@ -157,25 +94,88 @@
       "summary": "Microsoft is reportedly ditching OpenAI's and Anthropic's AI models in favor of its own to cut costs&nbsp;&nbsp;SiliconANGLE"
     },
     {
-      "title": "Trump puts brakes on OpenAI’s newest AI model - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lT1BsS3p2WTBfakRQOHBha3hDbDRHWEJOaEhYZGhSc19jOGxxa3R1aXpGNGZybmF6UC1IdERXVWxqNXBxV2VyRnQ4MWF4cWxzZTR6ODVmLXVKWDVHNWhja0EyZVdJbjBXRTJiR3g1cHFfVTItbkVTbjVrakNyUdIBgwFBVV95cUxNZEsxTEthdWJaOW5pM2M1U0pTdkZXTDdqZFJDbDdSOUYxU0hTRGx5ek9xVWpUcWlsNkQ2ZVVJWnBBc1duZGFHTUkxQlFQNjhlNmpuTWl0OE5yb2xVVEpwcUxmYW9HR3RkNWtIMldlZjBEYk1PYzJuM2h4TEY4cUxCbEZXaw?oc=5",
-      "source": "Fox News",
-      "published": "2026-07-07T12:34:19+00:00",
-      "summary": "Trump puts brakes on OpenAI’s newest AI model&nbsp;&nbsp;Fox News"
+      "title": "Kalshi bets shift to Quantum, semiconductor stakes over OpenAI government deal (OPENAI:Private) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGpIRzA1Tmdxby1oc0hsdU1vNWVYZ2NPMF9QNFFqclNkbHZRVTlwdTNQWGdVVUJlSkNhMDJfQ0pLdmNFYU0tdWhhX1FlSHlUVDFwWDVoaTl5UXVDUm1Gd2RNMmFPX3ljMk1aMlRlaENMUTI2ZGNaamp3MHJCVGxYVGJBRDdnVFNTVTA3c1I5c1V3VE5sTHQ2NE1BQk1zUHZpT25ZTHdtQWNaZVpsNFJKbWNDSU5fQQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-07-08T05:54:24+00:00",
+      "summary": "Kalshi bets shift to Quantum, semiconductor stakes over OpenAI government deal (OPENAI:Private)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-08T03:19:00+00:00",
+      "summary": "OpenAI set to launch most capable GPT model after delayed rollout&nbsp;&nbsp;Reuters"
     },
     {
       "title": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkJjbmJYcHZ5YlJvN2hNX09UWVBLWkxEekdZS1o0UnRFRy02OXAteWVacGRFTnp3Y05FTm9OS0hBN09IbURYNjQySVlsZXhod1NOWV84ZkU2OFJ5UjJUdTlmek8tUzk4OU44YkhVdzRKa2QwOWM0UDhZUlZqRUwxdWQ2a1BUUDVlRlVnWC1HQm41ZjNkbWNNdg?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-07-08T03:18:00+00:00",
+      "published": "2026-07-08T03:34:00+00:00",
       "summary": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Anthropic and OpenAI Face a New Threat from China - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGFXU3Q0TDd3WERsRnF6dEZvSW1KN0o0YVc2TUptU2YzWmpBZFRvNVpKR0E0WmZHdzZVbVpGaS1ycTIyZmtOY1Y0SGpsY2Z4WWo4eVB1M2NMMzRzZ1ZmdEdhbnhlNHdOc3ptakgtU0tDSHpqbjFyU2lTMHZtbDQ1R3duNGhfY19RLXlKcUtUWHB4Y2xYWWpYSjhXUXdyY0tPYlJPUms4dUx2X0dQYkl2bzV3ZXg?oc=5",
+      "title": "OpenAI Gets Permission To Roll Out GPT-5.6 To The Public On July 9 - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZzA2al96aTNZalpfMDB3WThPZ3c3elNOWXEwR1ZEZlZNYjhoTGM3TVcxanV5VkwweERQYThiaWVMQlBYZUM5LVhRdFVTVWlYQWt3ekw5QWh3VGloZ1Q5RldpSGd2RG43bGYwYUt0MGdpUQ?oc=5",
+      "source": "Engadget",
+      "published": "2026-07-08T09:04:16+00:00",
+      "summary": "OpenAI Gets Permission To Roll Out GPT-5.6 To The Public On July 9&nbsp;&nbsp;Engadget"
+    },
+    {
+      "title": "The Tide: Kemp, OpenAI, Georgia Power meet - Georgia Public Broadcasting",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEtFaThndGJlMEZQaGNWc25ndWJVempweVpCU1NyMXdRSGNNVDlHQjBOc2UwSV9Na0p6eGFleUlaRE9yU2JZajl4Ty1zbVh0RS1OYzc3elFFQ2lyVE94ZkVwOGVBRWhwQWRtV1JMU2wtTW9uVWhfU2cyeGV2SnRXYw?oc=5",
+      "source": "Georgia Public Broadcasting",
+      "published": "2026-07-08T13:26:32+00:00",
+      "summary": "The Tide: Kemp, OpenAI, Georgia Power meet&nbsp;&nbsp;Georgia Public Broadcasting"
+    },
+    {
+      "title": "Anthropic’s Political Risks Are Real, but OpenAI’s Loom Even Larger - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEE2d1dUWTdCR09LRUJLTXk5NGtuY3BqSUVZY2dNd3dmc3VBZk9CWWtQVFhUNDRNaFVITkdoZGdXeXlkY3J4dnZfWXdsSWs0S2hlakZvU3JubmtJOVFoNmNoM1hTLXpLeHlNVTZYdU5CNjA5TDZnOGktaUR2NUlXZ1hNOUFrRE5CdG9sMnVSSExoRGVQWjdsdFBUS0RwakdTa3JN?oc=5",
+      "source": "WSJ",
+      "published": "2026-07-08T09:30:00+00:00",
+      "summary": "Anthropic’s Political Risks Are Real, but OpenAI’s Loom Even Larger&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 finally set for public release after delays - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83b2JlcGVmOWg2dGVTNFExa1dSVEE3bVhyc2JocVh5ZFN3RTJpU1M5NEdhZ3FOU1lVbzdfYkNwTVlnRzhlbWRueHVjTExUaXlMS2xiQnlVZW1kOWx0ZkF6Z0ZfRzNJdVZGVzJR?oc=5",
+      "source": "Mashable",
+      "published": "2026-07-08T11:12:15+00:00",
+      "summary": "OpenAI's GPT-5.6 finally set for public release after delays&nbsp;&nbsp;Mashable"
+    },
+    {
+      "title": "OpenAI's most advanced AI model is breaking free — and colliding with Elon Musk's latest Grok release - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVhReTJfTFN2SEtJNXJ1TTBEaTF0STl2dVBvZzBDemFKTmFUWEctNm5NS195SEY1MXBxRjQxcE1qUnNOclBQNENWREFOQ0ZESnUxdGhIa21IcEhwbW5xdGdhRTlGdkZaTTNvMHozdEN1U19rUjhwSnRQNE5pbE43ZUR0b09lNXo4NjhXejFqUXZLVnduTzc0?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-08T10:49:48+00:00",
+      "summary": "OpenAI's most advanced AI model is breaking free — and colliding with Elon Musk's latest Grok release&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI, Meta and xAI unleash flurry of new AI models this week - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUktIWTh5R2VnbXNXVkUycXZOLW90cWtMMWhxOFphOGk2SkFLRHBZQVU3dnNYYmJibTRPTXB3a1hNNDNjazdnZFR0SU1zWFVjODhUaWhoTGxGb0tmWnBja1k4MGdtMTZYVUZkUURFZUVya0hNc3F0U2JpdV9odHpSbTE1Z0NkVzJhMFNDdWZlbWJVd2tJNk1Bb3ZVMWZEZWtEODFkRC1lWHB4NGc1TE5KNGd3?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-07-08T12:54:35+00:00",
+      "summary": "OpenAI, Meta and xAI unleash flurry of new AI models this week&nbsp;&nbsp;Euronews.com"
+    },
+    {
+      "title": "Exclusive: OpenAI deployment arm to acquire Northslope - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWVncFk3aF81WnNxd2liXzhuNGYzWDJ5RWlvSWxJdXMxUTJwaEs1dlp5bTBQNW1VZHkzcVBieURJcjVvRHJ4dnVZUlRrcmhsaHFHdEpFbUNubzl1cDRqdXVBUjBXbkE0M2lETk02eG9BRDFoY21TSEF5b05UWmV5akJ4dl9NMmdP?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T13:29:30+00:00",
+      "summary": "Exclusive: OpenAI deployment arm to acquire Northslope&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0ZFM2NvTjZLaXJXcFBseG9VUHQybUlsaC1iN25JUnpXYWVfdjlnc3owOFd6TmRsV3lYZklreTM4b2xBeWFJVU5DMkJSSmZEYnY4QjNvSHdwTXF2MDhtd2s1eDJyU3dQVzItOEwybGI0bDMzOEg1Q1NFRU1fQWNCLWtxV0x2aGRHR2ZmeUx4X1U0aUZ0Q2g2UF9DTGlHd24wRzFTZXpGOG90U21f0gGyAUFVX3lxTE9sQlg2TVI1enExbkVyaEpUUDB6Z1F6UzVGU3lncHo0SGlqMlhPaGJCekhLT0wwa3BCNXhQUEVMd3NzWXdnbjIyd3BSTEVaWXV2RFQzN0FfbWVMTTFGUUdYRklVVFlRaG5raUZsQ0Jnc0NKaGh1ckQxemgyYnp3ZkdXbDBwRkZpbWgzZE1HVTROSmYzNEt0b1dIdnF5ck9BQnZrMXdLejczMEVSZWo0b0lLVmc?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-08T09:28:50+00:00",
+      "summary": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ25Yd29LczFQMUd3Wi1PdWxlUmlxdXU0cTUzVlFFT3AyZUZVNWk4cjBreW1lV3VLZGNXbmpfdFp6Z3p6eE1sY3N4VzRuQ2g4QUYxamRmSF9tSlRlVkxET0hMV0ZuMVVZQklwaTJKNzJjM3ZkeVZmMkhTOVg0RHFFYnlVSFBCQmc2T2VXZW9iYUQwa0FYb1ZsNkNKOUxvdk9NY01FWjd2YXJ4eGVtVVZnVE9Rcw?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-07-08T04:00:00+00:00",
-      "summary": "Anthropic and OpenAI Face a New Threat from China&nbsp;&nbsp;Bloomberg.com"
+      "published": "2026-07-08T07:33:32+00:00",
+      "summary": "OpenAI to Roll Out Top AI Model Globally After Limited Preview&nbsp;&nbsp;Bloomberg.com"
     }
   ]
 }
