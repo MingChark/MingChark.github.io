@@ -1,41 +1,76 @@
 {
-  "generated": "2026-07-09T09:52:26.725640+00:00",
+  "generated": "2026-07-09T15:18:34.217857+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1FRRGcyemJMc1RsLWZmcGlSZTBuakxJU09mS0k0dW5pLUthb1YzZ01uZURoQTdGR3RUVzhMRDN4Q1JwaWQtVVBkbWt6Ykx3bkpOM3hJMlozLWRFQS13Q3Jrakk3S0FuQThlUg?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T17:54:50+00:00",
+      "summary": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6&nbsp;&nbsp;AxiosOpenAI to publicly release GPT-5.6, rolls out conversational AI models&nbsp;&nbsp;CNBCOpenAI launches GPT-5.6 Sol after U.S. government approval&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "Altman Says OpenAI Made ‘Many Changes’ During Talks With US - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkFwdWF6R3pYRnZzS0xfQjhPbjY5cWxkYnNDc05heEd4OTFkQmttQk5OSEowYjhOYVFFbVpLVXFmNXZJRmlwRjd2cGhzMFlEaGdmNXZ1LU5HdkF5WTNtWjZyNHVNczEwaHZfUUo1aWJ5N1N0N3I4X1M4ZjllRUZHc3g3bVVOR3hNLXVONEQ2b0JSSzRUUGE5RFZQU2N4Tm5qTmZyemtseGxUS1lr?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-07-09T14:59:56+00:00",
+      "summary": "Altman Says OpenAI Made ‘Many Changes’ During Talks With US&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWtheGUweDRNcWxRX21XOFlFXy0tTktDQ0xJcHVjQzVkaTJiNHZ0dlNRd29IaXZKNFhVNXEtUzlyNnpiTk5HbXh0YlpFdGlHanlDUGlHeW0tRVBnWkYxX3U0U2RyMVlfMHFFY0tKUTFGc2VjbWc0TmNqeW5GMmx4SUxIY2toNEU0QlFMVGhCNFFfLUxMRmZsTHRaUFhmZXhVYndKZmx6T1BfTTFVaUJ3?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-09T14:51:00+00:00",
+      "summary": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI unveils national security framework amid AI arms race - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbDl1VGJyWW5yNUtSSmluc2hCSzh6dkFCaVU5bS1qMHlVbVRBbEN2bFNIUU1UNW43WDAtWmNOQ3hnbGtxNHlQQ2NiUEFSS3puR1R5MUZHWlFERUk?oc=5",
+      "source": "Fox Business",
+      "published": "2026-07-09T14:22:56+00:00",
+      "summary": "OpenAI unveils national security framework amid AI arms race&nbsp;&nbsp;Fox Business"
+    },
+    {
+      "title": "Airbnb hires a new creative VP from OpenAI - Ad Age",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUFka3lLQ291NmU0aG11VEtzSjBPQm45ZVFnRTdnVDlDLUNaeTNEemNTZmszOUF3dy10b1ZnRG9MeWFTRDlvMS1CeTdFNWpWaWxQeU93QUZlTTNfc2toUFNQZmtFanFuSTQ3U3lnV3FzYnpRMFZtTVF4MWl2ejg5bQ?oc=5",
+      "source": "Ad Age",
+      "published": "2026-07-09T15:00:00+00:00",
+      "summary": "Airbnb hires a new creative VP from OpenAI&nbsp;&nbsp;Ad Age"
+    },
+    {
+      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzctaHhzekRWS1BZVFlGZFk0S0JKTjZ4NXhKQjFYUk9uRzkxYnR5R19LbTdWWmRKSW91djdGQkl1T213bXUteUZmd3lFTWNNQ0E0bXBFS0pSSC1jUDBGWkhNVldOUzhTcG9XWG40b2t1MkRZRDhMLWZSeDZEN1JXMURsNFRtYWdycHk5cUhQMFE0R2FRZzJ1N1E5RWRkUGh4dk0wUg?oc=5",
+      "source": "SFGATE",
+      "published": "2026-07-09T14:58:53+00:00",
+      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight&nbsp;&nbsp;SFGATE"
+    },
+    {
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-09T14:40:32+00:00",
+      "summary": "New York Times and Other Publishers Ask Court to Penalize OpenAI&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Sun Sentinel, other news outlets seek ‘serious sanctions’ against OpenAI in copyright suit - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaG5Xa2h4ZGpxNFlWczZWUW1xSlhLQmJsLVdqYzFzVFJyanVPY05RMXlRZ0pDc2F6ejg1N0EzcjBBTGM0LXQxRDJJUXVFdTdHLUwwc0tVZU1qcnZDM2pHa0FNbkFKcDI2ek1YTUNfZGUtLVZBN2ItY0szcDk0Z3Bjemt1VmIyNFVnN0ltOFE5Y1RTQzFyQ3dDRG5EeTUyTGF1TjIyNF9oLVR0YzBTNno5ODZUQ0F3cTFfNDlyclBFQWpENGdrM2pJ?oc=5",
+      "source": "Sun Sentinel",
+      "published": "2026-07-09T13:56:09+00:00",
+      "summary": "Sun Sentinel, other news outlets seek ‘serious sanctions’ against OpenAI in copyright suit&nbsp;&nbsp;Sun Sentinel"
+    },
+    {
+      "title": "Universities Fret as Anthropic, OpenAI, Meta and DeepMind Lure Their Professors - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFhSeWtFSk4xODQtaVlyUFpMX0FpQU5ZaGlZU1hhQk9QTGpUaVpMQzdxdFllbGE5NmpHbGJrR3J1ZE4zaUhialhmcmJxODIwTkdjSVhmaU5vZ2pOTDJVcXNqcUgtb3BvcGZEWmRYNnY0cm1NN1dheE8xeHhLRUxvSUt0c0tER3lwSk5KSlJreEZOM3dYQTg4WXpJNFNQTW1RTko5Umk2U1A4dnRJUXVsQ1dsYlhwWU84?oc=5",
+      "source": "The Information",
+      "published": "2026-07-09T14:01:00+00:00",
+      "summary": "Universities Fret as Anthropic, OpenAI, Meta and DeepMind Lure Their Professors&nbsp;&nbsp;The Information"
+    },
     {
       "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVlaSTZoTXpkSzNxQVZzeGk4NTlqTS1hY2dLMlJ1SkNoQ0VqSXE0SFVOVWh3eGgwXzJpeDF4OHhoU3hpMUFkUnRQT0N6Q3Q1OEdHdmJNQ1NvQ3BLd2dhZzBuNHZmTWlsWnpSNmhqVzRZWnBsUTZHNVlXaXJSdGtWYjVlbGFSNkJiNTNrOTZjalhhSHM2ZTJKX2I5bS0?oc=5",
       "source": "The New York Times",
-      "published": "2026-07-08T18:36:58+00:00",
+      "published": "2026-07-08T14:22:38+00:00",
       "summary": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem_SAbABQVVfeXFMTmVxUzkzSXlkQTVxOEFyeDNuTDQxV0ZVV05pRENKRXZrTmRLWnZET2pFbm15ZURsbm1ZbmpCMmdMZkdXNHZYYjN4ME1pWV9waGt5aDY4SHh4Nno5V0NfQmZsU2U3YzFtVUtIN2lOYmpvc1JueHpXWTVQRE1obC0yR1E4dlJXNm9INmhQVU5YYkJBM1gwTElpcW5YY1ZsM0lfaGdDbFdxMlFhNUNjTFJlYlA?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-08T12:48:17+00:00",
-      "summary": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models&nbsp;&nbsp;CNBCScoop: Trump administration lifts restrictions on OpenAI's GPT 5.6&nbsp;&nbsp;AxiosOpenAI to release ChatGPT 5.6 models & 'GPT Live' on Thursday: What to know&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Anthropic and OpenAI Face a New Threat from China - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGFXU3Q0TDd3WERsRnF6dEZvSW1KN0o0YVc2TUptU2YzWmpBZFRvNVpKR0E0WmZHdzZVbVpGaS1ycTIyZmtOY1Y0SGpsY2Z4WWo4eVB1M2NMMzRzZ1ZmdEdhbnhlNHdOc3ptakgtU0tDSHpqbjFyU2lTMHZtbDQ1R3duNGhfY19RLXlKcUtUWHB4Y2xYWWpYSjhXUXdyY0tPYlJPUms4dUx2X0dQYkl2bzV3ZXg?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-08T04:00:00+00:00",
-      "summary": "Anthropic and OpenAI Face a New Threat from China&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXBTQUJrdG1zUHF0SWg1Vi1VNHlnUXVRalRFT2dtbWRYNm1OWHc2VWRiZFVweGJ4cTJ6eGpBMmVKMGpRNDJxemdCeFZPbVhWaU9pdTBCd2lRaHZiMFhlSVp2MUJYUHl0dU85c2YtanpGV1lZYlhMRVJpNnRqWFNQZjJvUmhFQUdHWjJDOVNjS1ZkbXgzRm1OLW9zVnF2UDRCZjFn?oc=5",
-      "source": "Politico",
-      "published": "2026-07-08T17:35:00+00:00",
-      "summary": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "BofA Extends $520 Million Loan to OpenAI - The Information",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWxTWEZaVlI2QjJkeVNFZDFyYUpxeVhUZ190UldoWE90dS0tRFNUaWJmdTFjNWpteHVnLTVIbHFjQ3V1Z29ZQWVMdW9EMkY0UWw2TWJqamdjY0J1bjEzY0tVSHlSWkdEQWNCZERCSzB1WU9qMHZ1cWh6dGw1eHhzbHJRVQ?oc=5",
-      "source": "The Information",
-      "published": "2026-07-08T20:40:00+00:00",
-      "summary": "BofA Extends $520 Million Loan to OpenAI&nbsp;&nbsp;The Information"
     },
     {
       "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
@@ -45,32 +80,32 @@
       "summary": "OpenAI launches GPT-Live voice models that listen and speak simultaneously&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTkxeF8tdmdaMFhaSjhMemJ5eE9UdEotZ3JtNl9FYXJnQTdVaEpjbnNhaTBtNXAzQjZybW8tcEw2WWEyNlpNR1NvdG4wcXJsTDk1dU1WM3JfOUZ3OHBXbEJ3RWV2aFlmS1drUXlfZnNESDhURG9UblNCOEJIMlBET1VHY2kwbFBLblFYSXZWeTA?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-07T21:30:00+00:00",
-      "summary": "OpenAI’s Chief Futurist Is Leaving the Company&nbsp;&nbsp;WIRED"
-    },
-    {
-      "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDNnMmg0STN0VXg4aUE0M2N0YXpZaGtaRmpMX2poX3JGNkZpSW5VQU1IbldXakRpeGpDa1MxX3I1dm1sZnNjZ1JxOUU0NUtHU0tnS2dFVkhpQjcwOEt2bUhIdGdOQTh1a2VrbGpNOTJ1Znhzc1hTd1dIRWQ3QzYyaWw2LXF4NEozSlFpbklYblNhcENTcE93WU9Nc3B1WDVHR2lONzBISWluYURQQzZvNGs3cERtdUtPWk5MX2JYdnF5NnRLMXNuVExUNHBocmlZNEhN?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-07-08T22:00:00+00:00",
-      "summary": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI&nbsp;&nbsp;VentureBeat"
-    },
-    {
-      "title": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5",
-      "source": "Forbes",
-      "published": "2026-07-07T10:30:00+00:00",
-      "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals&nbsp;&nbsp;Forbes"
-    },
-    {
       "title": "OpenAI releases new voice models for more natural live conversations - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGFnMjFvVFZQejlWdFNQQkdmQ2U3T24xeHd4bFhZWFhBanlnOUxKVzZiei1ubmJTYU9XREU0N2taTjZnbUZBbUw4Q3VkMDZFcmxUT1NlemZobWY5QmR2QVR5LVEyVnhOQ2NSa2dqdW8yZmpKTHV6VkU2bkVWeWVxakdVb2liMG84TTM3Unp3MW5jaVE2enN2eHBrTzVUZXBsaXdwOFV3?oc=5",
       "source": "TechCrunch",
       "published": "2026-07-08T17:00:00+00:00",
       "summary": "OpenAI releases new voice models for more natural live conversations&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI bets voice will become AI's primary interface with new models - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjFjX2Vfc2RrZTNYN2NjZHY2VUUtX2czeUoxbDlpa1E5azVYOGhnaVVLdkNiRmZoMFRiWmRKMXhUb3lseUwtb2lSNlJfVWJhZkhSMXM5TEYteElmYU5SRXo0djhvZGJEQ2RVY3h5NHRsOGJveWJveFVUa2JxaDhGVElaY1QyOEVaZlFFeGhXYmFHT0x4cTExOGNocDVhcUhtWUE?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T17:00:52+00:00",
+      "summary": "OpenAI bets voice will become AI's primary interface with new models&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXBTQUJrdG1zUHF0SWg1Vi1VNHlnUXVRalRFT2dtbWRYNm1OWHc2VWRiZFVweGJ4cTJ6eGpBMmVKMGpRNDJxemdCeFZPbVhWaU9pdTBCd2lRaHZiMFhlSVp2MUJYUHl0dU85c2YtanpGV1lZYlhMRVJpNnRqWFNQZjJvUmhFQUdHWjJDOVNjS1ZkbXgzRm1OLW9zVnF2UDRCZjFn?oc=5",
+      "source": "Politico",
+      "published": "2026-07-08T17:35:00+00:00",
+      "summary": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-09T14:12:09+00:00",
+      "summary": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Separating signal from noise in coding evaluations - OpenAI",
@@ -80,67 +115,18 @@
       "summary": "Separating signal from noise in coding evaluations&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI's GPT-5.6 finally set for public release after delays - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83b2JlcGVmOWg2dGVTNFExa1dSVEE3bVhyc2JocVh5ZFN3RTJpU1M5NEdhZ3FOU1lVbzdfYkNwTVlnRzhlbWRueHVjTExUaXlMS2xiQnlVZW1kOWx0ZkF6Z0ZfRzNJdVZGVzJR?oc=5",
-      "source": "Mashable",
-      "published": "2026-07-09T08:35:32+00:00",
-      "summary": "OpenAI's GPT-5.6 finally set for public release after delays&nbsp;&nbsp;Mashable"
-    },
-    {
       "title": "OpenAI to release its most powerful model after weekslong hold - Politico",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaktIbTk2MklTUGhwZnA0RWxLalc2X1NpQWN6bzR1bGFIYjFCelhqOG9hbm42OGlSMDd3MWw3S2R3ZzlrVDd3OXFRdVZBQjZ5SG1oYlBOOUxKWWg1LVA2MmRCNXdNMVR1aVI0T3l1SlNVcFY0NUppTzBsZVBQcG5QZ0Zn?oc=5",
       "source": "Politico",
-      "published": "2026-07-08T13:48:57+00:00",
+      "published": "2026-07-08T21:03:00+00:00",
       "summary": "OpenAI to release its most powerful model after weekslong hold&nbsp;&nbsp;Politico"
     },
     {
-      "title": "OpenAI’s advanced GPT-5.6 models to be publicly released - Nextgov/FCW",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzRybjYyeUFLV2dRWXR6US15NzVDOFBpYUlFV1N4Wl9KeW9kcFRPRWRYSXZoalBac1FKSkZCYWRiMmU5VEFQMlkwRGZWLVJnanRfU1lLSnBKczhud1I5aWsyNzRrbExPaGZRQzBSRnB2QkJlWHhxZE1VRkRscmFOcXA5bHJtbjJTaXE3Wmt2ZnFMY3hNWXVTMTAwSnc5d3l2eDhvdEtSRkdyQU52MU1Jb21JMjA?oc=5",
-      "source": "Nextgov/FCW",
-      "published": "2026-07-08T19:43:00+00:00",
-      "summary": "OpenAI’s advanced GPT-5.6 models to be publicly released&nbsp;&nbsp;Nextgov/FCW"
-    },
-    {
-      "title": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTlLUFhqUTVNZU90LWJLT3ZOeXRscy02N0RIM21ZQTNGWlkycDNkZ3M0ZFlhd1RlOE5zYjF6VlhyQjJ0THljcWhLUnVBT3hmWVF2cmF5TFBwejZJLUlzVFE4M2d0OG5ZMlBjNUN4Y1dybjFnWVpleE1hcEEyX1hieC02ajZ4UXR0dkpFQVVqTU9iSDhpa1pWSkljZkw3MkNiTFhmTHFNWVZqaVlkNlBaMVNQQlE0ZXloSmNfYzB4ZzlxSkFI?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-08T13:26:06+00:00",
-      "summary": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JqU1F6NXJfWW9yNkxPc0FRME1nbTZhaWN1ZW9JNzRFVWRsWlVXNEMyNVhoR1dyR1lUVXFZUkxya2FVQzhFTzZQc1NMVGVjTTBkd1Jpc0tSUnd6aGJWVGdBUWRpdDFhTTk5QlZfa2tfcDBJaFRiVXJ6WFFaWHdHNndPc2Zva0VxYnZwODY1U01WQ2dmNjdfUFlfQkx6U0hXOS1RVHFCellqNFBL?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-07-08T23:28:58+00:00",
-      "summary": "OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release&nbsp;&nbsp;SiliconANGLE"
-    },
-    {
-      "title": "Exclusive: OpenAI deployment arm to acquire Northslope - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlFZVDE3YXVSODlEbXpZV2M1OFVUeXh3OWxPeHJDbXlRUHJPLXhjeXZ0dzBVdTdLQWxvYVMzZlZZSFhENURNQzRMbEkwMGFYN00yTlNJUW9Bc09hc1B3Ym1hS3VTUUFrTXVyNkRpSXBjYk1LWXd4NmZ6MTBrMG5HOVFIakxRaGNqSjQxdDdKb1hTR2lpV3lkVWg5SWNNdjNhTVZiMU9R?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-08T13:29:04+00:00",
-      "summary": "Exclusive: OpenAI deployment arm to acquire Northslope&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI set to expand ads to France, Germany and Ireland - Digiday",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkRvVlN2aUdNN2hyNGpPTldTOTk3NlIwUU96MHZxZE16R3Bpb2VrdFpLSWd4cFgybzdjTHVBY0ktRFlRa2dGSTlKVjJxdnhtaHROMHRJcnJjMEpGb3ZXMnZRUU5Rd1d0Wm5jazZ0MWE0SnJfdDU4ck1SZDhiWE1RVE9mQ3V2YWNRbFBqeHBR?oc=5",
-      "source": "Digiday",
-      "published": "2026-07-09T04:04:56+00:00",
-      "summary": "OpenAI set to expand ads to France, Germany and Ireland&nbsp;&nbsp;Digiday"
-    },
-    {
-      "title": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026 - MediaPost",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pUbnBpeHgzOTRDNzJ0UGVfdFlwSnBmY1cxMC1PWnF3eHJXeFE4bV9FVjdrRGstWnAzQUhPZmtsX0NJMDNxRVhGRTNOSjBiam1KY2VkaXpVQ3BLakdQbGZ6VGNBMThIWFBnNVd6N1VsNE8tdmxYT1ZhRjdaQjN0QTlIUHJHR2ZaZlZSbGtGNFh1TndEcF9hZm11WGN0NUtWQ05BaVVyR3Jodw?oc=5",
-      "source": "MediaPost",
-      "published": "2026-07-09T01:28:43+00:00",
-      "summary": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026&nbsp;&nbsp;MediaPost"
-    },
-    {
-      "title": "Our approach to government and national security partnerships - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-08T21:01:37+00:00",
-      "summary": "Our approach to government and national security partnerships&nbsp;&nbsp;OpenAI"
+      "title": "Orlando Sentinel, other media outlets seek ‘serious sanctions’ against OpenAI - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2NjM1ZFYnhPYnFJQVVnU1FVOExyY2lwX2dJRG56SGpCalpmMzNnZFVmNHR4bUZzVmsxdTBiOUFqSUFNb01VUEx3dlBGLUpvU2lqVVg0R0t0UndpRVdNU003MkQwUkJKVG9JZndRb1RuWDRBcVA0MjVUNVB5X1ZBWDNFZXMyNnhORWlGakJmZ3ZMalhkSlJoS2YyakwxWk16ZmQ5a2RTbHpuUzZQakJKeEdhMXFRMWVZN0E?oc=5",
+      "source": "Orlando Sentinel",
+      "published": "2026-07-09T14:22:23+00:00",
+      "summary": "Orlando Sentinel, other media outlets seek ‘serious sanctions’ against OpenAI&nbsp;&nbsp;Orlando Sentinel"
     },
     {
       "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says - Reuters",
@@ -150,32 +136,46 @@
       "summary": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Opinion | Did We Make the Wrong Bet on Big A.I.? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlBwMUMwQW5jWWF5MnlWTUVGam51dUd2QlVZa1dsTWJQa2xIajNrMVJoVHpwT29MbU5ORUlVZ1NhcFB5OTBzVDdSTm01aEt2WHAzUlFud0phU3RrSUY5TUhVU25haHpiaFFUakc1WWRsZkYtUkJmNGw2bV80aTl6bVd4QkhvUTVldTJR?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-08T19:00:05+00:00",
-      "summary": "Opinion | Did We Make the Wrong Bet on Big A.I.?&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI launches new system the Trump administration initially put on a leash - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hzXzRZLXlLd1BTbS1mWWF1SjVUUHZwTkZQcEZyQll3aW15TkVtQ1pHV010X1RORi1RWnZvRUtqbDFZYUJzSGp6b1VuZUdHWVU0ZVFrWkhzNTM0aTZ5RnlPVmpRSXd3bldEOXZxSnliWkZNQ2FBN1NnRzByam9vNVhVZU4zak5FVmlsN2ZPM290cXNUcUN4NG0yazBVbXpNTVY3bFRlYm9tQ29IVnF6Sy1n?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-09T14:55:11+00:00",
+      "summary": "OpenAI launches new system the Trump administration initially put on a leash&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWZadmVQb3NCUEZleTdpQ2pQUk1obGZ1SG5pQmx3bXVFUWdHS1g2eWVBYzNvSS1lVFdkZU1oajBwUm5BNUlaOXZ4dTZfUE01aTNtRkRScVpXanYxLWoyTTYzUDRmSDk3dGhIZFpXaG91M1A0bDBPdGlHZ0JpRENTc3cybXVGUVY4blgycEdjajBKY1ZDd3c0RUJxMDIzeGcyTnZqLURZVUZVX3RNN3ZFTXhPcngxSFlJaUc2YU0tSzRVcm14ZGpsaDdB?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-09T04:59:00+00:00",
-      "summary": "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong&nbsp;&nbsp;Reuters"
+      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - WKMG",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORy13TXdsakxTdG12Y2FLWHNfWDFJbEpabVA1MWJYZWZvdllBVXdLLTRpMndjaDYzeTluMWFhT1g5Smt2ajdRQXhGajhrQjB5SE5Yczdnd1JmOHlhRC11dnc2YXJ5SmwzUHk1UlZlMEswbFNoZEd2TDk4akRHUUVuS0dyMHYtdEJQcDlweGw0MFBJS0NmeU9Mckt1OWJCdllsd3l6RmxXRlNPZ1lrQXlFLUloajV4dGV2dExOTjJBYWdBS0l6TmI2bi1n?oc=5",
+      "source": "WKMG",
+      "published": "2026-07-09T14:39:30+00:00",
+      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight&nbsp;&nbsp;WKMG"
     },
     {
-      "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
-      "source": "EdTech Innovation Hub",
-      "published": "2026-07-09T07:35:19+00:00",
-      "summary": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations&nbsp;&nbsp;EdTech Innovation Hub"
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTkxeF8tdmdaMFhaSjhMemJ5eE9UdEotZ3JtNl9FYXJnQTdVaEpjbnNhaTBtNXAzQjZybW8tcEw2WWEyNlpNR1NvdG4wcXJsTDk1dU1WM3JfOUZ3OHBXbEJ3RWV2aFlmS1drUXlfZnNESDhURG9UblNCOEJIMlBET1VHY2kwbFBLblFYSXZWeTA?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-07T21:30:00+00:00",
+      "summary": "OpenAI’s Chief Futurist Is Leaving the Company&nbsp;&nbsp;WIRED"
     },
     {
-      "title": "SpaceXAI's newest AI model Grok 4.5 dramatically undercuts Anthropic and OpenAI on price - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2VPaERBUFVOU2Nmb2tBemRDUlJLU0lsbDFnU05xWkxuaFpBSXRZQ0dOa0JuNUY2VGRkM2hENnptM3V3WDB3UDgxQ3RuVzBmV2N5NHF2LXY2aVllTmFHZHptcU93Wm9PYjhaTk9wYmdETXJFLXVFazViN0JYcmRuaE5QaVB1U3FmbWdtZlpFa08yd0tvODJDR3gydjV0VXMtaVZrNmcxc3Y0MjF6R2F1R2xjQlZLMzZS?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-07-08T23:35:27+00:00",
-      "summary": "SpaceXAI's newest AI model Grok 4.5 dramatically undercuts Anthropic and OpenAI on price&nbsp;&nbsp;SiliconANGLE"
+      "title": "What Happens if OpenAI Delays Its IPO to 2027? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWdOOTBIM1o4X001UEpTN0VzUTJhS1JyWnhJZHJ4UDdHSExrVEpvTmxZUHNtYUY2OTZZTExtRmR4d0t2aDBGQnZ1SnVCa1U2WVBaTGxRRm03Q1RSMm1NWDNidXktX2QzS0FKSmJ2S28xZWZYQmJaMGU1b2R0LUp6M2hLUndxZVd6c1FCd19aZw?oc=5",
+      "source": "Morningstar",
+      "published": "2026-07-09T10:12:56+00:00",
+      "summary": "What Happens if OpenAI Delays Its IPO to 2027?&nbsp;&nbsp;Morningstar"
+    },
+    {
+      "title": "Our approach to government and national security partnerships - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-08T21:01:37+00:00",
+      "summary": "Our approach to government and national security partnerships&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-09T14:00:01+00:00",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI&nbsp;&nbsp;CNBC"
     }
   ]
 }
