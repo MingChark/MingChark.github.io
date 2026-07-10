@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T14:36:39.949155+00:00",
+  "generated": "2026-07-10T19:38:41.559802+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,17 +17,17 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
+      "source": "Venturebeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
     },
     {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFJBTkV0dE1NQ0w1VnJiUTliNno1X2VkUXNsRTZ2QWhzcWZ2V3ZxUnZmdF9NSDQxbFNTczVsZXBYWWVsQ20xdm1sX3pKRkZtUGRhOEIxN196WjdNYlBYczBGWnM4eVk3NEx6QnhnY21mRXVWdXFrNTNaYkUxYkhyTk1Ocno0MDIyd1pYZkQ5bUFKbThsc2dEakF0TWo0Y0dYbWtfR3hpN0RTd3gyZDlrYUNSLVZVa1VyWXc?oc=5",
       "source": "Morningstar",
-      "published": "2026-06-29T07:00:00+00:00",
+      "published": "2026-06-29T14:30:00+00:00",
       "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Morningstar"
     },
     {
@@ -66,11 +66,11 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
@@ -108,11 +108,11 @@
       "summary": "AGIBOT releases GO-2 foundation model for embodied AI&nbsp;&nbsp;The Robot Report"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -136,11 +136,11 @@
       "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
     },
     {
-      "title": "Densing law of LLMs - nature.com",
+      "title": "Densing law of LLMs - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2025-11-06T08:00:00+00:00",
-      "summary": "Densing law of LLMs&nbsp;&nbsp;nature.com"
+      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
       "title": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology - GlobeNewswire",
@@ -164,18 +164,18 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnRpWXM5aWdGR2lFdGk1cXh1WnhOTUwzUXZLQlpFRVRZZFBmSzViRG80a0xyYVRqVmp6Yk52SmtsUTRFNVZncFR4LXF5ZUszOV9JWm1zQy1nei1PdGYtNm1LRUxBaWJpVFJwNmw3MFBabER2NzBTamxBQTR0ZEpLOUJzOVlfRm1SbzBHU1gwRHh5cVI2WWczQ2p2OXlLYmt4cmZkdElrZXJ2V0ZQVGc?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
       "title": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkt1MlU1dVRiX28tbUk1RDF5Y3NGMXBiMXUzN1lmek5RaFJHUXA1RlJyQ05yWlI2VVU0VTZ5OFloYUt5cmNwTHlQTThseUt4ZXVYTDRVdUo1bmw2eThLdUVXYTNBOUdfaDFKWS1DNVJ2ZlRaVXBMX1lIUl9XbzBfMnhBTUZBZEFSOG5CRy1ydmRkTnRTSExVd3I3ZVNrX0xnbVQ4MUdKMC1TT2JoVjRPTXJRWGl0Y0t4SXhCTThkYzdaYnV0aVRZa2NRZnhhaXRiNUtwNWtSV2hzMzRvdFhUY21HaFhJNmkxVkE?oc=5",
       "source": "PR Newswire",
       "published": "2026-01-15T08:00:00+00:00",
       "summary": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     }
   ]
 }
