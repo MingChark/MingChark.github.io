@@ -1,70 +1,7 @@
 {
-  "generated": "2026-07-10T09:42:18.895218+00:00",
+  "generated": "2026-07-10T14:36:39.949155+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeERIbXdhZzhIUDZWWTd5dlpjTmxLWE1XMm0xYm1hS1MyQVJFSWMyMjRRNEx0enU4Zk9KMFc5MDVDQTJZZE5QTWdOU0QxYUItMUhIbUlDNFpxTEhnRU9nNnBfRHJQNnpuVU9PbExIU3RNaXZMNDJ6d3J0RnlCSGcxZkwwbnVwYm9SU2FGMU16SWVlcmlEOUNEbnNWTQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-09T19:40:45+00:00",
-      "summary": "Meta enters the crowded AI coding battle with Muse Spark 1.1&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-09T14:00:01+00:00",
-      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Meta Takes Aim at Google and OpenAI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3VzXzc3aWpIZEdKakRhQVVPWmJrRUxNRHo1eVFnYnAtVGNYNW1qYzhoYlZPNmtDeXByaVlNOVJUcDZ6SklSQnd5cmduOEtEU2hQcE9WRVNFM2wtdl9NZXB5eUFKNjhaWXBlNi1tcWJfQTRCSnVBaENqbHNOd0hLX1ZXR0pVOFQwdmlGazB1cmxHZURFbFg4?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-09T18:56:01+00:00",
-      "summary": "Meta Takes Aim at Google and OpenAI&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYUY3MDBTNXpNM0pkRldURVUtY0NTejJvZkpqMzF3WmItZ3FxTHhNYnU2eTl4NlRQSnpLQzFkNXJaX1FnaHVseUVNNVhlZUU5ZTlORHFaeWUzQXdTaWJNdjVyWF91dzYxVnZLVTNKR0hBbjdhdHZj?oc=5",
-      "source": "Axios",
-      "published": "2026-07-08T15:03:14+00:00",
-      "summary": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model&nbsp;&nbsp;AxiosOpenAI launches its new family of models with GPT-5.6&nbsp;&nbsp;TechCrunchOpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI thinks it can break our screen addiction. LOL, OK. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGl4RnhVZF90Znc0dkFxVVRwZWkyQU13NTVRY3FjZk9xNXh0bjVfOGZ1akt6OC1DMzdHbVV0OUY1UjNoeGtkMFpHYkxYdjdveG9tSEZkQVAzT1hOLURTR0JiV0phLWZxdmR5blVkelBPcGFfdTkzYmJaZjEtM1VjNExTS05kRmUzYUJN?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-10T09:05:35+00:00",
-      "summary": "OpenAI thinks it can break our screen addiction. LOL, OK.&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
-      "source": "Financial Times",
-      "published": "2026-07-10T04:00:51+00:00",
-      "summary": "OpenAI and Google sell AI models to blacklisted China groups&nbsp;&nbsp;Financial Times"
-    },
-    {
-      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5",
-      "source": "AP News",
-      "published": "2026-07-09T18:45:00+00:00",
-      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight&nbsp;&nbsp;AP News"
-    },
-    {
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXFpTkd2WERrdTR0STd4MGZKQWZFOHByM2k3ZkxZazhvU0QtS19HQlY2a1dGWVlkQ1lQalJyQUhMRlZtUHllNlVfX3JNbzlDbzJ6Q2kzV1cwWE10dndHUG44ek1FaHN2Ul9Cdkpmb2tJd29hSjNBNG5FUXdmZUY2T1lPOHBDblhBZ3dkdEM1WXRuYXE1MjZSNG1Qc2pPU21GejNkOUpxYUVTQXRwSzcwX0FaNGVqT2dFNERoYnJB?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-07-09T18:57:53+00:00",
-      "summary": "OpenAI may have made a fatal misstep in copyright fight with news orgs&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-09T14:40:32+00:00",
-      "summary": "New York Times and Other Publishers Ask Court to Penalize OpenAI&nbsp;&nbsp;The New York Times"
-    },
     {
       "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXAyZko3MnBtQTNYZ0JTdW9Cd05oQTdnbmdpY1phdlE2SzRsaW5fUGU5YXFtU1Q3M0FfcEl6TGRYWXRTVWJIM05odHFDRlNTM0VtQVJ0Qjlwa1V3QXM1WnNzX29iRzh0UlFMSE9iZmFVcUZqb080a2JtalJCVmJXcVRQaEN1Ymw4bzc5R1VqcjJhbzFWeFlFU0lXZVlYRGxRRDVMQlBQOTZGQ3BTTlpLNDE4bi1WQ3ZJZnQw0gHAAUFVX3lxTE1yNmZROThMck9kV1JKMjlwQnVVUVRSRnRIUFRXR3dMNUVPSkQ4dkhDY3pMQ0dLYUtySEJ0WUkxemp3cjJVQTdncEJCNW8yQjB1bWotbDFtVzhyajZrMERfRmdwY015UHhYT3dDaEk3bTVJNlNXRHdSNjR1azN3RHQ3cmdpdTNKelB3OHNUako2czMyZWViVDZUOUIxWDJ6QndTQ25ROEVoSWhUbE1VWWJBZTQyaXg4ckNrZVZndkFrLQ?oc=5",
@@ -73,11 +10,11 @@
       "summary": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0E2SkZ5bEhBSXVqaEZsUmVfVGpJUlRLeXVtdHJCY2Zfek1aRFlyTW9YblhWVDkwMEdoX1FMNzltQkU1Wk1uekZjamJINjluVDRVT29IR0N4NzRrRWZ0NDBzUXA0c0dWbnJ3QUpVLXQ2WW5pcjBmM1E0MDI5M01lMG16ckhIZw?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-09T23:38:00+00:00",
-      "summary": "Fidji Simo steps down from OpenAI’s no. 2 role&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI's No. 2 executive stepping down over health issues - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDY3dHJrZkJpZUdWYkNJWE5UR1lxQm4xdW42QXdFYnR6cXo2Z1dEUnk1ZFUtUHk4ME1ELUw4U21NOGlOQWNWRWpGZV9ibGtVcjhwTWlmQlJreW04WnRwZXI4emIzTDFpMDhNRlpTanNYYXk0VlRMM0taSUl4NGx2aw?oc=5",
+      "source": "Axios",
+      "published": "2026-07-10T00:44:20+00:00",
+      "summary": "OpenAI's No. 2 executive stepping down over health issues&nbsp;&nbsp;Axios"
     },
     {
       "title": "A Top OpenAI Executive, Fidji Simo, Steps Down - The New York Times",
@@ -87,32 +24,46 @@
       "summary": "A Top OpenAI Executive, Fidji Simo, Steps Down&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "OpenAI wants its new tool to do your work for you and with you - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnFDTmZZcmcyV1dYbERYUXVsSXF5dUx0bm9pX1JhMUM5UGtnMG1XRkNreG5LYkNTVnlwWlRFOUpveVFsSnZPRlY3QjlaOWFxRGpaR0hYLVhOSFEtcHhFUGZjR2s0U0lmUHJGbzl3dU45eFlnNHhCaGNLUk9kbGpTenpvMkxmSEp0dXdlem9hNWtVRTV2M1hFZUhUa0RFSFk?oc=5",
+      "title": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
+      "source": "Financial Times",
+      "published": "2026-07-10T04:00:19+00:00",
+      "summary": "OpenAI and Google sell AI models to blacklisted China groups&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXFpTkd2WERrdTR0STd4MGZKQWZFOHByM2k3ZkxZazhvU0QtS19HQlY2a1dGWVlkQ1lQalJyQUhMRlZtUHllNlVfX3JNbzlDbzJ6Q2kzV1cwWE10dndHUG44ek1FaHN2Ul9Cdkpmb2tJd29hSjNBNG5FUXdmZUY2T1lPOHBDblhBZ3dkdEM1WXRuYXE1MjZSNG1Qc2pPU21GejNkOUpxYUVTQXRwSzcwX0FaNGVqT2dFNERoYnJB?oc=5",
       "source": "Ars Technica",
-      "published": "2026-07-09T21:25:55+00:00",
-      "summary": "OpenAI wants its new tool to do your work for you and with you&nbsp;&nbsp;Ars Technica"
+      "published": "2026-07-09T18:57:53+00:00",
+      "summary": "OpenAI may have made a fatal misstep in copyright fight with news orgs&nbsp;&nbsp;Ars Technica"
     },
     {
-      "title": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0thSlktZFNQczNzVGo1bWp1Vm03a0szLVN5Ni1fdjhaTmlTUkR1VWwxMldWRkhQZVUzbHpKWnFFZHFqUFZtV0c4emNKSkkySEQ5X1ZxV3JDMkpzb2pMSk1hNXBnVmw4ZnhPMWd3cjBZeXpHZUV3QjJ5NklTUTBhb2I0dnQ5c3pJVXFzM3dJU2NldlJiMUlZUzFnVQ?oc=5",
-      "source": "PCMag",
-      "published": "2026-07-08T07:00:00+00:00",
-      "summary": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch&nbsp;&nbsp;PCMag"
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-09T14:40:32+00:00",
+      "summary": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGQ2djVLNDh1enQwZm41WEZqNkktSE0weHRxNW1fZnBIQ2lCUElFVldQQ0prMmM2M05Td2Z4LV8yYlBpZ0w1M2F4WlJjYXhjcV96RGFFMk00eEV0LVRzaE01dFdEbnZoLWZ6Ui1PeXlKeXFrTmV1VzFjZWpsVVBQLURySUlXa0dpRWVncENORVBSODFlUjFOM3hURVBpOG9pTUowcmwwUnlPQWhLMXF3NA?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-09T22:03:54+00:00",
-      "summary": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing&nbsp;&nbsp;TechCrunch"
+      "title": "Orlando Sentinel, other media outlets seek ‘serious sanctions’ against OpenAI - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2NjM1ZFYnhPYnFJQVVnU1FVOExyY2lwX2dJRG56SGpCalpmMzNnZFVmNHR4bUZzVmsxdTBiOUFqSUFNb01VUEx3dlBGLUpvU2lqVVg0R0t0UndpRVdNU003MkQwUkJKVG9JZndRb1RuWDRBcVA0MjVUNVB5X1ZBWDNFZXMyNnhORWlGakJmZ3ZMalhkSlJoS2YyakwxWk16ZmQ5a2RTbHpuUzZQakJKeEdhMXFRMWVZN0E?oc=5",
+      "source": "Orlando Sentinel",
+      "published": "2026-07-09T20:22:12+00:00",
+      "summary": "Orlando Sentinel, other media outlets seek ‘serious sanctions’ against OpenAI&nbsp;&nbsp;Orlando Sentinel"
     },
     {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDMtYlI2S0Y2TThOS2FjOFZsbTNOa3g0N3N5a1Z4TENVeDl2RWR1djN1ZFBiaVRfU2k1akpicWtKN2RDS1RzMHM3NFVVMkpoUm1uSmRoQmRURFRONXNuWEYybFdGNkxtZkVySUJhdXJEc01va3hrWHVCOGhKNlZkSzQzNXZfRmdhdFo1NmJfdTM2XzZ5RDI4d3JqdEJCWk10YUE?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-07-09T18:56:00+00:00",
-      "summary": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser&nbsp;&nbsp;9to5Mac"
+      "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVlaSTZoTXpkSzNxQVZzeGk4NTlqTS1hY2dLMlJ1SkNoQ0VqSXE0SFVOVWh3eGgwXzJpeDF4OHhoU3hpMUFkUnRQT0N6Q3Q1OEdHdmJNQ1NvQ3BLd2dhZzBuNHZmTWlsWnpSNmhqVzRZWnBsUTZHNVlXaXJSdGtWYjVlbGFSNkJiNTNrOTZjalhhSHM2ZTJKX2I5bS0?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-08T14:22:38+00:00",
+      "summary": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model - Axios",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYUY3MDBTNXpNM0pkRldURVUtY0NTejJvZkpqMzF3WmItZ3FxTHhNYnU2eTl4NlRQSnpLQzFkNXJaX1FnaHVseUVNNVhlZUU5ZTlORHFaeWUzQXdTaWJNdjVyWF91dzYxVnZLVTNKR0hBbjdhdHZj?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T15:03:14+00:00",
+      "summary": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model&nbsp;&nbsp;AxiosOpenAI launches its new family of models with GPT-5.6&nbsp;&nbsp;TechCrunchOpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies&nbsp;&nbsp;Reuters"
     },
     {
       "title": "He warned AI could lead to extinction. Now he says there’s a better path. - The Washington Post",
@@ -122,11 +73,60 @@
       "summary": "He warned AI could lead to extinction. Now he says there’s a better path.&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYks0cTFOVkphWVZ4Ukdja2lQa3hmTlBWcWNQTmdVd2ZHdmxVUTdHWG1XUWlfamcyZTUxWlB3S3QtcnJwVW4wQ1llUDVBb3RDSUN0X2hETURrYUgxUmkzcE1GcEpUdGZDaE1ibm9pdzhZeFlFeE9UdXQ3V1RCLS1XNHJaaHdWb3BLWlBFMlp0VkpMYXBISXNiWTJDemNQZDV0?oc=5",
+      "title": "Meta Takes Aim at Google and OpenAI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3VzXzc3aWpIZEdKakRhQVVPWmJrRUxNRHo1eVFnYnAtVGNYNW1qYzhoYlZPNmtDeXByaVlNOVJUcDZ6SklSQnd5cmduOEtEU2hQcE9WRVNFM2wtdl9NZXB5eUFKNjhaWXBlNi1tcWJfQTRCSnVBaENqbHNOd0hLX1ZXR0pVOFQwdmlGazB1cmxHZURFbFg4?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-07-09T14:51:00+00:00",
-      "summary": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits&nbsp;&nbsp;Yahoo Finance"
+      "published": "2026-07-09T18:56:01+00:00",
+      "summary": "Meta Takes Aim at Google and OpenAI&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-09T14:00:01+00:00",
+      "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "The Future of Meta Superintelligence: A 1 Year Progress Update - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WRFpTaGNsRms2T3lINnVacGM0eVZJc05sNEdCVy1hNGlna3dvU2FRcVNaRU5lZzgzOE1zY0dPZHM0cllEZ1RaNmo0LWlKaEVNcEJwTDYyUWozbHVlSXJjWV9HdmxJSHZsQndUTTBiRUw5NzZRWWJJTGdwSDFjMlk?oc=5",
+      "source": "SemiAnalysis",
+      "published": "2026-07-09T19:16:14+00:00",
+      "summary": "The Future of Meta Superintelligence: A 1 Year Progress Update&nbsp;&nbsp;SemiAnalysis"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGQ2djVLNDh1enQwZm41WEZqNkktSE0weHRxNW1fZnBIQ2lCUElFVldQQ0prMmM2M05Td2Z4LV8yYlBpZ0w1M2F4WlJjYXhjcV96RGFFMk00eEV0LVRzaE01dFdEbnZoLWZ6Ui1PeXlKeXFrTmV1VzFjZWpsVVBQLURySUlXa0dpRWVncENORVBSODFlUjFOM3hURVBpOG9pTUowcmwwUnlPQWhLMXF3NA?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-09T22:03:54+00:00",
+      "summary": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0thSlktZFNQczNzVGo1bWp1Vm03a0szLVN5Ni1fdjhaTmlTUkR1VWwxMldWRkhQZVUzbHpKWnFFZHFqUFZtV0c4emNKSkkySEQ5X1ZxV3JDMkpzb2pMSk1hNXBnVmw4ZnhPMWd3cjBZeXpHZUV3QjJ5NklTUTBhb2I0dnQ5c3pJVXFzM3dJU2NldlJiMUlZUzFnVQ?oc=5",
+      "source": "PCMag",
+      "published": "2026-07-08T07:00:00+00:00",
+      "summary": "OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After Launch&nbsp;&nbsp;PCMag"
+    },
+    {
+      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDMtYlI2S0Y2TThOS2FjOFZsbTNOa3g0N3N5a1Z4TENVeDl2RWR1djN1ZFBiaVRfU2k1akpicWtKN2RDS1RzMHM3NFVVMkpoUm1uSmRoQmRURFRONXNuWEYybFdGNkxtZkVySUJhdXJEc01va3hrWHVCOGhKNlZkSzQzNXZfRmdhdFo1NmJfdTM2XzZ5RDI4d3JqdEJCWk10YUE?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-07-09T18:56:00+00:00",
+      "summary": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser&nbsp;&nbsp;9to5Mac"
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnFDTmZZcmcyV1dYbERYUXVsSXF5dUx0bm9pX1JhMUM5UGtnMG1XRkNreG5LYkNTVnlwWlRFOUpveVFsSnZPRlY3QjlaOWFxRGpaR0hYLVhOSFEtcHhFUGZjR2s0U0lmUHJGbzl3dU45eFlnNHhCaGNLUk9kbGpTenpvMkxmSEp0dXdlem9hNWtVRTV2M1hFZUhUa0RFSFk?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-07-09T21:25:55+00:00",
+      "summary": "OpenAI wants its new tool to do your work for you and with you&nbsp;&nbsp;Ars Technica"
+    },
+    {
+      "title": "OpenAI Is Trying to Rip Our Screens Away With Its New Device - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGl4RnhVZF90Znc0dkFxVVRwZWkyQU13NTVRY3FjZk9xNXh0bjVfOGZ1akt6OC1DMzdHbVV0OUY1UjNoeGtkMFpHYkxYdjdveG9tSEZkQVAzT1hOLURTR0JiV0phLWZxdmR5blVkelBPcGFfdTkzYmJaZjEtM1VjNExTS05kRmUzYUJN?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-10T09:04:00+00:00",
+      "summary": "OpenAI Is Trying to Rip Our Screens Away With Its New Device&nbsp;&nbsp;Business Insider"
     },
     {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
@@ -143,11 +143,11 @@
       "summary": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83b0RiMGtsRGtWT3dmRXh5SGNqcVl1STZuRWJTRVZzdEliY1hENDk2VzVSek5VMnVGa2NGTGZyeV9MYjI5M1NmY1YwN1FQdnhvX2YwSGo5VDdVUXJPSkF6TkFhTDQ?oc=5",
-      "source": "Axios",
-      "published": "2026-07-10T01:15:11+00:00",
-      "summary": "OpenAI releases GPT-5.6 and ChatGPT Work tool&nbsp;&nbsp;Axios"
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yejA4UXRic0V1dmFFZHNtRlI1bVJ5MzlCLXZWRXVSdkhjV3h3aElSRmpORnBDdnYwTE5ORl96ZWx2VEt4X05rREhOa3NGM3V1Nnh3TGVQRmpQWWpuWUtnYkttd2QwRURJS1NQNnkyWHppdWc?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-09T23:13:00+00:00",
+      "summary": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down&nbsp;&nbsp;WIRED"
     },
     {
       "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
@@ -157,18 +157,18 @@
       "summary": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yejA4UXRic0V1dmFFZHNtRlI1bVJ5MzlCLXZWRXVSdkhjV3h3aElSRmpORnBDdnYwTE5ORl96ZWx2VEt4X05rREhOa3NGM3V1Nnh3TGVQRmpQWWpuWUtnYkttd2QwRURJS1NQNnkyWHppdWc?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-09T23:13:00+00:00",
-      "summary": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down&nbsp;&nbsp;WIRED"
+      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5",
+      "source": "AP News",
+      "published": "2026-07-09T18:45:00+00:00",
+      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight&nbsp;&nbsp;AP News"
     },
     {
-      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-09T14:12:09+00:00",
-      "summary": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC&nbsp;&nbsp;CNBC"
+      "title": "OpenAI unveils ChatGPT Work to automate workplace tasks as AI race intensifies - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzdwWlRGeHQ0dkFYQVlOcWpfSXBpOWJibTZfR0w4TEdNTGpqVjdTQTNNdHRYSERWbmZkWm9wTnlvemQ1WER5RmNicHJyZmdQdDdkZzFDTWhlRF9CbDFSWW45THFrZW55MWM5SU9JeDAtM1p6azhlUXdhcUdNV3BpYTY5eWdKWGJURTJMemNUZUd1a1pkeFlka3l3Z0RnZXlSVk0tTUdEalZ1SmlQdzlJLdIBtgFBVV95cUxPZ1o4SFppNUlKUUJnUmplWUpybE9Sc2dtTVJmUmVFMDhmVi1wNlhoVktoNmJYR2tXSXhtaFZJblJNSEttZDRySzBtR2YyT2pwMk83a1JBaXY2SFNoSFF5ZU05Mzdvc19IMkNrR2hKYlZacjEyYjUyaHlsc19iaktKYzl5UDhST29vYVhXc1JoNFBMVk9YbHRHUkZ1VzBEMndMYW5IQ3dnVkZ5a0d4cHdBY1U5WWgxQQ?oc=5",
+      "source": "Fox Business",
+      "published": "2026-07-09T21:56:00+00:00",
+      "summary": "OpenAI unveils ChatGPT Work to automate workplace tasks as AI race intensifies&nbsp;&nbsp;Fox Business"
     },
     {
       "title": "OpenAI, Google supplied AI models to Pentagon-blacklisted Chinese firms: FT - Investing.com",

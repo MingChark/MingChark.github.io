@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T09:42:18.895218+00:00",
+  "generated": "2026-07-10T14:36:39.949155+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "AMD (AMD) Teams Up With 5C To Build Gigascale AI Campuses - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUM3al8xVnFJVEVOYnVXZGZvdmdzdnhqVUhYOENMTzVrUWJVb2IyZnFLVkxoMzBGY0hsMEN2S2o1OU53NWxJOVVZb1VkVlpWeEdFSURsMHlfa3I0WlJNSnM1THhjVFVvSUlZUWM3bFcwTmtSakh0dUNJUndCbndaRVZTanhsNzExVEs3MU5RMWl0ckZCSUVySFFXbndFckRCZC1qbThRVE1seWRLOUYzc2stZy02dXZLZXdSaFM1MTFTOVNVZUlrVG9vc0ZnWEtoT0FHRk1xaVfSAd4BQVVfeXFMT3M4R2I3Y3I1cm05YXRld2w3WU55OWZ6LWtWbmJGeHVPT1B5SGxCWExCRndfOExfS1J5UzA0cGhNX24xS0E4X1F6N2UyaF83YXZRMjR4bFJzMnJ2NkttOXllLTR3b2RxSWU4dEpfOTdnT2J2Qnd0aDFuWjBLaVZWdHlCNTZOQjkyUUE2dkR3bk5UZlpPOHBPOVFwV2lfZTVFTlB6eTlaTi1uNnNybTA0dTVZV0hjTmtWWGxXQTFEVGlJZ3FrSU5TelBLYmtmbndzMkhmZXg0ZnJfc3JocEtR?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-07-10T11:05:22+00:00",
+      "summary": "AMD (AMD) Teams Up With 5C To Build Gigascale AI Campuses&nbsp;&nbsp;simplywall.st"
+    },
+    {
       "title": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFV1T2YzSTVSX1VVYU56UTVKekd0ak1lU3lqNlJpdTBjM1lWajdEcy16Wm42UXRKVVZsRFZQanBOaGdKS1pycjc1bVBMZmJxSGFmYjRFMmk5Y3ZxYi04RGhaOXZfbnBZSEYtSFZHRFZ4MDk0YzNETUtTbjlmSzFJUzRURVZzX3NCZDBlaVoxQ09nTHRLMUtfMGFSbEtQeHlPWlA4djFTeE1JWVFINm1SSmIxRDI2VUpSZzU5V0I0bUZvUmI4djRJTXJKU0ltYko0Z3Nseg?oc=5",
       "source": "Benzinga",
       "published": "2026-07-10T08:03:24+00:00",
       "summary": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia&nbsp;&nbsp;Benzinga"
-    },
-    {
-      "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - The Korea Economic Daily Global Edition",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
-      "source": "The Korea Economic Daily Global Edition",
-      "published": "2026-07-09T11:27:00+00:00",
-      "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;The Korea Economic Daily Global Edition"
     },
     {
       "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks - The Register",
@@ -31,11 +31,25 @@
       "summary": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks&nbsp;&nbsp;The Register"
     },
     {
+      "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - The Korea Economic Daily Global Edition",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
+      "source": "The Korea Economic Daily Global Edition",
+      "published": "2026-07-09T11:27:00+00:00",
+      "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;The Korea Economic Daily Global Edition"
+    },
+    {
       "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMzZBLVVubkluVkNDXzRtX0Z3U0hDVnFiek9YUTFKeUdpVVAzVHQwRXlRS0lGM2wtNGJka3ZiQ3BsNkQzdllNSGx5dGctZWFiZF9RYzI4SkpUYU5mcTFIWWYwdGJ6T2hEbkZNbWJYTWJLQW10ZDQxN2p2alI?oc=5",
       "source": "SemiAnalysis",
-      "published": "2026-07-06T21:54:51+00:00",
+      "published": "2026-07-06T21:53:44+00:00",
       "summary": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis"
+    },
+    {
+      "title": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSFpqY0toYzF4ZjRCQjExa0lPNlpORkxRbEZtaEpqbnpZeC1WVE5kazlWZlhUTHNTVmhob0JSWTh2UzR5anZ3QVMtbFVpdXdLUWJkRWRDUzE0bW8yS3VHX09jLTZtQmM2VUF5NmluUk9TTzZjVmpHTkRfQnV0c3Q1MXEzaHViaUp0NTBHRXdtdVRVQV8tTUl0cEZZckR0cHktX1RjbGhaanZWNktoODhVbDQxSGFtM1V2cVptSnBaQmljVndKS3B0MXZhb1diT0RpeENSLWtieFV0RndKbnhDbDhOWDJsVXFsU2MwM1NxTVFfbDlSUEN1MEpB?oc=5",
+      "source": "Business Wire",
+      "published": "2026-07-08T08:00:00+00:00",
+      "summary": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments&nbsp;&nbsp;Business Wire"
     },
     {
       "title": "Parasail to Combine NVIDIA AI Infrastructure with d-Matrix Accelerators to Achieve 10x Faster Token Generation - Yahoo Finance UK",
@@ -45,11 +59,11 @@
       "summary": "Parasail to Combine NVIDIA AI Infrastructure with d-Matrix Accelerators to Achieve 10x Faster Token Generation&nbsp;&nbsp;Yahoo Finance UK"
     },
     {
-      "title": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSFpqY0toYzF4ZjRCQjExa0lPNlpORkxRbEZtaEpqbnpZeC1WVE5kazlWZlhUTHNTVmhob0JSWTh2UzR5anZ3QVMtbFVpdXdLUWJkRWRDUzE0bW8yS3VHX09jLTZtQmM2VUF5NmluUk9TTzZjVmpHTkRfQnV0c3Q1MXEzaHViaUp0NTBHRXdtdVRVQV8tTUl0cEZZckR0cHktX1RjbGhaanZWNktoODhVbDQxSGFtM1V2cVptSnBaQmljVndKS3B0MXZhb1diT0RpeENSLWtieFV0RndKbnhDbDhOWDJsVXFsU2MwM1NxTVFfbDlSUEN1MEpB?oc=5",
-      "source": "Business Wire",
-      "published": "2026-07-08T08:01:10+00:00",
-      "summary": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments&nbsp;&nbsp;Business Wire"
+      "title": "AMD stock holds steady as investors weigh AI chip growth and valuation - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekdtdmlSaE5UU0gyWkc5LTRpY0loZjUtZUtFQlZYaGFWWmJVdngwNXJwMzNENDduaG5XX3lJOGl2Qk9OdEo5RVlOeE1xdlNtejlYSXp0a3EwQmxRd1pPYmFfV2o5SWpqYm5oYXFnZ2JoMGR6UERneXJ6bXYwRm55SGNvZjBvSHZ0aVhScV9HeWdFX3BHWmlaX0x1QVFBU2tmVU9QMlFsalF2d016Y1BSMEQtLXlZSktZRDFqY0w1MkR4b0E5c2xDVw?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-07-10T12:52:44+00:00",
+      "summary": "AMD stock holds steady as investors weigh AI chip growth and valuation&nbsp;&nbsp;AD HOC NEWS"
     },
     {
       "title": "Nvidia, AMD chips face further displacement in China from domestic options: survey - Seeking Alpha",
@@ -73,13 +87,6 @@
       "summary": "Nvidia Faces China Shift as Domestic AI Chip Budgets Jump to 46%&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "Meta to Begin Manufacturing In-House AI Chip in September, Targets 14 Gigawatts of Computing Power - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rdEdPS1M4NTh1Z1pJUFlWRm1tWEhqMDA0SFVhQjhsV2U5QzZyd3c4QU1SaWFDRFdMVkZ5Mk5leUpBamZyeFZpcnFYeV9NYVZzX09ZbTBpdjM5d2I4UEY4dFp2ZU9KTFJiMy1manBKWWZaZGZUOUE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-07-09T13:05:00+00:00",
-      "summary": "Meta to Begin Manufacturing In-House AI Chip in September, Targets 14 Gigawatts of Computing Power&nbsp;&nbsp;finance.biggo.com"
-    },
-    {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndJQ3ltQ19yRWw3RHhQaldJYmVfN0RhSEhyUlZDQVhJeDFIalFQR0QwSWxYTnEtY1V1dWtlUFMzei0tSmVlMUNBYnRtVlJCMHBraFhBVTZ4YVdtbXpsakRMdDZiOUZjMHlFbUV4RFVuZTBiMy1Lc3RzanpyRk9DYk1Ta0JDUFZ1QmEzNWlPTWpETlZFWnRhSXkzTDNUWjRmYlJaZmVB?oc=5",
       "source": "NVIDIA Developer",
@@ -101,25 +108,11 @@
       "summary": "China Will Let Its Top AI Firms Buy Nvidia's H200 Chips Again&nbsp;&nbsp;Startup Fortune"
     },
     {
-      "title": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration - AiThority",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVFF3MHZFVWx6dlplRjFwZGtWd0VKWHVxb3JsZWZRTVpEbEFsX2ZtRFNSNjFNZGhRQmJ1aTViYlVoNDVXNVJkTHVNSFBZZVRmM3RLNWVNbFBJVDZwNjB0WWFpNnk2NklJdnJleVl2VldjZ0tOd25wd0tzSWV6dE5wbXJRYXNiczloRkI2UmM2OTFHWWZidHFjSHd4SnVEQ3VfMlJGWS1mTHlTbE9pT2dlQURET0hBVVJIb3o0RVEtM2pEdTFrcGdYRjZtY0FRVjlwYnZiTUVSVjAyWWZpNko3MU9tUVduT0VucjhMZg?oc=5",
-      "source": "AiThority",
-      "published": "2026-07-08T11:11:21+00:00",
-      "summary": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration&nbsp;&nbsp;AiThority"
-    },
-    {
-      "title": "NVIDIA deploys AI agent for factory alarm triage - IoT News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPckt6cVlwN2NTazdIMi10MlZYNkVtMEdTeWVFOGlUaThGc3JKcXBIbjRuclVuRU5kaFZjcHBGUlVlTm9Iam1pdE8zME5oS0tYYURvV0NtT3N2WTIwcGJFdnZQNnFtbXJYYzNVLUdfRnVTS05Yb3czZDc4RmhHaDNqUzhVME4?oc=5",
-      "source": "IoT News",
-      "published": "2026-07-08T16:15:27+00:00",
-      "summary": "NVIDIA deploys AI agent for factory alarm triage&nbsp;&nbsp;IoT News"
-    },
-    {
-      "title": "Vultr and SUSE Launch Turnkey NVIDIA AI Platform - intlbm",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3E1SmVZdHJPX196Wjg0dHFweVIyVDBfZk9XNUZoOE92aEZrMzZ4QjJzUm1GczhzdklrMWJjd210TC01THdEbGpuQmFxdXo4cThCQ1dHaDBnRHlHLVpnQmpsOUpzSHl6R2xfVjJfQlphWV94bGxhUTFCb05WOWdJdXNtaW1vQQ?oc=5",
-      "source": "intlbm",
-      "published": "2026-07-09T07:48:10+00:00",
-      "summary": "Vultr and SUSE Launch Turnkey NVIDIA AI Platform&nbsp;&nbsp;intlbm"
+      "title": "Meta to Begin Manufacturing In-House AI Chip in September, Targets 14 Gigawatts of Computing Power - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rdEdPS1M4NTh1Z1pJUFlWRm1tWEhqMDA0SFVhQjhsV2U5QzZyd3c4QU1SaWFDRFdMVkZ5Mk5leUpBamZyeFZpcnFYeV9NYVZzX09ZbTBpdjM5d2I4UEY4dFp2ZU9KTFJiMy1manBKWWZaZGZUOUE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-07-09T13:05:00+00:00",
+      "summary": "Meta to Begin Manufacturing In-House AI Chip in September, Targets 14 Gigawatts of Computing Power&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Cerebras Stock: Wafer-Scale AI Offers Big Potential, Big Risks? - TradingView",
@@ -127,6 +120,13 @@
       "source": "TradingView",
       "published": "2026-07-08T18:44:00+00:00",
       "summary": "Cerebras Stock: Wafer-Scale AI Offers Big Potential, Big Risks?&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdkFPcDhpSlhTLW9YUUI1dEx5bGhtUUlBakZpOVc2TEk1TFVsbkJpcFYxR0JfdFdzVUpFNUVuTDYtUDZ3b1VUb0MtMnMyNG1tdng1VE5IRTA2enhaUWxtYUJxcFRaZThqWnUxLW1iVUtjX2NrVGhQbDEwZnFQWFZTRUt3NGY2MTdTUllrcUVxMGRySGFWUmhJRVFHRWVucmh1VUQtbjhTa2VBbzJyaVRXNnFjaDNJLVlVdlFoRjlrdGJScGNwS3oyTjlIMzJoR0hBc0JMMVFkOXV6YlhZT0ZFOVR4V3Y2bThXSGdTNlh3TnVQX1kwRndabEQ0dGJheWM?oc=5",
+      "source": "Business Wire",
+      "published": "2026-07-08T09:00:00+00:00",
+      "summary": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration&nbsp;&nbsp;Business Wire"
     },
     {
       "title": "Chinese Firms Plan to Send Nearly Half Their AI Chip Budgets to Local Rivals - Startup Fortune",
@@ -143,6 +143,20 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "Vultr and SUSE Launch Turnkey NVIDIA AI Platform - intlbm",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3E1SmVZdHJPX196Wjg0dHFweVIyVDBfZk9XNUZoOE92aEZrMzZ4QjJzUm1GczhzdklrMWJjd210TC01THdEbGpuQmFxdXo4cThCQ1dHaDBnRHlHLVpnQmpsOUpzSHl6R2xfVjJfQlphWV94bGxhUTFCb05WOWdJdXNtaW1vQQ?oc=5",
+      "source": "intlbm",
+      "published": "2026-07-09T07:48:10+00:00",
+      "summary": "Vultr and SUSE Launch Turnkey NVIDIA AI Platform&nbsp;&nbsp;intlbm"
+    },
+    {
+      "title": "AMD stock holds steady as chipmaker leans into AI data-center demand - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU194NmFnSUw3UG8yTzZiZ2M2Tm14Ull5OW5lT0JHVmhoSGE5X2YyMldlZXhYV3puVXJXeW5xY3FOZnFBakp6ZFFZYUQ5b0c0cVVHOUh2TGN0bHA2a1RPLWZBSGN2czJSYjI3WlNmLW90UnQxd1pXMzZDU0dnMWNEeDVKaGZQV3FiLUoyaHdXblRDczFPTTdoalhRVkJKZHRsam9ROXVWSUd1amZZUFR1bk1KYWxPZ3F4ZTJ1M0RTa05PTjR5M1E?oc=5",
+      "source": "AD HOC NEWS",
+      "published": "2026-07-10T11:11:16+00:00",
+      "summary": "AMD stock holds steady as chipmaker leans into AI data-center demand&nbsp;&nbsp;AD HOC NEWS"
+    },
+    {
       "title": "From startups to Big Tech, Nvidia's rivals are multiplying: can it be dethroned? - Invezz",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPODIzcDl1ZG1JaFB6TldmaV9lb0lNRHQ0UXJNaXkwdkxUUWtJTmF2dlR2dmN6dWwzdjlUMGdub016MnZ4bEYzMkNkdG5FcFNUVE04S18tWjh1ZDYyMEFiMjB3TUJvRmU3Njh3Tlg1SEg1R25TTTdmSUx2cTRMUElfSWdzZ2NKUEFBdDZwM3ZKZkRsYWxCRGY1RmhUY3M0WHJPMXJmaC1NZmhHZEE4UldPZGN3?oc=5",
       "source": "Invezz",
@@ -150,32 +164,18 @@
       "summary": "From startups to Big Tech, Nvidia's rivals are multiplying: can it be dethroned?&nbsp;&nbsp;Invezz"
     },
     {
+      "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3VCZ1BuMy1ydHA5U0xMbUZIdEUzZDh0dXozVVBRSlJSbHFyWHFtQmVPbWFaeVhXODlMamhmLVJvZ2JmWlBoSzdWTnJfZFlzbU9jNFpqSHVYOU9Xd3h5RFIta2syS2F5d281TV9WNjRCV3EyMzdGY2x2eUozNkxvbFFqYWxWTzMtSWlpdlEwa3VUWWlaTWJfT2VyNC1zQjlLNmNSbGNvZlVfUk5TN2pVQThHajkwUQ?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-06-18T07:00:00+00:00",
+      "summary": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia&nbsp;&nbsp;Bloomberg"
+    },
+    {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "AMD Stock vs Nvidia Stock: Who Won the AI Trade in 2026? - WEEX",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0ZHcHFHN2NUa1paYmRCUjZHV1NhMFZIMDV3SWdPdTJHRkdSLU52NnFmdWdyUzd0b1l3eGxqc3c5REZyc21FWHFNUkpXNF93SjFKQ3FjdXlKWnM4SnA3ZFpGeFlvdExmSndPbGhzWU91U0dBT0xrVTB3ZjBuNDNjbHVVTGlKbmVzVS1sWFZhdW05V1R1bm5ZeEtERldyYThfdTgtMHFGcUJMOVp0N0xINDBOUQ?oc=5",
-      "source": "WEEX",
-      "published": "2026-07-07T08:24:13+00:00",
-      "summary": "AMD Stock vs Nvidia Stock: Who Won the AI Trade in 2026?&nbsp;&nbsp;WEEX"
-    },
-    {
-      "title": "Bloomberg Survey: Chinese Firms' AI Chip Budgets Shift to 46% Domestic, Huawei Surpasses Nvidia for First Time - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ2E0aXdSam51ZS0yOUM3YkZ1V2VSZXZoelB6X1JubmNVQmZaRi1hYWJFUUdfX29HVkNWLWd5OTZrQU5LMG9PTndadHBoUmFPLWNRcUFTVW9zRlRfeHRsMFg3ZFBMelFBekdVQzZBWmU1TXl1dWc?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-07-09T09:36:00+00:00",
-      "summary": "Bloomberg Survey: Chinese Firms' AI Chip Budgets Shift to 46% Domestic, Huawei Surpasses Nvidia for First Time&nbsp;&nbsp;finance.biggo.com"
     }
   ]
 }
