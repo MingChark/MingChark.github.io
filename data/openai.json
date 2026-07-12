@@ -1,167 +1,48 @@
 {
-  "generated": "2026-07-12T13:35:49.560678+00:00",
+  "generated": "2026-07-12T19:10:32.217024+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-10T20:30:47+00:00",
-      "summary": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'&nbsp;&nbsp;CNBCApple sues OpenAI, two former employees for trade secrets theft&nbsp;&nbsp;ReutersApple Sues OpenAI For Trade Secret Theft After Integrating ChatGPT&nbsp;&nbsp;Forbes"
+      "title": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2NSa1NYbHVibGtrWnV6T2hRd180dUp6WWxFQ2c0bm1POHhGeHk1TlpBQXV6dDBKZVh0MWpkbUVacjlFczV4RmQ2N3ctYVEtcTVrWjdXYTJ1WmRkZ2U5WEh2Q3Nkc05LREJaM19IQS1lRzQ5Q051aGdKRjh1QnIyaENVR2FxWllSMzUycmczRXV5MnVRNFBOMG5RUU5jYkpjYVdiMmMzNjcwdVBZd3AtREJSNEVpdVFnd2JQOHRDM1ZUWjFCS1JMTQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-11T00:59:53+00:00",
+      "summary": "Apple sues OpenAI, two former employees for trade secrets theft&nbsp;&nbsp;ReutersApple sues OpenAI alleging trade secret theft, says scheme was 'at every level'&nbsp;&nbsp;CNBCOpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI Just Declared ChatGPT as You Know It Dead - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUhrV0tPUWdaalhDc2tMal9MWlR3SFlQdHdUZUMxaWszYTN4ZFlBMDdhZzJHa1JPVlRlbml2S3RmMHA1NnFFV3Z1WTBLR0YzMHhLRVY2U0lrdUVfLWdIRFdBWTJ5cG5Nb2xiRnQyZFFOQl9pME5rckl3RXplUnYzeGxyLS05eHFsZ3lxUGg1dzJRQQ?oc=5",
-      "source": "inc.com",
-      "published": "2026-07-11T09:26:36+00:00",
-      "summary": "OpenAI Just Declared ChatGPT as You Know It Dead&nbsp;&nbsp;inc.com"
+      "title": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1VLWGdFOXFXWkpEYkxVaDZfR0x2bkNhUDdFWnd5X1Y3MFJ3MVJVUUREdHhuYmJZZWtDazl4YXVqV1BUbjQ4MFhVZnQtMTktVkVoY3dWUGlOcFlOUTBOMVpVYmkzUUNBYkpwcUJ5N2tuYk1CdGhiaXRoYzB1MS1WVW9fVjI2d2pIRUdRenpKcVZlUDlVb2JKWjFR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-12T17:47:00+00:00",
+      "summary": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEam90d1NPZHBCeG9SX3ExT2ptUF9WaTFMOVJHQnV0ekZpUWcwenJMRUU0Nm5nMVlwcmZHV2NOS0J0cDN5bW52QjJVSk5QUFBSQndpRVNQUU53ZXpFeENWa21HZWVqRnJOT19XQ3lzb2F2RFFHNkdfcFpkdHY?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-07-12T19:00:00+00:00",
+      "summary": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI&nbsp;&nbsp;Yahoo! Finance Canada"
+    },
+    {
+      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-09T14:12:09+00:00",
+      "summary": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-08T12:13:44+00:00",
+      "summary": "OpenAI set to launch most capable GPT model after delayed rollout&nbsp;&nbsp;Reuters"
     },
     {
       "title": "ChatGPT's paradox of choice - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DdFNBUHM4VmJ0Z2M2Q1RleXA2VUt1c04wa3A1Q0UzX2pyRjk0REI1UGZib0VocmpDVWlNVWFJWEFaOWQtbVIwQlQ4Zi1qaW5KallwbmFzbUpRcmFLNllPREtmWVhESDRGbExhRjNuWHVScFcxY3c?oc=5",
       "source": "Axios",
-      "published": "2026-07-12T12:00:44+00:00",
+      "published": "2026-07-12T12:34:44+00:00",
       "summary": "ChatGPT's paradox of choice&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour - the-decoder.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGJ5Q1VMcG1TTXNoRk5kclNSLVdYWHhhSUtpMVY3T2tyUWVPazRhVmlSZVptLWhoR1VpaGFqY0hPSEdVelFkYzdYZWE2OGZySFcwbUJiR2o1MXp6UmtBbXY0ZmtwSUxaeHlHRURqWXdIa3ZVR3U1S3BuVzBaNEg0cWZjOWlfNUk3elN6X2NHQi1PbV8xMzNoWU1NZVFDMC1kMk1JYU5Zb2R3VG44b0VnM21n?oc=5",
-      "source": "the-decoder.com",
-      "published": "2026-07-11T17:39:23+00:00",
-      "summary": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour&nbsp;&nbsp;the-decoder.com"
-    },
-    {
-      "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNzJfRDNxbW5ZeE1jWW9Wbl9uVzZpSHJKaHZYTUtuUlpkYWJYZHcxbXg1eFY5OFNsUTBqZTBrSHBfTHhtQVFvaGxCU3VhOWJVaFlqNUh0dkxJSTM4TFl0RElsdTc?oc=5",
-      "source": "The New Stack",
-      "published": "2026-07-11T10:34:12+00:00",
-      "summary": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price&nbsp;&nbsp;The New Stack"
-    },
-    {
-      "title": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "2026-07-11T23:31:07+00:00",
-      "summary": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’&nbsp;&nbsp;San Francisco Chronicle"
-    },
-    {
-      "title": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGRjYk9NdENUVFo3MFdZYmNXM3dPMmFwZE43V1VQdkEzTXBlUmRzVG5sTDJiNUxnUXE0X0tWTHY5YUFNb3RkSnpTOGwxYXMwd3NtNDNrYUxJbWlzbnY0N1JxV1lvQnlYT1hISWZwdXMtcnp2VTlnUDZSbTJhUUxOMG84MVE?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-10T01:14:00+00:00",
-      "summary": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXAyZko3MnBtQTNYZ0JTdW9Cd05oQTdnbmdpY1phdlE2SzRsaW5fUGU5YXFtU1Q3M0FfcEl6TGRYWXRTVWJIM05odHFDRlNTM0VtQVJ0Qjlwa1V3QXM1WnNzX29iRzh0UlFMSE9iZmFVcUZqb080a2JtalJCVmJXcVRQaEN1Ymw4bzc5R1VqcjJhbzFWeFlFU0lXZVlYRGxRRDVMQlBQOTZGQ3BTTlpLNDE4bi1WQ3ZJZnQw0gHAAUFVX3lxTE1yNmZROThMck9kV1JKMjlwQnVVUVRSRnRIUFRXR3dMNUVPSkQ4dkhDY3pMQ0dLYUtySEJ0WUkxemp3cjJVQTdncEJCNW8yQjB1bWotbDFtVzhyajZrMERfRmdwY015UHhYT3dDaEk3bTVJNlNXRHdSNjR1azN3RHQ3cmdpdTNKelB3OHNUako2czMyZWViVDZUOUIxWDJ6QndTQ25ROEVoSWhUbE1VWWJBZTQyaXg4ckNrZVZndkFrLQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-09T23:01:13+00:00",
-      "summary": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yejA4UXRic0V1dmFFZHNtRlI1bVJ5MzlCLXZWRXVSdkhjV3h3aElSRmpORnBDdnYwTE5ORl96ZWx2VEt4X05rREhOa3NGM3V1Nnh3TGVQRmpQWWpuWUtnYkttd2QwRURJS1NQNnkyWHppdWc?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-09T23:13:00+00:00",
-      "summary": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down&nbsp;&nbsp;WIRED"
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejc4ZzlWMHg1UjR3UTJTWjFMRHcwNGVDV3FqbEg0R2UyMUVIaWJhOXZqSjJ3dlNlbkxRTXQ4ZDJ1eDhpdmdyaTJCUlZqa2wwWExoT2ZWemkzbHY1ejZxWk5pVlBHWGpYRlVFT29xY3B1S1IyNmNwMXo1THFxa3Q4aDU4OXpLRUVuTGtxbmtwUEVxSEg0Q0pzSG9paDFVdw?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-11T14:13:00+00:00",
-      "summary": "OpenAI bets on families as ChatGPT goes deeper into households&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "How OpenAI, Anthropic IPOs may impact Bay Area housing market - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGZRVUdhWDVWLVZiT0NtdWdDd1VHZFBvMk9DYnllRDFDS2RBZEg4dDlPb0NtS05EWUxDbVZPUFcyTWxyMndjOXVGMkRWdkk5Z2FyUjJEczNRTWZxeWNCNXhLRzExT0pXWnk0bll0TWRDMGxabzE1emdEQTloc3B0SWZHaVBPbkFXSTdxV3RB0gGWAUFVX3lxTE80NWkzclFEd0dnSHpjUHJkTDlrNWQ5d3ZTTUp5THM3ZFFpQi02Vk9sdDZiUDl1cktFTzNvVnpqVkg4U0pfT0swRHd0WGJHZUFxMEdyM1AzM0NydVNST096WmtENUNQeWxMdGc3ZDhScXRNcEdXTjA1Y25hdHRPMmd5YnZyZUloRjlHemFUdl95R19OTjF4dw?oc=5",
-      "source": "NBC Bay Area",
-      "published": "2026-07-11T02:00:29+00:00",
-      "summary": "How OpenAI, Anthropic IPOs may impact Bay Area housing market&nbsp;&nbsp;NBC Bay Area"
-    },
-    {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-11T01:07:00+00:00",
-      "summary": "OpenAI’s Head of Safety Is Leaving the Company&nbsp;&nbsp;WIRED"
-    },
-    {
-      "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZxNDNzbkoxc2JnQ1hzTzdYLUVPa2FCbE5iS0ZIU1BsNHA3cFN6dkdBVkJxaFU3T3lwWFBkWUlUNjlJNm1BZXRhNlhwVGtpWlFhLXdPd21tZi1iT1lDQ3N5S0ZNZmpVenYxQU5mY20xeFlZWFpIZnVOODNHR1RETGJFN3VtcmwwY3c3SzN3YkN5S01sRzJQRVpTSTViMWZ4MXhMNEpYcmFJM3lQOHh6UWNrMkc?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-11T02:15:00+00:00",
-      "summary": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI's Head Of Safety Is Reportedly Leaving As Part Of Company Reorganization - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWktXOXhtQ3U3dUdsY3lGTFpTR3VfdGxrd0cwMHF4ZUR2VGFQSTlSV21uVWU5WUcwTXM2R0ttMGNkOGU4QzR1bV9rN3hzRmhnWkVPZzVFb0dLY0swSktpc3dUbWhmWkl1WlJFb0E5VklHMDlfSk1TX1pqNFBsdFFwbG5Rbm9HX1hqX0ZvTjRWWQ?oc=5",
-      "source": "Engadget",
-      "published": "2026-07-11T15:39:12+00:00",
-      "summary": "OpenAI's Head Of Safety Is Reportedly Leaving As Part Of Company Reorganization&nbsp;&nbsp;Engadget"
-    },
-    {
-      "title": "AI customers are coming around to the idea that small is beautiful - The Register",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmdjcGdJRWZJdXU1YUJya2h2Skl3eDgwZVI5X2RuZDhkVmFiZ1NYckhQVk94MVdUWVJIRm5hSVE1bWg1Ymcyd1lGQWFFaEZhZDZYa2Q1dzVsMThHSU9wa1dKemtaT3ZnS3Jya0hnZTNxR1JpWElyclZpREFib3ZpQ2EzVFVxZkJGWjUzYXljTi13VHR5SlNKTE13YmxBaEtSLWNWaEItb2NyeDBWREgtdVpEMm1oOHA1M3BEdlNiTFI?oc=5",
-      "source": "The Register",
-      "published": "2026-07-11T14:11:00+00:00",
-      "summary": "AI customers are coming around to the idea that small is beautiful&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "SF’s anti-AI protesters just marched past three tech giants - The San Francisco Standard",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGpxSEZyMFktQnZMZlVaZ1YtUlEyWlBmdTBVZmFiWFQ0NVRtVDNYRDVNdm1BV0Q2VVFkR1VNY0ZLak1iMnhKVkJGeVhlbWtCS0NBX2s0bFpDcFZzS2xqOTdQaUtCMi0weTI3OFZid01oRDJzenNZRmZmbzNlZjJHVWJodEcwakpBZ01aelBJaEN3UQ?oc=5",
-      "source": "The San Francisco Standard",
-      "published": "2026-07-12T01:00:00+00:00",
-      "summary": "SF’s anti-AI protesters just marched past three tech giants&nbsp;&nbsp;The San Francisco Standard"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-09T07:00:00+00:00",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-11T18:00:00+00:00",
-      "summary": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Apple challenges OpenAI’s hardware push in trade-secret lawsuit - Jurist.org",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
-      "source": "Jurist.org",
-      "published": "2026-07-12T07:10:50+00:00",
-      "summary": "Apple challenges OpenAI’s hardware push in trade-secret lawsuit&nbsp;&nbsp;Jurist.org"
-    },
-    {
-      "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTERtRTBYZ1dBQ1owTlNtMzdlN1ppOG1TRjFUcXJqSi1uYS1pajVjREszRkk4WG5DX1NEQy11WXp2MGxCek90ZG9rdHJzM2dpY2pLZU5HeTdHYTNwYmtpMHczUjctSGtnakdyMjZrSHhDODdFUXJkbG9Td3pCS0NIWEhZTXBoNWFFdU1wc3ppYVF1amFWdjZFNW9qNlN2N2ZURXVVbA?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-11T20:23:00+00:00",
-      "summary": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWZJTTBwTS14NTBEMFpsZUlQamxwcDNyZDNsTnVwNDVlRi1VZ1UwUnIzMWRKUDVfMVZUWFQ5QjUzelNJWFZ1TEhxU2RYNjZpZ1FEMTRac29TNzE5OUtsbl9KZzYyeGlIbi1KVVZLT1NTNFFWNEZYeFltRFNhTlYyOUxrY0tNSV9iYVBVOTdOMA?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-11T15:10:00+00:00",
-      "summary": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-09T23:08:18+00:00",
-      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Apple v. OpenAI lawsuit: 8 key allegations explained - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3b2VTLTlQZXAtYkQyOV9ZdGd1bmcxNTlzOEFzbHpTeTFOblRyMmZoVGY1TFpPbGRlLU1lajBac2t5QThnb1BpcWhsRld3X2FKelNibzlwUGFJdlNWZ2JNbGMxMDZ4ZGg3VGc?oc=5",
-      "source": "Mashable",
-      "published": "2026-07-11T17:56:33+00:00",
-      "summary": "Apple v. OpenAI lawsuit: 8 key allegations explained&nbsp;&nbsp;Mashable"
     },
     {
       "title": "Photos: Hundreds protest at Open AI, Anthropic offices in San Francisco - Mission Local",
@@ -171,11 +52,130 @@
       "summary": "Photos: Hundreds protest at Open AI, Anthropic offices in San Francisco&nbsp;&nbsp;Mission Local"
     },
     {
-      "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XaDJLOUlqNlc1NW9HckNySzZyWFQzWWF3ZDNXXzJMdE95ck12cEYyck91SGVVeVRYWWVTWUdhTlNuTXFBM1lsX2J1TS1LcGN5MzNiMkVGN0c0cUxhUXBOVktGU1I?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-10T23:09:00+00:00",
-      "summary": "Apple Sues OpenAI, Alleging It Stole Trade Secrets&nbsp;&nbsp;WSJ"
+      "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEtyMlE1dXNvZmNiYi1vU2J6OC01VW5pSEVaLWZNX1FGa3BpZHhRVTI0SEF1QlNqbFg2NUdYTXpZRGFGUXpNcGctb2R1Mm01MVk2azNIS3VrQURUMTR1WV9wVG02UVFuR0Z1blBwTjBEUVlXUWxmeC1BZDlXNVBfcDFvRVB3LXR5VWcxc25KanIzVkpWaVZoaTk4REZLQWg3WjhLVE03LUE?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-12T14:03:35+00:00",
+      "summary": "AI giants learn what everyone else on the modern internet already knows&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNzJfRDNxbW5ZeE1jWW9Wbl9uVzZpSHJKaHZYTUtuUlpkYWJYZHcxbXg1eFY5OFNsUTBqZTBrSHBfTHhtQVFvaGxCU3VhOWJVaFlqNUh0dkxJSTM4TFl0RElsdTc?oc=5",
+      "source": "The New Stack",
+      "published": "2026-07-11T10:34:12+00:00",
+      "summary": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price&nbsp;&nbsp;The New Stack"
+    },
+    {
+      "title": "SF’s anti-AI protesters just marched past three tech giants - The San Francisco Standard",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGpxSEZyMFktQnZMZlVaZ1YtUlEyWlBmdTBVZmFiWFQ0NVRtVDNYRDVNdm1BV0Q2VVFkR1VNY0ZLak1iMnhKVkJGeVhlbWtCS0NBX2s0bFpDcFZzS2xqOTdQaUtCMi0weTI3OFZid01oRDJzenNZRmZmbzNlZjJHVWJodEcwakpBZ01aelBJaEN3UQ?oc=5",
+      "source": "The San Francisco Standard",
+      "published": "2026-07-12T01:00:00+00:00",
+      "summary": "SF’s anti-AI protesters just marched past three tech giants&nbsp;&nbsp;The San Francisco Standard"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejc4ZzlWMHg1UjR3UTJTWjFMRHcwNGVDV3FqbEg0R2UyMUVIaWJhOXZqSjJ3dlNlbkxRTXQ4ZDJ1eDhpdmdyaTJCUlZqa2wwWExoT2ZWemkzbHY1ejZxWk5pVlBHWGpYRlVFT29xY3B1S1IyNmNwMXo1THFxa3Q4aDU4OXpLRUVuTGtxbmtwUEVxSEg0Q0pzSG9paDFVdw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-11T14:13:00+00:00",
+      "summary": "OpenAI bets on families as ChatGPT goes deeper into households&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-11T01:07:00+00:00",
+      "summary": "OpenAI’s Head of Safety Is Leaving the Company&nbsp;&nbsp;WIRED"
+    },
+    {
+      "title": "Apple Sues OpenAI For Trade Secret Theft After Integrating ChatGPT - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGlEQ2tqTlhoQlg0MTFmWHZpUFh1VkhSSkpPZUluRnMzb2xRS0paLUZNQTYwd1JKUXg0aDRmWENqWTVSeEhpZ3FzRUVnNV8tY2NORjVzUkNDRXdwRXRHVlRlTnQyYlV1S0xmelRqakQ2RFZrZ2x2b051YnNDYVYxQzlTRlIxMUlNRS1MT2kzQVJtYkNZRkpUOExvaFA0WWFXSUw2aVJaQzZKekZzeVdtU3BmMjR0amZ0Smc?oc=5",
+      "source": "Forbes",
+      "published": "2026-07-12T13:00:30+00:00",
+      "summary": "Apple Sues OpenAI For Trade Secret Theft After Integrating ChatGPT&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-09T07:00:00+00:00",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBVFBzaEJTenA1Ym5iR2JNaVpRS3FrcHo5Xy1uQVZKaHktOU02VVBSY0haR1hVbE9laFZ1endaSXF0ZUQzVHoxRmFtYVJxcTNwbktydFQ3UlJoUHhkbzFvRWlEaXJBUVoyNzVZWlJYVkY2X3A4Z28yb2pma2M0UQ?oc=5",
+      "source": "Futurism",
+      "published": "2026-07-12T15:01:00+00:00",
+      "summary": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything&nbsp;&nbsp;Futurism"
+    },
+    {
+      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-09T23:08:18+00:00",
+      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-12T15:32:34+00:00",
+      "summary": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Apple challenges OpenAI’s hardware push in trade-secret lawsuit - Jurist.org",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0NIM2tZczlNVFQ2VXgxbUJXbl9UMTNvNEtZeGs3M2xZQ1pRc3hjSjBvcDFrYVBGdHotWFRKQktlazhTbWVWMzBkU3UycXlkOXZnS0NybjlIMHZTbG9odG1hUFllcG4xcnFlOFdYWHg5MEZzYzZyTE5RaWlvTC1lVFl6Sm9kTmZacVNaa0lLdU5ORFI0NS1XeFdMRmJETzRV?oc=5",
+      "source": "Jurist.org",
+      "published": "2026-07-12T07:10:50+00:00",
+      "summary": "Apple challenges OpenAI’s hardware push in trade-secret lawsuit&nbsp;&nbsp;Jurist.org"
+    },
+    {
+      "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENTWFpvMXlpQS1vNU03VGZ3aGZKak1ZVlFPWkliOVVSbFpmZ2I1Ui1LMGVtWHd3N2xkaElHUV9CYXhKYlY1eXhmd1lZUzZGRzVXbzYzVVhvUERWN0RzWGVUMVoyUXBoWGR6dHBCeWEtZkl5ZzJKVVlUVXZFYkVBVjdCcXozOGpOUVNSMlpPbElYVGZQbUR2d0tnQ1pWOTJoekJKZzdWMjZ1eVlPNFgtVUZlTQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-07-12T14:00:00+00:00",
+      "summary": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-10T21:08:14+00:00",
+      "summary": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWZJTTBwTS14NTBEMFpsZUlQamxwcDNyZDNsTnVwNDVlRi1VZ1UwUnIzMWRKUDVfMVZUWFQ5QjUzelNJWFZ1TEhxU2RYNjZpZ1FEMTRac29TNzE5OUtsbl9KZzYyeGlIbi1KVVZLT1NTNFFWNEZYeFltRFNhTlYyOUxrY0tNSV9iYVBVOTdOMA?oc=5",
+      "source": "Fortune",
+      "published": "2026-07-11T15:10:00+00:00",
+      "summary": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-09T20:14:46+00:00",
+      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Apple sues OpenAI for trade secret theft - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95SmlFMk5RQ0duYVgtRG9ZczN1MjZma18ya1BDTnV4bXp5Ti1DNkl1YU5pRUFEdjNMVFFpYS1LWThhMGFXMHNSSVRlMjJ4RDBURndqXzZCdlVyV2N3SGdRb0otS2FoMHNFbEJuWGQ2NklKMENVWEIwZA?oc=5",
+      "source": "Axios",
+      "published": "2026-07-11T03:21:33+00:00",
+      "summary": "Apple sues OpenAI for trade secret theft&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1RrNVpYNC1zaXV0RjE5dS1ESDhLc0IyT2g2bzlZM2l0cTdUdkFHUXhfTm5VeHhOWUFCczkxRnIxaWp2S3NJbmhmSlZXZEdaVUJfTkthOXAzbTVnbnhtVkFtdktGMGhUbkxEdUw1WQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-09T17:08:27+00:00",
+      "summary": "ChatGPT is now a partner for your most ambitious work&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Our approach to government and national security partnerships - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-08T21:01:37+00:00",
+      "summary": "Our approach to government and national security partnerships&nbsp;&nbsp;OpenAI"
     }
   ]
 }
