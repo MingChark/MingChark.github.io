@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T13:53:12.045815+00:00",
+  "generated": "2026-07-14T19:25:12.114280+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -66,11 +66,11 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVE?oc=5",
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
       "source": "MarkTechPost",
-      "published": "2026-07-08T03:03:22+00:00",
-      "summary": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception&nbsp;&nbsp;MarkTechPost"
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -129,11 +129,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
+      "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVE?oc=5",
       "source": "MarkTechPost",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+      "published": "2026-07-08T03:03:22+00:00",
+      "summary": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
