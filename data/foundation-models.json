@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T02:48:11.034632+00:00",
+  "generated": "2026-07-14T08:14:42.630038+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
+      "source": "Google Research",
+      "published": "2026-06-30T07:00:00+00:00",
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
@@ -59,11 +66,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd2_SAWxBVV95cUxQMWNWQ3hFcFdfcW9fOWJlbUZTNWVtSXFXaEltSVlyRTZFUHFVSmpHNUw3SzNDMXF3R0FxRHVzRUVmcEtvS2Z6aHpjb210Sl9MTUhpTDJ6WmZZQzcxMUFWM3lPWHpRMVhyTHZOeFE?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-09T00:45:39+00:00",
-      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
+      "source": "NASA Science (.gov)",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
@@ -157,11 +164,11 @@
       "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "A new era of intelligence with Gemini 3 - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sN1JBSE91VzRrenAzV2E5Sk5jdURtejZuejZNamlOeFVCN3FEYm55VzFNSEdqYmhTSFdyZ0FCelZMZ2Nfd3Y5MlA4YzNYU3hFNHRIZmtSSENqMUczMTdPUkJlTkJ1TlZzcVhfcklRMFp0TzJwRllB?oc=5",
-      "source": "blog.google",
-      "published": "2025-11-18T08:00:00+00:00",
-      "summary": "A new era of intelligence with Gemini 3&nbsp;&nbsp;blog.google"
+      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
+      "source": "The Robot Report",
+      "published": "2026-05-11T07:00:00+00:00",
+      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     },
     {
       "title": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model - PR Newswire",
@@ -169,13 +176,6 @@
       "source": "PR Newswire",
       "published": "2026-01-15T08:00:00+00:00",
       "summary": "Envision Launches Dubhe, Shaping the AI Energy System with the World's First Energy Foundation Model&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
-      "source": "The Robot Report",
-      "published": "2026-05-11T07:00:00+00:00",
-      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     }
   ]
 }

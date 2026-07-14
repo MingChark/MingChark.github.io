@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-14T02:48:11.034632+00:00",
+  "generated": "2026-07-14T08:14:42.630038+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "TSMC’s Record June Revenue Signals a New AI Chip Pricing Supercycle - semivision",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VdlpvdnVVSklPalhSeUFEamxOX19aeFJhd3gwM3BIa256RXZnY0lhLTNkWDdGVXV2NzZwam1DSXlEVVRmdWRyZXNtUFdMTnJiLUJTLTdlM0lGNUVCYWpRRUxkUVd2bHRCT0Zqd2hvU1N4dXRZWDRNLXRndS1aWFU?oc=5",
+      "source": "semivision",
+      "published": "2026-07-14T03:00:46+00:00",
+      "summary": "TSMC’s Record June Revenue Signals a New AI Chip Pricing Supercycle&nbsp;&nbsp;semivision"
+    },
     {
       "title": "DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories - StorageReview.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejBXYmhmWEtoQUxaYmtWQm82TzRwSnZ1SkpzVVlEV2xwT1hOZDVwMHNSUE9GdzNzX1AwVDFzdnVKSmUzclpxUVRwbTRzdHl0ZXBLM2tRLWc0dElra0hCY3phZE4yUGY2U2tCQTZIaTc5VEE3eXRLUTZiMUVXZVhHV2V6SkVSVk1PdVBiYllMLXNtWlZtaC16dFJFZ29vaVBCNGdUV2R4TkpKdFhhTHfSAbMBQVVfeXFMTTNyeGJxSlIzRDdGZkprWHRNTHdRMVdEaFFCaERXbWdKSllUUEE2Z2ZnXzJXdy05UjFROXRXdDF4REZYVTFYeW0xRzFiSlRCSEVGSk1WUGxMaEZhczBFQ015QXZaVDczeG5EbXpFdFhmMFk4dUJmTmRMLU1QUDljYVlsWlFpZzlULXZCMERKMU5FVndkMnlZYzNLRTg0NHZzanBKVWU5VmZfVGg3czRjTXFmQmc?oc=5",
@@ -17,18 +24,18 @@
       "summary": "TSMC Sets All-Time Revenue Record: AI Demand Has Rewritten Its Calendar&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T15:13:37+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
       "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - The Korea Economic Daily Global Edition",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
       "source": "The Korea Economic Daily Global Edition",
       "published": "2026-07-09T11:27:00+00:00",
       "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;The Korea Economic Daily Global Edition"
+    },
+    {
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-07-07T15:13:37+00:00",
+      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Chinese companies are ditching Nvidia’s advanced accelerators for domestic AI suppliers - Fortune",
@@ -52,13 +59,6 @@
       "summary": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology&nbsp;&nbsp;AOL.com"
     },
     {
-      "title": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFJWdHZlQy1ZRHBkLWhORThoMGV4TFZXZTFMcEF0S3RLbmNVVDRESHF1dmJJUXRkZHF3NHVLNEZySWtwU20wSlF1TEI0UFZnQXhCaS1LbXF5OGlTN0JrVDhfdU1SWmxIWFQ5VXJXblg2SXhTVk81MWROcVc3SmZqVloydDhRdUlhckVoRzhMMUw0OVgxa1d0V2dvdm80UDZNbllDVXVLNl9OZ3JrWEJ6cGNQOXc5NHhiLUc0UHdNOA?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-12T16:26:22+00:00",
-      "summary": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "Agentic AI Isn’t One Workload. It’s an End-to-End Workflow. - AMD",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWdiMVhrZHRvYlpYb3BPeUF0cnphb3hBU19ldWZRVUlFak5DZ1FRZ0JQTEtuYy1pY0NhNUxxYW9GTFQ3TW1YTHQ2THJ0a2pZX0sydjAxMjVSR2VzSVBUT09XWWE5ai1CbGZiVzJzZC1HaW1CWWl6dmtLbVdPWWllUkFhLTl5Y1NJcm51Nl94MF9DRjlPYTJuOVZR?oc=5",
       "source": "AMD",
@@ -73,18 +73,18 @@
       "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "TSMC, the world's largest foundry (semiconductor consignment production), saw its sales jump about 6.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MTEZCX1pwNUZEMEhBNkRSSTV0OVR0VXB1OFdzenhhWlJKaXJuNkZwRVFZT0g1ajhvVmloNDJrQWlBckswVXVyV09BUQ?oc=5",
-      "source": "매일경제",
-      "published": "2026-07-13T22:27:51+00:00",
-      "summary": "TSMC, the world's largest foundry (semiconductor consignment production), saw its sales jump about 6..&nbsp;&nbsp;매일경제"
-    },
-    {
       "title": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSFpqY0toYzF4ZjRCQjExa0lPNlpORkxRbEZtaEpqbnpZeC1WVE5kazlWZlhUTHNTVmhob0JSWTh2UzR5anZ3QVMtbFVpdXdLUWJkRWRDUzE0bW8yS3VHX09jLTZtQmM2VUF5NmluUk9TTzZjVmpHTkRfQnV0c3Q1MXEzaHViaUp0NTBHRXdtdVRVQV8tTUl0cEZZckR0cHktX1RjbGhaanZWNktoODhVbDQxSGFtM1V2cVptSnBaQmljVndKS3B0MXZhb1diT0RpeENSLWtieFV0RndKbnhDbDhOWDJsVXFsU2MwM1NxTVFfbDlSUEN1MEpB?oc=5",
       "source": "Business Wire",
       "published": "2026-07-08T08:00:00+00:00",
       "summary": "Vultr and SUSE Launch Validated Full-Stack NVIDIA Enterprise AI Platform to Accelerate Production Deployments&nbsp;&nbsp;Business Wire"
+    },
+    {
+      "title": "TSMC, the world's largest foundry (semiconductor consignment production), saw its sales jump about 6.. - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MTEZCX1pwNUZEMEhBNkRSSTV0OVR0VXB1OFdzenhhWlJKaXJuNkZwRVFZT0g1ajhvVmloNDJrQWlBckswVXVyV09BUQ?oc=5",
+      "source": "매일경제",
+      "published": "2026-07-13T22:27:51+00:00",
+      "summary": "TSMC, the world's largest foundry (semiconductor consignment production), saw its sales jump about 6..&nbsp;&nbsp;매일경제"
     },
     {
       "title": "Apple Rewires Chip Roadmap Around AI: M7 Ultra Targets 1.5TB, Eyes NVIDIA Blackwell - Tech Times",
@@ -101,25 +101,18 @@
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD Ryzen™ AI Halo Now Available at Micro Center - AMD",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnlWNWlQRmVUYUctemZzNDJYQ1hROTFsZ1VlZy1OMEdLMFR0bndEeVl5YnNxdjdwUFppNGhTMkI5THlkOHpjOWxtbEN1bTlMTmFnV0dHMU1DbFd4T2VIY0ZoUEJxaEFXb0ZuX3hNZEdMMVpfN0c0cXFZTzloUHk1WjlmQWM5dHpiM2hCbko0UQ?oc=5",
-      "source": "AMD",
-      "published": "2026-07-06T14:13:00+00:00",
-      "summary": "AMD Ryzen™ AI Halo Now Available at Micro Center&nbsp;&nbsp;AMD"
-    },
-    {
-      "title": "AMD at $900 Billion: Zen 6 Venice Launch Sets Up a 25% Run to $1 Trillion - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHhDck1NejF2bXFoUktyeHNvYXJRVHdoVklmQ2lwX2hUZmVUcUtsNE9jYnN6Wnhzb0FldHpla2FaRTgtc04tR1ZaNXZIcm1UTjBJUi1EX2N5b1VWZUlRcFVxVXZlX0t6SXc1X2g4aENycEJPV1RIZE5wbFVUWjhOTnJhX0VhS216Q2szRnJZdVB3OXV0VEZ1aGFzeUFBMlZoUzBXT3MtNlNSS0lNVDFKdXdqWQ?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-13T13:06:08+00:00",
-      "summary": "AMD at $900 Billion: Zen 6 Venice Launch Sets Up a 25% Run to $1 Trillion&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "AMD Ryzen™ AI Developer Platform: Open, Ready, and Built for AI - AMD",
+      "title": "AI Developer Platform: Open, Ready, and Built for AI - AMD",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaE1tNTNSZFQyOFZCWU5uOGdzMXE3UzcwUzJTaXNGelhjeXROblhNdWMyY1FkZ0ZCWjdhSTlrSDFzS1VwcUNjdGtNOWN6NlJQeVFtX2QzN0Z4UEpBWnpCa3RZTlgtUDQ0ak44cWNWYTZPbDlGVklFbXhSdm1hY0haWlF0MEpuZXd5S09FcUluZjEtaDVZWXc?oc=5",
       "source": "AMD",
       "published": "2026-07-06T13:11:00+00:00",
-      "summary": "AMD Ryzen™ AI Developer Platform: Open, Ready, and Built for AI&nbsp;&nbsp;AMD"
+      "summary": "AI Developer Platform: Open, Ready, and Built for AI&nbsp;&nbsp;AMD"
+    },
+    {
+      "title": "SK Hynix Soars 13% on Nasdaq Debut: HBM Architecture Makes It Irreplaceable in AI Chips - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMExLUjFrRzQ2NkttZDk4SDNNeEpJU2c0YkUzbnJvQmVvbm9ic1B3dXNudV9DcE8waEVDc1pXMW1MMkt3MGFYSFFEVnpvRFNWVVREU0hVTnFWRnBIbjdFTzBRbmFodWU1bmc4LTNRdzdQZlJWXzluQkFJSDAxZGptTHhlRlBvLWZQMTBwcVdxMElKUU9hdm91dGVDQVVMVHdyejRvdkxVQ3U4UUJrQ3JoVmItLWJHWDNqbFFVQ2xXUE5KT25jc3F5TmU3UnFSMkU?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-12T14:25:01+00:00",
+      "summary": "SK Hynix Soars 13% on Nasdaq Debut: HBM Architecture Makes It Irreplaceable in AI Chips&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -129,11 +122,11 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "SK Hynix Soars 13% on Nasdaq Debut: HBM Architecture Makes It Irreplaceable in AI Chips - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMExLUjFrRzQ2NkttZDk4SDNNeEpJU2c0YkUzbnJvQmVvbm9ic1B3dXNudV9DcE8waEVDc1pXMW1MMkt3MGFYSFFEVnpvRFNWVVREU0hVTnFWRnBIbjdFTzBRbmFodWU1bmc4LTNRdzdQZlJWXzluQkFJSDAxZGptTHhlRlBvLWZQMTBwcVdxMElKUU9hdm91dGVDQVVMVHdyejRvdkxVQ3U4UUJrQ3JoVmItLWJHWDNqbFFVQ2xXUE5KT25jc3F5TmU3UnFSMkU?oc=5",
+      "title": "AMD at $900 Billion: Zen 6 Venice Launch Sets Up a 25% Run to $1 Trillion - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHhDck1NejF2bXFoUktyeHNvYXJRVHdoVklmQ2lwX2hUZmVUcUtsNE9jYnN6Wnhzb0FldHpla2FaRTgtc04tR1ZaNXZIcm1UTjBJUi1EX2N5b1VWZUlRcFVxVXZlX0t6SXc1X2g4aENycEJPV1RIZE5wbFVUWjhOTnJhX0VhS216Q2szRnJZdVB3OXV0VEZ1aGFzeUFBMlZoUzBXT3MtNlNSS0lNVDFKdXdqWQ?oc=5",
       "source": "Tech Times",
-      "published": "2026-07-12T14:25:01+00:00",
-      "summary": "SK Hynix Soars 13% on Nasdaq Debut: HBM Architecture Makes It Irreplaceable in AI Chips&nbsp;&nbsp;Tech Times"
+      "published": "2026-07-13T13:06:08+00:00",
+      "summary": "AMD at $900 Billion: Zen 6 Venice Launch Sets Up a 25% Run to $1 Trillion&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "TSMC Q2 Earnings July 16: Three CoWoS Signals That Test AI’s Spending Ceiling - Tech Times",
@@ -150,13 +143,6 @@
       "summary": "NVIDIA deploys AI agent for factory alarm triage&nbsp;&nbsp;IoT News"
     },
     {
-      "title": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdkFPcDhpSlhTLW9YUUI1dEx5bGhtUUlBakZpOVc2TEk1TFVsbkJpcFYxR0JfdFdzVUpFNUVuTDYtUDZ3b1VUb0MtMnMyNG1tdng1VE5IRTA2enhaUWxtYUJxcFRaZThqWnUxLW1iVUtjX2NrVGhQbDEwZnFQWFZTRUt3NGY2MTdTUllrcUVxMGRySGFWUmhJRVFHRWVucmh1VUQtbjhTa2VBbzJyaVRXNnFjaDNJLVlVdlFoRjlrdGJScGNwS3oyTjlIMzJoR0hBc0JMMVFkOXV6YlhZT0ZFOVR4V3Y2bThXSGdTNlh3TnVQX1kwRndabEQ0dGJheWM?oc=5",
-      "source": "Business Wire",
-      "published": "2026-07-08T09:00:00+00:00",
-      "summary": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration&nbsp;&nbsp;Business Wire"
-    },
-    {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
       "source": "NVIDIA Newsroom",
@@ -164,11 +150,25 @@
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdkFPcDhpSlhTLW9YUUI1dEx5bGhtUUlBakZpOVc2TEk1TFVsbkJpcFYxR0JfdFdzVUpFNUVuTDYtUDZ3b1VUb0MtMnMyNG1tdng1VE5IRTA2enhaUWxtYUJxcFRaZThqWnUxLW1iVUtjX2NrVGhQbDEwZnFQWFZTRUt3NGY2MTdTUllrcUVxMGRySGFWUmhJRVFHRWVucmh1VUQtbjhTa2VBbzJyaVRXNnFjaDNJLVlVdlFoRjlrdGJScGNwS3oyTjlIMzJoR0hBc0JMMVFkOXV6YlhZT0ZFOVR4V3Y2bThXSGdTNlh3TnVQX1kwRndabEQ0dGJheWM?oc=5",
+      "source": "Business Wire",
+      "published": "2026-07-08T09:00:00+00:00",
+      "summary": "DDN, Nebul, and NVIDIA Collaborate to Advance AI Inference Economics Through High-Performance KV Cache Acceleration&nbsp;&nbsp;Business Wire"
+    },
+    {
       "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-01-05T08:00:00+00:00",
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX: Inference Accelerator for Agentic AI - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZklPT3k4WU9mQ0JTekJiZXVOUXo4YlpUTGFpdHZsMlNUN1IzbUVJcUJKUDFSTXVWczM0ZlEybjhiQ0JtRnRHa3BKaURBcC1PdXJINjZYZTQ?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-03-16T19:36:38+00:00",
+      "summary": "NVIDIA Groq 3 LPX: Inference Accelerator for Agentic AI&nbsp;&nbsp;NVIDIA"
     },
     {
       "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia - Bloomberg.com",
