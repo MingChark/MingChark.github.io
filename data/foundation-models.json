@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T08:20:49.307753+00:00",
+  "generated": "2026-07-15T13:50:50.160551+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -38,11 +38,11 @@
       "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "Venturebeat",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -64,6 +64,13 @@
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "The Future of Large Language Models - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-06-25T07:00:00+00:00",
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -108,13 +115,6 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "Towards Data Science",
-      "published": "2026-03-18T07:00:00+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
-    },
-    {
       "title": "AGIBOT releases GO-2 foundation model for embodied AI - The Robot Report",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmFpbXhsRDI3aXg0YlhXRjljMV9ZSFdGTWR6dzFBVHZfU05meW0wN05VeGh2QjdDYXIzYk14eWRUd1ZtRlk5T3hEMjFma2pWLU5aMy1wNmlJdW9GNGJ1X3VibWhlRjQ4TnNqMUhid204aF9MbXlReGJTWTFPN09iZ3pxRnZzbFMz?oc=5",
       "source": "The Robot Report",
@@ -143,6 +143,13 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
+      "source": "Towards Data Science",
+      "published": "2026-03-18T07:00:00+00:00",
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
+    },
+    {
       "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
       "source": "FICO",
@@ -169,13 +176,6 @@
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
-    },
-    {
-      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     }
   ]
 }
