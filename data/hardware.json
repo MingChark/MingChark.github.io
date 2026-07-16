@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T19:17:23.517697+00:00",
+  "generated": "2026-07-16T02:53:11.331264+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -38,39 +38,18 @@
       "summary": "Nvidia CEO Jensen Huang confirms next-gen AI accelerators on track for delivery&nbsp;&nbsp;Crypto Briefing"
     },
     {
-      "title": "AT&T Achieves Outstanding Efficiency for AI Training with AMD - AMD",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWdIU1VjUGx4cTJQcmpHeGRpMVZOZXRibWZCT1dQeUhXdmJzdHlTNy12RURLNGtwZWUzUk95MXJOa2dmTmVESXh2ci16d3VSTVB1N2pNdk00YXdETXZNMlpSaHRuR2l1bkl6V0pvSW5raDR6Rjc2NlhudE81Uld1bHdvR2ppU19wc0Nsc1RzRzNKVmhMTkswc1FOYVUzWHhfZDBPTg?oc=5",
-      "source": "AMD",
-      "published": "2026-07-13T12:18:40+00:00",
-      "summary": "AT&T Achieves Outstanding Efficiency for AI Training with AMD&nbsp;&nbsp;AMD"
+      "title": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWkpxem5TZDF1SzN2OHNUU1IwaFZwZnMtSWFMQUQ3ZlZjT2NDOGstTjhobE84UG4waGQtUUxqLWJpSlB0czlObUJVMUVlM0NiOWxmOGNKV2RtLTJhOUJSM0I4OS1MS2VvVy12cWxGdThKNUJRR3ZoUmtWV2V2cmtBTnI5ZmtyaURFblBmNlZET1JmVFFVUGdobmxmTHZ5OTQxLU84aGpEMW1IZlloOGxWUHI5ZnlsUGRROEpBR0RteEpSOFZXT1pSN05qZGJzaklGeG4teW1jU0RIYUFvSDVlZDVHejA?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-07-15T11:25:14+00:00",
+      "summary": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On&nbsp;&nbsp;The Globe and Mail"
     },
     {
-      "title": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTENralFUZ1FCM2FQczlGR2dfX1FUNGpGVjEzUTU1Y1pwTFBhQ25iY3hNZWJtd3BwTlhaSUpHVk9Gd19VTktFLXNJSG0xU1pWa2h5VHJvMEE4YnprMk5CWHNFMWdsNktOdmh1RFczVW9JcUpwNHdLUmQxNENqVnJ1cmFEZ25ldkRfQ0NsUWRQN1p3aUgzVlpveQ?oc=5",
+      "title": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTFoWlU5Mmh0MmROQU9hbFR3ckxlQzQ3aXptRkx4YTVEaVFrT1pjTl94NUhkdWdzSXJCN0EzNDBVTWpnbTBRV3VqNFFDLXh5MUswNHU5ZkR1LUlYaVlCb1lucTE0YkNhWUtvLUt3RHI0blV3MktQd29EbVZCN0daV2hxeHdNUkdzbnlXYXRFbUVOLW41XzVqTg?oc=5",
       "source": "The Motley Fool",
-      "published": "2026-07-15T12:05:00+00:00",
-      "summary": "SK Hynix Controls More Than Half the HBM Market Nvidia Depends On&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "title": "DeepSeek is reportedly developing its own inference chip: Chinese AI is said to become less dependent on NVIDIA and Huawei - igor´sLAB",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUwwR0ZHMG11Q1g5dTM4U3VfYlZPYWRRWnIyX1hwVlcxNmppdGpuME94OXFLbHRTelNGRDl6RGxzMmNxR01WSWUyZXNwQWdRalN4S0NpRXg4STA5ZHVMcVhTWGx6WEJmeTh1a2FvOXFPeGRGYjBBTjBXT0xTck5jeXhjby10dHFacmxtZnQtVnpabUk?oc=5",
-      "source": "igor´sLAB",
-      "published": "2026-07-15T04:00:00+00:00",
-      "summary": "DeepSeek is reportedly developing its own inference chip: Chinese AI is said to become less dependent on NVIDIA and Huawei&nbsp;&nbsp;igor´sLAB"
-    },
-    {
-      "title": "US clears more Chinese firms to buy Nvidia AI chips amid easing export approvals - Electronics For You BUSINESS",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkoxeWd6RGxja0M4OFZIV1FGbXBxcGRZNm5iVVktdU1mVXU0cm14X0h5XzdkUTFrZExnX016RTdUUzJNU3pBMEJLa0tlMTZ2aWdDVlVYcnBxY2s4NjhLQnNBSDFsalhfX0xMdzlsaW9uRnVQYXhDX3dqQ0F1QU02VVRTOEF3cWg3ZnF2OFVpM2JrVU5BMVdhM2IxbnZxTWdiSk9EX3FKc3Q2LXRuSEhZWkI3a0pGVTc3MVBfWXByWGlFOU1hYXBKTQ?oc=5",
-      "source": "Electronics For You BUSINESS",
-      "published": "2026-07-15T07:52:55+00:00",
-      "summary": "US clears more Chinese firms to buy Nvidia AI chips amid easing export approvals&nbsp;&nbsp;Electronics For You BUSINESS"
-    },
-    {
-      "title": "Quantum X Labs Validates Continuous-Data Quantum Sampling Workflow and Achieves Significant GPU Acceleration with NVIDIA CUDA-Q - AiThority",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSFZFc1JwbFV3anhXLU93MmhYd1oyUnY1c3R4TkxfbE1uMWpYTlpaemxBeU5rVlEtaTVuOUFablg4TkNBWHRWa3AxNlRGX3AwNHpYSXlRTHJXZjV6bEZXTERucVFCMU1YUUptZXRLeDdmVi01cTZUaEo1cWpKQmE2b09Pd05RdVVkVkRsclgxTU9xZUtpc3hZLUhscTZjWDh0SjFxeGNTNVFRTUVzRVZleTdBNGtPeVhhSGpTMVpjanNubnJ2YnFPYUloZ25IMnJUSUx4eW5RbC13QTRSYy1nTmtpMzY4bW9vY0JFOGJucjZUTlNoSnIxQ1kzR1JYQ2JmUkFGWmlMTTNDMWM?oc=5",
-      "source": "AiThority",
-      "published": "2026-07-15T10:13:37+00:00",
-      "summary": "Quantum X Labs Validates Continuous-Data Quantum Sampling Workflow and Achieves Significant GPU Acceleration with NVIDIA CUDA-Q&nbsp;&nbsp;AiThority"
+      "published": "2026-07-14T20:00:00+00:00",
+      "summary": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most&nbsp;&nbsp;The Motley Fool"
     },
     {
       "title": "“Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race - economy.ac",
@@ -80,11 +59,11 @@
       "summary": "“Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race&nbsp;&nbsp;economy.ac"
     },
     {
-      "title": "Google Courts Nvidia-Focused Neoclouds to Use its AI Chips - WinBuzzer",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkJpSXkzWWJzdnRxa1ltYVcwQ0ZDVldaZFFJMmJ5OW1nSVVOUnRoSVFrZDFsTVc1ZTAwZHg2c0gzSXVYNWpCQkROMFRDWjQ1SkJ6WWk5bnBzOUFMX1J6N0tWVy0tOGZUZjZNV0ltelphdUZJVHBKSmFxOVJleld0d3VNaVBCWHFfNG0yRjY3QkJDZjBNVFlCNERKcFpwQQ?oc=5",
-      "source": "WinBuzzer",
-      "published": "2026-07-15T08:24:54+00:00",
-      "summary": "Google Courts Nvidia-Focused Neoclouds to Use its AI Chips&nbsp;&nbsp;WinBuzzer"
+      "title": "Samsung to build new DRAM plant at Giheung site as AI boom boosts memory demand - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pYkVFajEtdzQ3YVRKRWtKRmhzLVk4bFJ2N01kV2hNWERHSzRhSmF5ODM3UEllcVpVVmdxUllZd2FCWnFXTVhoYmJZU0NpTURkS3h6UjF5UDNuS2Nkb29LemxwWTlxUmwwbjdJdlA5Q3d0ZWttclJR?oc=5",
+      "source": "KED Global",
+      "published": "2026-07-15T11:50:00+00:00",
+      "summary": "Samsung to build new DRAM plant at Giheung site as AI boom boosts memory demand&nbsp;&nbsp;KED Global"
     },
     {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
@@ -94,11 +73,11 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Why is Nvidia stock falling despite China chip export resumption - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGpaSFhwU2N1N2lMZ1JMY2ExSl83OE9RXzJqdjRWUWdyQTVvaEg2R0lqTkVDaTNIQ1JaMnVUa3E2NDlHVF9sbmUwYkJXVG9rbXNaekJ1TWg4MllPc0xac25EVzlRMGFqV1plaGR1bjdEN0JwTE1ZekVtTXBRb2lDZTF4dWFjaXM3MU45OE5BTjZBWGpSaUJ4Y254UkZYaFpuNko1bVVR?oc=5",
-      "source": "Invezz",
-      "published": "2026-07-15T18:24:05+00:00",
-      "summary": "Why is Nvidia stock falling despite China chip export resumption&nbsp;&nbsp;Invezz"
+      "title": "US clears more Chinese firms to buy Nvidia AI chips amid easing export approvals - Electronics For You BUSINESS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkoxeWd6RGxja0M4OFZIV1FGbXBxcGRZNm5iVVktdU1mVXU0cm14X0h5XzdkUTFrZExnX016RTdUUzJNU3pBMEJLa0tlMTZ2aWdDVlVYcnBxY2s4NjhLQnNBSDFsalhfX0xMdzlsaW9uRnVQYXhDX3dqQ0F1QU02VVRTOEF3cWg3ZnF2OFVpM2JrVU5BMVdhM2IxbnZxTWdiSk9EX3FKc3Q2LXRuSEhZWkI3a0pGVTc3MVBfWXByWGlFOU1hYXBKTQ?oc=5",
+      "source": "Electronics For You BUSINESS",
+      "published": "2026-07-15T07:52:55+00:00",
+      "summary": "US clears more Chinese firms to buy Nvidia AI chips amid easing export approvals&nbsp;&nbsp;Electronics For You BUSINESS"
     },
     {
       "title": "TSMC’s Record June Revenue Signals a New AI Chip Pricing Supercycle - semivision",
@@ -108,18 +87,25 @@
       "summary": "TSMC’s Record June Revenue Signals a New AI Chip Pricing Supercycle&nbsp;&nbsp;semivision"
     },
     {
-      "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - The Korea Economic Daily Global Edition",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
-      "source": "The Korea Economic Daily Global Edition",
-      "published": "2026-07-09T11:27:00+00:00",
-      "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;The Korea Economic Daily Global Edition"
+      "title": "DeepSeek is reportedly developing its own inference chip: Chinese AI is said to become less dependent on NVIDIA and Huawei - igor´sLAB",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUwwR0ZHMG11Q1g5dTM4U3VfYlZPYWRRWnIyX1hwVlcxNmppdGpuME94OXFLbHRTelNGRDl6RGxzMmNxR01WSWUyZXNwQWdRalN4S0NpRXg4STA5ZHVMcVhTWGx6WEJmeTh1a2FvOXFPeGRGYjBBTjBXT0xTck5jeXhjby10dHFacmxtZnQtVnpabUk?oc=5",
+      "source": "igor´sLAB",
+      "published": "2026-07-15T04:00:00+00:00",
+      "summary": "DeepSeek is reportedly developing its own inference chip: Chinese AI is said to become less dependent on NVIDIA and Huawei&nbsp;&nbsp;igor´sLAB"
     },
     {
-      "title": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTFoWlU5Mmh0MmROQU9hbFR3ckxlQzQ3aXptRkx4YTVEaVFrT1pjTl94NUhkdWdzSXJCN0EzNDBVTWpnbTBRV3VqNFFDLXh5MUswNHU5ZkR1LUlYaVlCb1lucTE0YkNhWUtvLUt3RHI0blV3MktQd29EbVZCN0daV2hxeHdNUkdzbnlXYXRFbUVOLW41XzVqTg?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-14T20:00:00+00:00",
-      "summary": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most&nbsp;&nbsp;The Motley Fool"
+      "title": "Quantum X Labs Validates Continuous-Data Quantum Sampling Workflow and Achieves Significant GPU Acceleration with NVIDIA CUDA-Q - AiThority",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSFZFc1JwbFV3anhXLU93MmhYd1oyUnY1c3R4TkxfbE1uMWpYTlpaemxBeU5rVlEtaTVuOUFablg4TkNBWHRWa3AxNlRGX3AwNHpYSXlRTHJXZjV6bEZXTERucVFCMU1YUUptZXRLeDdmVi01cTZUaEo1cWpKQmE2b09Pd05RdVVkVkRsclgxTU9xZUtpc3hZLUhscTZjWDh0SjFxeGNTNVFRTUVzRVZleTdBNGtPeVhhSGpTMVpjanNubnJ2YnFPYUloZ25IMnJUSUx4eW5RbC13QTRSYy1nTmtpMzY4bW9vY0JFOGJucjZUTlNoSnIxQ1kzR1JYQ2JmUkFGWmlMTTNDMWM?oc=5",
+      "source": "AiThority",
+      "published": "2026-07-15T10:13:37+00:00",
+      "summary": "Quantum X Labs Validates Continuous-Data Quantum Sampling Workflow and Achieves Significant GPU Acceleration with NVIDIA CUDA-Q&nbsp;&nbsp;AiThority"
+    },
+    {
+      "title": "Google Courts Nvidia-Focused Neoclouds to Use its AI Chips - WinBuzzer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkJpSXkzWWJzdnRxa1ltYVcwQ0ZDVldaZFFJMmJ5OW1nSVVOUnRoSVFrZDFsTVc1ZTAwZHg2c0gzSXVYNWpCQkROMFRDWjQ1SkJ6WWk5bnBzOUFMX1J6N0tWVy0tOGZUZjZNV0ltelphdUZJVHBKSmFxOVJleld0d3VNaVBCWHFfNG0yRjY3QkJDZjBNVFlCNERKcFpwQQ?oc=5",
+      "source": "WinBuzzer",
+      "published": "2026-07-15T08:24:54+00:00",
+      "summary": "Google Courts Nvidia-Focused Neoclouds to Use its AI Chips&nbsp;&nbsp;WinBuzzer"
     },
     {
       "title": "Nvidia's China Comeback Finally Begins - But Here's Why Investors Should Keep Expectations in Check - 24/7 Wall St.",
@@ -136,18 +122,25 @@
       "summary": "TSMC Sets All-Time Revenue Record: AI Demand Has Rewritten Its Calendar&nbsp;&nbsp;Tech Times"
     },
     {
+      "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
+      "source": "KED Global",
+      "published": "2026-07-09T11:27:00+00:00",
+      "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;KED Global"
+    },
+    {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndJQ3ltQ19yRWw3RHhQaldJYmVfN0RhSEhyUlZDQVhJeDFIalFQR0QwSWxYTnEtY1V1dWtlUFMzei0tSmVlMUNBYnRtVlJCMHBraFhBVTZ4YVdtbXpsakRMdDZiOUZjMHlFbUV4RFVuZTBiMy1Lc3RzanpyRk9DYk1Ta0JDUFZ1QmEzNWlPTWpETlZFWnRhSXkzTDNUWjRmYlJaZmVB?oc=5",
       "source": "NVIDIA Developer",
-      "published": "2026-07-07T17:35:09+00:00",
+      "published": "2026-07-07T07:00:00+00:00",
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD stock falls 6%: why are analysts still bullish on the stock? - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnliZHVFbkh3R2dSdjNDbEVaOXc1MlNDM1FwelAwb2RvX1FzeUxSNmo5NnB4WkFkbjdWRjVHeHF1dkRlMFcyNEZOTk5KOXMyLWdkeFF1Q2NKdk5oMGd2cGxxTkgzYThhNzhjdnc5bThza2FmcGlacWl1aUJVcl9ZMk1wRndxd0pwRXlPZVU5TVFSVW45MV94anlfbFdsQzY3d0tsWGhhZWpHLW8?oc=5",
+      "title": "Why is Nvidia stock falling despite China chip export resumption - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNam80TEI5V0h5V3k3d1pvUWN1SExPeHU4OVpCYzctWHI0dm9DdVF3eTF0OVBmVUJZT0lxaGtDdUV0QWV4TWpvZ3pETFZMbjBqdWNNVXBzN0JVaXNHTllmOXR0T2h1Y0UtVTN0VkNLbWlHVVU4V0htV0NER1BHdE9TUmlMUmJfT3NadzMzQkEyZGN4ckhkYTV6d3JsbFFBdXIwbDNMWjFZX1dXZw?oc=5",
       "source": "Invezz",
-      "published": "2026-07-15T17:21:44+00:00",
-      "summary": "AMD stock falls 6%: why are analysts still bullish on the stock?&nbsp;&nbsp;Invezz"
+      "published": "2026-07-15T18:24:06+00:00",
+      "summary": "Why is Nvidia stock falling despite China chip export resumption&nbsp;&nbsp;Invezz"
     },
     {
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -162,6 +155,13 @@
       "source": "Fortune",
       "published": "2026-07-08T13:48:00+00:00",
       "summary": "Chinese companies are ditching Nvidia’s advanced accelerators for domestic AI suppliers&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFJWdHZlQy1ZRHBkLWhORThoMGV4TFZXZTFMcEF0S3RLbmNVVDRESHF1dmJJUXRkZHF3NHVLNEZySWtwU20wSlF1TEI0UFZnQXhCaS1LbXF5OGlTN0JrVDhfdU1SWmxIWFQ5VXJXblg2SXhTVk81MWROcVc3SmZqVloydDhRdUlhckVoRzhMMUw0OVgxa1d0V2dvdm80UDZNbllDVXVLNl9OZ3JrWEJ6cGNQOXc5NHhiLUc0UHdNOA?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-12T16:26:22+00:00",
+      "summary": "Goldman Sachs’ Insane SpaceX AI Forecast Has One Clear Winner: Micron Technology&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Apple Rewires Chip Roadmap Around AI: M7 Ultra Targets 1.5TB, Eyes NVIDIA Blackwell - Tech Times",
