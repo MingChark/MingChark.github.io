@@ -1,14 +1,7 @@
 {
-  "generated": "2026-07-18T13:24:10.334994+00:00",
+  "generated": "2026-07-18T19:10:24.284846+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
-    {
-      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzNwS1diMHFNdmxYU3UzbldLUjJVY3NZUkxoa1hKT0J1WmlVUmxVWDk3VnA5MHV6clA2RTA2R2kzQ2ZHNEFCYndEX1B4ODNqWGtrTklQWmlEUm9MdTZEeGs3UjN1TE1kM1h0MTVfX0YxTENwMEd1MTc3R0x6UVA0aGNQS2xPY0NkTmVFWmNqaFRjVi1GbmZ5UEtEdXVxWVBQTUo2SlUzUGdaS0FWd19YZ2tXWVhhTXVLNkZ1S1ZFWi13SC1ZbkQ3QVY0UDduVmM4aklWaWVmU1M2UWNibzNLLVhybEbSAeoBQVVfeXFMTjlWQmVnTWkyWnNmUTZEYlhZZkJpRFJhU3VCX21Mci1oZnp1ZkVWQ0FpVTl6Vl9CS0xWYWxCTnJ5Nmpjdi1jbjZ4bFpCSFR0elFTSEtxNVVVM2hMcmxmaTktZTRZYXdUTjluVTVudE5sc3NrUERQR3BET3MwVUtYSl9MYU90bDJuLXJtYlFuZngtRHJOTC10NEZxSlZISGdmZmdYbnY5UFo1bEF3QmVDREZ0VzlLVWRPbjVjUXFKRU40bW1zVUxQSjVCUGlNQmVCS2JYcUF1RU1iMElHZkxtT3pOYXFZZEk2X1Nn?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-17T21:35:27+00:00",
-      "summary": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds&nbsp;&nbsp;MarkTechPost"
-    },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
@@ -22,6 +15,13 @@
       "source": "24/7 Wall St.",
       "published": "2026-07-17T12:49:57+00:00",
       "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzNwS1diMHFNdmxYU3UzbldLUjJVY3NZUkxoa1hKT0J1WmlVUmxVWDk3VnA5MHV6clA2RTA2R2kzQ2ZHNEFCYndEX1B4ODNqWGtrTklQWmlEUm9MdTZEeGs3UjN1TE1kM1h0MTVfX0YxTENwMEd1MTc3R0x6UVA0aGNQS2xPY0NkTmVFWmNqaFRjVi1GbmZ5UEtEdXVxWVBQTUo2SlUzUGdaS0FWd19YZ2tXWVhhTXVLNkZ1S1ZFWi13SC1ZbkQ3QVY0UDduVmM4aklWaWVmU1M2UWNibzNLLVhybEbSAeoBQVVfeXFMTjlWQmVnTWkyWnNmUTZEYlhZZkJpRFJhU3VCX21Mci1oZnp1ZkVWQ0FpVTl6Vl9CS0xWYWxCTnJ5Nmpjdi1jbjZ4bFpCSFR0elFTSEtxNVVVM2hMcmxmaTktZTRZYXdUTjluVTVudE5sc3NrUERQR3BET3MwVUtYSl9MYU90bDJuLXJtYlFuZngtRHJOTC10NEZxSlZISGdmZmdYbnY5UFo1bEF3QmVDREZ0VzlLVWRPbjVjUXFKRU40bW1zVUxQSjVCUGlNQmVCS2JYcUF1RU1iMElHZkxtT3pOYXFZZEk2X1Nn?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-17T21:35:27+00:00",
+      "summary": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -38,11 +38,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "Venturebeat",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -122,11 +122,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - Venturebeat",
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVksyRFlsamVnRXRrekJITmxYUU1uS1Nvb1lzYzllRDFoZmZLWEhmMXdkZUZqR0t3Wjl2akp6Y015M2YySjZ1ci1VX3RZYXhMRFFWNE1YMDNvQ2paZkRObWVDUW1HdUFKUzFQMFloS0ppcjAtVkRLVFpic3ZBa0M4cHB2RDVlX29DUlFIVkNySGdtNG9MejFQdWhQT1VWZFhMUUNTVE9VbTRGWng5SURJcGxTOGNrZ1Noc25YOThlbDg1dzNqcDczZHc5N0Y0Wk1lWkpB?oc=5",
-      "source": "Venturebeat",
+      "source": "VentureBeat",
       "published": "2026-06-25T07:00:00+00:00",
-      "summary": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'&nbsp;&nbsp;Venturebeat"
+      "summary": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost",
@@ -164,18 +164,18 @@
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
     },
     {
-      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
-      "source": "FICO",
-      "published": "2025-09-23T07:00:00+00:00",
-      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
-    },
-    {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
+      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
+      "source": "FICO",
+      "published": "2025-09-23T07:00:00+00:00",
+      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
     }
   ]
 }
