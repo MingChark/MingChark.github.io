@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T08:24:58.599880+00:00",
+  "generated": "2026-07-19T13:25:37.704521+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzNwS1diMHFNdmxYU3UzbldLUjJVY3NZUkxoa1hKT0J1WmlVUmxVWDk3VnA5MHV6clA2RTA2R2kzQ2ZHNEFCYndEX1B4ODNqWGtrTklQWmlEUm9MdTZEeGs3UjN1TE1kM1h0MTVfX0YxTENwMEd1MTc3R0x6UVA0aGNQS2xPY0NkTmVFWmNqaFRjVi1GbmZ5UEtEdXVxWVBQTUo2SlUzUGdaS0FWd19YZ2tXWVhhTXVLNkZ1S1ZFWi13SC1ZbkQ3QVY0UDduVmM4aklWaWVmU1M2UWNibzNLLVhybEbSAeoBQVVfeXFMTjlWQmVnTWkyWnNmUTZEYlhZZkJpRFJhU3VCX21Mci1oZnp1ZkVWQ0FpVTl6Vl9CS0xWYWxCTnJ5Nmpjdi1jbjZ4bFpCSFR0elFTSEtxNVVVM2hMcmxmaTktZTRZYXdUTjluVTVudE5sc3NrUERQR3BET3MwVUtYSl9MYU90bDJuLXJtYlFuZngtRHJOTC10NEZxSlZISGdmZmdYbnY5UFo1bEF3QmVDREZ0VzlLVWRPbjVjUXFKRU40bW1zVUxQSjVCUGlNQmVCS2JYcUF1RU1iMElHZkxtT3pOYXFZZEk2X1Nn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUzNwS1diMHFNdmxYU3UzbldLUjJVY3NZUkxoa1hKT0J1WmlVUmxVWDk3VnA5MHV6clA2RTA2R2kzQ2ZHNEFCYndEX1B4ODNqWGtrTklQWmlEUm9MdTZEeGs3UjN1TE1kM1h0MTVfX0YxTENwMEd1MTc3R0x6UVA0aGNQS2xPY0NkTmVFWmNqaFRjVi1GbmZ5UEtEdXVxWVBQTUo2SlUzUGdaS0FWd19YZ2tXWVhhTXVLNkZ1S1ZFWi13SC1ZbkQ3QVY0UDduVmM4aklWaWVmU1M2UWNibzNLLVhybEY?oc=5",
       "source": "MarkTechPost",
       "published": "2026-07-17T21:35:27+00:00",
       "summary": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds&nbsp;&nbsp;MarkTechPost"
@@ -66,11 +66,11 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "published": "2026-06-09T07:00:00+00:00",
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -122,11 +122,11 @@
       "summary": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
-      "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -157,18 +157,18 @@
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
     },
     {
-      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
-      "source": "FICO",
-      "published": "2025-09-23T07:00:00+00:00",
-      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
-    },
-    {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
+      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
+      "source": "FICO",
+      "published": "2025-09-23T07:00:00+00:00",
+      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
     },
     {
       "title": "Densing law of LLMs - Nature",

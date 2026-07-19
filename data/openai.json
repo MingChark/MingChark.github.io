@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T08:24:58.599880+00:00",
+  "generated": "2026-07-19T13:25:37.704521+00:00",
   "query": "OpenAI",
   "articles": [
     {
@@ -31,11 +31,25 @@
       "summary": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic&nbsp;&nbsp;WSJ"
     },
     {
+      "title": "Divide grows between AI employees and executives over policy battles - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalBUMEIxaUwyZmt3anZuQUl6S1JITzRqM0YyQ2xXOFNHVDZqM3Q4N19FbzVobVRiS0RUNUVoWXVzRFA1ZkdiRFZMS0R3b25MNmhsWDZQR0NoajBQVWVxOWFLekpab2hGa1p4ZWg2Q2x4UU81SUZUNHlwV01rX3AwQVRYRU5oWlRCTm4zSk1xT0djdw?oc=5",
+      "source": "The Hill",
+      "published": "2026-07-19T10:00:00+00:00",
+      "summary": "Divide grows between AI employees and executives over policy battles&nbsp;&nbsp;The Hill"
+    },
+    {
       "title": "Joanna Stern: An open letter to OpenAI’s secret gadget - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTNUQkpMQlRhUnZfckhUR1BlUVdRRFFZYVBLaURyNnQzellmR2k0ZXhKdmxNZjQxMlhWUHFkazZHVDlKN3pfbnpZOE9VamVsc3pRNDB0RHl1SkxDSzNXVFF3VkV5ODNSME1FZXZ5V1c3bXdKY0FNOFRHVGxoN1puU010T0dCUXZGWFhESi1RUnYyaDdaU3p3Z1F3?oc=5",
       "source": "NBC News",
       "published": "2026-07-18T00:00:00+00:00",
       "summary": "Joanna Stern: An open letter to OpenAI’s secret gadget&nbsp;&nbsp;NBC News"
+    },
+    {
+      "title": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0U3ekdoc0hTRTgzb0lfMVBRS01YbTh3OWVyanl6SWZrNlFXcklIQlZXYkJPMDlkWlVwbENYRkNZMFM5UldsLWhyMERzaEgzNm1GRFFGd2ctdk1GWENXalQ1ckVMR2JRa0hPZHVoeVNaNEdNLTlIOWRXRVZIZDV4elNYZzVWZG04SHBvSGFZR3R5amlzcGU0LUx3S1pWQzhqaHJiUEVGVDNCeWNMNnIyYm9BNUNVMm1oc0hkT3I0c2xfU2dTeExEMzdfS3NqRWx3eFZSclItZHdSRUxEOVlWRjFmTE1vS0RoS0HSAe8BQVVfeXFMUDlick9EcnZsSWVtUllDY0FUSndCUE1Pb3g1and4N2s3T1FQSFgtOWwzckk5UlMwNUF0clZKMTRTTGlUNkRlcnBCQW9pZkRlZTRqQkhOUGpLVWhldExWMzhWMDdMY3NEZlhkLUZaTmhoandaYllNanVsS1lXSUlLY0FMSklqMkVreTRpRTBpVVZiMkpTSV9DcC0wNzc1OEpwb0puYUtvQ1NuSl93WVFuU2pNTDAzZ2ZRU1NkU192dDhfbHpBTlg5dERUMjVNZF84ZUwzOXRxZ0JnZ3NxaWlFY2h5MXhVWlg2X0Y2TVUyaDg?oc=5",
+      "source": "The Times of India",
+      "published": "2026-07-18T20:53:00+00:00",
+      "summary": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute&nbsp;&nbsp;The Times of India"
     },
     {
       "title": "'The AI bubble is an OpenAI bubble:' Ed Zitron says the ChatGPT maker is the Lehman Brothers of AI - Business Insider",
@@ -66,13 +80,6 @@
       "summary": "The 6 wildest claims in Apple’s lawsuit against OpenAI&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0U3ekdoc0hTRTgzb0lfMVBRS01YbTh3OWVyanl6SWZrNlFXcklIQlZXYkJPMDlkWlVwbENYRkNZMFM5UldsLWhyMERzaEgzNm1GRFFGd2ctdk1GWENXalQ1ckVMR2JRa0hPZHVoeVNaNEdNLTlIOWRXRVZIZDV4elNYZzVWZG04SHBvSGFZR3R5amlzcGU0LUx3S1pWQzhqaHJiUEVGVDNCeWNMNnIyYm9BNUNVMm1oc0hkT3I0c2xfU2dTeExEMzdfS3NqRWx3eFZSclItZHdSRUxEOVlWRjFmTE1vS0RoS0HSAe8BQVVfeXFMUDlick9EcnZsSWVtUllDY0FUSndCUE1Pb3g1and4N2s3T1FQSFgtOWwzckk5UlMwNUF0clZKMTRTTGlUNkRlcnBCQW9pZkRlZTRqQkhOUGpLVWhldExWMzhWMDdMY3NEZlhkLUZaTmhoandaYllNanVsS1lXSUlLY0FMSklqMkVreTRpRTBpVVZiMkpTSV9DcC0wNzc1OEpwb0puYUtvQ1NuSl93WVFuU2pNTDAzZ2ZRU1NkU192dDhfbHpBTlg5dERUMjVNZF84ZUwzOXRxZ0JnZ3NxaWlFY2h5MXhVWlg2X0Y2TVUyaDg?oc=5",
-      "source": "The Times of India",
-      "published": "2026-07-18T20:53:00+00:00",
-      "summary": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute&nbsp;&nbsp;The Times of India"
-    },
-    {
       "title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - MLive.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUdQVEhwWHIyVkF2MzJKNmlMSGY4N25nekxNNFBSQ3BCSG5GM1BfZWJZRnM0Yi1zRmpzVjMwQ19fTnBSN1o3Ylp5VG9PemhKTGhwa19mMUFJZERuclhydWx0YXBFbGxKT2NsYkN6bldfUFNsVkpIWU4wUGZMVnF0cTFabUVZQ09hOWxkNEZsVG9GRGpEYlZ6RGlCYzB3YUxERDY4WjFxTWRuTXVLSjBZV2NjOUZNcmcxMldMVTZFdzVOaE9ZakNSUFJDUDRDUDBrejJCWXoxU3ZEUUlpa2I3WtIB9AFBVV95cUxNYm4xazBYWnFUbERMMnVQM2pGMllhS2RXU3VZRXU3OGMyOGZxSUlybGF2TWZCOVN2aHBBN1F6a2xUUkNHa1l5TGNXZ1A0UzNCV2ZOeGpfcWFIbEFCM0JvdXRiVzNMbU52QnZlMjU4dUNhYWJyaW5QeU92X0Y3VVhNVkpsMFZrVVdudGpkY3lQZ3NSSUhKTTRJQWxCUXJMQUtEWFZWN0F0bk1ubjRPak1XYXBqTlNhc0ZzS2hhVlFqMzBpVGxOaEJzcTZqdUZnTGh0MXhUelYzRmYySVhiRWU3SzZnZDBCOFZaZEVxZEpEcEtFQlF1?oc=5",
       "source": "MLive.com",
@@ -80,11 +87,11 @@
       "summary": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor&nbsp;&nbsp;MLive.com"
     },
     {
-      "title": "Why is OpenAI selling a ChatGPT basketball? - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1VMYU1kczRhQVg2QWRGa29jOTFfNmdDX2lycFdXb0pna2ZpOTBNbGZTVTZYN1lGbHFZRTNjcmdGQjNremlHODJEM09TUjV0S2F3NlpGalJma2RaR2k4WkRXUEk1VXJXX29Iajl0Z2NTVEVqelR4WHZQaElwaXlHaWdoWQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-16T15:31:09+00:00",
-      "summary": "Why is OpenAI selling a ChatGPT basketball?&nbsp;&nbsp;TechCrunch"
+      "title": "AI’s new political donor class is already outspending Big Tech’s last one - The San Francisco Standard",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1NwYkI3XzlWZTZnQWJxeE82TXZULWZENVVwTGQwVTlBWFI0MC1qRUpPSlhQUzJ6czhpVk1RM1FvdGM1MHpqbXJoWE1aQTV2c2ZPUDBVMVRCRE50ZEtydGJKNmZ2Z3E1ZzZEVTRCc2JrR202Qk9faENiUUJJUzJDVkNiVnVldk1VSlV3WkdNSHVWcjB1dmJCNmpfUlIwMlI0N1dvSmJVSnA?oc=5",
+      "source": "The San Francisco Standard",
+      "published": "2026-07-18T13:00:00+00:00",
+      "summary": "AI’s new political donor class is already outspending Big Tech’s last one&nbsp;&nbsp;The San Francisco Standard"
     },
     {
       "title": "For Software Engineers, the AI Reckoning Is Already Here - Bloomberg.com",
@@ -94,17 +101,10 @@
       "summary": "For Software Engineers, the AI Reckoning Is Already Here&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI Will Start Notifying Parents If Their Teen Has Been Kicked Off Of ChatGPT - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjFET24wdE4tXy1uXy01aVlYd0pWRWV0NTRTNjRZOFBLdTcxVnNFRUFEYWtEM2piZXMtQkpUR2dibWZvVkQyWDJGclNUT2Jnc1prSk95T1VTeE95TWNxNkQ2T0ZLRklNVVllTWZ0cEtOdlE4RFlMcHpmQXFIdllRUG1iX2p2NGFjQnFPZQ?oc=5",
-      "source": "Engadget",
-      "published": "2026-07-18T11:00:20+00:00",
-      "summary": "OpenAI Will Start Notifying Parents If Their Teen Has Been Kicked Off Of ChatGPT&nbsp;&nbsp;Engadget"
-    },
-    {
       "title": "Why teens deserve access to safe AI - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtQWV2Si04ekxFTXhlaExTV0lpT245S0stWE1rSkxvVzM4ZzhNaktzY1VMMFhGQnlfYkNOUnNIVHF2eVp4a2lYOGhqUk56SXk2Uy01eUl4b2FLMlZFc0FTT3Z0ZWZfbnFNTGc?oc=5",
       "source": "OpenAI",
-      "published": "2026-07-15T21:17:49+00:00",
+      "published": "2026-07-16T16:15:53+00:00",
       "summary": "Why teens deserve access to safe AI&nbsp;&nbsp;OpenAI"
     },
     {
@@ -115,11 +115,11 @@
       "summary": "I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "Dave Eggers warns OpenAI staff ChatGPT is silencing a generation - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODA2RlhnZUEzVnNPZjFLTmRrQ1VjMjJydERXN2pIci0weFpQYWhaakVlN0dVQll3R01VSzhlVlRzd3ZqeG92SktvUFpIak93aGRHTWpYT0hQUFNvMkFqOFY5S2VOWWg1Nkx2UndFWVpDOElPNG96OHlHSzdkYV93MHR3VDFFaWJr?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-18T21:01:09+00:00",
-      "summary": "Dave Eggers warns OpenAI staff ChatGPT is silencing a generation&nbsp;&nbsp;Crypto Briefing"
+      "title": "Why is OpenAI selling a ChatGPT basketball? - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1VMYU1kczRhQVg2QWRGa29jOTFfNmdDX2lycFdXb0pna2ZpOTBNbGZTVTZYN1lGbHFZRTNjcmdGQjNremlHODJEM09TUjV0S2F3NlpGalJma2RaR2k4WkRXUEk1VXJXX29Iajl0Z2NTVEVqelR4WHZQaElwaXlHaWdoWQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-16T15:31:09+00:00",
+      "summary": "Why is OpenAI selling a ChatGPT basketball?&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Murati Knows OpenAI’s Secrets. Her New AI Signals She Prefers China’s. - Forbes",
@@ -136,6 +136,20 @@
       "summary": "Family of Trafford woman sues OpenAI, alleges ChatGPT contributed to her death on Alabama interstate&nbsp;&nbsp;wvtm"
     },
     {
+      "title": "Trade Secrets Fight With OpenAI, China's Regulatory Nod and More: This Week in Appleverse - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlVEYTFZVTctamh4TWVQREVaVUUwMTBKeWpnYy05TDB3bDRnQ25GUFIyeWZVMnM3dXlyQWJGMGwtOThGRFVFaGlHUWJiQU1FdVZVeU9uNjlKUzNsQkRHdHItZnE5UmJ6S3JGZHh3TmpwQVNxRF9od2MzVklLV0hLWGdMekJQUFZCQkVwVkZwYThVSE5iaGdSZ3QzWVg0c2cwaUZjUmVwOGhZejh1REZmbEU3TG1PRDVLMlRzTE83bzg0elpCZW56UUdhSlM0M05FZlRPNDN3?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-19T11:01:21+00:00",
+      "summary": "Trade Secrets Fight With OpenAI, China's Regulatory Nod and More: This Week in Appleverse&nbsp;&nbsp;Benzinga"
+    },
+    {
+      "title": "Dave Eggers warns OpenAI staff ChatGPT is silencing a generation - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODA2RlhnZUEzVnNPZjFLTmRrQ1VjMjJydERXN2pIci0weFpQYWhaakVlN0dVQll3R01VSzhlVlRzd3ZqeG92SktvUFpIak93aGRHTWpYT0hQUFNvMkFqOFY5S2VOWWg1Nkx2UndFWVpDOElPNG96OHlHSzdkYV93MHR3VDFFaWJr?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-18T21:01:09+00:00",
+      "summary": "Dave Eggers warns OpenAI staff ChatGPT is silencing a generation&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
       "title": "OpenAI limited collab is a physical keypad for AI - Axios",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KQzBGZXJvTFp1Q1Q0M1NBcDdPSThwaWhzaEZLekQweEFuN29Vc3ZHTFFQNEt0UXJmUTkzNjBJVGhockVRYlg0di10WGgzRGd3VFVMelhhbkVFdU9iazIzcGhkWW45VHpSeGpSYm9R?oc=5",
       "source": "Axios",
@@ -150,13 +164,6 @@
       "summary": "Apple sends legal letters to dozens of OpenAI defectors, report says&nbsp;&nbsp;Mashable"
     },
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
-      "source": "MIT Technology Review",
-      "published": "2026-07-15T17:09:37+00:00",
-      "summary": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer&nbsp;&nbsp;MIT Technology Review"
-    },
-    {
       "title": "Alabama family sues OpenAI, claims ChatGPT influenced woman's death - Montgomery Advertiser",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDRtRE5mM25jeUhJa2pkV0VCX0NmbDVYRGZ2Q1ZWUkNhTUNZemdPblUtSnI5M2RsN1VmM0tjSWNaaWlnd0F0Zlo4SXpiZVhtU1VsRlJyTzQtdTJ5bTJPUUNKM3VsNm4xYW5YUEJXS0R5WlgycjhNQ2ZISVNlX2g3VGpMSnZnVDNSS3R1WW5MY0FPWVkzMW1HYmdtM2lVekFxeUVWdktzLVpPSVd1X0lFWkdQeUNxanVTZmZxaTg1eHp4azlndHREeHQtWUZBRUpWajAwaG03REhTdw?oc=5",
       "source": "Montgomery Advertiser",
@@ -164,18 +171,11 @@
       "summary": "Alabama family sues OpenAI, claims ChatGPT influenced woman's death&nbsp;&nbsp;Montgomery Advertiser"
     },
     {
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwQlQ5a1lBYTNpaVdnZ1R3QWpuQWpkd1Y1SmRDc283aklKajB3R2ttQUdyMFBKRVp3bUt6T1gyWC0tTkJONjM0ZThVQW5DNHFnRkFiTnpxQzI4VFZ0TmZNY19KcnRNeTVPMlMzQm02SHAxWmJNcW1mQlpzVQ?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-07-16T08:42:00+00:00",
-      "summary": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol&nbsp;&nbsp;The Hacker News"
-    },
-    {
-      "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHphUl80MV93dEdWUTFUelkxbFd1QktjLWhTVjdnVk9yNXBrRkYyUTFYdGRSMXltRUhnRHJvYjF3eEk0b3BEU3ZscllTajVaSWE1NmxqNnluTGthNzRoTG1NVXV0bVNhRHU4ekxDUmRjdDFvTndaY3Uxdm9yVllJWXBSdmNlVnQ1V0xVM19NNHRmMkNvTE15OFdUa2pxSjVkcnlNekUzMmNjUEtpRmhaWmc0dG1wOEk5V3pZVkR5bTNybDZXU0Z2Wndn?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-14T20:52:15+00:00",
-      "summary": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion&nbsp;&nbsp;Bloomberg.com"
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
+      "source": "MIT Technology Review",
+      "published": "2026-07-15T17:09:37+00:00",
+      "summary": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer&nbsp;&nbsp;MIT Technology Review"
     }
   ]
 }
