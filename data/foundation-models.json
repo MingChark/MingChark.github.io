@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T19:11:35.723887+00:00",
+  "generated": "2026-07-20T03:32:39.866877+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -108,6 +108,13 @@
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
+      "source": "towardsdatascience.com",
+      "published": "2026-03-18T07:00:00+00:00",
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
+    },
+    {
       "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3RCN2RwV1l2NHV2aW5UVXNLYjlNMVhuMW10dG9XT3MzS2VDTV9ZNWlKYkNyYVhjc2N4dnVQREwwTV9obkw1Y1N5N2xWenFqVmROWk5yMV9wcjl1WVlBMk5SNE8tZWp2T1BBQjlLRGp3dEhET1FGRjdZNHlZMl81Y2dYN0hHekhtR0dGb3dBMDh6djR2dkQ3Wk5hcVAwb0hGM1lzM1R3WFhiMUFTQUVIWmxmdlJza3MyU1NVcEJvSG4xcG40MURaRXN1NHU3a2ZGMnBuTS1DbndIcE5iQ3d1OXNyR3hld2NvQlZQTGlBQ1LSAfYBQVVfeXFMUE45cHAyQi1pb0huNWRnYTZhVjVsSGhEejd1cTF0X29wX3V6TDdGX0Q3VmVnM0N6S2VLbVNRR3FhV0RkNTFLSVhQdFVHNzBCOGdIcC1QeExHREQ3X2xQbUplemFsWF9XenJmSk1ldGhvTVVSVkpNUWZTdU13TmtxSHVfMURBMlNjZVdlc0V0dFk3ZVBuOE1ocHl6NzJ1WDhUcDdwQXl0cW5nNExHUFo3VmNwb3JCSWpuTTdJX2xQYVcxVG5LU1NzS2E1WFVIZWgzOVF6UW5rd1lLRThlNTRwY1RmN016Y2NuVU9yMVgycWQ2NEZtM2FR?oc=5",
       "source": "MarkTechPost",
@@ -122,13 +129,6 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - Venturebeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVksyRFlsamVnRXRrekJITmxYUU1uS1Nvb1lzYzllRDFoZmZLWEhmMXdkZUZqR0t3Wjl2akp6Y015M2YySjZ1ci1VX3RZYXhMRFFWNE1YMDNvQ2paZkRObWVDUW1HdUFKUzFQMFloS0ppcjAtVkRLVFpic3ZBa0M4cHB2RDVlX29DUlFIVkNySGdtNG9MejFQdWhQT1VWZFhMUUNTVE9VbTRGWng5SURJcGxTOGNrZ1Noc25YOThlbDg1dzNqcDczZHc5N0Y0Wk1lWkpB?oc=5",
-      "source": "Venturebeat",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'&nbsp;&nbsp;Venturebeat"
-    },
-    {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTFBaYUY1RmtqbFZiXzQza0VrRlFNZGlXUFBfT21UZno1TlBmOFRrOVlYbE9icmhlSWtWbUtvUHZFcEF6ajBESzNqelRsVExmQ1VwcmhrOFhSVFZ5Q094OEFVSDA2eGdwMXRUUVBaclItOC1KWjBoU1d6QVZzb2hzbzNTR2pLRFJSUk5ubHQzaGRSUkRmQWl2dlpNRTJhc3doeFVZNjJBZkpacE1ZenFTbXNUbTQ1T05CSnliazdoazBHbGlNeE9vTC1ZY0czNlg0dE9HMk1ITkVGVVVrTmhjdEN3bHJMcDJQZHZoZnVnWlhTOQ?oc=5",
       "source": "MarkTechPost",
@@ -141,13 +141,6 @@
       "source": "MarkTechPost",
       "published": "2026-07-13T00:35:36+00:00",
       "summary": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "towardsdatascience.com",
-      "published": "2026-03-18T07:00:00+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -176,6 +169,13 @@
       "source": "FICO",
       "published": "2025-09-23T07:00:00+00:00",
       "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
+    },
+    {
+      "title": "Densing law of LLMs - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
+      "source": "Nature",
+      "published": "2025-11-06T08:00:00+00:00",
+      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     }
   ]
 }
