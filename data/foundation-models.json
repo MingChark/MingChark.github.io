@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T03:32:39.866877+00:00",
+  "generated": "2026-07-20T09:21:58.352549+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -38,11 +38,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "Venturebeat",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -78,13 +78,6 @@
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "Medium",
-      "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
@@ -129,6 +122,13 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTFBaYUY1RmtqbFZiXzQza0VrRlFNZGlXUFBfT21UZno1TlBmOFRrOVlYbE9icmhlSWtWbUtvUHZFcEF6ajBESzNqelRsVExmQ1VwcmhrOFhSVFZ5Q094OEFVSDA2eGdwMXRUUVBaclItOC1KWjBoU1d6QVZzb2hzbzNTR2pLRFJSUk5ubHQzaGRSUkRmQWl2dlpNRTJhc3doeFVZNjJBZkpacE1ZenFTbXNUbTQ1T05CSnliazdoazBHbGlNeE9vTC1ZY0czNlg0dE9HMk1ITkVGVVVrTmhjdEN3bHJMcDJQZHZoZnVnWlhTOQ?oc=5",
       "source": "MarkTechPost",
@@ -141,13 +141,6 @@
       "source": "MarkTechPost",
       "published": "2026-07-13T00:35:36+00:00",
       "summary": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",
@@ -176,6 +169,13 @@
       "source": "Nature",
       "published": "2025-11-06T08:00:00+00:00",
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     }
   ]
 }
