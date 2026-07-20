@@ -1,7 +1,21 @@
 {
-  "generated": "2026-07-20T14:14:42.579469+00:00",
+  "generated": "2026-07-20T19:47:29.203369+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTUc2aURpYjdsN0tuWVRDRGhFX1ZkZjhGYThLMkZtNzVuUFdyMWJta1dGSFI1RTRBT3ptc2hFZEg0MGNrZFhma3l6Q2RFUzZDT0JlNjNHREZpNG1oMlluMXAtY3J6RHA1QUprcEZhLUNzTGY3VVgtUlFJNmtiZVpidHFoc2pTUE5VbWlDYjQ0d3Vpd0hyRmpWaWFEd2RlQVFnaVFmZlYxVVB5a2dLN0UySFNVekYxRE5McERlZV9ybnhnOV9ubnBWZ2diMlA3RUE5OHFTaVpSY3plcDVyYkNsUDd3Z0NKNUF3NFRVNlNiZWtCekc4ZTlSRVo4UHVRcGhkdXFWeXdmb3dTdFpsQS1MUHFJWEV2UXA2eU01SGVON3UyeHctZU1qcmF5YXVaSGVTQjV6eklTUEhlTUZOckRKSFUzT3NLRmVENENtWEVtZTBYZklSUVIxN2UwNlhUbDktVERF?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-20T13:05:00+00:00",
+      "summary": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure&nbsp;&nbsp;Tom's Hardware"
+    },
+    {
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-20T10:31:53+00:00",
+      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;AOL.com"
+    },
     {
       "title": "Microsoft Azure adds AMD Helios AI chips for inference - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0NWbXpkQ1ZkTFM4dFNPb2E0UFBNdXNzQ0l1UEhmYXhYNE1rV0VvcEc3WjdkM3c2ZkxrWHlyN29fUXBGamFCNExNWmJRa0pJZENWQXRPQ1k3V25helNjUG9qRlU0THZvYWM4ejktbk91QTg4cnlGV2s2LWhfX01JOVFBS3U2N0VfanVCTzFKV2I?oc=5",
@@ -10,11 +24,18 @@
       "summary": "Microsoft Azure adds AMD Helios AI chips for inference&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTUc2aURpYjdsN0tuWVRDRGhFX1ZkZjhGYThLMkZtNzVuUFdyMWJta1dGSFI1RTRBT3ptc2hFZEg0MGNrZFhma3l6Q2RFUzZDT0JlNjNHREZpNG1oMlluMXAtY3J6RHA1QUprcEZhLUNzTGY3VVgtUlFJNmtiZVpidHFoc2pTUE5VbWlDYjQ0d3Vpd0hyRmpWaWFEd2RlQVFnaVFmZlYxVVB5a2dLN0UySFNVekYxRE5McERlZV9ybnhnOV9ubnBWZ2diMlA3RUE5OHFTaVpSY3plcDVyYkNsUDd3Z0NKNUF3NFRVNlNiZWtCekc4ZTlSRVo4UHVRcGhkdXFWeXdmb3dTdFpsQS1MUHFJWEV2UXA2eU01SGVON3UyeHctZU1qcmF5YXVaSGVTQjV6eklTUEhlTUZOckRKSFUzT3NLRmVENENtWEVtZTBYZklSUVIxN2UwNlhUbDktVERF?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-20T13:05:00+00:00",
-      "summary": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure&nbsp;&nbsp;Tom's Hardware"
+      "title": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUt6RWJ4bTdEQnQwbjhjZUtqNzVoVVVaREljakotVy1rLTFiS2c3LVg5bTNZd0w1U3B3M1AxQW5iV2JSRTlNRWxxemozOTRaaV8xdDhkM2RZMTU1SFRLbGhvM1AyV2JqU0lHeVFxOGtwcW5ybFhDbjZCZk9tUUxmRkdvVHBRbUNXSWtXYUhUa2FVSmI4R08wcU1nOWp6RWp3UHdZUi1mdFJYTGFRTDc1SzZzd2tfSmJIbTFPS3lkZDQzMnRlQV9PeExxQ1B4LTd2ZjdTeVpaa2ZydC1ZYUM1U0xUdVh6MlBtM1VYc3N3?oc=5",
+      "source": "TradingView",
+      "published": "2026-07-20T14:06:50+00:00",
+      "summary": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTBISXAwWGxEeGpnVVd1TmFtOU8zajVlUk5MNXFCV0taekJkY2xfYkFlQTNMdjZXRWJtb0l3MXpTQzZZcnEwM2VXR0gtY3hZdkM5aXRUYlhOYU80REdhQ0FEb3pUbjhqOXRSWUI1WjZiSmZXZnBRcEVOLW5qUm0yTi1Yb1JCaDNnLUl5eTFockNTVGxhWWl4YjUzNGpiOHlJQ1FlUlU1Ykc3N1JOUTg2My1rRGRZVUNIdTNPbGFtUUJNMDUzb0dNM2Jpc1VVXzdHNW1uNA?oc=5",
+      "source": "TradingKey",
+      "published": "2026-07-20T15:05:11+00:00",
+      "summary": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line&nbsp;&nbsp;TradingKey"
     },
     {
       "title": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over - ServeTheHome",
@@ -31,13 +52,6 @@
       "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0ZsZndqWFRiVDhnMXlycV8yVEYzRElPaFQ4bFRwRzI4aUQzaDFxcGl3bEJLbXE4dFhRVGlsTnhyM0V0cWozUU9QUkhxX081NGtRWlZTQmtzYjlLVmdkWDktSTQ5ekNTX2xISWJYTkZwZmVDbldiWmtqT3I5SlVITU13YlZOZ2J5N1g0S1J4Qmc5b1VIV1VnR1g4VjdNZUtRS28xbTlNX2JueElLb2FpemFqckJaT3Z3VTB0TzVPTUJhWUnSAcMBQVVfeXFMT2VfeklGWU5kNS00alAxb0t5Q3lvWnJxbWdYN0oySndQMTEwUm9TU0tEX2dTQUpJLXhLMEt0QThtZDkyb2dzSnVJWm9lWmVTa2pIcWxab0pXSGJtSHk3SXhfRjh5bXVfYU5zVUNhSFYxc2JnWFB5UzRjbThXYk9vYVFlYi00ZF9RMlZHMnRmY040MjlFN240SS1FXzBwTnBpNDNFT0NlaGs4enQxZS10TjNWR0hGMjBMRVVYdXFiUmdYNHhR?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-07-17T06:16:40+00:00",
-      "summary": "Chinese Nvidia alternatives project massive sales as AI chip demand surges&nbsp;&nbsp;South China Morning Post"
-    },
-    {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "source": "NVIDIA Developer",
@@ -45,11 +59,11 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD Launches Helios Rack System, Lands Microsoft as Customer - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVY1ZnB4RHZleVVDeDdsMzFhN24wSzVDU2VSaTVEc3dOSWE2WXRzN2kzSU1iQ09PS2stcHNZSkx0eHJwc0xQLWxiekJSaTJpajU4S2hsYk1DQmdaRzZYMXVwRHZFT2Z0bXR2M3M1OFhoTVFPdkFNUFdXRlNUaEJjeDh4c2Vfa0xkOG10c211Um43U2FQcThv?oc=5",
+      "title": "Google's Frozen v2 Chip Embeds Gemini AI Into Silicon - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnhLdXROdlhxR2RLUC1NUi01R2RjSzVzTlB6bVVTZjRXUXZSY0dwc0RDUnFYTnhfaXYyTWttVWx2RzlLenhMOF9mVXNRd0Y5YjRRV0FtYlpzU3RMbHB2SVY0NGdTaFRIUFVlVzU1bFZBeXYtOHRLZi1qWlVHX0pIYVBMWTVWa0lFQkd2VlRldw?oc=5",
       "source": "The Tech Buzz",
-      "published": "2026-07-20T13:45:00+00:00",
-      "summary": "AMD Launches Helios Rack System, Lands Microsoft as Customer&nbsp;&nbsp;The Tech Buzz"
+      "published": "2026-07-20T15:17:00+00:00",
+      "summary": "Google's Frozen v2 Chip Embeds Gemini AI Into Silicon&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -73,11 +87,11 @@
       "summary": "NVIDIA Faces China Scarcity Premiums As Customers Launch Rival AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Why Wall Street is looking ahead to this major event for AMD stock - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFZFWHBfMGVVbkNaRWJIYV9LVjhBSjBRTV9YVko1MHZJUEt4R0xKb3J1aE1VcTlQQ0NEVzhOY1BIUlVubGVQVUhmREktc1JRanhTZWFTQWJtMEZSWXVlTkFqNTY1clhyeEwzYmdZV3haZEtiX1ZtZ0lob2hVTTBtTGJ6UVpTNFZkUm5rYXJ2TzFtNkhqZmh4ZURUb1hZNlVKbmtvWA?oc=5",
-      "source": "Invezz",
-      "published": "2026-07-17T18:40:19+00:00",
-      "summary": "Why Wall Street is looking ahead to this major event for AMD stock&nbsp;&nbsp;Invezz"
+      "title": "AMD Helios Azure AI Expands Vital Cloud Compute in 2026 - Techgenyz",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4REtBeWJNc3FwUHVsX2szNS1QbTBaOVEteXdMc29nQ1NKMWFVWVR6cGpLY0NoSjFMSXhHTG5tdlE1c2NnbV83cHRlTHJKQWR3VVdjSQ?oc=5",
+      "source": "Techgenyz",
+      "published": "2026-07-20T16:12:42+00:00",
+      "summary": "AMD Helios Azure AI Expands Vital Cloud Compute in 2026&nbsp;&nbsp;Techgenyz"
     },
     {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
@@ -87,11 +101,11 @@
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "TSMC Accelerates Arizona Fab Expansion as AI Chip Demand Surges - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGtzQ2x5NUs4RWJsUTFpUVB1M2ljV2ZBNDNUVnE3aC1iN2Q2dUV1dkNKVGt1cDEzYWlqdlp0TFRqMkNrTUlnYjdYQlJiX01UWXk5WS1pa2hDaVhQb1g2T3JYUkR5N253M2FFN2VqdHJ4ZEhlektEYzVRYkg2MHNYcFYxRmhaVXNld1lQc1ZtbDQ5SmFJRTVnUFJYNWE?oc=5",
+      "title": "AMD Launches Helios Rack System, Lands Microsoft as Customer - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVY1ZnB4RHZleVVDeDdsMzFhN24wSzVDU2VSaTVEc3dOSWE2WXRzN2kzSU1iQ09PS2stcHNZSkx0eHJwc0xQLWxiekJSaTJpajU4S2hsYk1DQmdaRzZYMXVwRHZFT2Z0bXR2M3M1OFhoTVFPdkFNUFdXRlNUaEJjeDh4c2Vfa0xkOG10c211Um43U2FQcThv?oc=5",
       "source": "The Tech Buzz",
-      "published": "2026-07-19T23:36:00+00:00",
-      "summary": "TSMC Accelerates Arizona Fab Expansion as AI Chip Demand Surges&nbsp;&nbsp;The Tech Buzz"
+      "published": "2026-07-20T13:45:00+00:00",
+      "summary": "AMD Launches Helios Rack System, Lands Microsoft as Customer&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -129,6 +143,13 @@
       "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "Why Wall Street is looking ahead to this major event for AMD stock - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFZFWHBfMGVVbkNaRWJIYV9LVjhBSjBRTV9YVko1MHZJUEt4R0xKb3J1aE1VcTlQQ0NEVzhOY1BIUlVubGVQVUhmREktc1JRanhTZWFTQWJtMEZSWXVlTkFqNTY1clhyeEwzYmdZV3haZEtiX1ZtZ0lob2hVTTBtTGJ6UVpTNFZkUm5rYXJ2TzFtNkhqZmh4ZURUb1hZNlVKbmtvWA?oc=5",
+      "source": "Invezz",
+      "published": "2026-07-17T18:40:19+00:00",
+      "summary": "Why Wall Street is looking ahead to this major event for AMD stock&nbsp;&nbsp;Invezz"
+    },
+    {
       "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
       "source": "NVIDIA Newsroom",
@@ -150,32 +171,11 @@
       "summary": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Is Nvidia Undervalued or AMD Overvalued — or Both? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3F4dkV3SDhQbUZHOEpTRkRFaDVxU2FHNFpHa0tQdTdyQlpPbkxOekF4MlRscm9MNFhCWGZ1ZFNieDlDYkd3eDBpMXFjYnlWSjdOWWpqYmEza0RlTGx2V3phNUVUeVhXNTNFcTdlb042S1pvT29iQkJmanRUM2t6Z0NleG9INnF5U0o1X0hydmNacFZDN3c?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-05T07:00:00+00:00",
-      "summary": "Is Nvidia Undervalued or AMD Overvalued — or Both?&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles - crn.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDNRUlBxLXQ2Z1ZjOTlwdkdna2pTV25ydkxxekpqNHlJYUdEMGNzQmhfZk1SWXFTNXhieHlVMXg2VGlwSV80RWd3cG0wVlg3TWd2RC1CMzVSNGZ5V0Y3bDU3Q3pxbFk0dUl1c2pwdWtZYjZkTjM5MEl2VlB6VTM4WFFGUElRa1F2UXRnOU9lOHRnWnFFX3F2N2tORDZzTlVNQW8zYXZ0bmdGTkpUYkY4WjkyRHAzVFk2QzBqN2tjMGtHOXVMVWc?oc=5",
       "source": "crn.com",
       "published": "2026-05-11T07:00:00+00:00",
       "summary": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles&nbsp;&nbsp;crn.com"
-    },
-    {
-      "title": "AI in Space: Start at the Edge, Build for the Mission - AMD",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQang1S2ZzMDJZYk5vTnFBY0NjVmJxcS0wMEt3YzY2U3NWNnFuVkt5RldXNl9mMmdPSjdWVFBJOWRoRDU0QTYwN3lacFZRc05MWHZ1T1hHWmVOUklmMXFNWUNTOWNmcHZYR3JLR1J4dDc2aVdPOFppTGVtc0VxVkJpNXh0T29zaEFPdVdrcGdWeEh5Nmpj?oc=5",
-      "source": "AMD",
-      "published": "2026-04-27T07:00:00+00:00",
-      "summary": "AI in Space: Start at the Edge, Build for the Mission&nbsp;&nbsp;AMD"
-    },
-    {
-      "title": "Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUJpVS1CUHBaQ2pFNGRyZWJkX3dTZWtXSm5YNzdWRVpoelhLUnYyaklhby16LWRzNnZlTlBlaFF2TUNFZzZGUjFKUkJ6RU9mS1E4bnFYUDBKRTZqMXZuMXJGRVo2T294NktUWHhTXzZMMERVUEZ5aGVuOUo3OTNzZFlJejVrRndvNmEwMlZwMjdKY01oZ3QzZVM4Z2FzZXRQZ3JIYldDS3R5bXpvZ1NyTw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-03-12T07:00:00+00:00",
-      "summary": "Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
