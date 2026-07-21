@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-21T03:13:25.859978+00:00",
+  "generated": "2026-07-21T08:35:03.336603+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGhfZE14VXoyNklPWXI1V3Nlb2F1LVJqNFdhRXZCQjJvdXBjZloxd00zd0dmbWhEWkNNNmJ2MkhYM2lfQU5VR0pjbW1TOEZYYUxlYzRuOTk3Q05qdlA4WnNYS1laYkUtZEdacUFBUmVybUFpQkhFMmhqV184UXhvTlE2NFlqZ9IBiwFBVV95cUxPYXJmWGVxQXlia1FXWUxQZGhfeGxFUGlGSUJOM0Z2ckgzRkhPbHp1dFhyZHBhV0RWdGh5VkYzYWZPWjUzYldDMTVmNklaSTI4SzZyX2d1V18xN2VRam0xNXFQSmFyUlNjTmtjUGZrc1JYdXFUaVlQYjBPaFl2dkpPOVlrRGF4eEctMm93?oc=5",
+      "source": "Wccftech",
+      "published": "2026-07-20T22:45:05+00:00",
+      "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
+    },
     {
       "title": "AMD’s Big AI Moment: Why Wall Street Keeps Raising Price Targets - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFVCZFBtZ2R3eTlySHlGQWJMVDktbUp3UWl0NEhMRk1iRXdtYzhDNlNxWDVEQ1BMZzBZYUwzWmVWUTdsRTl6MkEwWTFsVi12Qmh6dHFGZl9JRjRFbnFJX19IcHY0UUEtX1ZwUDMzNDFia1YzRW1pTUJId2w3dVlzajVOMi13Y3ZsNkZaQUdMeWxlRGl0NDhwd1lEYWtJdw?oc=5",
@@ -17,11 +24,11 @@
       "summary": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
-      "source": "AOL.com",
-      "published": "2026-07-20T10:31:53+00:00",
-      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;AOL.com"
+      "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
+      "source": "Voronoi",
+      "published": "2026-07-20T21:48:44+00:00",
+      "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
     },
     {
       "title": "Run Ray on TPU, Part 1: The foundations - blog.google",
@@ -31,18 +38,11 @@
       "summary": "Run Ray on TPU, Part 1: The foundations&nbsp;&nbsp;blog.google"
     },
     {
-      "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGhfZE14VXoyNklPWXI1V3Nlb2F1LVJqNFdhRXZCQjJvdXBjZloxd00zd0dmbWhEWkNNNmJ2MkhYM2lfQU5VR0pjbW1TOEZYYUxlYzRuOTk3Q05qdlA4WnNYS1laYkUtZEdacUFBUmVybUFpQkhFMmhqV184UXhvTlE2NFlqZ9IBiwFBVV95cUxPYXJmWGVxQXlia1FXWUxQZGhfeGxFUGlGSUJOM0Z2ckgzRkhPbHp1dFhyZHBhV0RWdGh5VkYzYWZPWjUzYldDMTVmNklaSTI4SzZyX2d1V18xN2VRam0xNXFQSmFyUlNjTmtjUGZrc1JYdXFUaVlQYjBPaFl2dkpPOVlrRGF4eEctMm93?oc=5",
-      "source": "Wccftech",
-      "published": "2026-07-20T22:45:05+00:00",
-      "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
-    },
-    {
-      "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
-      "source": "Voronoi",
-      "published": "2026-07-20T21:39:44+00:00",
-      "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-20T10:31:53+00:00",
+      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;AOL.com"
     },
     {
       "title": "Microsoft Azure adds AMD Helios AI chips for inference - The Tech Buzz",
@@ -66,6 +66,13 @@
       "summary": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over&nbsp;&nbsp;ServeTheHome"
     },
     {
+      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmJRQlpsRWFqUWNDRVlGN29qWW5udHdoQlc4XzRBTEd4bmlfbkcxRENiM05FdDJSUTRBb25RZWl5UkwzTjVVUzBzOUw4NENtbFlXcG93ZGhqdW9LXy01a2JmWXR1WFV5MzVPd2UxZU9ja0lmTUFtTmJOMTBIaDdMZ2RNc09zRVpfUkhxbFpza2JQeUlXbTJ1eA?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-19T09:10:00+00:00",
+      "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
       "title": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTBISXAwWGxEeGpnVVd1TmFtOU8zajVlUk5MNXFCV0taekJkY2xfYkFlQTNMdjZXRWJtb0l3MXpTQzZZcnEwM2VXR0gtY3hZdkM5aXRUYlhOYU80REdhQ0FEb3pUbjhqOXRSWUI1WjZiSmZXZnBRcEVOLW5qUm0yTi1Yb1JCaDNnLUl5eTFockNTVGxhWWl4YjUzNGpiOHlJQ1FlUlU1Ykc3N1JOUTg2My1rRGRZVUNIdTNPbGFtUUJNMDUzb0dNM2Jpc1VVXzdHNW1uNA?oc=5",
       "source": "TradingKey",
@@ -78,20 +85,6 @@
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmJRQlpsRWFqUWNDRVlGN29qWW5udHdoQlc4XzRBTEd4bmlfbkcxRENiM05FdDJSUTRBb25RZWl5UkwzTjVVUzBzOUw4NENtbFlXcG93ZGhqdW9LXy01a2JmWXR1WFV5MzVPd2UxZU9ja0lmTUFtTmJOMTBIaDdMZ2RNc09zRVpfUkhxbFpza2JQeUlXbTJ1eA?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-19T09:10:00+00:00",
-      "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "title": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-07-20T21:01:00+00:00",
-      "summary": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders&nbsp;&nbsp;Chosunbiz"
     },
     {
       "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -141,6 +134,13 @@
       "source": "KED Global",
       "published": "2026-07-09T11:27:00+00:00",
       "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;KED Global"
+    },
+    {
+      "title": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-20T21:01:00+00:00",
+      "summary": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders&nbsp;&nbsp;Chosunbiz"
     },
     {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
