@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T19:36:49.793162+00:00",
+  "generated": "2026-07-22T02:56:17.977755+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -115,13 +115,6 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
-      "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3RCN2RwV1l2NHV2aW5UVXNLYjlNMVhuMW10dG9XT3MzS2VDTV9ZNWlKYkNyYVhjc2N4dnVQREwwTV9obkw1Y1N5N2xWenFqVmROWk5yMV9wcjl1WVlBMk5SNE8tZWp2T1BBQjlLRGp3dEhET1FGRjdZNHlZMl81Y2dYN0hHekhtR0dGb3dBMDh6djR2dkQ3Wk5hcVAwb0hGM1lzM1R3WFhiMUFTQUVIWmxmdlJza3MyU1NVcEJvSG4xcG40MURaRXN1NHU3a2ZGMnBuTS1DbndIcE5iQ3d1OXNyR3hld2NvQlZQTGlBQ1I?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-15T21:02:48+00:00",
-      "summary": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
@@ -129,11 +122,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
+      "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3RCN2RwV1l2NHV2aW5UVXNLYjlNMVhuMW10dG9XT3MzS2VDTV9ZNWlKYkNyYVhjc2N4dnVQREwwTV9obkw1Y1N5N2xWenFqVmROWk5yMV9wcjl1WVlBMk5SNE8tZWp2T1BBQjlLRGp3dEhET1FGRjdZNHlZMl81Y2dYN0hHekhtR0dGb3dBMDh6djR2dkQ3Wk5hcVAwb0hGM1lzM1R3WFhiMUFTQUVIWmxmdlJza3MyU1NVcEJvSG4xcG40MURaRXN1NHU3a2ZGMnBuTS1DbndIcE5iQ3d1OXNyR3hld2NvQlZQTGlBQ1I?oc=5",
       "source": "MarkTechPost",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+      "published": "2026-07-15T21:02:48+00:00",
+      "summary": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost",
@@ -143,6 +136,13 @@
       "summary": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes&nbsp;&nbsp;MarkTechPost"
     },
     {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+    },
+    {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
       "source": "NVIDIA Newsroom",
@@ -150,18 +150,18 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd28?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-08T07:00:00+00:00",
-      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTkyUG02RzM1YlBLZlBFTjFHRFgxODNZelROUThucmtxek9KbFJQUm8zSVROTnBjZXFhcmY1bjNrcDN4dDlfbzdDLS1aYUhKYTJzckpSMWFIZklZS0R3bnBrTG83R1llYWVnVEZtSmt3Rk5IdFQtSTNaLUdwQWNuZXRYeHZsRktWT3lPN0ktSTgwNVQ5R1dZNUZteFM3Y2I3MTJDYzMwUlIzWTBNekdRbFY1bkY?oc=5",
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
+    },
+    {
+      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd28?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-08T07:00:00+00:00",
+      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",

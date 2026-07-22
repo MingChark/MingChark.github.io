@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T19:36:49.793162+00:00",
+  "generated": "2026-07-22T02:56:17.977755+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,13 +10,6 @@
       "summary": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acWt3SXJfclZva1IzcUpOc1VOLW1ONVlNaGo3TFhjalJYb0xjTWp1MExCWTNiZ3JPNmtqWHZtcjU2M3ZyLXpCbmNmbVJrbmFnYnJtT254azJrNTc5dmxvT09oVnA5eVY4S0pwWTlYb3BxZVI4Xy1r?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-21T15:51:33+00:00",
-      "summary": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance&nbsp;&nbsp;Crypto Briefing"
-    },
-    {
       "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
       "source": "CNBC",
@@ -24,25 +17,25 @@
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
+      "title": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2pTZ19OcjBXOTRxamdxZV90Zml6a2V2MU1HeTZnVzlvR2FPZWs2c1AwYk9ySUt3cGV6UXQ1WnpIOHcwNVo0UVdCTUFicjZnNnlPLW5mMmNKdUdheTlPdXZTRUdObGFZYkg0bEZiUXZSUlZNLUllVFFYRWdjRzY4YVlIekNuc2E0ZXd3eEY2TVNwLXFPbVdZaC1qb0NiYXpGYy1UTFh6YWZHcU9UbGhyMVRFMFNhWVVMRWs2X3JISEs1a0FWeU5J?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-21T20:10:16+00:00",
+      "summary": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In&nbsp;&nbsp;Tech Times"
+    },
+    {
+      "title": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acWt3SXJfclZva1IzcUpOc1VOLW1ONVlNaGo3TFhjalJYb0xjTWp1MExCWTNiZ3JPNmtqWHZtcjU2M3ZyLXpCbmNmbVJrbmFnYnJtT254azJrNTc5dmxvT09oVnA5eVY4S0pwWTlYb3BxZVI4Xy1r?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-21T15:51:33+00:00",
+      "summary": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
       "title": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035 - Precedence Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBcEdUZ3ZGSXZXSTBkczZwYVJkZ3dFTXdFcWVnZENXU0g0QTJzRHhwYzlFWmxGLW9hOXN6WlZWc3dqSkNSczExV2tLemhDQ1ZPak9NSXRfWDlkTkpmVno5bjJwQ2E0eEtuVHU4V2ZpYw?oc=5",
       "source": "Precedence Research",
       "published": "2026-07-21T13:01:33+00:00",
       "summary": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035&nbsp;&nbsp;Precedence Research"
-    },
-    {
-      "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGhfZE14VXoyNklPWXI1V3Nlb2F1LVJqNFdhRXZCQjJvdXBjZloxd00zd0dmbWhEWkNNNmJ2MkhYM2lfQU5VR0pjbW1TOEZYYUxlYzRuOTk3Q05qdlA4WnNYS1laYkUtZEdacUFBUmVybUFpQkhFMmhqV184UXhvTlE2NFlqZ9IBiwFBVV95cUxPYXJmWGVxQXlia1FXWUxQZGhfeGxFUGlGSUJOM0Z2ckgzRkhPbHp1dFhyZHBhV0RWdGh5VkYzYWZPWjUzYldDMTVmNklaSTI4SzZyX2d1V18xN2VRam0xNXFQSmFyUlNjTmtjUGZrc1JYdXFUaVlQYjBPaFl2dkpPOVlrRGF4eEctMm93?oc=5",
-      "source": "Wccftech",
-      "published": "2026-07-20T22:45:05+00:00",
-      "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
-    },
-    {
-      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTl8zMWRDeFZxS256ZkpnMUdvMWhIYVU4dXlPNHVWa0pwWXhzTmFfMjJwaVdXX29RcWdJU1V2VkViVXlRSTRuQmgxTGJrWTRzeWRDcWd5bjZTZzZxNThsUEYyMlBJTnZFNGZHanI1NE9KUVJPWjdPM3dMaWVEd3hRZmZJZjdFYU1ZcHdTbDd6ZHVVOFkxaW5XTmlqSkx1bUMwYUZxY3FrQ0tkNjFPNFBqRVNtTUVqekRPT0ludWtqS0V6cEYySFBQQ1RwWTByZ05YQzMzdVZCSTRrWjNBNHlseng0ZEtwdFRKUWVCag?oc=5",
-      "source": "The Register",
-      "published": "2026-07-21T10:00:00+00:00",
-      "summary": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out&nbsp;&nbsp;The Register"
     },
     {
       "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
@@ -59,11 +52,11 @@
       "summary": "AMD’s Big AI Moment: Why Wall Street Keeps Raising Price Targets - Advanced Micro Devices (NASDAQ:AMD)&nbsp;&nbsp;Benzinga"
     },
     {
-      "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
-      "source": "Voronoi",
-      "published": "2026-07-20T21:48:44+00:00",
-      "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
+      "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGhfZE14VXoyNklPWXI1V3Nlb2F1LVJqNFdhRXZCQjJvdXBjZloxd00zd0dmbWhEWkNNNmJ2MkhYM2lfQU5VR0pjbW1TOEZYYUxlYzRuOTk3Q05qdlA4WnNYS1laYkUtZEdacUFBUmVybUFpQkhFMmhqV184UXhvTlE2NFlqZ9IBiwFBVV95cUxPYXJmWGVxQXlia1FXWUxQZGhfeGxFUGlGSUJOM0Z2ckgzRkhPbHp1dFhyZHBhV0RWdGh5VkYzYWZPWjUzYldDMTVmNklaSTI4SzZyX2d1V18xN2VRam0xNXFQSmFyUlNjTmtjUGZrc1JYdXFUaVlQYjBPaFl2dkpPOVlrRGF4eEctMm93?oc=5",
+      "source": "Wccftech",
+      "published": "2026-07-20T22:45:05+00:00",
+      "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
     },
     {
       "title": "Run Ray on TPU, Part 1: The foundations - blog.google",
@@ -78,6 +71,27 @@
       "source": "ServeTheHome",
       "published": "2026-07-17T17:00:59+00:00",
       "summary": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over&nbsp;&nbsp;ServeTheHome"
+    },
+    {
+      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out - The Register",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTl8zMWRDeFZxS256ZkpnMUdvMWhIYVU4dXlPNHVWa0pwWXhzTmFfMjJwaVdXX29RcWdJU1V2VkViVXlRSTRuQmgxTGJrWTRzeWRDcWd5bjZTZzZxNThsUEYyMlBJTnZFNGZHanI1NE9KUVJPWjdPM3dMaWVEd3hRZmZJZjdFYU1ZcHdTbDd6ZHVVOFkxaW5XTmlqSkx1bUMwYUZxY3FrQ0tkNjFPNFBqRVNtTUVqekRPT0ludWtqS0V6cEYySFBQQ1RwWTByZ05YQzMzdVZCSTRrWjNBNHlseng0ZEtwdFRKUWVCag?oc=5",
+      "source": "The Register",
+      "published": "2026-07-21T10:00:00+00:00",
+      "summary": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out&nbsp;&nbsp;The Register"
+    },
+    {
+      "title": "Why Are So Many Big Tech Companies Designing AI Chips? - TechRound",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GbVR5ZjFiVGFxSXkwX2NSSEEzNjFYS0d2a1JaZkNTdldLLWhnYWNoWnYzdWt2aTU3OXcyQXB2aFROY1hWcjFTX3ctZ3FvbVlzeDJYUmpWOUMybE9pWGhDWC11LW1xMUNwb3NmWFp1ZmJEX3NrWmU3WklHWQ?oc=5",
+      "source": "TechRound",
+      "published": "2026-07-21T12:49:50+00:00",
+      "summary": "Why Are So Many Big Tech Companies Designing AI Chips?&nbsp;&nbsp;TechRound"
+    },
+    {
+      "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
+      "source": "Voronoi",
+      "published": "2026-07-20T21:48:44+00:00",
+      "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
     },
     {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
@@ -162,20 +176,6 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
