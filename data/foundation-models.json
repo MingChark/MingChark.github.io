@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T08:34:39.215902+00:00",
+  "generated": "2026-07-22T14:05:00.326604+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -66,6 +66,13 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFJBTkV0dE1NQ0w1VnJiUTliNno1X2VkUXNsRTZ2QWhzcWZ2V3ZxUnZmdF9NSDQxbFNTczVsZXBYWWVsQ20xdm1sX3pKRkZtUGRhOEIxN196WjdNYlBYczBGWnM4eVk3NEx6QnhnY21mRXVWdXFrNTNaYkUxYkhyTk1Ocno0MDIyd1pYZkQ5bUFKbThsc2dEakF0TWo0Y0dYbWtfR3hpN0RTd3gyZDlrYUNSLVZVa1VyWXc?oc=5",
       "source": "Morningstar",
@@ -73,18 +80,18 @@
       "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Morningstar"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
-      "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
+      "source": "NASA Science (.gov)",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
@@ -115,11 +122,11 @@
       "summary": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "published": "2026-06-09T07:00:00+00:00",
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English - MarkTechPost",
@@ -162,13 +169,6 @@
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
-    },
-    {
-      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd28?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-08T07:00:00+00:00",
-      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
