@@ -1,90 +1,104 @@
 {
-  "generated": "2026-07-22T14:05:00.326604+00:00",
+  "generated": "2026-07-22T19:25:54.261271+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5",
-      "source": "AP News",
-      "published": "2026-07-21T23:44:00+00:00",
-      "summary": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company&nbsp;&nbsp;AP NewsOpenAI Models Escaped Containment and Hacked Hugging Face&nbsp;&nbsp;WIREDOpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com"
-    },
-    {
-      "title": "OpenAI announces $20 billion Georgia data center project - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGI5VVlncGhiek00YkNWTFByLWk1dmtodXVNT1hoT3lUTjRuOGFLLV9Eb0UxcUU2dkRYR2EzUEJDOG1MQUlDMmkzNXoyUXlNV3pqa005R1AxRXZqa2pRZlE0VEFkbW5yc0JQaFNqel9tYmF3akFwcUVwTl80dFlEYWVn?oc=5",
-      "source": "Axios",
-      "published": "2026-07-22T13:02:55+00:00",
-      "summary": "OpenAI announces $20 billion Georgia data center project&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "Exclusive | OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHE1VUk3Z2Nsa0c5QWhaWFVMU0pyTTNZOFh6clBncGlnR1hZTTVFSm5sWlAzMFFHQ0JnVWhkZk5YTnFickYybVR1dkhHWGk4V2phMTlrZlF2bXhIM2NmM2J6UkFLN0RvTExyd054Mm1OOWtDb2wzWjg1ajBjb3VuVDMxQ0Rod29td0JVWkdaVXBHQm5IcGUtRDN6anJhU1d4T1ZSa2owOVpUTG9sOUVV?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "Exclusive | OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Tech giant OpenAI plans to build $20 billion data center near Georgia coast - AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZERPN0hiMnIxdVN0ZHkwZDBUaUJ2YjhkSU5wNDNVa05BU2xXR05Fb0RlcFNXTXFYYXo3amRNbS0zYjdKdmpLNHMyOVZGMi1UTzM0M1M3VVltM1gxQnR2M29DS1F2TGxVeGRBX2NBcUREMDNWRUt0ZnF4UE1PdE1JbUk3bmtTaGo4bGNrU3cwaGZLUVlfRU5FSV9EZjAyTGJNYW90b1g1YUtXbnR4?oc=5",
-      "source": "AJC.com",
-      "published": "2026-07-22T13:02:37+00:00",
-      "summary": "Tech giant OpenAI plans to build $20 billion data center near Georgia coast&nbsp;&nbsp;AJC.com"
-    },
-    {
-      "title": "Walter Isaacson on OpenAI's cyber breach: This is the first thing that 'totally scares me' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaktDanZtblh3b2JiNHVzNkM3WjZGa2hGSmd5MFNqVnRYV0tfbDJMLTdNZGhEU1kyTkVOM3VZVkNqSkd6N0lOb2dCZ0Z3Y3ptMjNRdDNWSnludlcyT1ZxbVlHakxJQ1kyVW54OEFQZXpjNVdNeXFLTnExS05SMHBrS1NHMWhGTTUzUjJBM285d2hTYzJGZlpvUUdZUVNKWDNWQlFHVWo2UjFtR21DS1A3ejltYVptM05Ec1Vrd2hzTTlvVGRYa0JBWA?oc=5",
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5",
       "source": "CNBC",
-      "published": "2026-07-22T13:19:37+00:00",
-      "summary": "Walter Isaacson on OpenAI's cyber breach: This is the first thing that 'totally scares me'&nbsp;&nbsp;CNBC"
+      "published": "2026-07-22T15:54:04+00:00",
+      "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face&nbsp;&nbsp;CNBCWhat To Know About Open AI’s ‘Unprecedented’—And Autonomous—Hack Of Hugging Face&nbsp;&nbsp;ForbesOpenAI blamed a hacking event on its AI models going rogue. Here are some things to know&nbsp;&nbsp;AP News"
     },
     {
-      "title": "Rogue OpenAI bot escapes lab and hacks rival - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3NJSDMzU09UdFdhV19nSENfMXBwOUxzZzVQbmc0UDJXT3NadTE0cVhaNFp5R3Z3Z2VlOWxUN2trWlU5ZDVYcjhPcFI2eFFkQWRvVHRiYlhOUEZEcmlNRXBudkt3QzNQdDF4QzZXNmNWVGQ1d1R0aTFxMHkxMUU2S0lvUGwwbkg3ckhkZkpESGkxSXNMYWJxSkU4dTBmVlZ2UkFFTHlMOEk?oc=5",
-      "source": "The Telegraph",
-      "published": "2026-07-22T06:17:00+00:00",
-      "summary": "Rogue OpenAI bot escapes lab and hacks rival&nbsp;&nbsp;The Telegraph"
+      "title": "ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-22T14:00:34+00:00",
+      "summary": "ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "An OpenAI job listing described ambitions to build an ad network. Then the company deleted the references. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGtsSjZYTFRWMG1FUEtiSDR6VXpaMmF4REJlc2ZOZmpKS2F6Y3VDY1FQMFhudk9EREJwVDVJNDBrQkZLWE9lc2tZaXByc2FuX0JxY2RHd1g2dFl0S2hRbHN0Y0F5THZBSGJEcVNha0hpMGR5TzBuMkpSRkZ2ekRiUXhmdFV0YUxRbFdmeGVZNXl4QTJiUEE?oc=5",
+      "title": "A Pastor Turned to ChatGPT Instead of a Doctor. Now He’s Suing OpenAI - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlV6bm9hejRWYVc5Q20xOGYyX2ltZVU2b2FrV2w4WmJBTzhJLURhRUlYbDNJTmdGejJjTThGX0gyZW8wUENlbk5QRjVGcURLTVV4R3hJWEJtWUIwdmxHN2ZBS3ZXVHNrWFk4MnRkYnNKRnNrZTNGcHRnM3A2bGVHM3M1bUstd2lFdUw4cnNzLVBGQmZUSWJzeDh3bDJBX2tyRWNVc1JUWVlaTW54TENJ?oc=5",
+      "source": "inc.com",
+      "published": "2026-07-22T18:38:11+00:00",
+      "summary": "A Pastor Turned to ChatGPT Instead of a Doctor. Now He’s Suing OpenAI&nbsp;&nbsp;inc.com"
+    },
+    {
+      "title": "OpenAI Sued Over ChatGPT's Medical Advice to Pastor: 'God Did Not Design Your Body to Endlessly Fail' - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHlidzVWSGdiazJ1TGtQV28tdXNYLTFaSUdObUROS1FDRTZ1YTZQTmJILTczT0xiTlBnUWN5WXFSODJkSE1Vb1poU3RXakJSNmFrOER6emlYaTNIdWNTcTMtVGxnZHNmY3YzR0JtQklXSEJWVkctNmZZVVRyakMwRU91b0taZmdOeVpaOUh3VnRXQTUySlh4SkFZSWhFTGtvWjFBRFczd3lFSXVfWEI5WXk1cFE?oc=5",
+      "source": "Rolling Stone",
+      "published": "2026-07-22T17:58:12+00:00",
+      "summary": "OpenAI Sued Over ChatGPT's Medical Advice to Pastor: 'God Did Not Design Your Body to Endlessly Fail'&nbsp;&nbsp;Rolling Stone"
+    },
+    {
+      "title": "OpenAI announces $20 billion Georgia data center project - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlRucmgwWG1jdHhfd0k3TjJXdkJtTW41aTlBb09XQUtZQzkyaS1zSXZOTDl0U2dqaHJoVXNYbWRfdXViTnhidXpoc0dRbEFVY0JLcjlLYVRPNDkxRHZrTnh5S2h3bTJJaURGa3hacEl0TlJJV0dWNWIyOERBTGw5Q0xkaVJEdlpoZXFuLXJLOXpwUlBOYkZuQWdUWmR4WFln?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T13:00:04+00:00",
+      "summary": "OpenAI announces $20 billion Georgia data center project&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI Plans to Spend Over $30 Billion on Georgia Data Center - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3dKOU9XYW1sZk5sLWNIaDBDV1ktclQwUXpZTno4eGhsS0VrTEFoeFZobTZfdW9qN0Z3YkI4bWtyUW02d2dDRndscXZRZ09RV1gtNzJzUXIteU4xV3hGTmJDUkc0dW5YOGtiWFQtLXhVUmc0T09mV2VkQ2toTEVYVUcyQk0wWndQeHl0TWM2YXpHNzJucEJibmJfNThrMXNHQ3QxQ1VybXBtMDJfNkFfZw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-07-22T13:00:23+00:00",
+      "summary": "OpenAI Plans to Spend Over $30 Billion on Georgia Data Center&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI's latest proposal shows it's very aware that data centers are unpopular - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjQyQXZqZGhkRjVrc1pFYTQ3VEpNQk5zVkVXeHRVM0VpY0NlVFFZN2tObTVKaTN4d24yUml5RlpFdU14djQ2T0FqMlFEOE5STllRNm5EU3NyVFFYamZWcTRQSEcyVlY1S1NRQ24wUzVxV1ZlVjY1YkIwR1pEd212enhuNHhnNGptVUpKVGE2cEp4My1ic29YU0ZUZnR0WEMzRDFKRDBkNGFYZXlJVWc?oc=5",
       "source": "Business Insider",
-      "published": "2026-07-22T03:00:00+00:00",
-      "summary": "An OpenAI job listing described ambitions to build an ad network. Then the company deleted the references.&nbsp;&nbsp;Business Insider"
+      "published": "2026-07-22T18:45:47+00:00",
+      "summary": "OpenAI's latest proposal shows it's very aware that data centers are unpopular&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "OpenAI adds Nubank and BNY CEOs to board ahead of IPO - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53MGtWNDFLdGZsbVhBM1NWdEJmWC1NdDNXUWFyWTZfQWMtVHIxSFFJVnNMVGNodjItcjdBdVhqNFkyNmd3VWtBcENSUWk2Z2QtV1U1blNUWU83OVhwclhZSlprb0JtVmZiMVF1Vk8tZw?oc=5",
-      "source": "qz.com",
-      "published": "2026-07-22T12:49:20+00:00",
-      "summary": "OpenAI adds Nubank and BNY CEOs to board ahead of IPO&nbsp;&nbsp;qz.com"
+      "title": "OpenAI lifts planned compute spending to $750 billion through 2030: WSJ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjlVeHdxM3lmbVdMZktHVkttb3g5cHBPSEpfd3NhQ3B0M2pQWW04UGxMQ242cTdHSW5fWnp3c0VKU0ROTVVUMjVsTUVFbUt3OUUtb1BDOXotNHJGYk52Nk5oR3d2YkVuWF9BS2EtWDhPVWdsWUtPcnFra2I0eGkybHUxUl9UMlRqZ2UtOWwwQXZ3NS1QS1JDb2tPVWY1WXYxd044?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T14:49:17+00:00",
+      "summary": "OpenAI lifts planned compute spending to $750 billion through 2030: WSJ&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTFxVXJLb0pHbEh1cER6U1lybHBRWHpYaFZjY19RMUpmTGNRRTBBZ3M1TDAxclFMbEdnVERtUEpFaHRSVlY0djY3Tk1tYTA4a1RpUkFGaEh0LWNZVjh3VWQ4U2ZwZGFwX01QT3BkVVFmdUNja3NMNlBveXlwV1BMNGplTGJlanhBcFRlR2hnSG9PNFdYSUZQOS16VQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-22T03:20:57+00:00",
-      "summary": "The Anthropic-Physical Intelligence rumor roiling AI Twitter&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI’s High-Stakes, High-Touch Push to Make AI Work for Business - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWttaUNncEVSalJpeGlsRGF0MXhWNmZCN19ONjkxNXZ2QjN5MU82TkkzYTB5Tm1ranRRRnhYLXNGaUJYV0ZIeHUwZjgzZFFENHhkTzluYTY1M0RTNHdOeV96SVlwUy1lS2dxemM0ZkZ2dlptY05BWUgyUTdyQ3hvMUl5Um4wYmJjVG9wS1RieHNXeXMybXZUbFBQNVpzc253U29tbnUxMDU?oc=5",
+      "source": "WSJ",
+      "published": "2026-07-22T17:45:00+00:00",
+      "summary": "OpenAI’s High-Stakes, High-Touch Push to Make AI Work for Business&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "The SpaceX IPO Blueprint For Buying OpenAI And Anthropic - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONFl6WGFKZFZKTVlPaGhGT0kzMEl3WUZBR252MGFjbHJKSFQ4bXFxdjFNUnE2V01oVFRWSFotRDhPWHZtbUR3T2RsYWhKNlJFaUFGSk1FSmNyOUcwZ0VtNEhRcWxEZFlTX2ZUQ2ZVNzR4SGE0LTlkeHRLOVpTWlF1SFhlamNKaV9ZMmxITFhONzZ1OW44U09tc0lEQ0hfeE9fTmhqSXZRQWxpS25ZbGQ4di1n?oc=5",
-      "source": "Forbes",
-      "published": "2026-07-22T09:14:06+00:00",
-      "summary": "The SpaceX IPO Blueprint For Buying OpenAI And Anthropic&nbsp;&nbsp;Forbes"
+      "title": "Inside Sam Altman and Jony Ive's AI hardware dream team and the battle for OpenAI’s future - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXA0cnIydXA5dlY0a0ltangyQ1dESEtTNE9QZWhhSFNtdU0tZ1VOWV9VeGJyVV82RkpYQ21LSEJjYVlMdXRjMG9iVk1VMVVuc3RqTVdIZ1pHYjkteFJHNGo5TFA5UWkybzc4dFVXT3RjaGlNMjdYdVBRQkF0MzdLSTRfZW9BZXRLVU44cFFUWmRwLWlpeVBETFd6THo0RjhBdy1BRndRZXRGcnYtSWxsZXVjUk9HQ2FIblp1eDduWXNDZHZiOVFyNzBYNjZnNmJnTmlQdDlJZXpucmVNeUtEMHVYMA?oc=5",
+      "source": "Fortune",
+      "published": "2026-07-22T07:01:00+00:00",
+      "summary": "Inside Sam Altman and Jony Ive's AI hardware dream team and the battle for OpenAI’s future&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "AM Markets Need to Know: Trump unveils drug tariffs, OpenAI reports AI hack, and more (SP500:) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSF9MWm9IX21pUUNLaUZLN1A2b3MweTFYV29VU2dzbWdVQWNpTHFsd1F5ZFBTOGFBM0RSQ1JNWjZadEtTR09mdWlNd0pRUW5FbzUySEpJalgtRW5FTjQ5MGRxU1JwYVoxMXVZaEhITEZ5VGJMNUhxRDhnSGxmWEM5WGZ4Q1ptWGJIajUtU0RHT3FDSXllVkROV2F3NGVUVUdKN0s1VF9qREpOazR5VDNwYmlpd1E4OTZTN1cxUg?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-07-22T10:17:20+00:00",
-      "summary": "AM Markets Need to Know: Trump unveils drug tariffs, OpenAI reports AI hack, and more (SP500:)&nbsp;&nbsp;Seeking Alpha"
+      "title": "OpenAI and Anthropic find common ground: open-weight AI - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PUkNvSWEyWmdqTWhlQWRYZmpOdmRaMWtxRnFDVi10eFhkSHBPQW1XbDBvQW01VFk3dUZQYnNZY0thU3lDNnZoSWlSa1VxZVpSN3JkSWhnMk0wVHRfWnBYenpVSVg2dlZzNlZ3MUw5NDZrY3lIellGQ3VDalF5dw?oc=5",
+      "source": "Axios",
+      "published": "2026-07-22T09:14:48+00:00",
+      "summary": "OpenAI and Anthropic find common ground: open-weight AI&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Author Invited to Give Speech at OpenAI Headquarters, Uses Opportunity to Trash AI to Their Faces - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXZTdXpHVm5nUEdMTDg4MEQyNDBBT2Uyem5GNG5kX0k4S0lyTGVyRkZkMUZwYlRrbnB5UFhBNDBBd1A5dmRjOFlsTEpOLVI2dkdKTXd4b2laY1Y2d25adlN3cjA4cXR0N21HeWdacXVwTzVwcjF2eUFsV2UweTBQYUE2ZDNfM0toSzdXTg?oc=5",
+      "title": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDZBS1hqNkRhWjJzd0R4MEdVYWd4ZEtDcDNCQ1Zxa1N2bmxoRzR4QW8tSnQyLUplYjAtbkIzVWZOcEMxTjFBOF9lWlp6SXZsQnljS2NRYXBHZDhDbFlZbnVjVHV1T21uSWVZX2tLQkpXRk9MdDZnNjJva1h5ellsTUN6RG9XalFjQlR6Q1JqQzlCbm1NNU0tZkVpSVVSVDA?oc=5",
       "source": "Futurism",
-      "published": "2026-07-21T15:50:00+00:00",
-      "summary": "Author Invited to Give Speech at OpenAI Headquarters, Uses Opportunity to Trash AI to Their Faces&nbsp;&nbsp;Futurism"
+      "published": "2026-07-20T18:30:59+00:00",
+      "summary": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin&nbsp;&nbsp;Futurism"
+    },
+    {
+      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
+      "source": "VentureBeat",
+      "published": "2026-07-22T14:50:00+00:00",
+      "summary": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "Sam Altman May Control Our Future—Can He Be Trusted? - The New Yorker",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ21pbG9zZ0VPWlp4YV9WOGZBd0pGVXAwNE4tZjVXTVF5VDNXVFU1ODRWdWZaSjhiQ2owQXFkV29SQ3JXZzI4UmZOTGFsZTFKMmJ1NDktN1cxWEtHQ3JiaEtuVFhDTlRtWjZxZUFwZVdmRk5WN2ZSRmVZcG5sZm11ajlYNDBRM0ozRGVkZUlJei1peWIyRHZTUnhiREo4Zw?oc=5",
+      "source": "The New Yorker",
+      "published": "2026-04-06T07:00:00+00:00",
+      "summary": "Sam Altman May Control Our Future—Can He Be Trusted?&nbsp;&nbsp;The New Yorker"
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
@@ -94,6 +108,20 @@
       "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "Exclusive | OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHE1VUk3Z2Nsa0c5QWhaWFVMU0pyTTNZOFh6clBncGlnR1hZTTVFSm5sWlAzMFFHQ0JnVWhkZk5YTnFickYybVR1dkhHWGk4V2phMTlrZlF2bXhIM2NmM2J6UkFLN0RvTExyd054Mm1OOWtDb2wzWjg1ajBjb3VuVDMxQ0Rod29td0JVWkdaVXBHQm5IcGUtRDN6anJhU1d4T1ZSa2owOVpUTG9sOUVV?oc=5",
+      "source": "WSJ",
+      "published": "2026-07-22T13:00:00+00:00",
+      "summary": "Exclusive | OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI says its AI models escaped testing environment, launched their own hack of other company - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2l6enBxem9jdTJ5aVZadUhrdkItV3ZDTnVEd2FfdjRfc0ZNcVV5d1daeFFHOHhxWENwdnJWVTc1a3RLenJmSzJXQ2w1Z0ZSdlJreTl2RWdYOWZqOFNQdDBPUWN4UE44dlpqWHpCSEpmU2t0QkpkS3p6QjRoc0dGWlJfd2l5bDFEb096dFozOUFpckFVaXhPVzR4bUZ4OWR6bVVSRmZRbzlfaWdV0gGyAUFVX3lxTFBEcklLVF8zZDBrODUtOGNObHFvNEdmVXVIdF9RTnRaeWp1ZWNNMjk3ZURza1d2cm5qSlplNXFSZlYzS0lfaG9wSFRvaEVWcTBmTFBlalhXWUxrZ29PSnVibWl4UzR0TEN1akk3WVdHalZRWHRwN3RMOEQ1cF9wdUxIem0zcTdydy03b3hyTlFEUjNJdTdINzE3NzgyRjBtZ2Z0RTVKRVM3SWVMLXAtQVlVZmc?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-22T16:36:23+00:00",
+      "summary": "OpenAI says its AI models escaped testing environment, launched their own hack of other company&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
       "title": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5",
       "source": "NBC News",
@@ -101,81 +129,53 @@
       "summary": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup&nbsp;&nbsp;NBC News"
     },
     {
-      "title": "OpenAI is launching new corporate software that takes it beyond the AI model war - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjdvRVBzWl9aRFljUGs5SmVDNGlycEJqSkhfM3JYZHY3SGpMUnJMc0RicUdvbTgycGdCV0xWTzhYdGwwWnRSQllEdmQzcjRVd1hGOHlrMDhnS3FnV2Q2RF9pMGs2QWhETXZvcmU1SjRNb09uTGNzcDNCa1hmSzkwT3RIbUExNUMxNE9qd29oTW5NYVIwVW92czlJMi0?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-22T12:07:31+00:00",
-      "summary": "OpenAI is launching new corporate software that takes it beyond the AI model war&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI says its AI model ‘went rogue’: What do we know? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONld5RXdtRkNYVVRYQzZWTEcyQ2ZrbHRoU2JMTW53ekJ3WmxodlZGWDZ3S1pOdFpnNmVjcDNENE50YUlZZFpvSXE5UlpURkRBREdhTE5ZajVYb3Y3QzJzYlB0aFMtek5oalB2aFVoeG9pbDRReEVod2p2TENVcGZVUlZqd0dnSHhRN183TUVXejRudUk0anQ1dNIBngFBVV95cUxPelNsNUh6aGlNQkVqTG5qT0pGd2dCd0FKZWdYZHd4MlYwbmVtU0Q5YWJiQmthTU9MVlM3UnlPMmk3NEtfNXRJNGkwb3BKc1NLZGd3QkFCLVdEQ3V0X1dMYVBNcVhOaUk5Wmd5cWFSUl9Vd01VSVE2TFBIZ2ZxTFM0amJDUUVvNTN3Qmgyenp3MjFxazhjamNOLUxpVW04QQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-22T13:56:25+00:00",
+      "summary": "OpenAI says its AI model ‘went rogue’: What do we know?&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "title": "OpenAI announces $20 billion Georgia data center project - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGI5VVlncGhiek00YkNWTFByLWk1dmtodXVNT1hoT3lUTjRuOGFLLV9Eb0UxcUU2dkRYR2EzUEJDOG1MQUlDMmkzNXoyUXlNV3pqa005R1AxRXZqa2pRZlE0VEFkbW5yc0JQaFNqel9tYmF3akFwcUVwTl80dFlEYWVn?oc=5",
+      "source": "Axios",
+      "published": "2026-07-22T13:03:54+00:00",
+      "summary": "OpenAI announces $20 billion Georgia data center project&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI’s new model went rogue and hacked another company. Why it matters. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm13WUZvQTJHc3NuUTRxajJKZnNIUkhJb1Bad1djQzJEbndwbVYwTkxMRkh5VTBPQVBIY05GR0E3dm5nME1pRE43dk9NSnZNRjhRQzJqaTV0ZTBOMlBwQ2pqdDNRUmktV1hNNnpKekVkdWRVU3QyeHRtZF9GdjgzMENLUXFZT2g3bU9waEc1QlA3MlpHcElhRk43ZU13aG11Q2d5cHB4ajU?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-22T19:12:19+00:00",
+      "summary": "OpenAI’s new model went rogue and hacked another company. Why it matters.&nbsp;&nbsp;The Washington Post"
     },
     {
       "title": "OpenAI agent went rogue, escaped, and hacked Hugging Face - Mashable",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
       "source": "Mashable",
-      "published": "2026-07-22T11:55:11+00:00",
+      "published": "2026-07-22T16:23:36+00:00",
       "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face&nbsp;&nbsp;Mashable"
     },
     {
-      "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA?oc=5",
-      "source": "The Guardian",
-      "published": "2026-07-22T13:07:00+00:00",
-      "summary": "AI agent went rogue and hacked startup by itself, OpenAI reveals&nbsp;&nbsp;The Guardian"
+      "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5",
+      "source": "CNN",
+      "published": "2026-07-22T14:15:03+00:00",
+      "summary": "An OpenAI test model escaped and broke into a real company’s servers&nbsp;&nbsp;CNN"
     },
     {
-      "title": "OpenAI says its technology hacked another company in ‘unprecedented’ event - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjNOajZvbWZldW5lcllsNVJhLTFvZ0lDM1hWWS1iNE1VMHl2MVNDM2FPejJLQjhHSXhtN1lhajFEZ0RaaXI5eVdjaDlnNk52UWl3N2VLMVltUjJKeXVqcmgzMjJUNjhHT29YNHk2VmY5ZkRjUm8waVIxaU9sRkNwLXM5T29rcUNlYzdaSDk5UUdONl81aWRLSzRRTy0wUdIBowFBVV95cUxNTE9FOHNueDRZSmNzSTFVNktPUjdVakMwTXdGUVA0OVdLa05Na1FlOWVSdFZlWGQ0R1N1dExlOHRFdld3TV9aOXJFTktYY2ZRcnhmOGN0T2NMd3pEQThLVWlRcU9OSkdEaHVpWktqazhHTGY2ak8zeEFUVEQ5T2dvYUVZRmVjR213SjhNeG9pVE91TWhqcXplVW01aU1Fa0RsUkMw?oc=5",
-      "source": "The Hill",
-      "published": "2026-07-22T11:53:00+00:00",
-      "summary": "OpenAI says its technology hacked another company in ‘unprecedented’ event&nbsp;&nbsp;The Hill"
+      "title": "OpenAI announces plans for a new data center in Effingham County - WTOC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjIyUHNoVGlYZURFWjFhY3pBTmR5bGZnSTJvaEhobUI5WWF3T3RTcGNwUDNib0pNc0VfbUFQYUt2TTlPZHN6TkpkcWhOR29oUkRHQjM5MVVnMWRvSy11cVRHVEFwaXNTWVdCZzMtanlTSDBVNHhmVC0tUkoxaUhkQXh4SUlhZGJkMVVVQmUtWmpKdw?oc=5",
+      "source": "WTOC",
+      "published": "2026-07-22T15:27:00+00:00",
+      "summary": "OpenAI announces plans for a new data center in Effingham County&nbsp;&nbsp;WTOC"
     },
     {
-      "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-22T02:46:18+00:00",
-      "summary": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "title": "OpenAI's Expensive Macropad Feels Engineered To Piss Me Off Specifically - Aftermath",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43NTFuTGRIaVRGZDZBUnhCcm1aVDdQYzBmVzg3WkJ2c25LUDRhcklMbTVKOVFRVUhmYUdZSGpObFg3TlVNYUd4dktPTkNUUmdDTnlsWVRTYXRpS0FUYjlqbQ?oc=5",
-      "source": "Aftermath",
-      "published": "2026-07-22T13:40:58+00:00",
-      "summary": "OpenAI's Expensive Macropad Feels Engineered To Piss Me Off Specifically&nbsp;&nbsp;Aftermath"
-    },
-    {
-      "title": "OpenAI admits its agent went rogue and hacked AI startup Hugging Face - Scientific American",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0YwYWZvNkJGYV9qdkVxSDlyRGFFZ2RMU29ycnRFRnVRdTM3RmwtR0pNZHphOGpmUmI0UFdWNkh5NnJDc2VMOEVka0xmS2hoQXo1aEd3d3JWOF9rd2FBOHRRWjJtOW1fN2dpZGh1N05wMkhvVVZJd001akZVRUpjZHAtSGdvZEZXQ1V6MU90TmtMMXR5MnV1TXFZM0R6dTBqcEJFUXJlYkRLTno0cFpIUWRMcw?oc=5",
-      "source": "Scientific American",
-      "published": "2026-07-22T07:27:03+00:00",
-      "summary": "OpenAI admits its agent went rogue and hacked AI startup Hugging Face&nbsp;&nbsp;Scientific American"
-    },
-    {
-      "title": "OpenAI Plans $20B Data Center in Effingham County - Effingham Herald",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNTVjSVlxeVZDUVBhNC1hUmNqT25iUUJVV2hmSUdBODFBUy1tS3VIdjBoRG5tZE9YR09iRV8tdFVldXRsSzAxWnYxbDJsdmQyTnp4SWpTb1ZQWGZ5NG1qN1ZrMUxsWmlhb3FtRnE4WDNDTng3R09FemJyUktCZFNNcTVrampPenZSWmxfOUVfaG0tMUlZQUFYRk95aW9pcWFpbTNQdg?oc=5",
-      "source": "Effingham Herald",
-      "published": "2026-07-22T13:01:29+00:00",
-      "summary": "OpenAI Plans $20B Data Center in Effingham County&nbsp;&nbsp;Effingham Herald"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEZSWUM1OVg0aXp4TlozWktBWHBrZ2hXcDFRM3VTc3ZJMTVfVGJjV0dRWnhIU0d5SU9fVlpKVmFvYXdHd2hHNTZwUjIyUkhXMzFDUFdLV21JQkM2dDFkZFpPS2NOS3p1Nk1henN5cFFiSUVtTkVUM3RBUy1MTTc4QTV3?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-07-22T04:18:00+00:00",
-      "summary": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark&nbsp;&nbsp;The Hacker News"
-    },
-    {
-      "title": "OpenAI says AI model hacked another company's systems during internal test - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDlsazgya1hhWG1NX21WZFhXRXN5VmZEb2JTcHRUMWhfSHVTTWV4T1YxRzZoeEh6Rm1keG14Zl9kS2NWSnZaenRBMFlFaWJNcVNTRHdicEk2R0lQUDY1bTBvQ1EySVFRV0RtQUc3T0F0eEdkT2FPMjRYdTVNcGFvd01GTmV6MjJiZm1tOVZzbUpWYTUyVkpqV3ZtZmllR1NxZkRrMFRtc2pxbmZiWm1NcE5n0gG3AUFVX3lxTE5zT0M0MlFMSWpQSC1UTkZRei0xM3RqVF9PWER6cVBvSnZKeGpLZy1WMnp5WmZjbFdPczNmNG1ISzE1eVU2WXVIbXNqbmJoSG9XcnRwYWxkZ1U5Szgtc1pHcEZXVU5DdEhrSmJBWG9qUWZ3aGdUeXFnZ3ktSW8tXzE2U0xwMm1TNFhWbDhKZkNiNlhSREVWYUJQcEw4Y0hoTnEwQmoxZ3BaZVd0U1N3ZUtQamFWbk1saw?oc=5",
-      "source": "Fox Business",
-      "published": "2026-07-22T06:39:00+00:00",
-      "summary": "OpenAI says AI model hacked another company's systems during internal test&nbsp;&nbsp;Fox Business"
-    },
-    {
-      "title": "'Unprecedented': OpenAI model autonomously hacked another AI company - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmY5eHNlS3hIS01mZENlYU8xd19Cd1hhQ0NVb0ZmS1gzSmgwRnVoYXBIdTlYOUFsd20tX1lDTlE2VXhOTjFuU19ScXEtVFA4dGlEVWNNNFJLVmlQWVp4SjhGVlNBTzM5Q3FWZEh5RUxqQTliWS1aaHZmZUo1bEpKeHhsTnFIR0NERHZ2NWUyQ3RlYmJVbktyejFIWDBlbUZZbUxveWZaYWpkX3Zlb3V5Vkhlb2dJdw?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-07-22T08:34:27+00:00",
-      "summary": "'Unprecedented': OpenAI model autonomously hacked another AI company&nbsp;&nbsp;Euronews.com"
+      "title": "What to know about the OpenAI hack that turned Chinese AI into the hero - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3hhS3daQjJIZmpyMHBlMlJtU2o4aV9FMWJCd0dRbnhxbnpmdDF4UXRLVlJvSHZlMWRteDQwVklOcmFBdzNnSUFUdWxJeFZlcElialVzLTE1VVNxdTVNNnN6QXdnWk1JN2YtVXdRTnJWd3BDRGZKYXhnLU4xLUdZRXl3T2tTMkhwYjlWVmFJcFQ1VzJsUUsw?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-22T15:08:12+00:00",
+      "summary": "What to know about the OpenAI hack that turned Chinese AI into the hero&nbsp;&nbsp;Business Insider"
     }
   ]
 }
