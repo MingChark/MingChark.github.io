@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T02:56:17.977755+00:00",
+  "generated": "2026-07-22T08:34:39.215902+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,32 +17,18 @@
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
+      "title": "Korea's top biz leaders to meet Nvidia CEO in US - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMER5dFBOVGczV1V5YUQyaEsyLW5Tbkx1cnNzLTZPUmFiRF9xTFExQkpsemxOLU9aMnFVTDV2NDhDNnNNdlV3NDlFRnNrNEthbjhZZmNieVJHRWhrb0ZIMU52LW5qRmhrMk1UT1pPamhmdHhxbVYyd3FlUl9DYTdGTUZ4YVNVdzBZS0FkcDE3ZVFZbnhPb1dvU01fODhDb3RvcXRTNUhuY9IBrAFBVV95cUxOZDRSNlhsR29XWEM0OVdsRTJZNkFIRVVuQ245QzhHTGZOMEE1VDdHX3JGajYxZk4yZnJGblMxUW9yXy1IMFlIS1lSTUdIc2hBMGVyc2JoaTVIalFzMS00YkVLQ3dhWVhLQUZXdXAwQ1FjVUFwSDBqcm1DeUxIOF9VSTJqLXhYYW9RZ2RzUjdSeDQydi11a241b0NXbVFkWmt6eDk3b0NBWVhfa2Uy?oc=5",
+      "source": "The Korea Times",
+      "published": "2026-07-22T07:25:02+00:00",
+      "summary": "Korea's top biz leaders to meet Nvidia CEO in US&nbsp;&nbsp;The Korea Times"
+    },
+    {
       "title": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In - Tech Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2pTZ19OcjBXOTRxamdxZV90Zml6a2V2MU1HeTZnVzlvR2FPZWs2c1AwYk9ySUt3cGV6UXQ1WnpIOHcwNVo0UVdCTUFicjZnNnlPLW5mMmNKdUdheTlPdXZTRUdObGFZYkg0bEZiUXZSUlZNLUllVFFYRWdjRzY4YVlIekNuc2E0ZXd3eEY2TVNwLXFPbVdZaC1qb0NiYXpGYy1UTFh6YWZHcU9UbGhyMVRFMFNhWVVMRWs2X3JISEs1a0FWeU5J?oc=5",
       "source": "Tech Times",
       "published": "2026-07-21T20:10:16+00:00",
       "summary": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acWt3SXJfclZva1IzcUpOc1VOLW1ONVlNaGo3TFhjalJYb0xjTWp1MExCWTNiZ3JPNmtqWHZtcjU2M3ZyLXpCbmNmbVJrbmFnYnJtT254azJrNTc5dmxvT09oVnA5eVY4S0pwWTlYb3BxZVI4Xy1r?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-21T15:51:33+00:00",
-      "summary": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance&nbsp;&nbsp;Crypto Briefing"
-    },
-    {
-      "title": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035 - Precedence Research",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBcEdUZ3ZGSXZXSTBkczZwYVJkZ3dFTXdFcWVnZENXU0g0QTJzRHhwYzlFWmxGLW9hOXN6WlZWc3dqSkNSczExV2tLemhDQ1ZPak9NSXRfWDlkTkpmVno5bjJwQ2E0eEtuVHU4V2ZpYw?oc=5",
-      "source": "Precedence Research",
-      "published": "2026-07-21T13:01:33+00:00",
-      "summary": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035&nbsp;&nbsp;Precedence Research"
-    },
-    {
-      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
-      "source": "AOL.com",
-      "published": "2026-07-20T10:31:53+00:00",
-      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;AOL.com"
     },
     {
       "title": "AMD’s Big AI Moment: Why Wall Street Keeps Raising Price Targets - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
@@ -52,11 +38,25 @@
       "summary": "AMD’s Big AI Moment: Why Wall Street Keeps Raising Price Targets - Advanced Micro Devices (NASDAQ:AMD)&nbsp;&nbsp;Benzinga"
     },
     {
+      "title": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acWt3SXJfclZva1IzcUpOc1VOLW1ONVlNaGo3TFhjalJYb0xjTWp1MExCWTNiZ3JPNmtqWHZtcjU2M3ZyLXpCbmNmbVJrbmFnYnJtT254azJrNTc5dmxvT09oVnA5eVY4S0pwWTlYb3BxZVI4Xy1r?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-21T15:51:33+00:00",
+      "summary": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
       "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance - Wccftech",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGhfZE14VXoyNklPWXI1V3Nlb2F1LVJqNFdhRXZCQjJvdXBjZloxd00zd0dmbWhEWkNNNmJ2MkhYM2lfQU5VR0pjbW1TOEZYYUxlYzRuOTk3Q05qdlA4WnNYS1laYkUtZEdacUFBUmVybUFpQkhFMmhqV184UXhvTlE2NFlqZ9IBiwFBVV95cUxPYXJmWGVxQXlia1FXWUxQZGhfeGxFUGlGSUJOM0Z2ckgzRkhPbHp1dFhyZHBhV0RWdGh5VkYzYWZPWjUzYldDMTVmNklaSTI4SzZyX2d1V18xN2VRam0xNXFQSmFyUlNjTmtjUGZrc1JYdXFUaVlQYjBPaFl2dkpPOVlrRGF4eEctMm93?oc=5",
       "source": "Wccftech",
       "published": "2026-07-20T22:45:05+00:00",
       "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "title": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035 - Precedence Research",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBcEdUZ3ZGSXZXSTBkczZwYVJkZ3dFTXdFcWVnZENXU0g0QTJzRHhwYzlFWmxGLW9hOXN6WlZWc3dqSkNSczExV2tLemhDQ1ZPak9NSXRfWDlkTkpmVno5bjJwQ2E0eEtuVHU4V2ZpYw?oc=5",
+      "source": "Precedence Research",
+      "published": "2026-07-21T13:01:33+00:00",
+      "summary": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035&nbsp;&nbsp;Precedence Research"
     },
     {
       "title": "Run Ray on TPU, Part 1: The foundations - blog.google",
@@ -73,20 +73,6 @@
       "summary": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTl8zMWRDeFZxS256ZkpnMUdvMWhIYVU4dXlPNHVWa0pwWXhzTmFfMjJwaVdXX29RcWdJU1V2VkViVXlRSTRuQmgxTGJrWTRzeWRDcWd5bjZTZzZxNThsUEYyMlBJTnZFNGZHanI1NE9KUVJPWjdPM3dMaWVEd3hRZmZJZjdFYU1ZcHdTbDd6ZHVVOFkxaW5XTmlqSkx1bUMwYUZxY3FrQ0tkNjFPNFBqRVNtTUVqekRPT0ludWtqS0V6cEYySFBQQ1RwWTByZ05YQzMzdVZCSTRrWjNBNHlseng0ZEtwdFRKUWVCag?oc=5",
-      "source": "The Register",
-      "published": "2026-07-21T10:00:00+00:00",
-      "summary": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "Why Are So Many Big Tech Companies Designing AI Chips? - TechRound",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GbVR5ZjFiVGFxSXkwX2NSSEEzNjFYS0d2a1JaZkNTdldLLWhnYWNoWnYzdWt2aTU3OXcyQXB2aFROY1hWcjFTX3ctZ3FvbVlzeDJYUmpWOUMybE9pWGhDWC11LW1xMUNwb3NmWFp1ZmJEX3NrWmU3WklHWQ?oc=5",
-      "source": "TechRound",
-      "published": "2026-07-21T12:49:50+00:00",
-      "summary": "Why Are So Many Big Tech Companies Designing AI Chips?&nbsp;&nbsp;TechRound"
-    },
-    {
       "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
       "source": "Voronoi",
@@ -94,11 +80,25 @@
       "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
     },
     {
+      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmJRQlpsRWFqUWNDRVlGN29qWW5udHdoQlc4XzRBTEd4bmlfbkcxRENiM05FdDJSUTRBb25RZWl5UkwzTjVVUzBzOUw4NENtbFlXcG93ZGhqdW9LXy01a2JmWXR1WFV5MzVPd2UxZU9ja0lmTUFtTmJOMTBIaDdMZ2RNc09zRVpfUkhxbFpza2JQeUlXbTJ1eA?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-19T09:10:00+00:00",
+      "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnY2TGZfZ0R1ZWhudEFkblFtR05sdVYzTGFCVFFOd0Q4T3VlbXQtTUZWNUozcHRrcElUa1VXdU5zVEt0OXE1Z3lQdXBRWXF3dHUxZ3N4U0dPek9tNS0zVDc1T05nUW5JcmhIYUJFVGZ0NnM0SWw3VXd6MjVkS1FxWjFkdDB5S3MzSHVlUFJkQQ?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-07-20T16:05:54+00:00",
       "summary": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "AMD stock steadies as investors weigh AI chip momentum and recent earnings trends - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdmh0REw3U3FPSHBiaGRRNkN2cEprZ01lTjZEdXN2RjBJMDBNd2tvanJWTlZCaGhISzNBdzVNZXhqWlR6MEhDRDgxMjRRTmp0WGVlVTE2Vjk5SXhiWDRVaHUxd1lOYzVwdXZVNEk0NmtpbjlKUVRTMHJBTXNGZ0MwSWdpS2NUVjlhc09wTUw0SGg4OVMtc081NEx6cXk4eVBib29IVlJKZGFLYUp1QmIyTmdqRXBuRUVmVTlCS1VSV1pDWGR5QnpHWHZOZWdoZw?oc=5",
+      "source": "Ad-hoc-news.de",
+      "published": "2026-07-22T05:58:07+00:00",
+      "summary": "AMD stock steadies as investors weigh AI chip momentum and recent earnings trends&nbsp;&nbsp;Ad-hoc-news.de"
     },
     {
       "title": "Microsoft Azure adds AMD Helios AI chips for inference - The Tech Buzz",
@@ -115,18 +115,11 @@
       "summary": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPd3ZCLTk0dkhXVTJKeFJMRGNVdWpPbTlMS1drM1piMzA3bkdFOExsTlFPWG5EekZWb21CM19nRU55TTFka2V3SWNIUzROckxzVVF1NURqS2dsVndRUXZmQ3NHOFlleHZZb2xkdTZqTjFfbXdlSEM1TVJGNVdMUkZtOEVPZlFMaXRtVFJMWEtZYnJvT01LU1JYdHU2VzBSWVJNeEV3cjB5SjA5eUJVSGswczV2aWJ3VzJvUzFfQVVQS3J3VDFkUFd0a0U5UlZwajVKQ3RNdFYyN2pnUVR0R0E3OXg5WDJqVDBiTFRnVHhack41VG1vSEZsOG4wWnNYZmFJVVA3dVpFYlNaRDRIQk4yNGFmeWt5LXFz?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-07-19T08:48:30+00:00",
-      "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "title": "AMD Launches Helios Rack System, Lands Microsoft as Customer - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVY1ZnB4RHZleVVDeDdsMzFhN24wSzVDU2VSaTVEc3dOSWE2WXRzN2kzSU1iQ09PS2stcHNZSkx0eHJwc0xQLWxiekJSaTJpajU4S2hsYk1DQmdaRzZYMXVwRHZFT2Z0bXR2M3M1OFhoTVFPdkFNUFdXRlNUaEJjeDh4c2Vfa0xkOG10c211Um43U2FQcThv?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-07-20T13:45:00+00:00",
-      "summary": "AMD Launches Helios Rack System, Lands Microsoft as Customer&nbsp;&nbsp;The Tech Buzz"
+      "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out - The Register",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTl8zMWRDeFZxS256ZkpnMUdvMWhIYVU4dXlPNHVWa0pwWXhzTmFfMjJwaVdXX29RcWdJU1V2VkViVXlRSTRuQmgxTGJrWTRzeWRDcWd5bjZTZzZxNThsUEYyMlBJTnZFNGZHanI1NE9KUVJPWjdPM3dMaWVEd3hRZmZJZjdFYU1ZcHdTbDd6ZHVVOFkxaW5XTmlqSkx1bUMwYUZxY3FrQ0tkNjFPNFBqRVNtTUVqekRPT0ludWtqS0V6cEYySFBQQ1RwWTByZ05YQzMzdVZCSTRrWjNBNHlseng0ZEtwdFRKUWVCag?oc=5",
+      "source": "The Register",
+      "published": "2026-07-21T10:00:00+00:00",
+      "summary": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out&nbsp;&nbsp;The Register"
     },
     {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
@@ -143,6 +136,20 @@
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "AMD Launches Helios Rack System, Lands Microsoft as Customer - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVY1ZnB4RHZleVVDeDdsMzFhN24wSzVDU2VSaTVEc3dOSWE2WXRzN2kzSU1iQ09PS2stcHNZSkx0eHJwc0xQLWxiekJSaTJpajU4S2hsYk1DQmdaRzZYMXVwRHZFT2Z0bXR2M3M1OFhoTVFPdkFNUFdXRlNUaEJjeDh4c2Vfa0xkOG10c211Um43U2FQcThv?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-07-20T13:45:00+00:00",
+      "summary": "AMD Launches Helios Rack System, Lands Microsoft as Customer&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
+      "title": "Nvidia stock trades near record highs as AI demand powers strong quarterly growth - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVFxTG1GWUtxcS1FZl9SYnFRWW1tZWlra3lxdE02VnZOUXVyOEtkZUhILU1sc2xtLVBPVjllY09JeTdhLXNGOXBoLUNEUlc1c0U0U05IVlN1aklTb3RmUjRlWnZzU1B4dXAySVp4MzJMQmx6c0thQXhXZ0s4N004QlZXSzZjdUZOTXY0SDhoaWgtMEpoSGxSLVJsVmhnZ0lyeGdIcUwxcnRIbkc4elhjNE1OODhlWXJIM3NKLVpYQ01UbmphZkkxYzlsNjl2UQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "published": "2026-07-22T06:09:36+00:00",
+      "summary": "Nvidia stock trades near record highs as AI demand powers strong quarterly growth&nbsp;&nbsp;Ad-hoc-news.de"
+    },
+    {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "source": "NVIDIA Newsroom",
@@ -157,13 +164,6 @@
       "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTBISXAwWGxEeGpnVVd1TmFtOU8zajVlUk5MNXFCV0taekJkY2xfYkFlQTNMdjZXRWJtb0l3MXpTQzZZcnEwM2VXR0gtY3hZdkM5aXRUYlhOYU80REdhQ0FEb3pUbjhqOXRSWUI1WjZiSmZXZnBRcEVOLW5qUm0yTi1Yb1JCaDNnLUl5eTFockNTVGxhWWl4YjUzNGpiOHlJQ1FlUlU1Ykc3N1JOUTg2My1rRGRZVUNIdTNPbGFtUUJNMDUzb0dNM2Jpc1VVXzdHNW1uNA?oc=5",
-      "source": "TradingKey",
-      "published": "2026-07-20T15:05:11+00:00",
-      "summary": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line&nbsp;&nbsp;TradingKey"
-    },
-    {
       "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - KED Global",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
       "source": "KED Global",
@@ -171,11 +171,11 @@
       "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;KED Global"
     },
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTBISXAwWGxEeGpnVVd1TmFtOU8zajVlUk5MNXFCV0taekJkY2xfYkFlQTNMdjZXRWJtb0l3MXpTQzZZcnEwM2VXR0gtY3hZdkM5aXRUYlhOYU80REdhQ0FEb3pUbjhqOXRSWUI1WjZiSmZXZnBRcEVOLW5qUm0yTi1Yb1JCaDNnLUl5eTFockNTVGxhWWl4YjUzNGpiOHlJQ1FlUlU1Ykc3N1JOUTg2My1rRGRZVUNIdTNPbGFtUUJNMDUzb0dNM2Jpc1VVXzdHNW1uNA?oc=5",
+      "source": "TradingKey",
+      "published": "2026-07-20T15:05:11+00:00",
+      "summary": "AMD Stock Near $510 Before Its Biggest AI Event — 12 Gigawatts on the Line&nbsp;&nbsp;TradingKey"
     }
   ]
 }
