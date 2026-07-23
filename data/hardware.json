@@ -1,13 +1,27 @@
 {
-  "generated": "2026-07-22T19:25:54.261271+00:00",
+  "generated": "2026-07-23T03:17:57.464360+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSU1XMWczZ3QwR3AwRG4yU3Qtek5OZ1g3bFBLSks4MzNFSG0zRGhDcTZpdjJ4UnpsTVF5S2F4MUJNRkJKZFpHbjEwUUI1Mms5UDg1TDFFQVlRRy1lUWtFTFhGSzR0OTZjUXRQMklpM3NYVnlYRUN4MTVVdnRTdkZVVmgydm9NZXBkcEwxOUNMdHY?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-22T22:10:44+00:00",
+      "summary": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips&nbsp;&nbsp;Yahoo Finance"
+    },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
       "source": "NVIDIA Blog",
-      "published": "2026-07-22T13:06:22+00:00",
+      "published": "2026-07-22T22:16:59+00:00",
       "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "Nvidia Vera Rubin Ships as China AI Scrutiny Grows - quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0JjcldLdXNtdWhjcWFidlJ1M2tqS1FtSmhhN2NPTXNOTGpzel9QLTZzYkVNOE50dC1INlNaQVBXQTI0NUF1LWZjdTIwLWJLU1BPUVlNX1BNdUtJZ1otUE9za0FfeDdPU0liVkFNMDNtWnFOdUNQR0RWWUlSLWlCZzctWjY2bnBIdWpiNVRMU1prVzA3czlRRXhxcw?oc=5",
+      "source": "quasa.io",
+      "published": "2026-07-22T19:55:00+00:00",
+      "summary": "Nvidia Vera Rubin Ships as China AI Scrutiny Grows&nbsp;&nbsp;quasa.io"
     },
     {
       "title": "AMD Bets $5B on Anthropic in Massive AI Chip Deal - The Tech Buzz",
@@ -31,13 +45,6 @@
       "summary": "AMD Advancing AI 2026 Opens With Zen 6 Venice, Helios, and Open AI Rack Bet&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "AMD and Anthropic sign major chips-and-investment deal - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LeWczR2EyNTdVb3ZQbXpWMlEteHR5dlB0SGpFNEFBR2kxXzRPcmg1ZDlnUUhlZkFKdGpNVTVSQzdKOTFnSnBXbGo2dW1lM2ZHSDVaSkNreWhxekdrTDZKMm5LcmI5QzVLZWF6NEtoQU0?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-22T12:52:13+00:00",
-      "summary": "AMD and Anthropic sign major chips-and-investment deal&nbsp;&nbsp;Crypto Briefing"
-    },
-    {
       "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkJ3ZzhTLXhVZ0JhWGxSdGpsS0h0S0ItTmNKV1hCa0UyYkNXZm1pZ2dTaHNWeEdfWXpyV1ZxNzBOTnIyQXlWcFFkZFRpMFRUaFlFRmpMcjdqSC11TE1qdXFqbV9TSWQtQ0owNEp3SXA5ZU5GV25rUGxwNm9TZ1lTTy1HOEVxemFaY0gybjhYU01YRzUtSlV6Y0UyT0laT0FGTTczaA?oc=5",
       "source": "NVIDIA Developer",
@@ -59,6 +66,27 @@
       "summary": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance&nbsp;&nbsp;Wccftech"
     },
     {
+      "title": "AMD and Anthropic sign major chips-and-investment deal - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LeWczR2EyNTdVb3ZQbXpWMlEteHR5dlB0SGpFNEFBR2kxXzRPcmg1ZDlnUUhlZkFKdGpNVTVSQzdKOTFnSnBXbGo2dW1lM2ZHSDVaSkNreWhxekdrTDZKMm5LcmI5QzVLZWF6NEtoQU0?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-22T12:52:13+00:00",
+      "summary": "AMD and Anthropic sign major chips-and-investment deal&nbsp;&nbsp;Crypto Briefing"
+    },
+    {
+      "title": "AMD Makes approximately $5.0 Billion Strategic Investment in Anthropic, Secures Multi-Billion Dollar AI Chip Supply Deal - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wSlhieFdvVGdzZG5DUUJqLU1nQ1pGcVp6TTVkeHVaV1lrNUd0djZxdG1hVDlZU3MxWWRGcktHWVFyaFBrSzJ1ZVVqaGhlOVJlOEtpel9mSVpCekY1WXZzLW5aRnFHRWZiZm9Na0UybzZaLXF4cUE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-07-22T13:35:00+00:00",
+      "summary": "AMD Makes approximately $5.0 Billion Strategic Investment in Anthropic, Secures Multi-Billion Dollar AI Chip Supply Deal&nbsp;&nbsp;finance.biggo.com"
+    },
+    {
+      "title": "AMD partners with Anthropic, challenges Nvidia with massive AI supply - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Kd2I1SExMZU9NN1BtRTc2dU8tRkd6THZHNGpfOFVGQmhINng2ZGN0MzBjVG9oYmMtZ2FvUVRKRWtrdklKN3F0aE5tZHlSVnByS294TTJnU1JUVVJkZ3FlR0NVZDl3ZVRlQk9CUmFGVDF0dzFYYjFXV2FR0gGOAUFVX3lxTE1vMHZSd080VVp1eFE2Z3RxZjdGTnYxWFRFTjZveGNSQmxpYnQ5N3lZQVdzR3ItSy04Mll4enhqVUN3dlVXRUVveEQ2ZUlzbkJTaUxvSXdZZ2dNV2lBXzhzTEZQMTFhSDF3bXZRMnp5bXNpRDM4Y3E2bFlIQXNCdm9CTHJ1UUN4OXRUMkNIR3c?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-23T01:36:00+00:00",
+      "summary": "AMD partners with Anthropic, challenges Nvidia with massive AI supply - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
+    },
+    {
       "title": "Run Ray on TPU, Part 1: The foundations - blog.google",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82Tm9jX204QVU1TlF2ZWlZV3NINjRlUE5oRDhyd2ZRQ1lmWktxMUlwaExxYnlQQTR6ek9hbmRBdFE4RDBKRU9oQ1hxVWIzMDItdU5Fck5TdWQ5aXJXS0JnbmoydGNuZkg1ZzY1dDJEakRlbkl3S0VoUEJ1VFg?oc=5",
       "source": "blog.google",
@@ -73,6 +101,13 @@
       "summary": "Meta’s new AI chips will begin production in September&nbsp;&nbsp;TechCrunch"
     },
     {
+      "title": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWZWaW1kZzkwUXg3aWh3QnN1a3M0XzBQZXBPTWVld0VlOXBILTZEdkZETVhZMDQ3RkZXTUs2Zk1oUzV5ZkUyMkZXeGJQczdoZWJHM3lFcFZzRlVVeWNmVnYwY2diX2VQVGswU2NoNGVnRzByNGtNV2ltUXBxWG1wQ1BIeGcyNjhuaGFsOERUSkxPVFh4QXVwYWtYUkctLXN0ZlRpTDFub3MxSm1ZVk51eW1XSGljRmZuRm9PNFlsU1Q5T2d3TFFTQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-16T15:21:40+00:00",
+      "summary": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "The AMD Instinct MI350P is a HBM PCIe AI Accelerator That Has Been All Over - ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1Y0ZmlpNUlKNU9sX19ZRElPZm5qTWwwYnFBd01CdEtFeDR0LXQ5cDBiMDN6d2xQVzRaY0VnYWkwajYwTzIxd3JOYjRodFd2REpMeDB2LWI2Y21NbTNuUHJuS3J2a3l1YTZvTUNoVWhOV1llWTVIdjlYYWFmR0VwMC1ZYXlYcVJuMDl1SlNSdmhncmY5aDF1eWN5cW50Z2l2aFR3Zg?oc=5",
       "source": "ServeTheHome",
@@ -83,22 +118,8 @@
       "title": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two - Voronoi",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzc0X1g5QzQzaWlMY3JkQm12eFdHNVM2TE5PcnBKSEo3QnlMX2hOWWdpejFTYWFvS21vUHBIVlEwV2gtaTdpUXJaek5NM0xiSmpaYWhFU2JUbFJDeVYtaE5zWncxZGFMNnhBSHp3cTAyakUtSUdfTDZkQ04yVVBGdG1iLUlERTdZbTAxdWVBa2N5WGduVE1yTnFjOWU1NkpJTTloTnRhUHFDQWVzNzRLUGF2Zm1fVnpsWE8wU1dnNHRQeDMwMUJZ?oc=5",
       "source": "Voronoi",
-      "published": "2026-07-20T21:48:44+00:00",
+      "published": "2026-07-20T20:48:33+00:00",
       "summary": "AI GPU supply chain: each layer's top supplier holds 79% to 100%, and no country holds two&nbsp;&nbsp;Voronoi"
-    },
-    {
-      "title": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmJRQlpsRWFqUWNDRVlGN29qWW5udHdoQlc4XzRBTEd4bmlfbkcxRENiM05FdDJSUTRBb25RZWl5UkwzTjVVUzBzOUw4NENtbFlXcG93ZGhqdW9LXy01a2JmWXR1WFV5MzVPd2UxZU9ja0lmTUFtTmJOMTBIaDdMZ2RNc09zRVpfUkhxbFpza2JQeUlXbTJ1eA?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-19T09:10:00+00:00",
-      "summary": "AMD Stock Is a Fraction of Nvidia's Size but Trades on the Same AI Story. Here's Where the Two Actually Diverge.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "title": "Korea's top biz leaders to meet Nvidia CEO in US - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMER5dFBOVGczV1V5YUQyaEsyLW5Tbkx1cnNzLTZPUmFiRF9xTFExQkpsemxOLU9aMnFVTDV2NDhDNnNNdlV3NDlFRnNrNEthbjhZZmNieVJHRWhrb0ZIMU52LW5qRmhrMk1UT1pPamhmdHhxbVYyd3FlUl9DYTdGTUZ4YVNVdzBZS0FkcDE3ZVFZbnhPb1dvU01fODhDb3RvcXRTNUhuY9IBrAFBVV95cUxOZDRSNlhsR29XWEM0OVdsRTJZNkFIRVVuQ245QzhHTGZOMEE1VDdHX3JGajYxZk4yZnJGblMxUW9yXy1IMFlIS1lSTUdIc2hBMGVyc2JoaTVIalFzMS00YkVLQ3dhWVhLQUZXdXAwQ1FjVUFwSDBqcm1DeUxIOF9VSTJqLXhYYW9RZ2RzUjdSeDQydi11a241b0NXbVFkWmt6eDk3b0NBWVhfa2Uy?oc=5",
-      "source": "The Korea Times",
-      "published": "2026-07-22T07:25:02+00:00",
-      "summary": "Korea's top biz leaders to meet Nvidia CEO in US&nbsp;&nbsp;The Korea Times"
     },
     {
       "title": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035 - Precedence Research",
@@ -108,13 +129,6 @@
       "summary": "Generative AI Server Market Size to Hit USD 1,885.25 Billion by 2035&nbsp;&nbsp;Precedence Research"
     },
     {
-      "title": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUt6RWJ4bTdEQnQwbjhjZUtqNzVoVVVaREljakotVy1rLTFiS2c3LVg5bTNZd0w1U3B3M1AxQW5iV2JSRTlNRWxxemozOTRaaV8xdDhkM2RZMTU1SFRLbGhvM1AyV2JqU0lHeVFxOGtwcW5ybFhDbjZCZk9tUUxmRkdvVHBRbUNXSWtXYUhUa2FVSmI4R08wcU1nOWp6RWp3UHdZUi1mdFJYTGFRTDc1SzZzd2tfSmJIbTFPS3lkZDQzMnRlQV9PeExxQ1B4LTd2ZjdTeVpaa2ZydC1ZYUM1U0xUdVh6MlBtM1VYc3N3?oc=5",
-      "source": "TradingView",
-      "published": "2026-07-20T14:06:50+00:00",
-      "summary": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment&nbsp;&nbsp;TradingView"
-    },
-    {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnY2TGZfZ0R1ZWhudEFkblFtR05sdVYzTGFCVFFOd0Q4T3VlbXQtTUZWNUozcHRrcElUa1VXdU5zVEt0OXE1Z3lQdXBRWXF3dHUxZ3N4U0dPek9tNS0zVDc1T05nUW5JcmhIYUJFVGZ0NnM0SWw3VXd6MjVkS1FxWjFkdDB5S3MzSHVlUFJkQQ?oc=5",
       "source": "NVIDIA Developer",
@@ -122,18 +136,18 @@
       "summary": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2pTZ19OcjBXOTRxamdxZV90Zml6a2V2MU1HeTZnVzlvR2FPZWs2c1AwYk9ySUt3cGV6UXQ1WnpIOHcwNVo0UVdCTUFicjZnNnlPLW5mMmNKdUdheTlPdXZTRUdObGFZYkg0bEZiUXZSUlZNLUllVFFYRWdjRzY4YVlIekNuc2E0ZXd3eEY2TVNwLXFPbVdZaC1qb0NiYXpGYy1UTFh6YWZHcU9UbGhyMVRFMFNhWVVMRWs2X3JISEs1a0FWeU5J?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-21T20:10:16+00:00",
-      "summary": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In&nbsp;&nbsp;Tech Times"
-    },
-    {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUt6RWJ4bTdEQnQwbjhjZUtqNzVoVVVaREljakotVy1rLTFiS2c3LVg5bTNZd0w1U3B3M1AxQW5iV2JSRTlNRWxxemozOTRaaV8xdDhkM2RZMTU1SFRLbGhvM1AyV2JqU0lHeVFxOGtwcW5ybFhDbjZCZk9tUUxmRkdvVHBRbUNXSWtXYUhUa2FVSmI4R08wcU1nOWp6RWp3UHdZUi1mdFJYTGFRTDc1SzZzd2tfSmJIbTFPS3lkZDQzMnRlQV9PeExxQ1B4LTd2ZjdTeVpaa2ZydC1ZYUM1U0xUdVh6MlBtM1VYc3N3?oc=5",
+      "source": "TradingView",
+      "published": "2026-07-20T14:06:50+00:00",
+      "summary": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment&nbsp;&nbsp;TradingView"
     },
     {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
@@ -150,32 +164,18 @@
       "summary": "AMD prepares for Advancing AI Summit to challenge Nvidia’s dominance&nbsp;&nbsp;Crypto Briefing"
     },
     {
+      "title": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2pTZ19OcjBXOTRxamdxZV90Zml6a2V2MU1HeTZnVzlvR2FPZWs2c1AwYk9ySUt3cGV6UXQ1WnpIOHcwNVo0UVdCTUFicjZnNnlPLW5mMmNKdUdheTlPdXZTRUdObGFZYkg0bEZiUXZSUlZNLUllVFFYRWdjRzY4YVlIekNuc2E0ZXd3eEY2TVNwLXFPbVdZaC1qb0NiYXpGYy1UTFh6YWZHcU9UbGhyMVRFMFNhWVVMRWs2X3JISEs1a0FWeU5J?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-21T20:10:16+00:00",
+      "summary": "Azure Bets on AMD Helios Open-Standard Rack to Break Nvidia Infrastructure Lock-In&nbsp;&nbsp;Tech Times"
+    },
+    {
       "title": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out - The Register",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTl8zMWRDeFZxS256ZkpnMUdvMWhIYVU4dXlPNHVWa0pwWXhzTmFfMjJwaVdXX29RcWdJU1V2VkViVXlRSTRuQmgxTGJrWTRzeWRDcWd5bjZTZzZxNThsUEYyMlBJTnZFNGZHanI1NE9KUVJPWjdPM3dMaWVEd3hRZmZJZjdFYU1ZcHdTbDd6ZHVVOFkxaW5XTmlqSkx1bUMwYUZxY3FrQ0tkNjFPNFBqRVNtTUVqekRPT0ludWtqS0V6cEYySFBQQ1RwWTByZ05YQzMzdVZCSTRrWjNBNHlseng0ZEtwdFRKUWVCag?oc=5",
       "source": "The Register",
       "published": "2026-07-21T10:00:00+00:00",
       "summary": "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "Top 25+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "title": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm - KED Global",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cTcycDRyWVl3bVBubVpqNUVzd2d0NHRwdDc5dUNHZVhfRTVGZmttSE5udExOQ2Z1cUVFLVAtanEwc1hUcVVvdzhqSWY0WWQtNDlvckFtVXU3Si1MbXJlVE9ZRlpGR2xnSjJfQmFhZWticHhqYzNn?oc=5",
-      "source": "KED Global",
-      "published": "2026-07-09T11:27:00+00:00",
-      "summary": "Samsung to unveil AI accelerator GAIA for AI-powered PCs to rival Nvidia, Qualcomm&nbsp;&nbsp;KED Global"
     }
   ]
 }
