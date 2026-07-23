@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T14:10:19.544967+00:00",
+  "generated": "2026-07-23T19:23:42.541449+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -24,18 +24,18 @@
       "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
     },
     {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-17T12:49:57+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB?oc=5",
       "source": "MarkTechPost",
       "published": "2026-07-22T06:27:02+00:00",
       "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T12:49:57+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -80,18 +80,18 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
@@ -143,13 +143,6 @@
       "summary": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDhWdnpadEp5eng2Z3d1cXl0WkVTdGVSZEdoWUNTN2puMktJNm9wRTNoNHVkaEZ6UkxuNXJWQzdpNWpWbGhxeDVTUHVjWEs1dXRDSGE2MHplQjBwc1M1SmM0U1dTdjd6bVBJODRPWHE2VEwxdGJhRy10YnhmUjF1TkpZaWlQX3JXSGZHVXZ1VjFXT2lybEJuQ2pWYVlZWUJNY3dWN2ZaN1R3WHd3RGNTYkdTMElURmFqZWJHVFk2MFdueGpBaTNkOWRDUzdHX0pHNFYwYkJyUzJwMk5Vb3lLUk1aNVBSaEJv?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-13T00:35:36+00:00",
-      "summary": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
       "source": "MarkTechPost",
@@ -176,6 +169,13 @@
       "source": "FICO",
       "published": "2025-09-23T07:00:00+00:00",
       "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
+    },
+    {
+      "title": "Densing law of LLMs - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
+      "source": "Nature",
+      "published": "2025-11-06T08:00:00+00:00",
+      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     }
   ]
 }
