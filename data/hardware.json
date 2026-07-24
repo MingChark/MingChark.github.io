@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T02:56:49.185809+00:00",
+  "generated": "2026-07-24T08:32:26.733144+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,6 +17,13 @@
       "summary": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fOS1MMUMyNE10M1ZaZTFQeHBMcFZYOGlPRGF2LW5YUDZHdXhmUmNOM3NmYVNYaGFkcEU5eHBfdU9rZHNPU19KdXI4LWFwY043YlBqSGFrWDNxbjZqZzBNTnVOT3AxQmVpTlJ6eEVtX2Z4NFN4ejVHSVUwQQ?oc=5",
+      "source": "Gotrade",
+      "published": "2026-07-23T21:57:00+00:00",
+      "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
+    },
+    {
       "title": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUVZVeDJaMTI3VTJKT2JNTklDODg4Z281dGFjVU9tOFNlOUt5dFh2QjB1UlE2OVdENjg3cFlOWTVrN0FyYklFNndLSTIzdlNQazZ4ejZuUjBCZ3pVdG5pN2owbXRlc3BucjU3WVFtakF3Xzd3ZEE4al9BRHB2a0E3cHdTbFAxOWYxQnY1eTI3N1g1c0cyWVZWZGlIS1FOSDdoZHlTbkZaSndqNkNabmlyT2o5VmNGVFlLY2RHcVdOVUJxUE13ck1LUGZmWFFLYlNzQWtkS3h3eXZpUmpIdkFuOFFxcldQbkZtaXVRdi1ybkU0eGp1OEYzQ01WS25TblpMcGcxX3pIb0Njb1JtS1RjT3FsdWpNZ0drYkhvS3VZcDIxQmRPSXdZdkg5NA?oc=5",
       "source": "Tom's Hardware",
@@ -24,18 +31,18 @@
       "summary": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-20T13:00:01+00:00",
-      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
-    },
-    {
       "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSU1XMWczZ3QwR3AwRG4yU3Qtek5OZ1g3bFBLSks4MzNFSG0zRGhDcTZpdjJ4UnpsTVF5S2F4MUJNRkJKZFpHbjEwUUI1Mms5UDg1TDFFQVlRRy1lUWtFTFhGSzR0OTZjUXRQMklpM3NYVnlYRUN4MTVVdnRTdkZVVmgydm9NZXBkcEwxOUNMdHY?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-07-22T22:10:44+00:00",
       "summary": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-20T13:00:01+00:00",
+      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
       "title": "AMD Unleashes Instinct MI455X GPU, A 320 Billion Transistor Behemoth That Is Designed to Tackle NVIDIA’s Rubin With 50% More HBM4 Memory & Up to 40 PFLOPs of AI Compute - Wccftech",
@@ -73,18 +80,18 @@
       "summary": "AMD Unveils Processors, Boards, and Dev Platform—All Tuned for Physical AI&nbsp;&nbsp;All About Circuits"
     },
     {
-      "title": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct™ MI350P GPUs - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEhpbl92ZTJyTFFPN05tNGxmckNpWWc0NjV5VFhiVGh0aUxzYnBvaTQwRTM3VVlHNWhHbzJUaFpZTmduYTY1eTI5SEhud1VxbjJfc1hXWDQxdnZMcS1LcG1qXy10MXZXTTlOY1lDZ0lPWVFBY1pCam5zMnFnS2VuakVoR0RaVWpWdU9BZWJZd1JfSm9SWjhqVDdUdGJOMVBrS0dmNno4Ny0zeHBHTUtHZE1aNHJERUo4Q0hQb1dET3k0b2pudnVySTRzMk4zcUNE?oc=5",
-      "source": "Business Wire",
-      "published": "2026-07-23T18:30:00+00:00",
-      "summary": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct™ MI350P GPUs&nbsp;&nbsp;Business Wire"
-    },
-    {
       "title": "AMD attacks the rack with Helios systems that rival Nvidia's - The Register",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxwbGtuVXdXTjZnYWVQeTJEQkd2ZzBaZ1Q0U3hUTlFYX2xWZEkwZFptWEtLaFo3SEI3T1EtOXMtTklCLVdGem4ybGh3NXBWWF9uU05fMUFBM0Mza2c3S2JqdnpDY3JhcFRrNnFnWnFrbVh0bEFsazdESVp2eWlxZUo1Vks2TW9HLWl6U0p4MUI0VkhHUjZTamJRVm5jMnJGeWRMRXVteFFPTDV0QXVlNUpQTHM?oc=5",
       "source": "The Register",
       "published": "2026-07-23T17:26:00+00:00",
       "summary": "AMD attacks the rack with Helios systems that rival Nvidia's&nbsp;&nbsp;The Register"
+    },
+    {
+      "title": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct™ MI350P GPUs - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEhpbl92ZTJyTFFPN05tNGxmckNpWWc0NjV5VFhiVGh0aUxzYnBvaTQwRTM3VVlHNWhHbzJUaFpZTmduYTY1eTI5SEhud1VxbjJfc1hXWDQxdnZMcS1LcG1qXy10MXZXTTlOY1lDZ0lPWVFBY1pCam5zMnFnS2VuakVoR0RaVWpWdU9BZWJZd1JfSm9SWjhqVDdUdGJOMVBrS0dmNno4Ny0zeHBHTUtHZE1aNHJERUo4Q0hQb1dET3k0b2pudnVySTRzMk4zcUNE?oc=5",
+      "source": "Business Wire",
+      "published": "2026-07-23T18:30:00+00:00",
+      "summary": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct™ MI350P GPUs&nbsp;&nbsp;Business Wire"
     },
     {
       "title": "AMD Invests $5 Billion in Anthropic, Challenging Nvidia - Businesskorea",
@@ -101,13 +108,6 @@
       "summary": "AMD Launches Helios AI System to Challenge Nvidia's Dominance&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "AI accelerator market will grow 45% CAGR to $1.4T by 2030 | AMD CEO - GamesBeat",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMklndFFVS1NIcEhUd3ZXWHpfcGt0ejVBeTgzYUdUeW9lZGJRNDZMc0sxV3NETVpHcDQ4U3B4RUFuc2JPWXN4UVhRNERENlRsZzhVMkM1MGVqOU1TdzRGUUdNOXJ3NXRJMlQxTUFkbzRPVF9lZkQzWGt1MWdCdlZsWkgtTnp1dGxyYU5vcWNXNA?oc=5",
-      "source": "GamesBeat",
-      "published": "2026-07-23T19:41:13+00:00",
-      "summary": "AI accelerator market will grow 45% CAGR to $1.4T by 2030 | AMD CEO&nbsp;&nbsp;GamesBeat"
-    },
-    {
       "title": "Agentic AI Runs Where Enterprise Software Runs: Embedded - GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNS2hZelhMVWhWMGh5aURGdFZzM3JnUVY0TTZaU3NySl9NMndFUW9EVXQ2SVp3VUc3V0E1QXNMNDBrRXNIMk42UVJXSnRuODkySko5T29hWmJFWmJHY090NERzY0g0emFSMFZNZlNxRlhxNkhKcjc4dGlGclpld0ZuQ0sxUnZ5cjlJLUhXV05MdjZLQ1pHN0dwelJSNU04cmd0VEdnYkprZ09tTGJ2UmNHcWZiZnFFVERsWHYxcEdLWWI4TGxtck1KUXR2aVo5OXFfVkQ3dkhZc3N2MjNDU2RLTnhTOUJncllfaWJMeHl1VWtRRV9iZlo0T0k2UksxY3FyVUI0dDIyV1lqSjVYMElCOW5ybk9iZVZQVG1fV1Y1UzNURHNDLVpaaWcybFZYMzVlR20w?oc=5",
       "source": "GlobeNewswire",
@@ -115,18 +115,18 @@
       "summary": "Agentic AI Runs Where Enterprise Software Runs: Embedded&nbsp;&nbsp;GlobeNewswire"
     },
     {
-      "title": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTTBZTTBNS2Z5Zno4a0VBSWN6SXRYUW8wV29jSndlSmhhNzlLVXBvVlU3Vng4R3AyLUFzc29mNkdzVy1PQ3Q0ZWNSTW01TWtFZmxJSVZkMmlmOW8?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-07-23T04:19:31+00:00",
-      "summary": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026]&nbsp;&nbsp;tech-insider.org"
+      "title": "AI accelerator market will grow 45% CAGR to $1.4T by 2030 | AMD CEO - GamesBeat",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMklndFFVS1NIcEhUd3ZXWHpfcGt0ejVBeTgzYUdUeW9lZGJRNDZMc0sxV3NETVpHcDQ4U3B4RUFuc2JPWXN4UVhRNERENlRsZzhVMkM1MGVqOU1TdzRGUUdNOXJ3NXRJMlQxTUFkbzRPVF9lZkQzWGt1MWdCdlZsWkgtTnp1dGxyYU5vcWNXNA?oc=5",
+      "source": "GamesBeat",
+      "published": "2026-07-23T19:41:13+00:00",
+      "summary": "AI accelerator market will grow 45% CAGR to $1.4T by 2030 | AMD CEO&nbsp;&nbsp;GamesBeat"
     },
     {
-      "title": "Why ARM's AI Opportunity Could Extend Beyond Market Hype - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTVXeGpsT09vZ2VLMWl4YUg4Yk9jeG5DQmJCTmE4SFN2YXBid1MzTU56T3lkd3NGYnhfQWlOQ2Y5Ukd1dFBNWU1OVHk0M2tFS25MQ1B3TzlHajhvcXRaOTR0M19BYVhuaTQ3NHNUQjI3TExWNUcwX3d4dFE2N0Znd3ZWVmdNN1l6b0RwOW8zZ0h4UmprTDlRUUtudFNkZ1ZaTEtOYWJLUmJCMnlDY3R3eHRR?oc=5",
-      "source": "TradingView",
-      "published": "2026-07-23T16:20:00+00:00",
-      "summary": "Why ARM's AI Opportunity Could Extend Beyond Market Hype&nbsp;&nbsp;TradingView"
+      "title": "Samsung supplies HBM4 as AMD’s Helios enters production - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4V0U4eFhiWkxfSlRpS1Y0a0ZPT3JZbFNqQ0Jub2ktTi0yWkxrMWNvZWRFTHhELXpVXzhuZzVWMDcxMTVuQ20tOVpJY0hOa0RTM1d6OTBIQQ?oc=5",
+      "source": "The Korea Herald",
+      "published": "2026-07-24T05:23:27+00:00",
+      "summary": "Samsung supplies HBM4 as AMD’s Helios enters production&nbsp;&nbsp;The Korea Herald"
     },
     {
       "title": "AMD’s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots – APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel’s Panther Lake - Tom's Hardware",
@@ -143,6 +143,27 @@
       "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
     },
     {
+      "title": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTTBZTTBNS2Z5Zno4a0VBSWN6SXRYUW8wV29jSndlSmhhNzlLVXBvVlU3Vng4R3AyLUFzc29mNkdzVy1PQ3Q0ZWNSTW01TWtFZmxJSVZkMmlmOW8?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-07-23T04:19:31+00:00",
+      "summary": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "Why ARM's AI Opportunity Could Extend Beyond Market Hype - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTVXeGpsT09vZ2VLMWl4YUg4Yk9jeG5DQmJCTmE4SFN2YXBid1MzTU56T3lkd3NGYnhfQWlOQ2Y5Ukd1dFBNWU1OVHk0M2tFS25MQ1B3TzlHajhvcXRaOTR0M19BYVhuaTQ3NHNUQjI3TExWNUcwX3d4dFE2N0Znd3ZWVmdNN1l6b0RwOW8zZ0h4UmprTDlRUUtudFNkZ1ZaTEtOYWJLUmJCMnlDY3R3eHRR?oc=5",
+      "source": "TradingView",
+      "published": "2026-07-23T16:20:00+00:00",
+      "summary": "Why ARM's AI Opportunity Could Extend Beyond Market Hype&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "AMD unveils new products said to outperform Nvidia’s in pursuit of US$2 trillion opportunity - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUmpKMHBtZWJNaDgwUG5ZZlZ3MV9sNVEwUVl4ZUo2ek1GQWFabThza3RFMWt1QWJlS3JLTkljUGhPaldybllSUTlFaUtSUnhMSGNMaS1mTDNabU55SXlzbG14RkJtZzlLdjhZcE5GOExXR0FFdC1QakxTd2JIVGNvZzJBcjNqQVNFS2NIQkVsSGRscjJQNjZPbkd0bk1SNHpvMnF1Zmw4NEhwN2daQVRMcUVUXy1ITFhyTVBFdmZoTXNnbkd1MlVHNWh6bXBweFNTamNmaHZn?oc=5",
+      "source": "The Business Times",
+      "published": "2026-07-24T05:48:00+00:00",
+      "summary": "AMD unveils new products said to outperform Nvidia’s in pursuit of US$2 trillion opportunity&nbsp;&nbsp;The Business Times"
+    },
+    {
       "title": "AMD expands AI portfolio with EPYC 9006, Instinct MI400 and new physical‑AI hardware - KitGuru",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeTl0UmlQVkZoYVBJcnp3Qk81bjNVNThEUjg5dXQyQkwtOERhTFhIV2VpVzRDR2JmeUhYUmdPZVE3TUdKSmp4Rk9FTUVFUmliejFlUlBjYk9ybWk4RjRpSHpaVG9kU0FmVDZCNlNreDc0dURzQm5GTHg2dzFpN0pOQm42TUh2cFZYdmd4Z1c3ME5sTXAtd19QeHQ2c0JvaklpMG1VTkFlZkxOd09Qa3l6VHcwWnRYR1pBaFhYQWc4c2g0aGlLZG1TMHhnR3dHSmozb0R6T1lTYVdLUlY5NkdYUGVCZWs2dw?oc=5",
       "source": "KitGuru",
@@ -155,27 +176,6 @@
       "source": "GamesBeat",
       "published": "2026-07-23T18:31:06+00:00",
       "summary": "AMD unveils Instinct MI430X GPU for AI supercomputing&nbsp;&nbsp;GamesBeat"
-    },
-    {
-      "title": "AMD: The Full-Stack AI Opportunity (NASDAQ:AMD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZWFIZXF2RGNDZ01USEZnXzdYZ0NoWlFDLTllaDVMcWdsX1NBTWhaU1dDVVRNb1lyOFpCLThBMEZ2QW9OMjF4TThOTDZJQkF1em9KMEgtZ2J2TExCRDZyTmJQQkZyU296WTF3Nzd5Ql9vWDgwVTVlUDBQejRsQkk?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-07-23T05:40:18+00:00",
-      "summary": "AMD: The Full-Stack AI Opportunity (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "title": "I’m Buying ‘Fully Priced’ AMD Because The Math Says I Should - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdXZwZjhmeGtTVmdtMVJYbEo4Mnc0YW5nRUVneTdWb050UDJNMnNzbFJISTJtbmJsMWFTQU5pQ1dJY2N1c0tOV3I5M1R1N282SWFyb01vOUFtMW5pc1hBWExWcmVjS3BBN3RJaEpTS3V1ZmVfcmx4OXZHdVdwVFF4SXRPejBoNTZfLXM3ZGtqRThLWDh0c3hidGNhQTNiRVVmbnBV?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-23T17:08:05+00:00",
-      "summary": "I’m Buying ‘Fully Priced’ AMD Because The Math Says I Should&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Lisa Su unveils Helios, reshapes AI racks to cut costs and boost efficiency - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYdk5yVDNaV2JmWDhBbUQtcGdmZ1ZCNklvb0tTOEFlcGpvSm5RYkNiTllvRFpIS0NnTjlmODg3djhHUnNJNW5ma09wVVE3RzA5QVVoamZLUDlIRXFUYTdZN2Q4Y256TE1HLUFMRjc3M081ODVWQTdtbGln0gGOAUFVX3lxTE5NaFpwTzhZZG1tZnMzYnhFZkNTWU9LOXluX19Yd0xORUNiV1B5TFZSdzZPSDBLSWFGZjlob1VJbm9DWVJkUGoxUXBnNTgxazBjVkRCdy1KWlBLb1RUTjY5ZUp0eDlSRzduLWlDYlBiek03UzY1bXpaaUVWYkpQYUxVN2t2WGEzR080RXcteUE?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-07-23T22:04:00+00:00",
-      "summary": "Lisa Su unveils Helios, reshapes AI racks to cut costs and boost efficiency - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
     }
   ]
 }
