@@ -1,13 +1,34 @@
 {
-  "generated": "2026-07-24T08:32:26.733144+00:00",
+  "generated": "2026-07-24T13:52:29.591228+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVhNdF9vVVNEUk5pRXdrZkFZNkU2WXA4MDJqSEVUOVhZaFYzZ0dKTUxvWTN5Z21CTzlNYVZXTF9ieTdLQkVWODQtTE51RTFpYzk2TjdoX1QwbUVtVmo3TktjX2pRZURaSVVQdVYyYTJQZk5raHRVOHMwNzMzLUF5dzZSamdxa3kwN3BZTVFSWGJpUQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-23T19:51:08+00:00",
-      "summary": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress&nbsp;&nbsp;CNBCOpenAI blamed a hacking event on its AI models gone rogue. Here is what to know&nbsp;&nbsp;NPRWhat went wrong: How an OpenAI model went rogue&nbsp;&nbsp;CNN"
+      "title": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG9Yb2NLUnFQU2RVQXl5RHdPMXcybkZWVFlZUWFLNUFaR0pzOEhmZlpvVzNCNjZwQUhpdlVPeWZqdFJqNnMyWVlFQUpHTGJDUUl2R3F6OE5KdVJLc21vLWpMazV0aW9ObzNQQkxpc0lRYnVtNHp6V0k3Q2ljU2NvaXBjeHU4T1JtMm8teUlYaFB0bktKam4xUFdjNmMxOVcyX0JlUkpKRVM?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-24T09:00:00+00:00",
+      "summary": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start&nbsp;&nbsp;NBC NewsOpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress&nbsp;&nbsp;CNBCBe skeptical of OpenAI’s rogue hacker agent story | John Thickstun&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2ZGQ2VYN19sTzYzdHREdUJ0RFM2eGczR2FhRFdweHZZa0tjSC1mMWxVbjEtWmh5WjFpNDBnemszbFFZOWE0STJRSmdWNlk3UXdEOUE3SWlRV1VYYmNuWm42eXBGcnlmWlotYUxWVGhkb0tKSk51amZGUWFhdWpsdjVNRmNuclQ2OFAzUl9vUXRyZjRYV3JaZw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-24T13:36:42+00:00",
+      "summary": "OpenAI’s new voice mode makes it to the ChatGPT desktop app&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2tSa1NaalFSck5iUmN1UWZ5djZmSEl3aDdZN0k2WUF2ZUFnemszampDN1lzaDRYU3JLMktoUmplanFMT1RZdi04akJIRVRNYllNNjF1OVNCZnVWUmlDTW5jMDBFekVmR0FyeWRHMVp4UVoxcnVHRS1HMk5YU3loOG10bXYxbnJ1UnJPR0dkZUxLVGlaVGlyZHllNUxFaEZ5WGhSMzFYQWlOZEdOYTRF?oc=5",
+      "source": "The Guardian",
+      "published": "2026-07-24T12:36:00+00:00",
+      "summary": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "New tariffs on U.S. trade partners and experts divided on OpenAI hack: Morning Rundown - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM21uRi1Tc2pwQThnRmVFSzJSdjR1aWhMZTRVeVIyM1Jwbkl2dWxUdEhBMzRVanRBUnJfQWM2NWVkdEk1TzFJZk1uajlCazljWkVnRE1HenBSTzNyUVhiVFdqcUJha0tOeGNnNmlxajJJZ2M3YjlQZVZTRndhcXJyOUwtbHhIRnYzVnJGeXFnbjVlTEJrRkF5TkkwVW1iOGpyb1dJVmp3?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-24T11:00:58+00:00",
+      "summary": "New tariffs on U.S. trade partners and experts divided on OpenAI hack: Morning Rundown&nbsp;&nbsp;NBC News"
     },
     {
       "title": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
@@ -17,13 +38,6 @@
       "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUGRqTmVwZHpIaXl6cFdzMkR3WHRuSE5zUUNxZFIzdl9BOWFKUFVCdEtOS204WHJiVEJzQ3RzT0hSYTdTa1FHU0FtMTh3NERRZmRFY1k2d1VmUQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T17:20:06+00:00",
-      "summary": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges&nbsp;&nbsp;BBC"
-    },
-    {
       "title": "OpenAI sued over 'extremely dangerous medical recommendations' provided by ChatGPT - Yahoo Tech",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVFjekk2Uy1vUGdscjc5dDRoS2hJNldya05kWlNvaXdXQUZjbEZpdl9BN3p0YkhycnNlYW9vcGZuMWFXa1hnVEJPYjBEeVF2VTVNclNpTUcxYmZTdTQ4NGFRZEJVT1hJSDVCcnBLd2FFUEFTdGV2aDdDSFR2cnVyX3k3NVAta3RDTkZrQTBGMGtrWW4xZFJreHVpbW55ekRCb3RfaWtUSlBTM01HN2QyaDFkSkp4YURTNEJtTU14UTYyeFg3RzNxRg?oc=5",
       "source": "Yahoo Tech",
@@ -31,18 +45,32 @@
       "summary": "OpenAI sued over 'extremely dangerous medical recommendations' provided by ChatGPT&nbsp;&nbsp;Yahoo Tech"
     },
     {
-      "title": "OpenAI's new release turns a bad week ugly for software stocks - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzhWZHZzeDgzYXhGbEdtLTJfdU5MV1BHZkt5Uk5sUzBkRHBrRDJybEpKdlk3U3dURWtGTVVmUGJuRXNYem1NMDNjMDBmN1owaGZwVXRiN3hxQmpkTlc0MEFoVkU2N2c0bGNyRzJUQWhSREItLTI1WXdaOUtfTUpRM1VVaHZrRzNZUUNta0VhcTU1cDhZakg5UG9oSQ?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-23T22:14:00+00:00",
-      "summary": "OpenAI's new release turns a bad week ugly for software stocks&nbsp;&nbsp;Business Insider"
+      "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUGRqTmVwZHpIaXl6cFdzMkR3WHRuSE5zUUNxZFIzdl9BOWFKUFVCdEtOS204WHJiVEJzQ3RzT0hSYTdTa1FHU0FtMTh3NERRZmRFY1k2d1VmUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-07-23T17:20:06+00:00",
+      "summary": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges&nbsp;&nbsp;BBC"
     },
     {
-      "title": "OpenAI holds public open house in Effingham County after announcing $20B data center campus - WTOC",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1ppRmJQbUxwTlRMWVZ3Z2NVUVJ5V1JGRjJNcFFsRzJvZXVxZHBKeHJsaFMwVzVrUGR4NlNoaHVIRzV6QXV1OVF5MTBxT3JUanlKM0c2RjZzTTYxTUh2aHY4NWo3NmlLcVM3V0FybE1UenQ4YzNLTWlOSEZiVXEtMWptTHR2bW9ZcXhEV0tSMk82NHFvWDU2aXhDLTBlb0dZcUJVd2FURnZfY19pbnZQN2lBa0FkR05DLWVqMA?oc=5",
+      "title": "Community pushes back on Effingham County OpenAI data center - WTOC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY184d0gxSEVoZnkzUHRyUC01VzFObUdQcWN6ZXd4ai12QTNreWxDT2d0UVJqRHBEa3g4dTZZZmRRa3FtSjZseHFBbUtkV3FnaXN5T0tqTmZoSkh6dHNsOHNzSmFGVWVUQzg4QTlwVl9GYm1FS012Vzg1ZEFEMlVfSFhOdUdIaTdtNnlzV1o2UzNLS0Ez0gGoAUFVX3lxTFBobUFsRm5Hdk9nb19fUDh2NkoweWNsYmk2Ni1kdnAzSDliSFl1M1RWRFptcE5fbkppVTVrUmdWbkRicjFnblQ5TlVvdkl1RXdOSm5jR2VmNWdpRS1LSW5XWEJzZ3FDU0JvS3lqbkZuc2UyaldDZ2RyU0NndjZiby10OTNsTUl1ay1MN0I5b1g1Tmt1b3FvYUFqQlpNcVdONlJETnNaTWxlcg?oc=5",
       "source": "WTOC",
-      "published": "2026-07-23T21:51:00+00:00",
-      "summary": "OpenAI holds public open house in Effingham County after announcing $20B data center campus&nbsp;&nbsp;WTOC"
+      "published": "2026-07-24T03:34:00+00:00",
+      "summary": "Community pushes back on Effingham County OpenAI data center&nbsp;&nbsp;WTOC"
+    },
+    {
+      "title": "Packed meeting, protests erupt as OpenAI data center divides Effingham County - WJCL",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDV0dF90X2RBdERQdFJ5cFdPZjlUMy1ZMVFmWnFtYzJkbXZQajRGUk1JYkk3TVU0Z3c1eHBHMk9adnRkX3Z3WDEyYVNfcmpuQkdqSGtMcV93RGQ4Ml9wQ1ZuWmVJVHA5VGhHQ0h5YmRIUk1PMGV4YWlLMnNsNFF5cTlIVVVCbUdtSWs3MA?oc=5",
+      "source": "WJCL",
+      "published": "2026-07-24T05:18:00+00:00",
+      "summary": "Packed meeting, protests erupt as OpenAI data center divides Effingham County&nbsp;&nbsp;WJCL"
+    },
+    {
+      "title": "Hot topic, cool reception. Residents denounce proposed OpenAI data center. - AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1BPbDg1VHp1QWtDVk1Kd0JOZTNsdmlVTzRYRlJIY3FvTENOOFRIR2RXQ01hWGl5MXZvTUVUZGkyWXJva2E0LXpwRzBoVzlweVRRUzY4X0docFA1NFE2ZnVGMjgxR041ckxiRS1vcjUwbU9OZEtiRl9pX00wbzhMQnRoZVBFUXNlLTRNUnlUUVBEa1JhbkJLX09weDNrckJUeVlGZ3R3R0o?oc=5",
+      "source": "AJC.com",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Hot topic, cool reception. Residents denounce proposed OpenAI data center.&nbsp;&nbsp;AJC.com"
     },
     {
       "title": "Karen Hao: AI Doesn’t Have to Be Built This Way - Bloomberg.com",
@@ -52,11 +80,11 @@
       "summary": "Karen Hao: AI Doesn’t Have to Be Built This Way&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnhrdU9BTTRoNGhtSV9RbmlUT21SMkxiRHZuTU9vdnN2NjZodU1iVjEyMWdVQmQ1OGVKalFXOHRuUFBWNzZaejdwc3hLRE05TzBOcmpNeF83SmlVU0MwNThMZk9aZDBYSFhhNjRMNWxuNndFbHhCdnFnMnhEQTVBVE5QYzkxUllpOEw4U1pBSjFjeHljaXVVcXdOWGF0TUU1cnl3Wg?oc=5",
+      "title": "Indian court says OpenAI did not violate news agency ANI's copyright - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEJhdXAtQzZaamdQRFdzXzlSdDRwSGdwanc2SW1CSFpwZDYyOXBia0t2WDdPZzFuTzBzempwMHlISzlBWS1LbXZLNHM3cTZub2M2T0toTGZaNFB3NW5SLUxyVzl5bHJrNmFzNWxhQlkzLUJNMzZnTElfLXJZZUtNbHZWQlg5Z255MjYxM29NRWNDUFFnU2hPc19wbUZsMzdEN3FwMGtXQlRhc1N1MUJlczBEWU1TUEFYSWQ2RGRyelNhUTFFQ3VLdQ?oc=5",
       "source": "Reuters",
-      "published": "2026-07-23T13:36:00+00:00",
-      "summary": "White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch'&nbsp;&nbsp;Reuters"
+      "published": "2026-07-24T10:24:34+00:00",
+      "summary": "Indian court says OpenAI did not violate news agency ANI's copyright&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Exclusive: Yelp deal pushes local reviews into ChatGPT - Axios",
@@ -66,32 +94,32 @@
       "summary": "Exclusive: Yelp deal pushes local reviews into ChatGPT&nbsp;&nbsp;Axios"
     },
     {
-      "title": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmNEOXJObHh3QUQ0SXdvUlhMWW10SktKbXhlaG01UUNXc0ExR29FS1BfWTdpT3RwNVJhV3lCUGptOUozSjh0UVhQUXMwWC0wUDdYR2ZybjR0cVhmS0o0S0pDbUtwV25xMURseEloeDhkRDVtVzR0a0FRcWw0ekNveTd3?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "2026-07-23T11:04:04+00:00",
-      "summary": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in?&nbsp;&nbsp;San Francisco Chronicle"
+      "title": "OpenAI's new release turns a bad week ugly for software stocks - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzhWZHZzeDgzYXhGbEdtLTJfdU5MV1BHZkt5Uk5sUzBkRHBrRDJybEpKdlk3U3dURWtGTVVmUGJuRXNYem1NMDNjMDBmN1owaGZwVXRiN3hxQmpkTlc0MEFoVkU2N2c0bGNyRzJUQWhSREItLTI1WXdaOUtfTUpRM1VVaHZrRzNZUUNta0VhcTU1cDhZakg5UG9oSQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-23T22:14:00+00:00",
+      "summary": "OpenAI's new release turns a bad week ugly for software stocks&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnY3V1hWS0ZSUS0yYlgxbnh6ZV9faTNudXRXd2VQaEFZMk5rZ3NsUS1ETDBqOE56V0hLNXo4dGJWcTlJYXNuY04xb2VqTFBoaHFLMlVPaDQyRHk2TTgwYWpXSFJuWXdMOV9ubjlDLVE2b1oxVjYwX0RwTkhSMV9mWERmYzVNQTZUWjRPZEZQWDVoeUtzOWlfV2ViUU9BNm4yWWc?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-07-23T20:24:02+00:00",
-      "summary": "Microsoft is replacing OpenAI image models in PowerPoint, Bing&nbsp;&nbsp;The Seattle Times"
+      "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTTRrTlB1X3V0akxjZERPdzI3RVZqS19ZVEVtWFg3QXM5MTNWa3RoQnk4RmQ2cHdCYWJ6ZzlKdWt1bk8yc0k5OHp5c25XdTFFS3FhSFBWY2lGT2ZnMVMtT0tBSm1qYjFNUTlzdG9wZWdfZlV0NU9GenNrMFJZZ9IBgwFBVV95cUxNR1Z2eGgweUw0dlhUV3E4VzVIZjlVekxkNXlKYWF3bVdYQXVVdVRzWmR5dldRQW1xNFB6aU5NdEl3aVNXWnFMN3dCZHFXSjJuU1plWE9ST18xWTRCa2Z3dW1QQnlHZ0RUb0E4QUd6VU1wLWJYUHpHWmtBeFFjOFNFak1XNA?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-24T11:00:01+00:00",
+      "summary": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI Has Entered the Swag Chat—Here’s What Tech Bro Merch Really Signals - Vogue",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aTzhYazA4Z2liZ0pFdXlSeEF0N1d1Vm1IdXUyU1RVcjVOMW93YnBTempVU2tqV2NueVJmanJTQmlKeEoxWWdSNGhWbktZd0ZHc1VUVlhsWVl1ZndNUC1GZmNxaGlaRUNIak8wMjRIQQ?oc=5",
-      "source": "Vogue",
-      "published": "2026-07-23T11:10:46+00:00",
-      "summary": "OpenAI Has Entered the Swag Chat—Here’s What Tech Bro Merch Really Signals&nbsp;&nbsp;Vogue"
+      "title": "Hugging Face OpenAI hack: Agent went rogue, escaped and hacked everything in its path - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
+      "source": "Mashable",
+      "published": "2026-07-24T11:26:13+00:00",
+      "summary": "Hugging Face OpenAI hack: Agent went rogue, escaped and hacked everything in its path&nbsp;&nbsp;Mashable"
     },
     {
-      "title": "Launching Health in ChatGPT - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
       "source": "OpenAI",
-      "published": "2026-07-23T15:18:33+00:00",
-      "summary": "Launching Health in ChatGPT&nbsp;&nbsp;OpenAI"
+      "published": "2026-07-21T20:10:21+00:00",
+      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "How the Futuristic Hack by Rogue OpenAI Models Unfolded - WSJ",
@@ -108,6 +136,20 @@
       "summary": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law&nbsp;&nbsp;KQED"
     },
     {
+      "title": "OpenAI data center project sparks outrage among Effingham County residents - thecurrentga.org",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajBxQm5DOXhncXBpNlVRM0MyYWE2RjlmQUI1Y21EWmoxa1ExZWR2MWNsUDdMU2wwb3ltSWlBLXU0TWxaMk5jYk5QR0ZDbEdGZDhhWWFNVUJ5NmpPRk1GcjFGOTdrZjVDaW9FMzQ3U203UlR4bVRzM0VOUnRNd1U3bVdyMUNBVjN6ZURkOThhdnRURW5YUVJfQ3NWY2dUR2lWaWhoTGlWZEt0aWRTWFFpag?oc=5",
+      "source": "thecurrentga.org",
+      "published": "2026-07-24T02:24:12+00:00",
+      "summary": "OpenAI data center project sparks outrage among Effingham County residents&nbsp;&nbsp;thecurrentga.org"
+    },
+    {
+      "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JNHRZUExMR3ZXMFdRRm9NRXhiaE8wZjExeFFPeDc1NGRGU0hhaVItdFhNN0NUbXJZeGFLTnY2NWFSQ1g3clRwWlhBQ3BTanBiUExMRjFRMmpaTW1WTmwyNmVnaHNWUVJRVHdTTnJ4SkVZZC1ka1c4U1dPaFY?oc=5",
+      "source": "Axios",
+      "published": "2026-07-23T22:40:41+00:00",
+      "summary": "OpenAI's Hugging Face breach exposes AI's next safety challenge&nbsp;&nbsp;Axios"
+    },
+    {
       "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
       "source": "AP News",
@@ -115,67 +157,25 @@
       "summary": "AI models' breakout from human control brings a told-you-so moment for technology researchers&nbsp;&nbsp;AP News"
     },
     {
-      "title": "How are companies, governments responding to the OpenAI hack? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW96eUhrWEN1WEJMbW44MmZGOWZZZGlPMmZPaGJ4WWlVd0Rvakd3YkZXbHpZalZpclhJR0JnMjRkR2hMVHdaeGdQRk9FbjlpSDJ4dWhwN1BDaU5jVjdDenlKeFFHVU9zUENSbmt6SVA5SFNwSDBqVmQyWlpoR0w5Tkd2ajFGRnk0SkdTTXdsNnVyQ0FnendpRW1zSURyNlBnY1HSAacBQVVfeXFMUF9IS3J5MUhkcFdjT2Rnb0U3Q0QtVWY2MUc1RklGd3JQMmJlaUxJZ2RKNHJhdjVnRGg5Xzc2emdiVlBTeEF4cmJOa29maHJsdkJSWlBPWFcyNllZcEZ6N0tqaVpXNmFfZmJIWWEzelNtQWtpQ1B5YjhOdENUZERPUGZGak5oZEdMaHg3bGVnem95ZC11TzVDaWh3WjBTWl9RMDhEc29xaXM?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-23T13:06:25+00:00",
-      "summary": "How are companies, governments responding to the OpenAI hack?&nbsp;&nbsp;Al Jazeera"
+      "title": "What went wrong: How an OpenAI model went rogue - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zOFZwWUtGM0JsQVQ4LVVpVWtkemp3T3pieEQzbXlDdDVtVUNzVXZIX1NBRlFwWGtMS3pBdVRUQU5hZWQxY2NObl82aEUyMGdlZ0Y4Ml8ybzFTSFptSjEtTlRPVnVMLV9mWDJjQ2k3SV9SZEk0?oc=5",
+      "source": "CNN",
+      "published": "2026-07-23T20:52:39+00:00",
+      "summary": "What went wrong: How an OpenAI model went rogue&nbsp;&nbsp;CNN"
     },
     {
-      "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRtRzNDR2ZJTTBnZWtSdWNtdVdocVVSc1h4cXpXTEhnd0JDSmFFNy02LThsLW9UbHhNdGt3RnQtS0tHZ3ZfMzRsUW5Ucm9mOE5DRmZWb3habm1ueDh0cE13MnV1aVp3ZEFzRWctOEdOUWJsbzVlNm1vSEoycGJzckQ3ZTduVzJzcW85Y2x5ZGhzV3c?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-07-23T17:00:00+00:00",
-      "summary": "OpenAI makes ChatGPT Health available to all US users&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health - Fierce Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVYtYlNaYWlCZmgzem9oajJHN2xwN3Q1Y2NMMXZWRnhON29lUXZRZGFiTG9kSnhKWFpUVFIzNzJralh6YmhDQ3hJRERRSkR2eUF2V1BjamN4b3dmSDNjRmJSU19wN3AySmY1SzZJeEJRUVI1ZnVYRGZqSmVCVHMxc0Y5bGUwV2dpcU5QVlg3NzgtUXBqSFBmQTBveFNlVHBSeWtHaTJ0VWpQTnVtNWwxdU01RWlqbGV3MFRFMTlNN2FnaUY3QzZ2T29UOA?oc=5",
+      "source": "Fierce Healthcare",
+      "published": "2026-07-24T12:00:00+00:00",
+      "summary": "OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health&nbsp;&nbsp;Fierce Healthcare"
     },
     {
-      "title": "White House monitoring incident after OpenAI models escaped containment and hacked Hugging Face systems - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXByQWNwTGpCZU03R3dFRnRIWGRSRl8xYnF5SXhfS0NiQ2NMQVc1cWhkWWlsd1RlQTdTNlRzUW9CUHNGSVRKb1NSUHZUNGV3SWxrM0Q0QkNYVmNKOGZHV2d5WEpJVFpOeE5LeTJuZFRiUWJfcnNNZXIzd3dtVFhTT280RVdKT3hDLS1Oek8wQ24xNUdDamNLOG9hYzVTdTZReWNVSkR6ZnJDdW8tTmIxaEFxNG4zeEVWNklWNDNlS1pLd0JJeXlqMNIBzgFBVV95cUxNY0I4RlR5X3Fuc19oUVdQWGZoVlZ5dDQySXBob1ZDTFJkSlhpemFkdkVwVGxfV3BieFp2ekZ4NXJxNk9Ya2VoOEllZXpMeFlDS1h4Q1I3ZnVZVzZtOGppVWR2aHdUQnhQcUd5U2dLcWZjQmZPeGdDOEpOTncxemJiSXUwWmpvX1QyWFJXQTIwOVZEclEyTTQtMGp0X2stRElNUklLQ1h3dU1CTHVQbThHanl1YXVfZ0tRbk9ob1pJaFdzRWNJMElQdGNSajB0Zw?oc=5",
-      "source": "Fox Business",
-      "published": "2026-07-23T20:54:00+00:00",
-      "summary": "White House monitoring incident after OpenAI models escaped containment and hacked Hugging Face systems&nbsp;&nbsp;Fox Business"
-    },
-    {
-      "title": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hYdXZPeGNlYjFqV0tnSFVKcC1CaGsxT2UtdHhwZ3NvWlFacXd0YnZEVWVaeVZXWHNUbTlxc2xiaGk3RXF2NW1md3YyUWdKZl8zZ2hibzUydlJWQWZ2NGpkNUstbTNUczQ2Qk05bUcwMDBqSTBFNENacDJlOFpFQVk3SnlSVmhCMW44VHFEcUhjZ3lKOFRFZjY0amZyTEhHSVFHQ2FXbmU0Tm90TW5VTXlKODJMUzJvMEFXT0FFaVZTWXc?oc=5",
-      "source": "CBS News",
-      "published": "2026-07-23T18:48:52+00:00",
-      "summary": "OpenAI is bringing a massive AI data center to Georgia. Here's what residents should know.&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "AI labs have a trust problem, and the Hugging Face hack just proved it - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTV9vMGd3QmM0cWM5RnlaMGV1aW9ERThPSTVHRFVrejJBZWtBZjZlR2xtdy02WlkwZUQtbl9CRGo2MGs0aHBJV3NjZkV2UWY3bXI3NmZibFdZaWs5bUtwMndfSzlra0FHN3EzTlF4TEFDNFM0NEN0RExPWUlteElONlBaWnMwdWNsRWlGQkhPa3RTMS1KTlBkdy1IN3M5alk4N0Nn?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-23T18:29:00+00:00",
-      "summary": "AI labs have a trust problem, and the Hugging Face hack just proved it&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-21T20:10:21+00:00",
-      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "House Lawmakers Introduce Bipartisan AI ‘Kill Switch’ Bill Following OpenAI Cyber Incident - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY3VTbl94R3BqYnRsOU1CSTlnczhETzVhZ3ZFWHhwZEY5R0FMbHRBVS1DWHQ1NVZlczV5NUJtMS1kcnR0NjZqZXg2Vmxvc3phWW9JZlNFVGVabldLaTV5eWhMVTB6OGRzclhidnhoeThMZ1piRTdHWXR4NXFrdlhkXzI5Z29SdGk0MmJ6Y05jbzdfb2dwbEJOazBJQlZDVGhVdmYzTUxaSUZPd0dyajZnbmRjY1dJa0JJQ3UwV29TNDJfekE?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-23T15:48:00+00:00",
-      "summary": "House Lawmakers Introduce Bipartisan AI ‘Kill Switch’ Bill Following OpenAI Cyber Incident&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-20T17:19:41+00:00",
-      "summary": "Safety and alignment in an era of long-horizon models&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-21T17:18:30+00:00",
-      "summary": "Introducing the ChatGPT for small business program&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kaW5XdzVCRVpNdk5wNW4td2FuWXJheDVUekY0X3M3RlhjejBEU3lzYlRfNm5BMXhTeTdfaXlRQkl5Z0xCaHpJS3pyMk4wZ2dwanNCOU1qMXh2cU1waG5yaVBUT293VW1pQUxxeWFUdTM0VDlWZ3c?oc=5",
+      "source": "NPR",
+      "published": "2026-07-23T05:23:42+00:00",
+      "summary": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know&nbsp;&nbsp;NPR"
     }
   ]
 }
