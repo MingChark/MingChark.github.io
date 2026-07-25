@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-25T08:11:36.296458+00:00",
+  "generated": "2026-07-25T13:43:11.793545+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-24T17:06:31+00:00",
-      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
+      "title": "Can AMD break the CUDA Moat? AMD Advancing AI 2026 - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNnpvQ2VBR1Jnb0habnpHbGM3djRoMUZYRW1ad1VRQ2dPVjc0dEc3cWVLMGswbm9YR1g3Q3pWaGtnb3FsdWJQRlNnM2R0UHlLNk5nYU1tUDhaeDZCbUhETnlyalprcEJmTUs4NGhaSVRQQUc5TWNOb3p4Q3dsVkU2WXktV1hNUQ?oc=5",
+      "source": "SemiAnalysis",
+      "published": "2026-07-25T00:33:23+00:00",
+      "summary": "Can AMD break the CUDA Moat? AMD Advancing AI 2026&nbsp;&nbsp;SemiAnalysis"
     },
     {
       "title": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics - crn.com",
@@ -17,25 +17,25 @@
       "summary": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "Nvidia Locks $500B Memory Deal With SK Hynix in AI Arms Race - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUdVZGtua1BQelFQU3piYjFLVUdmSHZWVmRMUzdycGdCeXEtLVVaX1BwU21oWnNXaWx3N090OWEyUXFGQXpFWmdtQkFQcTVFaG1KS3ZXQVRqM2V1ZTZtMGZZSDRhemo3QnMzZXJGMkQzbm52Rmp5MWR0amRFWU5ITlBZUWF4a0hhR3F1aUV5ZmdEaDItLV9F?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-07-25T05:44:00+00:00",
-      "summary": "Nvidia Locks $500B Memory Deal With SK Hynix in AI Arms Race&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
-      "title": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct MI350P GPUs - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ19fQzAzeXl3MnJLTnk2b0FjS3N1TGRMemUzQlFRb2E3LWI4b0dxWXBQR05lTkctQ0V5UFh5Y3dvYndXb09hSlgyYlhEa1FzcGt2RXM4a0tHeFpvbFZwUnZUVFUwc3hpQ1NwMTRyZWRIek1FdFlCdkdzczBvYlNWYmVWYm1UQ1VoZFNzb1owU2tKTmNxTHNKU0ZnV1dxaElGRU5OLUk1ZWt2OHVSbXBhOGtkNUxDRFhPRHF4d1B3?oc=5",
-      "source": "HPCwire",
-      "published": "2026-07-24T19:35:19+00:00",
-      "summary": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct MI350P GPUs&nbsp;&nbsp;HPCwire"
-    },
-    {
       "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSU1XMWczZ3QwR3AwRG4yU3Qtek5OZ1g3bFBLSks4MzNFSG0zRGhDcTZpdjJ4UnpsTVF5S2F4MUJNRkJKZFpHbjEwUUI1Mms5UDg1TDFFQVlRRy1lUWtFTFhGSzR0OTZjUXRQMklpM3NYVnlYRUN4MTVVdnRTdkZVVmgydm9NZXBkcEwxOUNMdHY?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-07-22T22:10:44+00:00",
       "summary": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTNaYjJvUEJ4YzRzZWNuMkQwNG9OT0pSNXhuTE8wdGFtZHp4dGZQX2hDSEo4WjBKTGotdEhtZDZLcnN3TlJrNHg4a0gzb0prd0ZBUDU5VkxWOXBYemJiQVFCOUE0VzN5TEZrSnNQdF9BdWZMclZmQVZlR0JVTHR6U2szSTd2SThJaVVWT29XM3QtODZLZzEwTnpvUjcyanl6QWF4cmRoTE9qYWptVk95dGcxZTBuckNBYmc?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-25T12:25:44+00:00",
+      "summary": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals&nbsp;&nbsp;Tech Times"
+    },
+    {
+      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-24T17:06:31+00:00",
+      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
@@ -52,6 +52,20 @@
       "summary": "AMD says its newest AI server is in full production, will ship in months&nbsp;&nbsp;Reuters"
     },
     {
+      "title": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct MI350P GPUs - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ19fQzAzeXl3MnJLTnk2b0FjS3N1TGRMemUzQlFRb2E3LWI4b0dxWXBQR05lTkctQ0V5UFh5Y3dvYndXb09hSlgyYlhEa1FzcGt2RXM4a0tHeFpvbFZwUnZUVFUwc3hpQ1NwMTRyZWRIek1FdFlCdkdzczBvYlNWYmVWYm1UQ1VoZFNzb1owU2tKTmNxTHNKU0ZnV1dxaElGRU5OLUk1ZWt2OHVSbXBhOGtkNUxDRFhPRHF4d1B3?oc=5",
+      "source": "HPCwire",
+      "published": "2026-07-24T19:35:19+00:00",
+      "summary": "Liqid Unveils Massive Scale-Up AI Platform Powered by AMD Instinct MI350P GPUs&nbsp;&nbsp;HPCwire"
+    },
+    {
+      "title": "Nvidia Locks $500B Memory Deal With SK Hynix in AI Arms Race - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUdVZGtua1BQelFQU3piYjFLVUdmSHZWVmRMUzdycGdCeXEtLVVaX1BwU21oWnNXaWx3N090OWEyUXFGQXpFWmdtQkFQcTVFaG1KS3ZXQVRqM2V1ZTZtMGZZSDRhemo3QnMzZXJGMkQzbm52Rmp5MWR0amRFWU5ITlBZUWF4a0hhR3F1aUV5ZmdEaDItLV9F?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-07-25T05:44:00+00:00",
+      "summary": "Nvidia Locks $500B Memory Deal With SK Hynix in AI Arms Race&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
       "title": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUVZVeDJaMTI3VTJKT2JNTklDODg4Z281dGFjVU9tOFNlOUt5dFh2QjB1UlE2OVdENjg3cFlOWTVrN0FyYklFNndLSTIzdlNQazZ4ejZuUjBCZ3pVdG5pN2owbXRlc3BucjU3WVFtakF3Xzd3ZEE4al9BRHB2a0E3cHdTbFAxOWYxQnY1eTI3N1g1c0cyWVZWZGlIS1FOSDdoZHlTbkZaSndqNkNabmlyT2o5VmNGVFlLY2RHcVdOVUJxUE13ck1LUGZmWFFLYlNzQWtkS3h3eXZpUmpIdkFuOFFxcldQbkZtaXVRdi1ybkU0eGp1OEYzQ01WS25TblpMcGcxX3pIb0Njb1JtS1RjT3FsdWpNZ0drYkhvS3VZcDIxQmRPSXdZdkg5NA?oc=5",
       "source": "Tom's Hardware",
@@ -59,46 +73,18 @@
       "summary": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "AMD bundles chips, racks and partners into full-stack AI push - IT Europa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGVHLVBZQXRZbC1lUmUzTGlEWDJMZjFYdUphR0lSY1Y0Z0RwLXFSRlcyeWpJZUNldllSaFJhZFU2ZzVtVDllVTZWNjhzYTdWR3J2T3J5Mjl0SElJUy1qUjZrOXNFT1hoS0psZUVjNUo5dG1YSXdhdjdfNThNWVJWUXhXS2kwd05pTlZ6cENR?oc=5",
-      "source": "IT Europa",
-      "published": "2026-07-24T15:34:04+00:00",
-      "summary": "AMD bundles chips, racks and partners into full-stack AI push&nbsp;&nbsp;IT Europa"
-    },
-    {
-      "title": "AMD Entering AI Harvest Phase? Wall Street Says Buy, Targets $800 - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Bamp6UU1PS1pvdmZVa3dXRm9KX0xlODNlMTQzZldITmxqcFZkeDNaVXM2OC1xOERWTVAzeDMweDFQbjhsdWtEWW1RV0xQU0RoSGlrNmNINHMtYkJ2QlZOME5KTGp1MmZUOUc3ZE0tMWprN2xiX1E?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-07-25T02:56:00+00:00",
-      "summary": "AMD Entering AI Harvest Phase? Wall Street Says Buy, Targets $800&nbsp;&nbsp;finance.biggo.com"
-    },
-    {
-      "title": "AMD Stock Rises After Wall Street Unleashes Massive Price Target Hikes - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVpsN1ViMGdCbHBjMGVRQ0FVci1xN29uTnZ3ZGkxM1BFT0JNSVBGaVBoS2Q1aVN3VjdxUHdWUVB3M1NRX2VldXRzRkhZZ25XZnF6UlhMdkl4a19RWmIyS1JiUnBqVE9qa2MyeVRJOUEwdEtQSVRpLVFFV2d1UGhVbEo3Sk5wUDlLc3Q2X0xwSEVIeFRMNG5mZkExZFJVWk41NHJ4b194a1dYaV9abDY5REtuV2d5WDIycWZ0VVRJbmNMZVhRMm5XSWxn?oc=5",
-      "source": "TradingView",
-      "published": "2026-07-24T17:09:32+00:00",
-      "summary": "AMD Stock Rises After Wall Street Unleashes Massive Price Target Hikes&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckJURmRoSHVxV3FtaXpUdGk4UmtkSEYzUzlDbDZrdGxkc2o4c2dVbU5SQjZ0cTF5eFlVWWdPN3dhTTFZTlN0YTJMZlBhYzJRREJyS294aG9MLV94UjVLSGFfb242NFM2OXZWZUEwNGJGUm5kRGVxTTBjb2hiUXd3V3pNTkZKU1haZ3pTaG90UzI0NDA2QUcyYnVaRG9IYUNRTEhUc01SYXR0eDBFS3pVam9jLVBUV2ZpN2puWkl3LTI?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-23T15:14:30+00:00",
-      "summary": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "AMD in spotlight as bullish AI event praised by Wall Street (AMD:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWRDY3BZalFYVlZBeVR3MnZCS1NHUkFCcVlZV3pUTWhvYTNjeTQwSVdFLXF2MEdENHhxWFY1MTcwX2MxYUxIUGlLMUFjOWl0amd5VkVfemVIcWFaNktoazhOT05kTW1yUUtEWVk1bWlqVFdzb3ZldkxLQzZBUlFGR2otcUYzUWM1eUlJTk1NR21EbjlKT1ktV1psX0dkdw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-07-24T12:53:21+00:00",
-      "summary": "AMD in spotlight as bullish AI event praised by Wall Street (AMD:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
       "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fOS1MMUMyNE10M1ZaZTFQeHBMcFZYOGlPRGF2LW5YUDZHdXhmUmNOM3NmYVNYaGFkcEU5eHBfdU9rZHNPU19KdXI4LWFwY043YlBqSGFrWDNxbjZqZzBNTnVOT3AxQmVpTlJ6eEVtX2Z4NFN4ejVHSVUwQQ?oc=5",
       "source": "Gotrade",
       "published": "2026-07-23T21:57:00+00:00",
       "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
+    },
+    {
+      "title": "AMD bundles chips, racks and partners into full-stack AI push - IT Europa",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGVHLVBZQXRZbC1lUmUzTGlEWDJMZjFYdUphR0lSY1Y0Z0RwLXFSRlcyeWpJZUNldllSaFJhZFU2ZzVtVDllVTZWNjhzYTdWR3J2T3J5Mjl0SElJUy1qUjZrOXNFT1hoS0psZUVjNUo5dG1YSXdhdjdfNThNWVJWUXhXS2kwd05pTlZ6cENR?oc=5",
+      "source": "IT Europa",
+      "published": "2026-07-24T15:34:04+00:00",
+      "summary": "AMD bundles chips, racks and partners into full-stack AI push&nbsp;&nbsp;IT Europa"
     },
     {
       "title": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026] - tech-insider.org",
@@ -136,25 +122,25 @@
       "summary": "AMD Advancing AI 2026 Keynote Live Coverage&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1pRNzRPdkk3Vzk1ZllWZExBQU9lT0lQTzF5enM0MEtLdENhSjBPbEhjWWtYSm9nWEZMbUZzeV8zRUg3T0NMMVBwQjd3U05qUnZGWHNUamNRYTRyeWhpb0huOXVhVTRjNEM0VjNmdGJZUC1qQjBIWEJCWjlLNElIVEplOXA1MzNiSklkZWZFSEVrQVBiQXBTbFNKR2dzaEtRUGlFZXNMajA2bGhHbGpXREFR?oc=5",
-      "source": "HPCwire",
-      "published": "2026-07-24T14:36:59+00:00",
-      "summary": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads&nbsp;&nbsp;HPCwire"
-    },
-    {
-      "title": "AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTExpZ0xBX1hoZFRxa1pxRE0tZWkzMHpVOE1pd3ZWdldjR293dk5sakFwazgteENCcTUwZXF4Wkx1SElDV2l4UmVzRDFVNkhfQzBTVjBLSWVJWmtVMkdsdUFKVFhzbzVMLWpkZ0syRkh1RkxGeWpPMkw1RjNjdjY5N3Bsdm1VR3RtZFdNODRtZWYwZ3lUbFFsTFV5UzVtbHFhZE4tNXNDYmVlaXN3RzZnZlE1WW1aM1NoejJBSFB1dldBZ3I0aUJjOUVR?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-24T15:58:03+00:00",
-      "summary": "AMD Ryzen AI Embedded X100 Puts Strix Halo APU Into Robots With 128 GB Unified Memory&nbsp;&nbsp;Tech Times"
-    },
-    {
       "title": "AMD attacks the rack with Helios systems that rival Nvidia's - The Register",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxwbGtuVXdXTjZnYWVQeTJEQkd2ZzBaZ1Q0U3hUTlFYX2xWZEkwZFptWEtLaFo3SEI3T1EtOXMtTklCLVdGem4ybGh3NXBWWF9uU05fMUFBM0Mza2c3S2JqdnpDY3JhcFRrNnFnWnFrbVh0bEFsazdESVp2eWlxZUo1Vks2TW9HLWl6U0p4MUI0VkhHUjZTamJRVm5jMnJGeWRMRXVteFFPTDV0QXVlNUpQTHM?oc=5",
       "source": "The Register",
       "published": "2026-07-23T17:26:00+00:00",
       "summary": "AMD attacks the rack with Helios systems that rival Nvidia's&nbsp;&nbsp;The Register"
+    },
+    {
+      "title": "AMD Stock Rises After Wall Street Unleashes Massive Price Target Hikes - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVpsN1ViMGdCbHBjMGVRQ0FVci1xN29uTnZ3ZGkxM1BFT0JNSVBGaVBoS2Q1aVN3VjdxUHdWUVB3M1NRX2VldXRzRkhZZ25XZnF6UlhMdkl4a19RWmIyS1JiUnBqVE9qa2MyeVRJOUEwdEtQSVRpLVFFV2d1UGhVbEo3Sk5wUDlLc3Q2X0xwSEVIeFRMNG5mZkExZFJVWk41NHJ4b194a1dYaV9abDY5REtuV2d5WDIycWZ0VVRJbmNMZVhRMm5XSWxn?oc=5",
+      "source": "TradingView",
+      "published": "2026-07-24T17:09:32+00:00",
+      "summary": "AMD Stock Rises After Wall Street Unleashes Massive Price Target Hikes&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckJURmRoSHVxV3FtaXpUdGk4UmtkSEYzUzlDbDZrdGxkc2o4c2dVbU5SQjZ0cTF5eFlVWWdPN3dhTTFZTlN0YTJMZlBhYzJRREJyS294aG9MLV94UjVLSGFfb242NFM2OXZWZUEwNGJGUm5kRGVxTTBjb2hiUXd3V3pNTkZKU1haZ3pTaG90UzI0NDA2QUcyYnVaRG9IYUNRTEhUc01SYXR0eDBFS3pVam9jLVBUV2ZpN2puWkl3LTI?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-23T15:14:30+00:00",
+      "summary": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "AMD: The Full-Stack AI Opportunity (NASDAQ:AMD) - Seeking Alpha",
@@ -176,6 +162,20 @@
       "source": "Investing.com",
       "published": "2026-07-23T19:35:04+00:00",
       "summary": "AMD at Advancing AI 2026 keynote: a bigger bet on scale&nbsp;&nbsp;Investing.com"
+    },
+    {
+      "title": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1pRNzRPdkk3Vzk1ZllWZExBQU9lT0lQTzF5enM0MEtLdENhSjBPbEhjWWtYSm9nWEZMbUZzeV8zRUg3T0NMMVBwQjd3U05qUnZGWHNUamNRYTRyeWhpb0huOXVhVTRjNEM0VjNmdGJZUC1qQjBIWEJCWjlLNElIVEplOXA1MzNiSklkZWZFSEVrQVBiQXBTbFNKR2dzaEtRUGlFZXNMajA2bGhHbGpXREFR?oc=5",
+      "source": "HPCwire",
+      "published": "2026-07-24T14:36:59+00:00",
+      "summary": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads&nbsp;&nbsp;HPCwire"
+    },
+    {
+      "title": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUdIBY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUQ?oc=5",
+      "source": "Bitget",
+      "published": "2026-07-24T01:08:25+00:00",
+      "summary": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors&nbsp;&nbsp;Bitget"
     }
   ]
 }
