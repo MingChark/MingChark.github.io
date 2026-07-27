@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T14:44:36.584847+00:00",
+  "generated": "2026-07-27T19:40:29.392294+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,13 +17,6 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-22T06:27:02+00:00",
-      "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
       "source": "The Cloudflare Blog",
@@ -36,6 +29,13 @@
       "source": "Google Research",
       "published": "2026-06-30T07:00:00+00:00",
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+    },
+    {
+      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-22T06:27:02+00:00",
+      "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -52,18 +52,18 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
-      "source": "아시아경제",
-      "published": "2026-07-23T00:07:10+00:00",
-      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
-    },
-    {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
       "source": "IBM Research",
       "published": "2026-04-29T07:00:00+00:00",
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
+    },
+    {
+      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
+      "source": "아시아경제",
+      "published": "2026-07-23T00:07:10+00:00",
+      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
