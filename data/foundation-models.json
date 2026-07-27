@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T09:58:42.680406+00:00",
+  "generated": "2026-07-27T14:44:36.584847+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,18 +45,18 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
-      "source": "아시아경제",
-      "published": "2026-07-23T00:07:10+00:00",
-      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
+      "source": "아시아경제",
+      "published": "2026-07-23T00:07:10+00:00",
+      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -66,18 +66,18 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",

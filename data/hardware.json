@@ -1,12 +1,19 @@
 {
-  "generated": "2026-07-27T09:58:42.680406+00:00",
+  "generated": "2026-07-27T14:44:36.584847+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc1RfM21RNHRWWE94X3dwWWpmenpjVkp3N1U4QlA1NHJRT3BVekhxenBBbjV4bG05WHJzREJKSUJkZXNwRzdvUzhabWtZdG5qMEVuNU5JeWh1eFVKRUNwT1FiT2tOUkFpMV92M3pINnZmSmdRak92cHR1Tk1KQ0dQMkNiRnZDT3F4eVE?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "published": "2026-07-27T13:07:00+00:00",
+      "summary": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;Yahoo Finance Singapore"
+    },
     {
       "title": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance - KED Global",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xWGl5bWpqWkFXTDFQRDZyellHUWtYM2VDbTgtTUcyOU5ILVNwUmljSG5QSGJubTFVT2RvWXZkU3A1d0MxeTJIX25VODd1Ym50SlRSWmw1dm9tM2lFcFd2THFZUTBoYU45TnlWanc4dkxuM0ZPeVdEdGhKcw?oc=5",
       "source": "KED Global",
-      "published": "2026-07-27T06:51:39+00:00",
+      "published": "2026-07-27T12:51:39+00:00",
       "summary": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance&nbsp;&nbsp;KED Global"
     },
     {
@@ -31,13 +38,6 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhmVS1UUmdiOHJnOTlWWUdQZjdTRk11T0lFSEFMelBXVXNsZ1pYQ2JUMjlZazNmenc4OXRfdzVBcHFDazBJaE1DeS16aElhTllGSEFYc0h4Zy1TQUNvTDE1dHdpNC1tX0lOMHdYMHA2eEZFRlVSVlJodmdURGlLeWE5b2hZdw?oc=5",
-      "source": "IT Brief UK",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Vultr to offer AMD's MI455X chips for AI cloud push&nbsp;&nbsp;IT Brief UK"
-    },
-    {
       "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
       "source": "24/7 Wall St.",
@@ -45,11 +45,11 @@
       "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure - EE Times Asia",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm1RZzlYLWM2dmYwNjRVcEdyYS1kVENOaUxUT2FpNkhJZ3R0ZENnNzZoMkthS1NKTm9RbllKUmJWRGZqdFQ4aUdZVEZGNXp3MWNyLXdkSW5RSWYtcmhucjJhdmVhejBDWkxRU3I5TjhINWlRQ01HZ2VwY1hTRHgwazlsc3EzanVmTWFUUHdFT0RmenEyTXhGWkxIZktrVTU5dGc?oc=5",
-      "source": "EE Times Asia",
-      "published": "2026-07-27T02:41:05+00:00",
-      "summary": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure&nbsp;&nbsp;EE Times Asia"
+      "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhmVS1UUmdiOHJnOTlWWUdQZjdTRk11T0lFSEFMelBXVXNsZ1pYQ2JUMjlZazNmenc4OXRfdzVBcHFDazBJaE1DeS16aElhTllGSEFYc0h4Zy1TQUNvTDE1dHdpNC1tX0lOMHdYMHA2eEZFRlVSVlJodmdURGlLeWE5b2hZdw?oc=5",
+      "source": "IT Brief UK",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Vultr to offer AMD's MI455X chips for AI cloud push&nbsp;&nbsp;IT Brief UK"
     },
     {
       "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
@@ -57,13 +57,6 @@
       "source": "Gotrade",
       "published": "2026-07-23T21:57:00+00:00",
       "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
-    },
-    {
-      "title": "Nvidia Puts Its Own CPU to Work Designing Its Next Chips - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktoYm1wVU9vb21nNEVRMnhxd3dkOGhqcmNSanNKWWV5am9GUW45U0hjVUpaS2xsTFN2b0p1QXNJZThmQWZBdjZOSF8wUXZmWHI4QWV5NldqQWFnSUNiNGktLVVIaWxXcXJHc2xMRGxlQllfbEFrdVBKbXM1WExvNHg1dnM?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-07-27T01:22:01+00:00",
-      "summary": "Nvidia Puts Its Own CPU to Work Designing Its Next Chips&nbsp;&nbsp;Unite.AI"
     },
     {
       "title": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over - Startup Fortune",
@@ -80,6 +73,13 @@
       "summary": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips&nbsp;&nbsp;Tech Times"
     },
     {
+      "title": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure - EE Times Asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm1RZzlYLWM2dmYwNjRVcEdyYS1kVENOaUxUT2FpNkhJZ3R0ZENnNzZoMkthS1NKTm9RbllKUmJWRGZqdFQ4aUdZVEZGNXp3MWNyLXdkSW5RSWYtcmhucjJhdmVhejBDWkxRU3I5TjhINWlRQ01HZ2VwY1hTRHgwazlsc3EzanVmTWFUUHdFT0RmenEyTXhGWkxIZktrVTU5dGc?oc=5",
+      "source": "EE Times Asia",
+      "published": "2026-07-27T02:41:05+00:00",
+      "summary": "Advantech Launches AMD EPYC 9006-powered Servers for AI, Edge Infrastructure&nbsp;&nbsp;EE Times Asia"
+    },
+    {
       "title": "AMD brings Strix Halo to robots: Ryzen AI Embedded X100 combines up to 16 Zen 5 cores with 40 RDNA 3.5 CUs - igor´sLAB",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU1F1ZzBkT0FpRHBUNk12Z0hUcnJIcFNQMmlSTDFOMEFaclNYc0h3LU9MUXpNQVNDVnE3SS03QUxFanpUb2NIREItSFplc0I4ZzVDZjF2WmJnZ2VZUWJPcWRCNjlFb3lQZk1mREl1V2JZMnA1YUVOYzREOHQweDNsNDI2d0NUenpXZ3J1cE55T1BsMk5kbEZPNmZnajA1SEp2a3hjVk1n?oc=5",
       "source": "igor´sLAB",
@@ -87,11 +87,18 @@
       "summary": "AMD brings Strix Halo to robots: Ryzen AI Embedded X100 combines up to 16 Zen 5 cores with 40 RDNA 3.5 CUs&nbsp;&nbsp;igor´sLAB"
     },
     {
-      "title": "AMD attacks the rack with Helios systems that rival Nvidia's - The Register",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemxwbGtuVXdXTjZnYWVQeTJEQkd2ZzBaZ1Q0U3hUTlFYX2xWZEkwZFptWEtLaFo3SEI3T1EtOXMtTklCLVdGem4ybGh3NXBWWF9uU05fMUFBM0Mza2c3S2JqdnpDY3JhcFRrNnFnWnFrbVh0bEFsazdESVp2eWlxZUo1Vks2TW9HLWl6U0p4MUI0VkhHUjZTamJRVm5jMnJGeWRMRXVteFFPTDV0QXVlNUpQTHM?oc=5",
-      "source": "The Register",
-      "published": "2026-07-23T17:26:00+00:00",
-      "summary": "AMD attacks the rack with Helios systems that rival Nvidia's&nbsp;&nbsp;The Register"
+      "title": "Nvidia Puts Its Own CPU to Work Designing Its Next Chips - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWktoYm1wVU9vb21nNEVRMnhxd3dkOGhqcmNSanNKWWV5am9GUW45U0hjVUpaS2xsTFN2b0p1QXNJZThmQWZBdjZOSF8wUXZmWHI4QWV5NldqQWFnSUNiNGktLVVIaWxXcXJHc2xMRGxlQllfbEFrdVBKbXM1WExvNHg1dnM?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-07-27T01:22:01+00:00",
+      "summary": "Nvidia Puts Its Own CPU to Work Designing Its Next Chips&nbsp;&nbsp;Unite.AI"
+    },
+    {
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-20T13:00:01+00:00",
+      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
       "title": "AMD in spotlight as bullish AI event praised by Wall Street (AMD:NASDAQ) - Seeking Alpha",
@@ -115,13 +122,6 @@
       "summary": "Meta’s new AI chips will begin production in September&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1pRNzRPdkk3Vzk1ZllWZExBQU9lT0lQTzF5enM0MEtLdENhSjBPbEhjWWtYSm9nWEZMbUZzeV8zRUg3T0NMMVBwQjd3U05qUnZGWHNUamNRYTRyeWhpb0huOXVhVTRjNEM0VjNmdGJZUC1qQjBIWEJCWjlLNElIVEplOXA1MzNiSklkZWZFSEVrQVBiQXBTbFNKR2dzaEtRUGlFZXNMajA2bGhHbGpXREFR?oc=5",
-      "source": "HPCwire",
-      "published": "2026-07-24T14:36:59+00:00",
-      "summary": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads&nbsp;&nbsp;HPCwire"
-    },
-    {
       "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
       "source": "Memeburn",
@@ -143,11 +143,18 @@
       "summary": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-20T13:00:01+00:00",
-      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
+      "title": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1pRNzRPdkk3Vzk1ZllWZExBQU9lT0lQTzF5enM0MEtLdENhSjBPbEhjWWtYSm9nWEZMbUZzeV8zRUg3T0NMMVBwQjd3U05qUnZGWHNUamNRYTRyeWhpb0huOXVhVTRjNEM0VjNmdGJZUC1qQjBIWEJCWjlLNElIVEplOXA1MzNiSklkZWZFSEVrQVBiQXBTbFNKR2dzaEtRUGlFZXNMajA2bGhHbGpXREFR?oc=5",
+      "source": "HPCwire",
+      "published": "2026-07-24T14:36:59+00:00",
+      "summary": "AMD Positions EPYC 9006 Series for Agentic AI, Enterprise and HPC Workloads&nbsp;&nbsp;HPCwire"
+    },
+    {
+      "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
+      "source": "TechRepublic",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car&nbsp;&nbsp;TechRepublic"
     },
     {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
@@ -155,13 +162,6 @@
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Agentic AI Runs Where Enterprise Software Runs: Embedded - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNS2hZelhMVWhWMGh5aURGdFZzM3JnUVY0TTZaU3NySl9NMndFUW9EVXQ2SVp3VUc3V0E1QXNMNDBrRXNIMk42UVJXSnRuODkySko5T29hWmJFWmJHY090NERzY0g0emFSMFZNZlNxRlhxNkhKcjc4dGlGclpld0ZuQ0sxUnZ5cjlJLUhXV05MdjZLQ1pHN0dwelJSNU04cmd0VEdnYkprZ09tTGJ2UmNHcWZiZnFFVERsWHYxcEdLWWI4TGxtck1KUXR2aVo5OXFfVkQ3dkhZc3N2MjNDU2RLTnhTOUJncllfaWJMeHl1VWtRRV9iZlo0T0k2UksxY3FyVUI0dDIyV1lqSjVYMElCOW5ybk9iZVZQVG1fV1Y1UzNURHNDLVpaaWcybFZYMzVlR20w?oc=5",
-      "source": "GlobeNewswire",
-      "published": "2026-07-23T18:52:21+00:00",
-      "summary": "Agentic AI Runs Where Enterprise Software Runs: Embedded&nbsp;&nbsp;GlobeNewswire"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
