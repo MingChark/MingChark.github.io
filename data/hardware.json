@@ -1,7 +1,14 @@
 {
-  "generated": "2026-07-28T02:48:42.703040+00:00",
+  "generated": "2026-07-28T08:40:33.902981+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWURoMVZnNE83U252WEtFM2thVmJNY2EtQ0hiRGVaVDIwdVBsVlloMHRqZ1BPYmJRV010Q3lwUm1VWXo0VDZaYXo4MGxkV0l3a3d1bFExckpqRlJydXpPMzdFTVRVeFJpNnlDeGs3MUxlLVo0VVlHc0JCUTZHRmIzT3p3MGFBbUNRclFZQWJVS1FQb2xoMHI0WktHc05pRGtZY1JubDNjbFpJT1FhVEFBZ2tXdlE5R054Qzd0RXJPR3hJVUowQzU1eUt1MUFfQXlrc0N3N24tRVlTQm9Fbjl3Y2x3?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T12:32:23+00:00",
+      "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
     {
       "title": "AMD Highlights Solutions for Agentic AI at Conference - Futuriom",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmxQNjktbVdjU3BqcnNWUzY5bmV6T0E1TXdsak04Rm5jY2lzaWNvMUJOeC1TSF9Qd0hGXzZkMGNmdUk5bUhOcHZzSmNLZGFMRlNJMDNMb2QyVVJ5UW9leU12cm1uQ3VMVjlYVzUyTGFwY0M3azJsWUY2bTh6X1UteDhKdmtQMk1mRWFuRV9pazVjdFlaRWpFSUJmTGtVWjhGNlE?oc=5",
@@ -17,18 +24,11 @@
       "summary": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance - KED Global",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xWGl5bWpqWkFXTDFQRDZyellHUWtYM2VDbTgtTUcyOU5ILVNwUmljSG5QSGJubTFVT2RvWXZkU3A1d0MxeTJIX25VODd1Ym50SlRSWmw1dm9tM2lFcFd2THFZUTBoYU45TnlWanc4dkxuM0ZPeVdEdGhKcw?oc=5",
-      "source": "KED Global",
-      "published": "2026-07-27T12:51:39+00:00",
-      "summary": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance&nbsp;&nbsp;KED Global"
-    },
-    {
-      "title": "CPUs are finally having their AI moment - Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejRSeUstaUEzS0F0X2R6TWJjSXg5M2tCdTBQUXhLRUtUYnpockVXdUtCQmtHZUIxUkthRlZUODU3R2Z4Nld6YmstQzRvWFQ3VnplQXpTV2FlVmxwd0t6bUZBT2xrX3pmaWNCT1FKamJjRi0tVW1LRkVpanlQbTlWX0RId05rVTA2T05UZ2Zn?oc=5",
-      "source": "Techzine Global",
-      "published": "2026-07-27T09:00:00+00:00",
-      "summary": "CPUs are finally having their AI moment&nbsp;&nbsp;Techzine Global"
+      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
+      "source": "HP",
+      "published": "2026-07-23T19:51:55+00:00",
+      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
@@ -38,6 +38,20 @@
       "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
     },
     {
+      "title": "congatec Launches AMD Ryzen AI-Based COM-HPC Module - thelec.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1ZTJVRGduR0wyOF9OQkYyOXpGQlJwODFjYUpmeFNWNWlXblZwazl5Wnk5Qm15bEFQU0NpRG5TbUc3Mm5mWmVZWl9UNENvS3ZIS3UzVzFHSTNBYlVOZTQzV1hHN2ZyZmM?oc=5",
+      "source": "thelec.net",
+      "published": "2026-07-27T23:46:22+00:00",
+      "summary": "congatec Launches AMD Ryzen AI-Based COM-HPC Module&nbsp;&nbsp;thelec.net"
+    },
+    {
+      "title": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xWGl5bWpqWkFXTDFQRDZyellHUWtYM2VDbTgtTUcyOU5ILVNwUmljSG5QSGJubTFVT2RvWXZkU3A1d0MxeTJIX25VODd1Ym50SlRSWmw1dm9tM2lFcFd2THFZUTBoYU45TnlWanc4dkxuM0ZPeVdEdGhKcw?oc=5",
+      "source": "KED Global",
+      "published": "2026-07-27T12:51:39+00:00",
+      "summary": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance&nbsp;&nbsp;KED Global"
+    },
+    {
       "title": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - 01net",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPemlReWtqSVJUT0g0blc4VGU2UkVDalBFRTdNdnFjUFFtV0hpVUtaTngtMEtwLW1LSkxOMlYyV3NWc0ZkVF83ZWlCcFVORkE3Mjd6Tjl4Tk1Sek0wMlBLbHFJQ0J1azRTSXV6dWNlalUyU0pFUVhRZU92ZUZoN3U4WlViNjEwanVuay1XZVJZaGhkMmlKUHdHN3RTTDZna1RJZklVUmQ3TC14R0lXbERTaDNPMUtFQ1hBTTMzdDdyRF9Yc0gyVFppVXNReU5NaUJQU1RPSkd1S29XSXRmcnNKY19WcXU?oc=5",
       "source": "01net",
@@ -45,18 +59,18 @@
       "summary": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;01net"
     },
     {
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0NNNWtxRDVkelpHS0tMNXNGcW1hNHhJZXFtZWhVVWVrT1hYTi04S1d5MEtmYjkzUDEweFN2LXVtV0NvSkc4ZWFPOEJxYWdTYlBnNF9fU1o2aGpBR0prY25KaDd0VzBEVEdCZnBXMGF1ZU8xV1YxcDh3alNTZDV4VXM4OEZXOS1jQ1ZQZEVKSHVEQQ?oc=5",
-      "source": "HP",
-      "published": "2026-07-24T14:55:19+00:00",
-      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
-    },
-    {
       "title": "AMD Ryzen™ AI Embedded X100 Series: Consolidating Compute, Graphics and AI at the Edge - AMD",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVNDUkREb3Y0cjhYVjVYdmRhM1l2UTZUWFZSdUMyTlpnbnpBTWktM1NHaVQ5bllTLXdReDQxVTlWOF9ncHp6ektORlVDeG50NDhkV0s1Z0xxemw3YUtHQVd5NmFhTG5MUTBaTWdRcVMxY3BsZ1RiajZTWktCd29mRU1SaTM0NmVwbmJZSFdSZXlmX0hROTJHY3lR?oc=5",
       "source": "AMD",
       "published": "2026-07-23T14:13:00+00:00",
       "summary": "AMD Ryzen™ AI Embedded X100 Series: Consolidating Compute, Graphics and AI at the Edge&nbsp;&nbsp;AMD"
+    },
+    {
+      "title": "CPUs are finally having their AI moment - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejRSeUstaUEzS0F0X2R6TWJjSXg5M2tCdTBQUXhLRUtUYnpockVXdUtCQmtHZUIxUkthRlZUODU3R2Z4Nld6YmstQzRvWFQ3VnplQXpTV2FlVmxwd0t6bUZBT2xrX3pmaWNCT1FKamJjRi0tVW1LRkVpanlQbTlWX0RId05rVTA2T05UZ2Zn?oc=5",
+      "source": "Techzine Global",
+      "published": "2026-07-27T09:00:00+00:00",
+      "summary": "CPUs are finally having their AI moment&nbsp;&nbsp;Techzine Global"
     },
     {
       "title": "Could AMD Dethrone Nvidia? - The Globe and Mail",
@@ -94,32 +108,11 @@
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhmVS1UUmdiOHJnOTlWWUdQZjdTRk11T0lFSEFMelBXVXNsZ1pYQ2JUMjlZazNmenc4OXRfdzVBcHFDazBJaE1DeS16aElhTllGSEFYc0h4Zy1TQUNvTDE1dHdpNC1tX0lOMHdYMHA2eEZFRlVSVlJodmdURGlLeWE5b2hZdw?oc=5",
-      "source": "IT Brief UK",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Vultr to offer AMD's MI455X chips for AI cloud push&nbsp;&nbsp;IT Brief UK"
-    },
-    {
       "title": "Meta’s new AI chips will begin production in September - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1ppUUxrYmJLWVlKSk5hbmdIRTNFWXFRQklQMFQyWkJ6VVBqQVVvU0ZDaVlpcUdvWENHeWY3bUp6Q3A3VXhhaGlidEJVR0FEWTFxZlp1aWtjaTVSd3RfUzgxSEQxV1JRTWl4MEJDQnB3ZFFsYkRuekJrRDZZY19pa193SWxraVhGMnBrdHJ1c1N4UQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-07-09T07:00:00+00:00",
       "summary": "Meta’s new AI chips will begin production in September&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUdIBY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUQ?oc=5",
-      "source": "Bitget",
-      "published": "2026-07-24T01:08:25+00:00",
-      "summary": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors&nbsp;&nbsp;Bitget"
-    },
-    {
-      "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
-      "source": "Memeburn",
-      "published": "2026-07-26T02:53:01+00:00",
-      "summary": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War&nbsp;&nbsp;Memeburn"
     },
     {
       "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
@@ -143,6 +136,27 @@
       "summary": "Samsung and SK Hynix Lock In AI Chip Supply Through 2030 With $950B in US Deals&nbsp;&nbsp;Tech Times"
     },
     {
+      "title": "MangoBoost Software Boosts AMD AI Chip to 5x Faster Than Nvidia B300 - Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkVRZ3FQTWszbjFzbXBzZ19ybFVYQlAxc2FqQkRiWEZ2QVJYWXNOZGJzamdEMkxacjJyQ0lZWFdKaTNpajdDQXFCMzBFem1lQW9QN3VuSjd2bnM1UHhHWlUwUjlRTVRhX0h6R3hSWkU0M0tJdWpQY2xCS0pqOWU1bXRKTWg2bFgxS2hkeHBuQ0hjVk82OV9SUnd2eFJRUFk?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-07-28T01:07:47+00:00",
+      "summary": "MangoBoost Software Boosts AMD AI Chip to 5x Faster Than Nvidia B300&nbsp;&nbsp;Seoul Economic Daily"
+    },
+    {
+      "title": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors - Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUdIBY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUQ?oc=5",
+      "source": "Bitget",
+      "published": "2026-07-24T01:08:25+00:00",
+      "summary": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors&nbsp;&nbsp;Bitget"
+    },
+    {
+      "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
+      "source": "Memeburn",
+      "published": "2026-07-26T02:53:01+00:00",
+      "summary": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War&nbsp;&nbsp;Memeburn"
+    },
+    {
       "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
       "source": "TechRepublic",
@@ -157,25 +171,11 @@
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDB2Q1Q0UXFRMmg1Rk5tcGRsdWNXc2JlRFEzcGJIcndrRS0yb2JQRlBxYWNSUzZvUGJRV09nTnkxUjFQck84YnhOT252bF96OTMtd01iVHRJY1QwU2FuTDR1NzVHb3gzeE9LZHRaLUpERkNzQWpIa0Z6d3lUcDgxUnZhNER3SWY0U3Y5NVFWRWI4MXhx?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger.&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWZWaW1kZzkwUXg3aWh3QnN1a3M0XzBQZXBPTWVld0VlOXBILTZEdkZETVhZMDQ3RkZXTUs2Zk1oUzV5ZkUyMkZXeGJQczdoZWJHM3lFcFZzRlVVeWNmVnYwY2diX2VQVGswU2NoNGVnRzByNGtNV2ltUXBxWG1wQ1BIeGcyNjhuaGFsOERUSkxPVFh4QXVwYWtYUkctLXN0ZlRpTDFub3MxSm1ZVk51eW1XSGljRmZuRm9PNFlsU1Q5T2d3TFFTQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-16T07:00:00+00:00",
-      "summary": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It&nbsp;&nbsp;24/7 Wall St."
+      "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhmVS1UUmdiOHJnOTlWWUdQZjdTRk11T0lFSEFMelBXVXNsZ1pYQ2JUMjlZazNmenc4OXRfdzVBcHFDazBJaE1DeS16aElhTllGSEFYc0h4Zy1TQUNvTDE1dHdpNC1tX0lOMHdYMHA2eEZFRlVSVlJodmdURGlLeWE5b2hZdw?oc=5",
+      "source": "IT Brief UK",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Vultr to offer AMD's MI455X chips for AI cloud push&nbsp;&nbsp;IT Brief UK"
     }
   ]
 }
