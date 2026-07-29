@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T02:55:42.475541+00:00",
+  "generated": "2026-07-29T08:46:39.988365+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
-      "source": "Apple Machine Learning Research",
-      "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
       "title": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings - Seoul Economic Daily",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGp3bW1MNkUtdVJVUmhaa3FFRGFZYUtPbF83Q0dkc1NKUmRrUloxQjBMaE9KSEF5eEtpTFZpXy1pdkQ4OVczSklCallsTHRBalBYZ2J5NXNMN25GWjA4M0VzZ0NoX01vWEhKcUpVZTBkOFFBcGVhYzBsYW9IeWlPVHhndUNiTTZCUG93ZnoyLTFGVmhqLXVHTU9GTnhDNU0?oc=5",
       "source": "Seoul Economic Daily",
       "published": "2026-07-29T00:44:12+00:00",
       "summary": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings&nbsp;&nbsp;Seoul Economic Daily"
+    },
+    {
+      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2026-06-08T07:00:00+00:00",
+      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
       "title": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters - 디지털투데이",
@@ -94,25 +94,18 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-22T06:27:02+00:00",
-      "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
-      "source": "아시아경제",
-      "published": "2026-07-23T00:07:10+00:00",
-      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
-    },
-    {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
       "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
@@ -129,6 +122,13 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
+      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
+      "source": "아시아경제",
+      "published": "2026-07-23T00:07:10+00:00",
+      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
+    },
+    {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
@@ -136,11 +136,11 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM0?oc=5",
+      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB?oc=5",
       "source": "MarkTechPost",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+      "published": "2026-07-22T06:27:02+00:00",
+      "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -164,18 +164,18 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
+      "source": "TechRadar",
+      "published": "2026-03-29T07:00:00+00:00",
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
       "title": "Densing law of LLMs - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
       "source": "Nature",
       "published": "2025-11-06T08:00:00+00:00",
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     }
   ]
 }

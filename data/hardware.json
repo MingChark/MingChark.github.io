@@ -1,20 +1,20 @@
 {
-  "generated": "2026-07-29T02:55:42.475541+00:00",
+  "generated": "2026-07-29T08:46:39.988365+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "AMD vs. Nvidia: What AMD’s Major $5 Billion AI-Chip Deal With Anthropic Means for Investors - MarketWise",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUZwVmllOGVJNHliYkwzUTlrT0VsTy02bUNZVzllbFhvMXV0cVJQaTh3ZjJJWEV3TjZwVHVNYzJoNXI3UU9HWHQxRjlqZmFBMXdhejNhYTZ3WlluY3FyOXdHYVQzYmZQR0lVTXRaLU5xTjZodHIxRzBlODFhXzhFczFLenljdw?oc=5",
-      "source": "MarketWise",
-      "published": "2026-07-28T17:44:52+00:00",
-      "summary": "AMD vs. Nvidia: What AMD’s Major $5 Billion AI-Chip Deal With Anthropic Means for Investors&nbsp;&nbsp;MarketWise"
-    },
     {
       "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWURoMVZnNE83U252WEtFM2thVmJNY2EtQ0hiRGVaVDIwdVBsVlloMHRqZ1BPYmJRV010Q3lwUm1VWXo0VDZaYXo4MGxkV0l3a3d1bFExckpqRlJydXpPMzdFTVRVeFJpNnlDeGs3MUxlLVo0VVlHc0JCUTZHRmIzT3p3MGFBbUNRclFZQWJVS1FQb2xoMHI0WktHc05pRGtZY1JubDNjbFpJT1FhVEFBZ2tXdlE5R054Qzd0RXJPR3hJVUowQzU1eUt1MUFfQXlrc0N3N24tRVlTQm9Fbjl3Y2x3?oc=5",
       "source": "KBRA",
       "published": "2026-07-27T12:32:23+00:00",
       "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
+    {
+      "title": "AMD vs. Nvidia: What AMD’s Major $5 Billion AI-Chip Deal With Anthropic Means for Investors - MarketWise",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUZwVmllOGVJNHliYkwzUTlrT0VsTy02bUNZVzllbFhvMXV0cVJQaTh3ZjJJWEV3TjZwVHVNYzJoNXI3UU9HWHQxRjlqZmFBMXdhejNhYTZ3WlluY3FyOXdHYVQzYmZQR0lVTXRaLU5xTjZodHIxRzBlODFhXzhFczFLenljdw?oc=5",
+      "source": "MarketWise",
+      "published": "2026-07-28T17:44:52+00:00",
+      "summary": "AMD vs. Nvidia: What AMD’s Major $5 Billion AI-Chip Deal With Anthropic Means for Investors&nbsp;&nbsp;MarketWise"
     },
     {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
@@ -29,13 +29,6 @@
       "source": "Tech Times",
       "published": "2026-07-28T11:03:12+00:00",
       "summary": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "AMD Highlights Solutions for Agentic AI at Conference - Futuriom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmxQNjktbVdjU3BqcnNWUzY5bmV6T0E1TXdsak04Rm5jY2lzaWNvMUJOeC1TSF9Qd0hGXzZkMGNmdUk5bUhOcHZzSmNLZGFMRlNJMDNMb2QyVVJ5UW9leU12cm1uQ3VMVjlYVzUyTGFwY0M3azJsWUY2bTh6X1UteDhKdmtQMk1mRWFuRV9pazVjdFlaRWpFSUJmTGtVWjhGNlE?oc=5",
-      "source": "Futuriom",
-      "published": "2026-07-27T15:36:13+00:00",
-      "summary": "AMD Highlights Solutions for Agentic AI at Conference&nbsp;&nbsp;Futuriom"
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
@@ -59,6 +52,13 @@
       "summary": "CPUs are finally having their AI moment&nbsp;&nbsp;Techzine Global"
     },
     {
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-20T07:00:00+00:00",
+      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
+    },
+    {
       "title": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUU9CVHpkV1BIdk02TUd1eDZJXzRpZ2l6U1dfR2lmdTJWT19GR3lqZnJPTU9oS21wQm5vaC1QWHZqY2FUZjNLODVZVUh1ZkRXRHpCdUJRamVwdHRkQnBhdzlPWkhOaDhlYXJQYmRPN09IR3RTRGwybDFsRE1oSmg1Q3pHTDBYdU1sXzZkUVZPR2hSZWpVc1RNMk1qNzhwQ0l1OXZSQzMwVWlxOW5JaDUwSmNrdDNjUzB5UnpSeTVFQQ?oc=5",
       "source": "Startup Fortune",
@@ -73,20 +73,6 @@
       "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
     },
     {
-      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-20T07:00:00+00:00",
-      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-07-28T12:56:18+00:00",
-      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
       "title": "Meta’s new AI chips will begin production in September - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1ppUUxrYmJLWVlKSk5hbmdIRTNFWXFRQklQMFQyWkJ6VVBqQVVvU0ZDaVlpcUdvWENHeWY3bUp6Q3A3VXhhaGlidEJVR0FEWTFxZlp1aWtjaTVSd3RfUzgxSEQxV1JRTWl4MEJDQnB3ZFFsYkRuekJrRDZZY19pa193SWxraVhGMnBrdHJ1c1N4UQ?oc=5",
       "source": "TechCrunch",
@@ -99,6 +85,13 @@
       "source": "01net",
       "published": "2026-07-27T16:07:00+00:00",
       "summary": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;01net"
+    },
+    {
+      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-07-28T12:56:18+00:00",
+      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "title": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors - Bitget",
@@ -122,18 +115,18 @@
       "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckJURmRoSHVxV3FtaXpUdGk4UmtkSEYzUzlDbDZrdGxkc2o4c2dVbU5SQjZ0cTF5eFlVWWdPN3dhTTFZTlN0YTJMZlBhYzJRREJyS294aG9MLV94UjVLSGFfb242NFM2OXZWZUEwNGJGUm5kRGVxTTBjb2hiUXd3V3pNTkZKU1haZ3pTaG90UzI0NDA2QUcyYnVaRG9IYUNRTEhUc01SYXR0eDBFS3pVam9jLVBUV2ZpN2puWkl3LTI?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-23T15:14:30+00:00",
-      "summary": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips&nbsp;&nbsp;Tech Times"
-    },
-    {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckJURmRoSHVxV3FtaXpUdGk4UmtkSEYzUzlDbDZrdGxkc2o4c2dVbU5SQjZ0cTF5eFlVWWdPN3dhTTFZTlN0YTJMZlBhYzJRREJyS294aG9MLV94UjVLSGFfb242NFM2OXZWZUEwNGJGUm5kRGVxTTBjb2hiUXd3V3pNTkZKU1haZ3pTaG90UzI0NDA2QUcyYnVaRG9IYUNRTEhUc01SYXR0eDBFS3pVam9jLVBUV2ZpN2puWkl3LTI?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-23T15:14:30+00:00",
+      "summary": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
@@ -150,18 +143,18 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
-      "source": "TechRepublic",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car&nbsp;&nbsp;TechRepublic"
-    },
-    {
       "title": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWZWaW1kZzkwUXg3aWh3QnN1a3M0XzBQZXBPTWVld0VlOXBILTZEdkZETVhZMDQ3RkZXTUs2Zk1oUzV5ZkUyMkZXeGJQczdoZWJHM3lFcFZzRlVVeWNmVnYwY2diX2VQVGswU2NoNGVnRzByNGtNV2ltUXBxWG1wQ1BIeGcyNjhuaGFsOERUSkxPVFh4QXVwYWtYUkctLXN0ZlRpTDFub3MxSm1ZVk51eW1XSGljRmZuRm9PNFlsU1Q5T2d3TFFTQQ?oc=5",
       "source": "24/7 Wall St.",
       "published": "2026-07-16T07:00:00+00:00",
       "summary": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
+      "source": "TechRepublic",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car&nbsp;&nbsp;TechRepublic"
     },
     {
       "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
@@ -176,6 +169,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Nokia and Ericsson chart opposite courses on AI in the RAN - Communications Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSC1QdjU5NnRjTERXaHhLbll1eGZfRHRYNG9sUHNZbW5MTTZBWk5ZbEszeFhGaFJXejJLWERjNTZ2UXZxblFORmtwRzBPR1BkVC1yMXlVcFJRNXNBLUxQQUJIVF9NdjNxMkxOSE5aREw0dXd1azZOcHJzTy1KemtGQS1XLUt4RVZubVpVbHJaUnVfUXZmMENPUmpwWndiUQ?oc=5",
+      "source": "Communications Today",
+      "published": "2026-07-29T02:36:18+00:00",
+      "summary": "Nokia and Ericsson chart opposite courses on AI in the RAN&nbsp;&nbsp;Communications Today"
     }
   ]
 }
