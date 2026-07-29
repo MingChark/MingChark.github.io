@@ -1,20 +1,13 @@
 {
-  "generated": "2026-07-29T08:46:39.988365+00:00",
+  "generated": "2026-07-29T14:19:34.945050+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
       "source": "Cisco Blogs",
-      "published": "2026-07-21T12:58:20+00:00",
+      "published": "2026-07-21T07:00:00+00:00",
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
-    },
-    {
-      "title": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings - Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGp3bW1MNkUtdVJVUmhaa3FFRGFZYUtPbF83Q0dkc1NKUmRrUloxQjBMaE9KSEF5eEtpTFZpXy1pdkQ4OVczSklCallsTHRBalBYZ2J5NXNMN25GWjA4M0VzZ0NoX01vWEhKcUpVZTBkOFFBcGVhYzBsYW9IeWlPVHhndUNiTTZCUG93ZnoyLTFGVmhqLXVHTU9GTnhDNU0?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-07-29T00:44:12+00:00",
-      "summary": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings&nbsp;&nbsp;Seoul Economic Daily"
     },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
@@ -24,11 +17,11 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2g0NnJqM2FnR1A5TWhadWJvb0RNN1h4ZXJyMVFSOFVJWUVpOVNMbTBuMlVReDhpenlfcnlVYnVmdVhoLU1NdWJGc2F2Mmg4RmsxN20tRVViSGxaYWtZc19PTE11NjRYUFlKcGVCbE5lRzVIRTFRdFV5TXloOXlZdjVNZ1h4ckVvNzhGZWhwOW1LM3lUeng0R3dNQ3cxemhiR1FnSXNUOE1iVkw5dU1maGVOSzdmZldJNXE4Nw?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-07-29T00:18:20+00:00",
-      "summary": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters&nbsp;&nbsp;디지털투데이"
+      "title": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings - Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGp3bW1MNkUtdVJVUmhaa3FFRGFZYUtPbF83Q0dkc1NKUmRrUloxQjBMaE9KSEF5eEtpTFZpXy1pdkQ4OVczSklCallsTHRBalBYZ2J5NXNMN25GWjA4M0VzZ0NoX01vWEhKcUpVZTBkOFFBcGVhYzBsYW9IeWlPVHhndUNiTTZCUG93ZnoyLTFGVmhqLXVHTU9GTnhDNU0?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-07-29T00:44:12+00:00",
+      "summary": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings&nbsp;&nbsp;Seoul Economic Daily"
     },
     {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
@@ -43,6 +36,13 @@
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2g0NnJqM2FnR1A5TWhadWJvb0RNN1h4ZXJyMVFSOFVJWUVpOVNMbTBuMlVReDhpenlfcnlVYnVmdVhoLU1NdWJGc2F2Mmg4RmsxN20tRVViSGxaYWtZc19PTE11NjRYUFlKcGVCbE5lRzVIRTFRdFV5TXloOXlZdjVNZ1h4ckVvNzhGZWhwOW1LM3lUeng0R3dNQ3cxemhiR1FnSXNUOE1iVkw5dU1maGVOSzdmZldJNXE4Nw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-07-29T00:18:20+00:00",
+      "summary": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters&nbsp;&nbsp;디지털투데이"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -122,11 +122,11 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
-      "source": "아시아경제",
-      "published": "2026-07-23T00:07:10+00:00",
-      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
+      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
+      "source": "EurekAlert!",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -143,11 +143,11 @@
       "summary": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert!",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
+      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
+      "source": "아시아경제",
+      "published": "2026-07-23T00:07:10+00:00",
+      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
     },
     {
       "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",

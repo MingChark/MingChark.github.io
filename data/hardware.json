@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T08:46:39.988365+00:00",
+  "generated": "2026-07-29T14:19:34.945050+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,20 +24,6 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckpaMWFqVlNJQ1BXbTJLSU92bjlQc01ySlZrRTNNa0kzLVp0MFZEZXZORTVjUUd5S2FwS3R0QlJHVFVUcWpKMEFpSE8xZVFYYVI1X1NMQWF5MEJBUndvLWpLOEl3SHdURlJXeDVnM245SW54ZHhsRnBJWGN0enRXZ3JxTHhuMEVPSnRCdDIyS0ZxS0gwMHNCQjZLclhNeVNXeUVGdGZlTXluajVkVFotSzFsT204cVlzNDZpXzZCdzkta2wwaVBCR2ZZcWE?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-28T11:03:12+00:00",
-      "summary": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint&nbsp;&nbsp;Tech Times"
-    },
-    {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-07-22T22:16:59+00:00",
-      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
       "title": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWxPOGowZG9NQVFoemk5cVRFcGFXd3p1M0xtX3JjeVd2U0xEMVJZaU1DTzRqSzFTU25GSFVSOVNCd1hWc1FvY3puVmQxY1FraXA5ZlZmWlllM1JQSXNWV3cxM3hpeXdJUl80dVpMMTJvbUxLLVJWNTBtc0hMNXNaQkxTLWNIajUxcF9kVUZCZEF2VFpWWVV1eWN1SzF1ejNubjRtODNzVWM3cXBFems4eGlEMWxiTThRVVE?oc=5",
       "source": "24/7 Wall St.",
@@ -52,18 +38,32 @@
       "summary": "CPUs are finally having their AI moment&nbsp;&nbsp;Techzine Global"
     },
     {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-07-22T22:16:59+00:00",
+      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "Why Everyone Is Talking About the NVIDIA B300 GPU - Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMS1GOE43aDBHamFxNWdaVmxPeWtwYThEVkQzNjY3Q2g3b3dDTVFHRzdhZ2pWN0hMRXBGeGRncnc1N2w4NG0wUXU4cnh0aW5vZ045Q3dtWU4yTHpjQkJ6UE5KUEttd21FUndCWTZwdzB5N25zNDltRG5xWUlXN3R2dmxoRUJzaWZhMGpVUGhOVQ?oc=5",
+      "source": "Nasscom",
+      "published": "2026-07-29T04:28:47+00:00",
+      "summary": "Why Everyone Is Talking About the NVIDIA B300 GPU&nbsp;&nbsp;Nasscom"
+    },
+    {
+      "title": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckpaMWFqVlNJQ1BXbTJLSU92bjlQc01ySlZrRTNNa0kzLVp0MFZEZXZORTVjUUd5S2FwS3R0QlJHVFVUcWpKMEFpSE8xZVFYYVI1X1NMQWF5MEJBUndvLWpLOEl3SHdURlJXeDVnM245SW54ZHhsRnBJWGN0enRXZ3JxTHhuMEVPSnRCdDIyS0ZxS0gwMHNCQjZLclhNeVNXeUVGdGZlTXluajVkVFotSzFsT204cVlzNDZpXzZCdzkta2wwaVBCR2ZZcWE?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-28T11:03:12+00:00",
+      "summary": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint&nbsp;&nbsp;Tech Times"
+    },
+    {
       "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
       "source": "CNBC",
       "published": "2026-07-20T07:00:00+00:00",
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUU9CVHpkV1BIdk02TUd1eDZJXzRpZ2l6U1dfR2lmdTJWT19GR3lqZnJPTU9oS21wQm5vaC1QWHZqY2FUZjNLODVZVUh1ZkRXRHpCdUJRamVwdHRkQnBhdzlPWkhOaDhlYXJQYmRPN09IR3RTRGwybDFsRE1oSmg1Q3pHTDBYdU1sXzZkUVZPR2hSZWpVc1RNMk1qNzhwQ0l1OXZSQzMwVWlxOW5JaDUwSmNrdDNjUzB5UnpSeTVFQQ?oc=5",
-      "source": "Startup Fortune",
-      "published": "2026-07-26T06:50:27+00:00",
-      "summary": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over&nbsp;&nbsp;Startup Fortune"
     },
     {
       "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
@@ -87,25 +87,11 @@
       "summary": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;01net"
     },
     {
-      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-07-28T12:56:18+00:00",
-      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
       "title": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors - Bitget",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUdIBY0FVX3lxTE9wc1J2NkdWMnZqcm5CTG9aYzEzWU9JZHF1XzRmR2NfLVdVQUZmNTdVWjhmdGNpZzVJN3ItU2pPR1phM050UXQ5LU1xNVREVVE1VTV6U0ZNdTJzdFJFTFdTcG5iUQ?oc=5",
       "source": "Bitget",
       "published": "2026-07-24T01:08:25+00:00",
       "summary": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors&nbsp;&nbsp;Bitget"
-    },
-    {
-      "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
-      "source": "Memeburn",
-      "published": "2026-07-26T02:53:01+00:00",
-      "summary": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War&nbsp;&nbsp;Memeburn"
     },
     {
       "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
@@ -120,6 +106,13 @@
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "What Makes NVIDIA B300 Different from Previous Generations? - Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeERHcF9rcXRwa1dvdmIyWkdGMXFvclgyWmY5TjA3MHVLSnYwUUZabnMxMXh4ZlZTV2pMYThfWllFbWpfQ083MmQ5RUcyUmU2NzBkbW9JNXR6ZFdIcTRZTEZWcXZlbkZIaVB5Z1RkbTNmOFZHX1p5dUYtOVpsS3paZWpOZ0JHSHp4eXVTUEdsMEZyT3BxaEhWbGZqSjVaQQ?oc=5",
+      "source": "Nasscom",
+      "published": "2026-07-29T04:28:47+00:00",
+      "summary": "What Makes NVIDIA B300 Different from Previous Generations?&nbsp;&nbsp;Nasscom"
     },
     {
       "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
@@ -171,11 +164,18 @@
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Nokia and Ericsson chart opposite courses on AI in the RAN - Communications Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSC1QdjU5NnRjTERXaHhLbll1eGZfRHRYNG9sUHNZbW5MTTZBWk5ZbEszeFhGaFJXejJLWERjNTZ2UXZxblFORmtwRzBPR1BkVC1yMXlVcFJRNXNBLUxQQUJIVF9NdjNxMkxOSE5aREw0dXd1azZOcHJzTy1KemtGQS1XLUt4RVZubVpVbHJaUnVfUXZmMENPUmpwWndiUQ?oc=5",
-      "source": "Communications Today",
-      "published": "2026-07-29T02:36:18+00:00",
-      "summary": "Nokia and Ericsson chart opposite courses on AI in the RAN&nbsp;&nbsp;Communications Today"
+      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-07-28T12:56:18+00:00",
+      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
