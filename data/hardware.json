@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:37:58.360941+00:00",
+  "generated": "2026-07-29T02:55:42.475541+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,13 +17,6 @@
       "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
-      "title": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckpaMWFqVlNJQ1BXbTJLSU92bjlQc01ySlZrRTNNa0kzLVp0MFZEZXZORTVjUUd5S2FwS3R0QlJHVFVUcWpKMEFpSE8xZVFYYVI1X1NMQWF5MEJBUndvLWpLOEl3SHdURlJXeDVnM245SW54ZHhsRnBJWGN0enRXZ3JxTHhuMEVPSnRCdDIyS0ZxS0gwMHNCQjZLclhNeVNXeUVGdGZlTXluajVkVFotSzFsT204cVlzNDZpXzZCdzkta2wwaVBCR2ZZcWE?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-28T11:03:12+00:00",
-      "summary": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint&nbsp;&nbsp;Tech Times"
-    },
-    {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
       "source": "HP",
@@ -31,11 +24,11 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-07-22T22:16:59+00:00",
-      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
+      "title": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckpaMWFqVlNJQ1BXbTJLSU92bjlQc01ySlZrRTNNa0kzLVp0MFZEZXZORTVjUUd5S2FwS3R0QlJHVFVUcWpKMEFpSE8xZVFYYVI1X1NMQWF5MEJBUndvLWpLOEl3SHdURlJXeDVnM245SW54ZHhsRnBJWGN0enRXZ3JxTHhuMEVPSnRCdDIyS0ZxS0gwMHNCQjZLclhNeVNXeUVGdGZlTXluajVkVFotSzFsT204cVlzNDZpXzZCdzkta2wwaVBCR2ZZcWE?oc=5",
+      "source": "Tech Times",
+      "published": "2026-07-28T11:03:12+00:00",
+      "summary": "AI Supply Crisis Moves Upstream: Advanced Packaging Becomes the Binding Constraint&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "AMD Highlights Solutions for Agentic AI at Conference - Futuriom",
@@ -45,18 +38,18 @@
       "summary": "AMD Highlights Solutions for Agentic AI at Conference&nbsp;&nbsp;Futuriom"
     },
     {
-      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-24T17:06:31+00:00",
-      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-07-22T22:16:59+00:00",
+      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-07-28T12:56:18+00:00",
-      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
+      "title": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWxPOGowZG9NQVFoemk5cVRFcGFXd3p1M0xtX3JjeVd2U0xEMVJZaU1DTzRqSzFTU25GSFVSOVNCd1hWc1FvY3puVmQxY1FraXA5ZlZmWlllM1JQSXNWV3cxM3hpeXdJUl80dVpMMTJvbUxLLVJWNTBtc0hMNXNaQkxTLWNIajUxcF9kVUZCZEF2VFpWWVV1eWN1SzF1ejNubjRtODNzVWM3cXBFems4eGlEMWxiTThRVVE?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-27T15:50:29+00:00",
+      "summary": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "CPUs are finally having their AI moment - Techzine Global",
@@ -66,13 +59,6 @@
       "summary": "CPUs are finally having their AI moment&nbsp;&nbsp;Techzine Global"
     },
     {
-      "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fOS1MMUMyNE10M1ZaZTFQeHBMcFZYOGlPRGF2LW5YUDZHdXhmUmNOM3NmYVNYaGFkcEU5eHBfdU9rZHNPU19KdXI4LWFwY043YlBqSGFrWDNxbjZqZzBNTnVOT3AxQmVpTlJ6eEVtX2Z4NFN4ejVHSVUwQQ?oc=5",
-      "source": "Gotrade",
-      "published": "2026-07-23T21:57:00+00:00",
-      "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
-    },
-    {
       "title": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUU9CVHpkV1BIdk02TUd1eDZJXzRpZ2l6U1dfR2lmdTJWT19GR3lqZnJPTU9oS21wQm5vaC1QWHZqY2FUZjNLODVZVUh1ZkRXRHpCdUJRamVwdHRkQnBhdzlPWkhOaDhlYXJQYmRPN09IR3RTRGwybDFsRE1oSmg1Q3pHTDBYdU1sXzZkUVZPR2hSZWpVc1RNMk1qNzhwQ0l1OXZSQzMwVWlxOW5JaDUwSmNrdDNjUzB5UnpSeTVFQQ?oc=5",
       "source": "Startup Fortune",
@@ -80,11 +66,25 @@
       "summary": "AMD delivered better stock returns than Nvidia in H1 2026 but the AI chip war is far from over&nbsp;&nbsp;Startup Fortune"
     },
     {
+      "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fOS1MMUMyNE10M1ZaZTFQeHBMcFZYOGlPRGF2LW5YUDZHdXhmUmNOM3NmYVNYaGFkcEU5eHBfdU9rZHNPU19KdXI4LWFwY043YlBqSGFrWDNxbjZqZzBNTnVOT3AxQmVpTlJ6eEVtX2Z4NFN4ejVHSVUwQQ?oc=5",
+      "source": "Gotrade",
+      "published": "2026-07-23T21:57:00+00:00",
+      "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
+    },
+    {
       "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
       "source": "CNBC",
       "published": "2026-07-20T07:00:00+00:00",
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Park Place Technologies Expands Global Services for AI-Accelerated Servers - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXdyYmFWN05pcUpNa2FfdHQ2di1UMlROUW1QOWdNU0lTUzdSMEtodXJZYUZqRFRVYnJkel9fMWstdjRPMnYyZjU3bm1iOXF0cmpxTXduNmlOLUlxM1Q0V09zTWhXcHNSQXhJT0ZIRkp0eUdEZFJRRGlQZ2FDZzljRHdISWVLWEFMZy1ZRnAzR3JUWTF2VkVVdDVYT3dURTJrVldQYXFReVlSelBTc0hiNFQ1MWd3TmFxek1xSDRhZmQwbERUS3JwRkNfY2FYOFVCRzBrSWNRNUYtcmRwTDNaLUVIU1RCQkFRWi1mS3E1N2JJUQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-07-28T12:56:18+00:00",
+      "summary": "Park Place Technologies Expands Global Services for AI-Accelerated Servers&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "title": "Meta’s new AI chips will begin production in September - TechCrunch",
@@ -108,11 +108,18 @@
       "summary": "Challenging Nvidia (NVDA.US)! AMD (AMD.US) launches new generation AI chips and server products, claims performance surpasses competitors&nbsp;&nbsp;Bitget"
     },
     {
-      "title": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWxPOGowZG9NQVFoemk5cVRFcGFXd3p1M0xtX3JjeVd2U0xEMVJZaU1DTzRqSzFTU25GSFVSOVNCd1hWc1FvY3puVmQxY1FraXA5ZlZmWlllM1JQSXNWV3cxM3hpeXdJUl80dVpMMTJvbUxLLVJWNTBtc0hMNXNaQkxTLWNIajUxcF9kVUZCZEF2VFpWWVV1eWN1SzF1ejNubjRtODNzVWM3cXBFems4eGlEMWxiTThRVVE?oc=5",
+      "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
+      "source": "Memeburn",
+      "published": "2026-07-26T02:53:01+00:00",
+      "summary": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War&nbsp;&nbsp;Memeburn"
+    },
+    {
+      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
       "source": "24/7 Wall St.",
-      "published": "2026-07-27T15:50:29+00:00",
-      "summary": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years&nbsp;&nbsp;24/7 Wall St."
+      "published": "2026-07-24T17:06:31+00:00",
+      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "AMD Bets $5 Billion on Anthropic to Fix the One Thing Holding Back Its AI Chips - Tech Times",
@@ -129,32 +136,11 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Could AMD Dethrone Nvidia? - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWVkSk9SckVZVFRrN0E1SVN3SXhvWmg0blZUQUpaY1lnMUljbGdHOXd0R2JEa0FIT3NHR3VQNHBfWmZrUWRQbXg2Mm1BbVhINDE1T191VFk4aGk3Z0NEVGZkTE9ULWFaNi01WG5rYnhCZXA5QnNXWFJ5RXFDOUtkUW16Wi1jUVo3cGg1RXIzN2szczdQbHliblVGdnNXSm80V0VuLUZ5eS1DMWtUWHc?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-07-27T17:14:22+00:00",
-      "summary": "Could AMD Dethrone Nvidia?&nbsp;&nbsp;The Globe and Mail"
-    },
-    {
-      "title": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War - Memeburn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWTTZQbWphbnVrSnJTNGxDZlV5eWVaQlk2cFdfWm84SW5Jc1ZINWxDWGF4V2MzMXZPTlNSdFdQamZOWUZOOGxTNXZ5ZDEtcWF5bU05UlY2YlgxMGFRa19rU192YU16UUVidmt5b1RiaER0bl9oWW11WUt2Qmk?oc=5",
-      "source": "Memeburn",
-      "published": "2026-07-26T02:53:01+00:00",
-      "summary": "AMD AI Chip Challenge Turns the Nvidia Rivalry Into a System War&nbsp;&nbsp;Memeburn"
-    },
-    {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndJQ3ltQ19yRWw3RHhQaldJYmVfN0RhSEhyUlZDQVhJeDFIalFQR0QwSWxYTnEtY1V1dWtlUFMzei0tSmVlMUNBYnRtVlJCMHBraFhBVTZ4YVdtbXpsakRMdDZiOUZjMHlFbUV4RFVuZTBiMy1Lc3RzanpyRk9DYk1Ta0JDUFZ1QmEzNWlPTWpETlZFWnRhSXkzTDNUWjRmYlJaZmVB?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
-      "source": "TechRepublic",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car&nbsp;&nbsp;TechRepublic"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -164,11 +150,11 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDB2Q1Q0UXFRMmg1Rk5tcGRsdWNXc2JlRFEzcGJIcndrRS0yb2JQRlBxYWNSUzZvUGJRV09nTnkxUjFQck84YnhOT252bF96OTMtd01iVHRJY1QwU2FuTDR1NzVHb3gzeE9LZHRaLUpERkNzQWpIa0Z6d3lUcDgxUnZhNER3SWY0U3Y5NVFWRWI4MXhx?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger.&nbsp;&nbsp;Yahoo Finance"
+      "title": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1taFhqc2dYY09vVmNFRHBPWEEzbWNRczk2WG1uYXo5Y01xQ0pMMXQ5UTEzdlQ4bUlMRGlpcXJEaUFRM0drUzZrSE4yR3FYd1A1MDU2TGs4WnIwVnEwYk8xdkRtdEtJel9UX01rVXd0Y253d3V3OEE?oc=5",
+      "source": "TechRepublic",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "AMD’s AI Chips Are Coming for Your Laptop, Desktop, and Car&nbsp;&nbsp;TechRepublic"
     },
     {
       "title": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It - 24/7 Wall St.",
@@ -176,6 +162,20 @@
       "source": "24/7 Wall St.",
       "published": "2026-07-16T07:00:00+00:00",
       "summary": "This Is the Next Stage of the AI Revolution — And Absolutely No One Is Talking About It&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Vultr to offer AMD's MI455X chips for AI cloud push - IT Brief UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhmVS1UUmdiOHJnOTlWWUdQZjdTRk11T0lFSEFMelBXVXNsZ1pYQ2JUMjlZazNmenc4OXRfdzVBcHFDazBJaE1DeS16aElhTllGSEFYc0h4Zy1TQUNvTDE1dHdpNC1tX0lOMHdYMHA2eEZFRlVSVlJodmdURGlLeWE5b2hZdw?oc=5",
+      "source": "IT Brief UK",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Vultr to offer AMD's MI455X chips for AI cloud push&nbsp;&nbsp;IT Brief UK"
+    },
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-04-14T07:00:00+00:00",
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }

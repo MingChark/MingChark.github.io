@@ -1,13 +1,20 @@
 {
-  "generated": "2026-07-28T19:37:58.360941+00:00",
+  "generated": "2026-07-29T02:55:42.475541+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC02c0sta04tMGd5WTdqcW9NVjhQbzU4cXBTbEFidlgtSU1WWldmQm50RWV6OVhBZzkzYmI3X0U3Q09wdGdPLVRCbF82R0kxVFUwekhoRXpad01TNS0xUHB1TmdyeVlNSWlmb1FtZWN6bXg2c0F3SEZWOUkxTGZTQlkwQkJMNTRYYTAwVFlhbVZRNDEtWm1KbTlxbHlDa3oxMkYzWXNXY0czLTRjVFpialRjMk9xTzRnSC1UOGdR?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-28T17:18:40+00:00",
-      "summary": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress&nbsp;&nbsp;Bloomberg.com"
+      "title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-28T23:13:49+00:00",
+      "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says&nbsp;&nbsp;ReutersOpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face&nbsp;&nbsp;WIREDOpenAI's rogue models roamed the internet for 4 days and staged a second attack&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-29T00:59:08+00:00",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power&nbsp;&nbsp;The New York Times"
     },
     {
       "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News - Breaking News, Latest News and Videos",
@@ -24,25 +31,60 @@
       "summary": "Sam Altman says we are in the singularity: 'This is the moment'&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5",
+      "title": "Sam Altman is ready to decelerate - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MTB6UHRmXzFiUWRxMlJmci04ZXFzS2plVU9BeGF5UUZ0UTF4OXNnWUtfeFJwcEZtbENBUkRUREsxWXZEc0I4WVdlWDEydjBGSmhhUTJFOXRVQ0pKZVRnVnFjZTBHS3hpZTRRSHdRTUEwMEp5ajUw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-28T20:17:08+00:00",
+      "summary": "Sam Altman is ready to decelerate&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFVQaHJjSUc3TE1aTDFoeTlYM2gtQUo0ZzZhNzdHQjFfYUV3bzhxYmRmMGtyY1BMYW43cmpjcVlwUFd3R2FHMWUxanYtREMyQTBNZnlHZGU5enZzeXlqVjRvQW1lbmpfTloxN1dtalloMnR0WDlaY2RUOUgxcjFZaGxEUkFhUTZQYTlDb1A3S2hTVkNtdXZJTU5YLVhpbVY1?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T16:38:33+00:00",
+      "summary": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI and Anthropic Are Quietly Teaming Up in Washington - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG11emllTUdROXNmel9FT1UxX090UzRmdE9DR24xZjlONDJoeTR5X2dfdkZReVd0OXBKRTlFaHV0b0p3OVF2TVJLbktnekxrX1pkOUJKaDhwQ0wxQmRtdE5FaVp6cFFrdGRSZXQ4ZVFLRDFIdFpic1BnRTktNF9mV2dnVjlXY1dVTHFrNmxkbmV5RkttN1ZGdzhyVGM?oc=5",
+      "source": "The Information",
+      "published": "2026-07-28T14:01:00+00:00",
+      "summary": "OpenAI and Anthropic Are Quietly Teaming Up in Washington&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWsxRVptU010cTRHWS15WERCRFcyaHkyX3ZTRmhsUlZIUmczcjBPRzBjQXdEVkI1MG5Ub1JOR2Qxemxja1NHMXBQWFB4S1lCUUx4V3VUeHN0ZXlKWnpyQmh6bEZiaXJyaElQZnFKQ3F1ZjVPYUFBVzZvRE1wNlV3VzNUOGs2Vzcy?oc=5",
+      "source": "Axios",
+      "published": "2026-07-28T09:00:36+00:00",
+      "summary": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-28T00:58:50+00:00",
+      "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5",
       "source": "CNBC",
-      "published": "2026-07-27T14:20:15+00:00",
-      "summary": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say&nbsp;&nbsp;CNBC"
+      "published": "2026-07-27T11:04:48+00:00",
+      "summary": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-26T23:19:00+00:00",
-      "summary": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center&nbsp;&nbsp;WSJNvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans&nbsp;&nbsp;CNBCOpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia&nbsp;&nbsp;The"
+      "title": "Nvidia: Reported OpenAI Deal Raises Circular Deal Fears, but We Think the Stock Is Undervalued - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2E4OUJQRXFRQXBDOTU2TzNqLUk1cGVQRU9VVjlhd2EwX3BLQzBWRHJENGZ6ZmdNRERxY190a3hycVF4VUNfdXhGNkFEakQzVlB6NHVjU2V2R21hb1MtbkE4YnBTdERpcDNTMUNkZnV2X3RleWVuNk5nNW9ENTEtSHEwUUN1M0pQWWx0TG5FN0hEbm1ob2R6c05mTTktV21EMVVEdlhXT1ZSU0hpOHFKYm1BM3BGLTVXdWgxS253T3FxOVA1WlpN?oc=5",
+      "source": "Morningstar",
+      "published": "2026-07-28T09:19:25+00:00",
+      "summary": "Nvidia: Reported OpenAI Deal Raises Circular Deal Fears, but We Think the Stock Is Undervalued&nbsp;&nbsp;Morningstar"
     },
     {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcml1djVWTC1VeU5YVGUxdlJ0d214Zm9KUGxFLWZPTGktcnJwcnZDbTNfdHZ3NFVnVlZyVWlqa2R6MjdPLUFYVUc4ZTFMREdzZmh1di1TcGlQN2lOdUdzZUJnVHBRczc1dURXLU1ndjZFRVM0MnRxQVYyMG5kUzFuNkEyQQ?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-07-28T13:33:00+00:00",
-      "summary": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach&nbsp;&nbsp;The Hacker NewsHugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'&nbsp;&nbsp;Business InsiderThe OpenAI hack was a cybersecurity warning shot"
+      "title": "Can a Chatbot Be Held Responsible for a Death? - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NZFNQSDFLRU1VMmpleEJCdENVZGVwZ193TVZ4ZzQyNDMtRHdmbnUyR25lSDhGWkdSeGw3dzBXbXhPYTREUnhXejU5bHNIQjRBZHU2QnYtUWFrY3dxdktTOXg2bk4?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-07-28T10:00:00+00:00",
+      "summary": "Can a Chatbot Be Held Responsible for a Death?&nbsp;&nbsp;Bloomberg"
     },
     {
       "title": "Greg Brockman on the week two OpenAI AI models went rogue - Fortune",
@@ -52,11 +94,11 @@
       "summary": "Greg Brockman on the week two OpenAI AI models went rogue&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "The AI giants’ new problem: open AI - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t5UEZhbHNyTG84LW1obTh2VFFRNHlYRUNyQ0h4V3RFSnBzNTd4ZjFvYUIwenZKa0FnMER3ZVhWMGczdUwyTzk0VnMyMWxMcXo5anM5SC0wUktjNlBkNTZtb2JTcTI3dDRoamFqVWJIaG02NHpZeHNGdmtWZHc0VmdvNjRoRHIxWGxRTEhnZG9hdzYwTUdqX1E1MVJTdzNtV2ZDRDhxYTA5WkpETDJsMnFn?oc=5",
-      "source": "The Verge",
-      "published": "2026-07-27T16:51:50+00:00",
-      "summary": "The AI giants’ new problem: open AI&nbsp;&nbsp;The Verge"
+      "title": "How OpenAI's Effingham Data Center Moved Forward Without Public Input - Effingham Herald",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2RtdV83Ymwwa2ZqMlJfbGthTjlEOVc2TFduS2V3S3FBdkg5alAwRTM2Um1ZUHAwZjFwUENkSjdwcVVFemtaU1BRZFhubkRxbUFqVzVBaDhvMEZVVHRabzc2Wi1NY1Vza05NYTRwSERzRnMyNlVTZ1o3WXVQOUtYZ1hsYkZfZHQtcFZRRUxWUlFYRWs0akNSNDhEaERNdG1xRndrRlFaQkhELVNQNDZpQ0MwZm5oOUtLTDhiMzVR?oc=5",
+      "source": "Effingham Herald",
+      "published": "2026-07-28T13:11:56+00:00",
+      "summary": "How OpenAI's Effingham Data Center Moved Forward Without Public Input&nbsp;&nbsp;Effingham Herald"
     },
     {
       "title": "EPAM & OpenAI Partner to Help Enterprises Unlock Higher Value Through Applied AI - EPAM",
@@ -73,20 +115,6 @@
       "summary": "OpenAI picks Israel's Sheba as first hospital outside the U.S. for healthcare AI&nbsp;&nbsp;calcalistech.com"
     },
     {
-      "title": "OpenAI and Anthropic Are Quietly Teaming Up in Washington - The Information",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWG11emllTUdROXNmel9FT1UxX090UzRmdE9DR24xZjlONDJoeTR5X2dfdkZReVd0OXBKRTlFaHV0b0p3OVF2TVJLbktnekxrX1pkOUJKaDhwQ0wxQmRtdE5FaVp6cFFrdGRSZXQ4ZVFLRDFIdFpic1BnRTktNF9mV2dnVjlXY1dVTHFrNmxkbmV5RkttN1ZGdzhyVGM?oc=5",
-      "source": "The Information",
-      "published": "2026-07-28T14:01:00+00:00",
-      "summary": "OpenAI and Anthropic Are Quietly Teaming Up in Washington&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "OpenAI is already building the org chart of a mature ad business - Digiday",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSVFGdE9Za2R0TGJmXzltM1FSY2dtbm8wQUI5Qmdnc2NVVG1OLWFrTjRIWmJ3eF9ja1hydDg0RjZzWURXeXNhUFBQZDVCSWQ4WkZaNEo4NW1LZEZhQ2FZTkhFQ2lidWhKcFhpTUh2RUFsMDRGNnRzSDdoUFJrZDFkRWUxS18zQXY4NjNlQm1KZDd0a0lKWVZXY2lIZw?oc=5",
-      "source": "Digiday",
-      "published": "2026-07-28T05:25:35+00:00",
-      "summary": "OpenAI is already building the org chart of a mature ad business&nbsp;&nbsp;Digiday"
-    },
-    {
       "title": "Scientific computing in the age of agentic AI - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5",
       "source": "OpenAI",
@@ -94,11 +122,39 @@
       "summary": "Scientific computing in the age of agentic AI&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Nvidia reignites \"circular\" AI concerns as it weighs OpenAI financing guarantee - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXFqemdvNkN2SkhMVEY0bTNCb2VUSGRRZjhIX1N0ZV9JMXZRX0k4N2VBYUc3UnI3bl9hTjFsSV9nQmdnOG5VVTVlTGlsd2p2NTlIcklZekJfMElMRVJhOUM3MFNOSlRnUEUwcTJiQWVCLXVGbVloUmIwSGVDbWk1UDR3?oc=5",
+      "title": "OpenAI's agents hacked second firm during model testing - Axios",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMm12SVRVVUtNQnRUOHpfTS1xYXEtYUszQ1N3MEFsWGxMRFg3LVl6NU1YckRlOE1qVjd0Z2RsZ25nUWlWamtzeV81cjNjZ2tMY0paSW85YVprWEM1R0tZT293ZHp3TGptX3NLeUh4WWJickhRam9v?oc=5",
       "source": "Axios",
-      "published": "2026-07-28T08:39:07+00:00",
-      "summary": "Nvidia reignites \"circular\" AI concerns as it weighs OpenAI financing guarantee&nbsp;&nbsp;Axios"
+      "published": "2026-07-28T23:30:01+00:00",
+      "summary": "OpenAI's agents hacked second firm during model testing&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVFuWnA0aUNnUld3UFpWczJKenhXdk9sSUw0QzFjUXBZeC1XMzVvVUdaeF9MZ3VEaVJFem5HdGRpenZTbnBxTW02WXBOcmZrbGFiRDR5TXN6c2hJejUtV2lsX18wWVJNbXJDNXVyQXFOU1JJUlpyc09KYl94b3NraE01VXp1VUJHNTNUSlM3TlFwRi1qOS0xZWIyOVQ4allKVWVyZXZsQ2RodzFwaGk4N0VEd9IBuAFBVV95cUxPMWI1aWhqSG9qMUk2UlFFRXJtQVNMWUxteUYxZU90XzFuRnNKdl9qWTJhSkJod1d6TTBfT3V5Uy01dHNtNWpUM0EzeG9ZUGRrLUQtXzhUNkVzN0V6UjlJVnRVY2FwZ2RwRnhuWng2WXdhVHBtQll1NUFqZHRscERFQUpLdzlYbVBHRXMxZUd0czVvS1o1bC1LMGpLbXVfOXZGUDRzcEM5S2hHcGpObEV3N0QtVjVqZjl4?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-29T02:14:15+00:00",
+      "summary": "OpenAI’s rogue agent hacked an account at a second technology firm: Report&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "title": "Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWJUYm1BSWl5Vjk2OHl0YmxBdVBTbjhfcVZOcV9tVTc3c0poNVBEczVJQU1WaE9YZmF2RkNLUnhsdU53V3ZNNU1mc1JESkRMeXdaRGRnSHJEMXhtNTF2OVJORHFwQUpydTVrZWVJQ0NJMVJrSGJkRi1VN1M0WXBCWjhlRks4YzFBNDYyQ0RzM1JCR01reWhOdnUzbm5FZ250N2c1Umg5aw?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-28T22:33:53+00:00",
+      "summary": "Top scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development&nbsp;&nbsp;NBC News"
+    },
+    {
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcml1djVWTC1VeU5YVGUxdlJ0d214Zm9KUGxFLWZPTGktcnJwcnZDbTNfdHZ3NFVnVlZyVWlqa2R6MjdPLUFYVUc4ZTFMREdzZmh1di1TcGlQN2lOdUdzZUJnVHBRczc1dURXLU1ndjZFRVM0MnRxQVYyMG5kUzFuNkEyQQ?oc=5",
+      "source": "The Hacker News",
+      "published": "2026-07-28T13:33:00+00:00",
+      "summary": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach&nbsp;&nbsp;The Hacker News"
+    },
+    {
+      "title": "JFrog tries to spin OpenAI 0-day exploit of its app into a success story - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1NoLXAtR05qaDRUTnVHMXBMd1hyNnJlaUFsTmg2UzE4a092NUJRandKai1QVkI5RGVTVk52SWJzZnZxVFR1YWJNaGRxUGIxM0NnbU9mcE53OTNKcTYxZjJfcVlNT0pBM1FVLWVaREFxWmZCLXBKNnROblk5OHVWVFZRbGMxNzFPV2lWU3pOQ0lUN2RxRWRHc0x1aUxSV2JrQTdQd0xXVEJCY3VwWktUUFhIdXM?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-07-28T21:36:39+00:00",
+      "summary": "JFrog tries to spin OpenAI 0-day exploit of its app into a success story&nbsp;&nbsp;Ars Technica"
     },
     {
       "title": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI - Time Magazine",
@@ -108,74 +164,18 @@
       "summary": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI&nbsp;&nbsp;Time Magazine"
     },
     {
-      "title": "Nvidia: Reported OpenAI Deal Raises Circular Deal Fears, but We Think the Stock Is Undervalued - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2E4OUJQRXFRQXBDOTU2TzNqLUk1cGVQRU9VVjlhd2EwX3BLQzBWRHJENGZ6ZmdNRERxY190a3hycVF4VUNfdXhGNkFEakQzVlB6NHVjU2V2R21hb1MtbkE4YnBTdERpcDNTMUNkZnV2X3RleWVuNk5nNW9ENTEtSHEwUUN1M0pQWWx0TG5FN0hEbm1ob2R6c05mTTktV21EMVVEdlhXT1ZSU0hpOHFKYm1BM3BGLTVXdWgxS253T3FxOVA1WlpN?oc=5",
-      "source": "Morningstar",
-      "published": "2026-07-28T09:19:25+00:00",
-      "summary": "Nvidia: Reported OpenAI Deal Raises Circular Deal Fears, but We Think the Stock Is Undervalued&nbsp;&nbsp;Morningstar"
+      "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnA1ZGxjb1RwN3A4ZGpsSzFCNms5RUs2YURZOXp2MDdUbUdrUkQ3bWZBNkxhc3RhTkU4U0RPY0pPVk1rOEhETG5vVG5kVHhCNTFFX212MzdJU1JVS0xpT3lJRGpEQ0twVUdMblBKekZVMUJnSVROQnpidkFYT19fdk1PNzNQQjMtYWpBdE5NbE9DU09jbnpvWWlXM1RZbVBvR0J5VXVqOVNRNkNjTEJBc3NfbXJ5Vl94?oc=5",
+      "source": "The Register",
+      "published": "2026-07-28T22:01:53+00:00",
+      "summary": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face&nbsp;&nbsp;The Register"
     },
     {
-      "title": "OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTg1MV9xQkQ3OFRiWGUwdHNqS2ZWdVRDYm13QmlxZldWcTZ0M1M0TE1VSE10eU9CUWxsWVAxUDJDX1oxVkJhZTlUT3NtVHBMNEgwYU9Db1hKT0lQR2s3R0xSUW5NbnYyTC0ydXB1dGVXaFE0SVU3RzgwNkF4STF0b25uaWFEd0ptcmoyOTJtUjExVGV4Tlc5RWg0REJoblp0bnFPdEVzQ08za2ZJVE0yMTQzLTYxVktVSFpr?oc=5",
-      "source": "Politico",
-      "published": "2026-07-27T21:10:00+00:00",
-      "summary": "OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "EPAM and OpenAI Partner to Help Enterprises Unlock Higher Value Through Applied AI - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYktqYjdoNHJqYnRQOGlvQWhaWE0temk2blVMOFdLUXR0cU91c1pIem4xWHJpSHpaVlVUVHMzWXoxQ2k2LWNROWRIQVpXRlZad0ItRVNwS0FwZmVTb3FBdndXWUE3SEJlSHh6T1BiZXByTk5LWmhZY08tRVJITnhmWVVoaG5fbDdTQVFHTXZOWThyeFZlSjFRdTdib0VlcjhlSVBwSFkwUGRvZFdyXzRsNzlGT0pMVHU1VklPZ3JmYjZSZDlmaC1uakZQZDNzVF8yTWVETA?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-07-28T12:02:00+00:00",
-      "summary": "EPAM and OpenAI Partner to Help Enterprises Unlock Higher Value Through Applied AI&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "OpenAI’s first hardware device debuted at $230. Now, it’s on eBay for $1,850 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdnLVo5aWoteU1nZzE2d3dtZGtTNzV5TVFwX3hYQkJQYkZhSE5HNmZLSXdaQjdLSVhOVUNWMEdMbUptaFppdlN6ZGh4cXFlOTRpTmxVcW4tc3h6aldxT1dqcURLUzdsMXNkR25DdlB1SFBnc3VEaUlZQlFKTThaeU1mM2V4TFJsdjFIQXhVUGhlNmo1aS1LZEJxZTR6bjV2eXhkelFaWEF2anVGSFFjSmxKWWUxMUpVU1dnd25MSWRIZGc?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-27T22:28:00+00:00",
-      "summary": "OpenAI’s first hardware device debuted at $230. Now, it’s on eBay for $1,850&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-27T11:04:48+00:00",
-      "summary": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVBoSmxIa0dncEdvdTJLQ3pnVUhLbjFPUjhxdjZ2aG1KWXlMUkFsbXlURzNldXdraDdDUkxZdlJCenNxTmtTRTdWXzdPcWh5WmZRU21LN1NsQWNKR184WUViRFY4WUtrM3ZkUzhpcnpwcFBzd3Y4cG9VNVlSS2Z6NVhGSlpnQ21pdzhUSi1uTXg5Zm9Bd1NZNlRpMVlYaFlwVmUtTlZCYWl4a2N1eHAtTkNxVktZUmo3Vmc?oc=5",
-      "source": "inc.com",
-      "published": "2026-07-28T17:51:51+00:00",
-      "summary": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity&nbsp;&nbsp;inc.com"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUpCWnpROTdmb1N4OGwxVkpmOHJYY1RGemJSaVl3TXJreXRnaUl6V293YzBXME4yeWRUeWh2WWFfb3BUMlJnMlVoT094c040bFZYdDlldHNQRGJVR1VyNV81clV1RTFSdHRjSFFtRDZiM0ZaeVRGak9zbnBwQ3prNmxEWWxvZ1V6QjU2Mk1sNUdveXfSAZgBQVVfeXFMTURtQ3dpTUZQLTN4RHVPX05HLWE3dDV3ZzN3NnhTR3B2aTROQnEwVXRzVVVodFNRNGdHR2x5QnVjbF84S1lYYUFiTXhVU3ZudHBjZTFZZWdTQXRvcU5GNkdUdi1KZWJkb1VkTkt1WVg3NjlUekREa1Uydzg1T2JydnBmdlNmSkhic0FJUGgtRU1ocTVqLTlxTXk?oc=5",
-      "source": "MIT Technology Review",
-      "published": "2026-07-27T18:00:00+00:00",
-      "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&nbsp;&nbsp;MIT Technology Review"
-    },
-    {
-      "title": "Suspicion Grows About OpenAI’s Tale About Its Rogue Hacker AI - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTllODRaTl95b2xEUVVhekJiYzdIT1JqTVdoX1d3czJsNDNGUHZVQkpPOVV5eUhkY0lOR0ZwZnRTSE5FNEVHano5SHRQZVdJaEFRLXhldFpWci1pNzVSZHpUOVFVdkprRF9qaXVOM1VtZWxaOXY5czdGUnA4RS1uWEVBYm44YkxlOHJr?oc=5",
-      "source": "Futurism",
-      "published": "2026-07-27T21:47:13+00:00",
-      "summary": "Suspicion Grows About OpenAI’s Tale About Its Rogue Hacker AI&nbsp;&nbsp;Futurism"
-    },
-    {
-      "title": "How AI is expanding what people do at work - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVFBEa3pBZzFfd08wZThSMTQ3LVVMYjNDZ3kxU0tFTEU1SlJiZUt3TXIzVzhuWUlFc21INXY4dzlpbnRnNU91RGx1Y2RtYl9Ya0UzWU5GTXdXSWVaVV95UnZHdm0wTG5WMmVyWm1Ub0RnZ1BmdHlN?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-27T10:36:10+00:00",
-      "summary": "How AI is expanding what people do at work&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1hIdE1JTzcyVzJXaDZ4cEZ2NWxYd2dqbTNYaUo2aUtDVFVCT2VNSkVWaVItdG5HWXNTdS1kUnJuWWlTY1pHZGJnVmVpcXdqb3doQWRlSVJIeUE4aG5MaUFKRkJFa0tqS0pfbkpTcDBTWkxyZkt5b002Yk1FX1lYNEs1VWwwZEpRekd2eURFSllpZnJwaVdoNmdB?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-27T22:18:00+00:00",
-      "summary": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it&nbsp;&nbsp;Fortune"
+      "title": "Have the Cake & Eat It Too. Anthropic, OpenAI & AI Investors. ARD #128 - AI: Reset to Zero",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjFRdjE3M0t0U0JENkVDRGsycXJFNHBYNlVsdTc0UGkyMmJzeERweGlDZkVXQ0tya01MNEd6eVN4d1Y4SEN6bUtBcnJkNGtUdVZjNmNqSGdLN3lGZGdzanF2TllES3JiRkxRR21kT2trQWxRaGxzQldUYmgtRDFlUw?oc=5",
+      "source": "AI: Reset to Zero",
+      "published": "2026-07-28T22:30:29+00:00",
+      "summary": "Have the Cake & Eat It Too. Anthropic, OpenAI & AI Investors. ARD #128&nbsp;&nbsp;AI: Reset to Zero"
     }
   ]
 }
