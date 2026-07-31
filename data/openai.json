@@ -1,7 +1,35 @@
 {
-  "generated": "2026-07-31T14:18:12.560223+00:00",
+  "generated": "2026-07-31T19:39:47.778477+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "Inside OpenAI’s Hack of Hugging Face - The New Yorker",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSnVfdklSQmtTZTVVQzN5WnozOG5zVVVxLVdoYkgzejlGSFMzTzF1UmV2enp2OGRsUHM2X3k5U3JveU8tdzFyT3h5SERwRWlOWFVtbnZDWkQzZFZGdHEzbWctRHpObjFCNXpja3ZINVpkRHQ0NnBxblhucXNXSjA?oc=5",
+      "source": "The New Yorker",
+      "published": "2026-07-30T16:01:36+00:00",
+      "summary": "Inside OpenAI’s Hack of Hugging Face&nbsp;&nbsp;The New YorkerEXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says&nbsp;&nbsp;ReutersThe OpenAI lab leak was more extensive than we thought&nbsp;&nbsp;CNN"
+    },
+    {
+      "title": "Something Weird Is Happening in Math - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXNwajNKU2d3LTVmZnNJNmxiN1RaaG1qLUtoejkzbTZqSmYyeGZKT1lqV2JwRkVyMWVqeGJ2TzRUdVdnYzRrSXB4VGlTNm1vaFJUZXB5c0pWbmlaWEhqUmlqbjVtMXhpN25rd0k2RExKX2N1U2JOcjI2SVUxV2IzdTRUZm55SW8wa3p2eDNMS3llcGdwRkVJb2ZKaw?oc=5",
+      "source": "The Atlantic",
+      "published": "2026-07-31T12:00:00+00:00",
+      "summary": "Something Weird Is Happening in Math&nbsp;&nbsp;The Atlantic"
+    },
+    {
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjBjOGRBVVJjdENDVzdtYUR2Z0Q4VC1hUzRZTlUwLU9lY1J1d2tuMG8xNi1ZdUtmTl82M3NfME9PSXhrQU1NVUY5QTZteFRoN29MaVRPaldLV2psZXNaM1BRcUJCejJXaHZNenFiOHFBVVdmRHhXcGFXSzlZdURYMG9WZjllR0IxRlhxb3dpOUVfcHd2YXlGbEYtRU1FUE4tc0E?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-30T20:12:00+00:00",
+      "summary": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance&nbsp;&nbsp;WIREDAfter OpenAI disclosure, Anthropic says Claude also hacked outside systems&nbsp;&nbsp;Al JazeeraAnthropic Says Its AI Models Went Rogue, Too. They Thought They Were in a Simulation&nbsp;&nbsp;inc.com"
+    },
+    {
+      "title": "Sam Altman courts Washington as OpenAI pushes a powerful new AI - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0NyNy00SGcyV3B6WkNuak1ycG5MTWlrbW9ZRFNRMWZJRXZmclJZQmRkSGYyMzV2ZVd5Y3luV3B1a3RkM01RVHBWQ2ZwTk1mRWNEdWgtbGc1YlJmdUZGbXZ0MDZJeXFCNEtRaGdpSzA2eTFqaFA0VG1WLTlxZkdXa29Wc0ZYb0hXT2h2Z09kcDJaS1gxRWxjLTd6OTcxQW0yempZa2Y2cEhMamhVcURHTjRB?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-31T16:00:00+00:00",
+      "summary": "Sam Altman courts Washington as OpenAI pushes a powerful new AI&nbsp;&nbsp;The Washington Post"
+    },
     {
       "title": "OpenAI slashes Luna pricing - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ucjBPd0Y1WVZWTWRCUmtRMkpCNzRnT0pEcm5XN3prd09DVVhMOXhVMmUxcW81dDdoWFkyaWstdlA0cUs4dG00cXVlalV3M1k5ajEwUmhMMkYtSDBWOGp4eFU3d2d0bWdVX0VpcVhuV1RTcWRvNmc?oc=5",
@@ -17,46 +45,18 @@
       "summary": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VQW9naXdkdFo5RHQxYXNLMHBKMmVEY0lGX1JxZ0tNVDQzVW9LTlU1d3RINkROVjZ1RXlZOEZFcEZRZjZERWdBRnlZbFBJR2JKT0lmZlFIeXdSRXh3b1dtckp1OHAzajhpVUgxZVY2UjQ5LUNJWlNhT25aRQ?oc=5",
-      "source": "Business Insider",
-      "published": "2026-07-30T20:29:00+00:00",
-      "summary": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI Surpasses One Billion Users After Cutting Prices - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXdiRTNDR2poMG5NTmxiZ2ZLdnMxWWpSQjVFWHlCenQxR3FBd2tKSHpFdWNWVnc4Vlh5VTh5djMzenRFdTF1c0k0NDVKMWVSNDkzSmRvUjZ3V3B2VlBCdzVoME5vb3V2UzJ0dEN5bVdkZGdtS3ZVdGxERmg4ajZhYzI0NEpfTkcwRDFGTXBvaGQxUFZqTmVz?oc=5",
+      "source": "WSJ",
+      "published": "2026-07-31T16:35:00+00:00",
+      "summary": "OpenAI Surpasses One Billion Users After Cutting Prices&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "Inside OpenAI’s Hack of Hugging Face - The New Yorker",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSnVfdklSQmtTZTVVQzN5WnozOG5zVVVxLVdoYkgzejlGSFMzTzF1UmV2enp2OGRsUHM2X3k5U3JveU8tdzFyT3h5SERwRWlOWFVtbnZDWkQzZFZGdHEzbWctRHpObjFCNXpja3ZINVpkRHQ0NnBxblhucXNXSjA?oc=5",
-      "source": "The New Yorker",
-      "published": "2026-07-30T16:01:36+00:00",
-      "summary": "Inside OpenAI’s Hack of Hugging Face&nbsp;&nbsp;The New YorkerEXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says&nbsp;&nbsp;ReutersHugging Face CEO speaks out after company hacked during OpenAI test&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjBjOGRBVVJjdENDVzdtYUR2Z0Q4VC1hUzRZTlUwLU9lY1J1d2tuMG8xNi1ZdUtmTl82M3NfME9PSXhrQU1NVUY5QTZteFRoN29MaVRPaldLV2psZXNaM1BRcUJCejJXaHZNenFiOHFBVVdmRHhXcGFXSzlZdURYMG9WZjllR0IxRlhxb3dpOUVfcHd2YXlGbEYtRU1FUE4tc0E?oc=5",
-      "source": "WIRED",
-      "published": "2026-07-30T20:12:00+00:00",
-      "summary": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance&nbsp;&nbsp;WIREDAfter OpenAI disclosure, Anthropic says Claude also hacked outside systems&nbsp;&nbsp;Al JazeeraAnthropic says Claude accidentally hacked real companies too&nbsp;&nbsp;The Verge"
-    },
-    {
-      "title": "Something Weird Is Happening in Math - The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXNwajNKU2d3LTVmZnNJNmxiN1RaaG1qLUtoejkzbTZqSmYyeGZKT1lqV2JwRkVyMWVqeGJ2TzRUdVdnYzRrSXB4VGlTNm1vaFJUZXB5c0pWbmlaWEhqUmlqbjVtMXhpN25rd0k2RExKX2N1U2JOcjI2SVUxV2IzdTRUZm55SW8wa3p2eDNMS3llcGdwRkVJb2ZKaw?oc=5",
-      "source": "The Atlantic",
-      "published": "2026-07-31T12:00:00+00:00",
-      "summary": "Something Weird Is Happening in Math&nbsp;&nbsp;The Atlantic"
-    },
-    {
-      "title": "Sam Altman courts Washington as OpenAI pushes a powerful new AI - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0NyNy00SGcyV3B6WkNuak1ycG5MTWlrbW9ZRFNRMWZJRXZmclJZQmRkSGYyMzV2ZVd5Y3luV3B1a3RkM01RVHBWQ2ZwTk1mRWNEdWgtbGc1YlJmdUZGbXZ0MDZJeXFCNEtRaGdpSzA2eTFqaFA0VG1WLTlxZkdXa29Wc0ZYb0hXT2h2Z09kcDJaS1gxRWxjLTd6OTcxQW0yempZa2Y2cEhMamhVcURHTjRB?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-31T13:32:19+00:00",
-      "summary": "Sam Altman courts Washington as OpenAI pushes a powerful new AI&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0pQek85YnZaY2ZtOXA5WGdmZDZoUnFoUUxZNmgtanVpQWRzT0xIcDFIMzBqRjcxWmwwVlJXaTA2WDNVZ2pMckhDaGtZZG9FUlAxeXd4VTA1VUxBWkN5Z0ZzNVZiMkh3Z1FFT1FkQkhNUFVpTjBpYVBmSDE5RmtnM1lLcFN6MTNOSzVBSXN3Ym5CcXFxbms5OVhMRQ?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "2026-07-30T20:29:00+00:00",
-      "summary": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency&nbsp;&nbsp;finance.yahoo.com"
+      "title": "‘I‘m just stuck’: Meet the former OpenAI researcher sitting on $700K of equity that he says is overvalued - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVkJrLWJhRjRrSmpKQ1B5YWFibVVWWWhPUWhSOTVlRkVwMFMwVlVtNk5VQmMxM1ZyVzdTZ0NMSTdSQVF4SkJveUplazl2QXBiOEF2V0ZnaEUxQ21Ua1lmVTFuaDhRaXBkczNhV1ROeEhERkwtQUhlRndQSW9YeEU?oc=5",
+      "source": "Fortune",
+      "published": "2026-07-30T19:01:00+00:00",
+      "summary": "‘I‘m just stuck’: Meet the former OpenAI researcher sitting on $700K of equity that he says is overvalued&nbsp;&nbsp;Fortune"
     },
     {
       "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Reuters",
@@ -66,39 +66,32 @@
       "summary": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
-      "source": "BBC",
-      "published": "2026-07-30T07:23:11+00:00",
-      "summary": "Trump considering AI controls after OpenAI hacking incidents&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "OpenAI launches free AI access program for academic researchers - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sVnVOVmZEVXZtcTM5cWFVNzAxN1oxQ0xrUGl2cHVuOEZCUWFTd1pmejJ6THZYR2xjdndFYjNENkRoT0RObGdrOWdtUTltZlZodUx1dW1tQmhKQ0dkZ05SNHo3aENfTWFROG9xLThMZTFfcVNsQmQ4cXJ3?oc=5",
-      "source": "Axios",
-      "published": "2026-07-29T17:01:18+00:00",
-      "summary": "OpenAI launches free AI access program for academic researchers&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "“Less Regulated Than Sandwiches”: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms - Democracy Now!",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IT09rZ1c0RTNBQ2JzZkRzQV9zUUJqTGw1RWFhdGRkcFhCNmh6dWwta05tOFFnRDgtMmVaWW4ya3dxaDU2RGlJUzlGUld6a1dTLXZWQ2FjeEotM19uT0hZ?oc=5",
-      "source": "Democracy Now!",
-      "published": "2026-07-30T12:00:00+00:00",
-      "summary": "“Less Regulated Than Sandwiches”: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms&nbsp;&nbsp;Democracy Now!"
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTZvZ3pPWFB2QS1DdEJyTmVPZnl1RWE5VGFVTEhqeHQ2N1puazZ3S215R3F1bW03SEFuUjEwTFJZT2V4czA3UDJQNUthU2dYSVJaQTBGVXlrX2ROTjZhcC1qcWdYVkdCWkhQMWFCRGtySElhSDgzTGNJUGMweV81UHFvU2Y3SjhlUEVRSXlvTlF0ZWU4WEFMMXFyOEFsb1Y3YVJkQkJvSdIBrAFBVV95cUxNMFBmOEZZXzhKNjJ5MjFsUjEzLTh0Sk9iY25uSEEyaV9MN2FCUlJGX1ZNdDRLdGZ4azFYNWlyOFpxTG1tbTRjMUczZTVIb0t0Zl9jb3QwNk1SNDZweUxBVHlpMkpraVZpYjk0cnF1cDBOdzJlclFOM2JyYmJQMGRxN3Z3anAyMzlDNkRQS09RT0hMUW41eGo0UXR6bnB4Z0s5Vm5jdm40VTN3YVdG?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-29T23:06:42+00:00",
+      "summary": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Amazon Completes Additional $35 Billion Investment in OpenAI - The Information",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3NlU08wZktfc0Y3aGV5VGM3eWFGRFBfeUZXN095em5rUlU0RmlUNExpdlJrSmlnbldkRXpubVJhTkpKbkZjUF9zTF9kdVY0RmFwRWp4SkVfNzBlR2p5ZGk1Zl9JWVZMMWQzMklfOGZpU1pEWGRNVm4xOEU5Zko3REFHMDVxNHAzVmc4V3huMmVuQWpaSWFNOEhiUVB2Zw?oc=5",
       "source": "The Information",
-      "published": "2026-07-31T14:14:45+00:00",
+      "published": "2026-07-31T14:10:00+00:00",
       "summary": "Amazon Completes Additional $35 Billion Investment in OpenAI&nbsp;&nbsp;The Information"
     },
     {
-      "title": "OpenAI, Oracle data center seeks permit to discharge wastewater into Saline River - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHVjWGdoOEU1REdZUmdGMENHS1RISG9oX1llSnRINTkyemVvdFB3bTloTzNFVHByaTRXRll0MXAtT0ZlV1RfNVc3UEw2RmpBLTBia3lyNTZIN0JGWmdIUU1zYUdUbk52VUlEekU0T1JQejRUOTlzWDJmT2YwZmVLVmIzNU50anF2Tm45dTF5ZVUzbXdxMGo5aHp6ZGNFV0RfUm5mbDBDaVJkeU1tanh3QkNUbXZ1LTF1YmpyQUZQLVRTbmtjQmFFemJn0gHeAUFVX3lxTE92bjZELWJlSWR4TE1FQ1V3WjZIYWdQbmEtc2NwTzFYcFpFYmtJcVM0dGpwMFNvejU4OUxfZzRHd3IxNGV2TExsUDJYX1pFRkY1MU1seWRIZHE4ZlZwWUUxQ2t4QTlvODZTa2xZNjFSZHQ1WTFySFBHUTdiVDZoYngzSmJQc0pxa1N4Ulh3cHlrbEVXVkVNWFE2TGlHUzZpbzZQWUlFQ0lxNWF2LU1YeG1UY01rUkM5QjBGSDJ0RHZwUThkWFBHbmdjUkFrZEhTbkVxS2w4MklsZG9HZUgyQQ?oc=5",
-      "source": "MLive.com",
-      "published": "2026-07-30T17:02:00+00:00",
-      "summary": "OpenAI, Oracle data center seeks permit to discharge wastewater into Saline River&nbsp;&nbsp;MLive.com"
+      "title": "More than 800 brands now pay to advertise on ChatGPT. These companies are spending the most. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJDaEowNXpmVTNwOEpCS2g3TVdDUkpaVDRoSkxReF9pWVhsNWFWWFo4NDhWWThHODdoeDEweGxTLWJJUGJEbE5kS1NUQ1AyZGVqSlFtLWpJanlPQTN6Nm1iTmtpMzUyNjc0YjV3aC1JR2lQQmllbXlFNkRrNnI1ZkVNZnl4YzNBM1YwZGJUTnNEakk?oc=5",
+      "source": "Business Insider",
+      "published": "2026-07-31T09:00:00+00:00",
+      "summary": "More than 800 brands now pay to advertise on ChatGPT. These companies are spending the most.&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "Building abundant intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObjk4d1E4cU02NFZHNVhmdUI4ODJFVWJoUlNHSUQ5YXFYOUZNaHh3S3FjbG5Vb2FHbGgyNDVvd2h1Y1M4SzRtb0xDcVh3X05kVFgzWTRyZGJoRXZHeDhaMlR4Tnd1RE0?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-31T15:06:49+00:00",
+      "summary": "Building abundant intelligence&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
@@ -106,13 +99,6 @@
       "source": "Anthropic",
       "published": "2026-07-30T23:03:16+00:00",
       "summary": "Investigating three real-world incidents in our cybersecurity evaluations&nbsp;&nbsp;Anthropic"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-30T20:29:58+00:00",
-      "summary": "Advancing the price-performance frontier with GPT-5.6&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI agent went rogue, escaped, and hacked Hugging Face - Mashable",
@@ -129,25 +115,53 @@
       "summary": "OpenAI's Second Attempt at Health&nbsp;&nbsp;Health API Guy"
     },
     {
-      "title": "‘I‘m just stuck’: Meet the former OpenAI researcher sitting on $700K of equity that he says is overvalued - fortune.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVkJrLWJhRjRrSmpKQ1B5YWFibVVWWWhPUWhSOTVlRkVwMFMwVlVtNk5VQmMxM1ZyVzdTZ0NMSTdSQVF4SkJveUplazl2QXBiOEF2V0ZnaEUxQ21Ua1lmVTFuaDhRaXBkczNhV1ROeEhERkwtQUhlRndQSW9YeEU?oc=5",
-      "source": "fortune.com",
-      "published": "2026-07-30T19:01:00+00:00",
-      "summary": "‘I‘m just stuck’: Meet the former OpenAI researcher sitting on $700K of equity that he says is overvalued&nbsp;&nbsp;fortune.com"
-    },
-    {
       "title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA?oc=5",
       "source": "Reuters",
-      "published": "2026-07-31T12:33:24+00:00",
+      "published": "2026-07-31T17:10:16+00:00",
       "summary": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "What Anthropic & OpenAI Agentic Hack Says About AI Controls - Cyber Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2tpZkF5bGZhb0piSnFmV2pKNkw1cG9wYXFkVVM2cUhTSU9HdERPc2N0OFU5RkZUYTAwUXF3d2F6eHZwdGRtMlYwWktqajZUdW5wdUNSb2NYTkE3UmNaNUFkblhmVmxqYWR0X1F6aHdDV25aSk54ejg4aXBfR2VaU0FJYU84ZUxWakkwNGMzbGRRZw?oc=5",
-      "source": "Cyber Magazine",
-      "published": "2026-07-31T11:27:23+00:00",
-      "summary": "What Anthropic & OpenAI Agentic Hack Says About AI Controls&nbsp;&nbsp;Cyber Magazine"
+      "title": "Anthropic says its AI models hacked 3 organizations during testing - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWF0VDg2WjNvdEY0U2tVZjRwd2VMYUhwZXZpelh2aXJjcjRvYjJNRUotLV9qQ0w3QmRXS1RfcloxQWszajJ3cjdCSHZiTUpTZkhRRE0zUGQ1OVJkekhVYy1nUFREek80NllLaUVCOVdmeU1YV1VjS3RwZDlmZzlENG5NUnlCN0N0OUZOc1MwMlU5N0I4aXZyVjFFN1ozY0HSAaQBQVVfeXFMUFdzRWp4Zzd4aURhbWZDN3NhV0FkN0UxSUpRY0ZNd1dQRXpCak1INlB4dXhpdHljMDZtZ1ZMeGtudlBzSnpHV3VOUkJsU3RxWjQxdGNJVGdPZzdrRUJPbElnTjYyTTJnaXUyN1lpRW1pR0NxR1BpMjc1djR3YmpxYXBOcTVlNXlRTGRmaDBVcEFmeGlKMmRzUUc1cWhuUEx0N3AzejQ?oc=5",
+      "source": "ABC7 Bay Area",
+      "published": "2026-07-31T11:32:50+00:00",
+      "summary": "Anthropic says its AI models hacked 3 organizations during testing&nbsp;&nbsp;ABC7 Bay Area"
+    },
+    {
+      "title": "AI Policy Groups Urge White House Investigation Into OpenAI Security Incident - meritalk.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclE1UjZmakNsbF9MYnpuWUFHR1hycDIwM0lyM2hZQVJaVWUzcTVKQnFvWC1rQndfSUwySTR2ZzZFQVlEU0VHTk9BWExyVkVFakdBcnB4M1JCZE1hR1lxejR4MmRlUGpNTFVLRkpWSlZ6eGRSMmwwczJnNmxHWjM5WDI2TEFQczdnSFVsOWJ0eXNSWXk1ODFUd2t1Vnk4b1ZiUENrY2gyRy1rd1Y0cVkza2l3?oc=5",
+      "source": "meritalk.com",
+      "published": "2026-07-31T19:19:29+00:00",
+      "summary": "AI Policy Groups Urge White House Investigation Into OpenAI Security Incident&nbsp;&nbsp;meritalk.com"
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TDJTNW02OUVtYV9fT0tGWVdWcExqd0VjMl9lajYxWl92QTZuRHQxTWxBZE96dS1VX1dUaXo0UTN1bGRXNWliQlBtQmhpTHFxWlN2QkdvYkFfMTFVOXAtbDBJODhWbmNfeFd3YUVXRUZjOHpCcEVQbDRpZFE?oc=5",
+      "source": "WIRED",
+      "published": "2026-07-30T10:30:00+00:00",
+      "summary": "OpenAI’s Hacking Debacle Comes Down to Human Error&nbsp;&nbsp;WIRED"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-30T20:29:58+00:00",
+      "summary": "Advancing the price-performance frontier with GPT-5.6&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU9NWW1wblpVWjR1b2VYZXo4bXo3QmhjcWx0SE9lZUlFRm5nTnNzRERwb296UF85aVgwRWN2SHdmS25vMnhfTE1RRHpZMnNEWDZmQ3pNcC0zbld3Q1FsWFpReExfZWd1UXQyLTRvSU9qOUdPQV9mdFdkY1BKQkoxakp5dWlaZUtG?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-31T16:56:48+00:00",
+      "summary": "Disrupting a Criminal Scam Operation&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Advancing responsible AI across Europe - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-31T08:12:24+00:00",
+      "summary": "Advancing responsible AI across Europe&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
@@ -162,20 +176,6 @@
       "source": "OpenAI",
       "published": "2026-07-29T17:09:14+00:00",
       "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Advancing responsible AI across Europe - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UlFLV3cyX2JQVHFFMF9HUjhJcVFhSWFSXzNPdEJ1Y0NwTEs0QlBtN0VNQ3NJam43SzJrbG91T2xCR3hWaTZ0TkN1aUpTVmlGSzAyNmgxeFBlRFBlNTc3dzktNlpZNkNQeUFMZkZuVWlEQQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-31T08:12:24+00:00",
-      "summary": "Advancing responsible AI across Europe&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5",
-      "source": "OpenAI",
-      "published": "2026-07-28T17:07:42+00:00",
-      "summary": "Scientific computing in the age of agentic AI&nbsp;&nbsp;OpenAI"
     }
   ]
 }
