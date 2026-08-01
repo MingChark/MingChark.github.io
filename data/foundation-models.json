@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T08:26:06.138851+00:00",
+  "generated": "2026-08-01T13:35:56.411397+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,18 +17,18 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "LG AI Research unveils 750-billion-parameter AI model - newsarticleinsiders.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajNCVzlwNEZJTWxVYmhpcXhKMGlhS1B5M0FZSmJURjN3RDNYeEl3SzJ1VEVsU0Z1QTI3QXNBRGM0RkxEbTVPc21fMUVQTVQ2QkJvZm5TVzh3X3lQcEJGV3lYajNaZ2tabTVxTTEzcllxWUhYazV3?oc=5",
+      "source": "newsarticleinsiders.com",
+      "published": "2026-07-31T00:32:56+00:00",
+      "summary": "LG AI Research unveils 750-billion-parameter AI model&nbsp;&nbsp;newsarticleinsiders.com"
+    },
+    {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
       "source": "The Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
-    },
-    {
-      "title": "LG AI Research unveils 750-billion-parameter AI model - The Korea News Plus",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajNCVzlwNEZJTWxVYmhpcXhKMGlhS1B5M0FZSmJURjN3RDNYeEl3SzJ1VEVsU0Z1QTI3QXNBRGM0RkxEbTVPc21fMUVQTVQ2QkJvZm5TVzh3X3lQcEJGV3lYajNaZ2tabTVxTTEzcllxWUhYazV3?oc=5",
-      "source": "The Korea News Plus",
-      "published": "2026-07-31T00:32:56+00:00",
-      "summary": "LG AI Research unveils 750-billion-parameter AI model&nbsp;&nbsp;The Korea News Plus"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -38,13 +38,6 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings - Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGp3bW1MNkUtdVJVUmhaa3FFRGFZYUtPbF83Q0dkc1NKUmRrUloxQjBMaE9KSEF5eEtpTFZpXy1pdkQ4OVczSklCallsTHRBalBYZ2J5NXNMN25GWjA4M0VzZ0NoX01vWEhKcUpVZTBkOFFBcGVhYzBsYW9IeWlPVHhndUNiTTZCUG93ZnoyLTFGVmhqLXVHTU9GTnhDNU0?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-07-29T00:44:12+00:00",
-      "summary": "Krafton Unveils Voice AI Foundation Model, Tops Korean-Language Rankings&nbsp;&nbsp;Seoul Economic Daily"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
@@ -52,18 +45,18 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
-    },
-    {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
       "source": "IBM Research",
       "published": "2026-04-29T07:00:00+00:00",
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-04-02T07:00:00+00:00",
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -108,11 +101,11 @@
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
-      "title": "The Future of Large Language Models - aimultiple.com",
+      "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;aimultiple.com"
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -129,6 +122,13 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+    },
+    {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
@@ -143,25 +143,11 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
-    },
-    {
-      "title": "Densing law of LLMs - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
-      "source": "Nature",
-      "published": "2025-11-06T08:00:00+00:00",
-      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
       "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
@@ -176,6 +162,20 @@
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
+    },
+    {
+      "title": "Densing law of LLMs - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
+      "source": "Nature",
+      "published": "2025-11-06T08:00:00+00:00",
+      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
+      "source": "The Robot Report",
+      "published": "2026-05-11T07:00:00+00:00",
+      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     }
   ]
 }
