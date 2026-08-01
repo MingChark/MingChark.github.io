@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T19:39:47.778477+00:00",
+  "generated": "2026-08-01T03:21:11.147467+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
-      "title": "MediaTek Q2 Mobile Revenue Falls 20%: $5B AI Bet Targets Broadcom Dominance - Tech Times",
+      "title": "MediaTek Q2 Mobile Revenue Falls 20%: $5B AI Bet Targets Broadcom Dominance - techtimes.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdERXYTg0Q2k3d3JncWt3eTdnVF9iOTBIQWsxQWdaY001NE82TGlGV19JTDJ5YXlPNjlER1VXdWdLbjNXcEQyN3ZBekhqcExPOUpQMmtwbko4cTh4dVlBel9KQkdkbG12UzBoa19hV3RiU3oxQjlhWGkyNG5GSzYwTS1nbUNGcFdaZ3pNdXltSkNoSUFFT1hTakVZQ1JsdVlQRWkxaW1Ud0VmVGpCVjRfTEE0aG4tWWFvQnRFdWR2TmJnWEMzOVE?oc=5",
-      "source": "Tech Times",
+      "source": "techtimes.com",
       "published": "2026-07-31T18:13:32+00:00",
-      "summary": "MediaTek Q2 Mobile Revenue Falls 20%: $5B AI Bet Targets Broadcom Dominance&nbsp;&nbsp;Tech Times"
+      "summary": "MediaTek Q2 Mobile Revenue Falls 20%: $5B AI Bet Targets Broadcom Dominance&nbsp;&nbsp;techtimes.com"
     },
     {
       "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - Tom's Hardware",
@@ -29,13 +29,6 @@
       "source": "Tom's Hardware",
       "published": "2026-07-30T14:35:50+00:00",
       "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
-      "title": "Just How Rosy Are Those AI Infrastructure Spending Forecasts? - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjVVaFhWRVdqcG04YUZkRjdTNkpraFM0eksxYjdzcXhkWUhSY0xxT3poT0FCLWMzYmhUaWFXcUQ5dlJ6MHB6YV8zaHk1ZFBwVGVoWGRrZnlsQllaOHFjNm1qSTRpTW9BNVBhWWxOWW5fT08zSkV4YkhUT09oRGtPeVBRQWlpUXlONlFqZ0ZESlozQkJzZUh0QVBqenI4UjBSRDlfSzRQNkI1Nkg1UHVaa1dLeDdYVjg?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-07-30T22:02:46+00:00",
-      "summary": "Just How Rosy Are Those AI Infrastructure Spending Forecasts?&nbsp;&nbsp;The Next Platform"
     },
     {
       "title": "AMD vs. Nvidia: What AMD’s Major $5 Billion AI-Chip Deal With Anthropic Means for Investors - MarketWise",
@@ -52,11 +45,32 @@
       "summary": "AMD’s Data Center Revenue Is Up 57% as Its AI Chip Business Takes on Nvidia&nbsp;&nbsp;TIKR.com"
     },
     {
+      "title": "Just How Rosy Are Those AI Infrastructure Spending Forecasts? - nextplatform.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjVVaFhWRVdqcG04YUZkRjdTNkpraFM0eksxYjdzcXhkWUhSY0xxT3poT0FCLWMzYmhUaWFXcUQ5dlJ6MHB6YV8zaHk1ZFBwVGVoWGRrZnlsQllaOHFjNm1qSTRpTW9BNVBhWWxOWW5fT08zSkV4YkhUT09oRGtPeVBRQWlpUXlONlFqZ0ZESlozQkJzZUh0QVBqenI4UjBSRDlfSzRQNkI1Nkg1UHVaa1dLeDdYVjg?oc=5",
+      "source": "nextplatform.com",
+      "published": "2026-07-30T22:02:46+00:00",
+      "summary": "Just How Rosy Are Those AI Infrastructure Spending Forecasts?&nbsp;&nbsp;nextplatform.com"
+    },
+    {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWp4MnBlZHV1MHl3OHhhNXdUSFBybTRHdFRMclFHOFMwQ0ZxeklKb0lweFFSTzRFRDAySGF3VTJCWG40NmtydFBiU3lGalZ1cHpnOE9MNGEtZzRERlZ1MlVzNHNvcG1sc2U3YVdOUklHa1BrbGZvQXY1YzgxLTBnV1RQRHFaZ3d1TTFKc1lLOV9LeG9MS1Jn?oc=5",
       "source": "HP",
       "published": "2026-07-28T08:08:24+00:00",
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
+    },
+    {
+      "title": "How Does Google Intend On Producing 15 Million AI Chips Over The Next Two Years? - TechRound",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hQTloTzRuU0ZQdmwxTllwclFCZWpXanFWcURma1YzclNtOENDblVmR29JY01GQk82ZVk2WHRDN1ppcmVZaThpeXNRSzliSm5NUkc3dzhubk9IdS1UMnZKSlR3a3k4VDRDMVVWN0tFNzdGYXJ3YnAxaU9R?oc=5",
+      "source": "TechRound",
+      "published": "2026-07-31T14:05:34+00:00",
+      "summary": "How Does Google Intend On Producing 15 Million AI Chips Over The Next Two Years?&nbsp;&nbsp;TechRound"
+    },
+    {
+      "title": "MediaTek Raises AI Market Share Target to 20%; First AI Accelerator to Enter Mass Production in Q4, Data Center Revenue to Surpass $2 Billion - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kWEtKS19WX0RuLTdtUERxaDkzUkFpYmRrVzZmOUltR1VwT0VvTjc1akpBVlZEX2QxRnVzSWRlUXk5dzJsQ1NIRXplbG1ZOE5iTUdYdmRkZndodkp0bW1IZ09sNEhTbFZHQWc3Q0NoNVRaQnVTb2c?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-07-31T13:25:00+00:00",
+      "summary": "MediaTek Raises AI Market Share Target to 20%; First AI Accelerator to Enter Mass Production in Q4, Data Center Revenue to Surpass $2 Billion&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "KBRA Releases Research – AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - Yahoo Finance",
@@ -76,15 +90,8 @@
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
       "source": "NVIDIA Blog",
-      "published": "2026-07-22T22:16:59+00:00",
+      "published": "2026-07-22T07:00:00+00:00",
       "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "As AI inflates gadget prices, Japan’s Rapidus races to add advanced chip supply - JStories",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMU5jaktZeWozSzV4dUQ4RlpoNG84RF9mb3RFSVV4WFBCMVVkNWp5SDNSWWpqcGJONlRsbmZuZ0lHci11amktS25sRDNmR2U3Xy1NR2o1Z05tNTJpbWE0R0xUdllnMXU4MzBUSDNNVGpEM1JCbU84TkdoX1hKUHdFak9pX2V3UFJQMGE5WnJPUWVqZDdVOWdNUzJBc3pIbEFab0VN?oc=5",
-      "source": "JStories",
-      "published": "2026-07-31T08:23:48+00:00",
-      "summary": "As AI inflates gadget prices, Japan’s Rapidus races to add advanced chip supply&nbsp;&nbsp;JStories"
     },
     {
       "title": "Broadcom’s $200 Billion Samsung Deal Shows How Costly the AI Memory Race Has Become - TradingView",
@@ -94,18 +101,18 @@
       "summary": "Broadcom’s $200 Billion Samsung Deal Shows How Costly the AI Memory Race Has Become&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-24T17:06:31+00:00",
-      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
+      "title": "Microsoft Azure Expanding AI Infra Choice with AMD Helios™ - AMD",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lYM2VaN3ZvWlBETGZZWTl5WUlCMmZITkc2dmtORUdwVEFBb0VtVXZuVjFBWHBEbVJVS1FsbHRPZnZHMGZqZHdEUXBILS1pdmRtQmpScTBVelBBY1JEVmUwMmJkT0U4YWJtTFpqaWE2cDVNS1lBTzIza0Y3NVBrUHRhSVl2YUhkMGEzYVV6WWt5bW1lWndNbHhxcmE?oc=5",
+      "source": "AMD",
+      "published": "2026-07-20T07:00:00+00:00",
+      "summary": "Microsoft Azure Expanding AI Infra Choice with AMD Helios™&nbsp;&nbsp;AMD"
     },
     {
-      "title": "EU Launches AI Gigafactory Bidding With Chips Still American and Cash Still Notional - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTZ2cUJaLUthWmNjTDJHaFp0dmxlUjB5cEtNb1lhS09nS0JkendfbmxLc0V5cEZwYkVKZy1NOXBlNmFjcXFWZDJNMkVIRGZZOWRBTnlON0NrOFpsd0p0b0FRYVdpeEEyZU1zRVdBWldDRV9HLThZM0FlZmNJUXN2dUI5WVRFMFpUTlR5bjB2RnNseW5KRVZvbENwNmFuanVUZDQ2dDFjOTQ1cUNveFNfR083eUE0dllDbUdhWFhjeFVhWjZUMXJtVGFn?oc=5",
-      "source": "Tech Times",
-      "published": "2026-07-31T02:15:10+00:00",
-      "summary": "EU Launches AI Gigafactory Bidding With Chips Still American and Cash Still Notional&nbsp;&nbsp;Tech Times"
+      "title": "Backend.AI Maker Lablup Wins Fastest KOSDAQ Approval of 2026 as Market Slips - techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTNvUGFVdlJOWFFDM19icW0zY1d4Smh1VUEzRHVEQkFQakFxXzluM2N3X2VSUUk2Z0FZSnFqS0xPbWQzbVNMcG5sdVBNNTBxNUIxbkUzTHZ0bDJ4b3RiZEtZU21PZUVDY3BZeXBlakdEWFZoZGd1djJ6ZWY1NzNyWHdoMDZ5X29vSW5BdkRsVnpROTlmNTlVMG9LeHZkWWtTLWtxS25aSzhTR2NYLUNlZVZQMUI1dnJOQlByOTdDTnRHZw?oc=5",
+      "source": "techtimes.com",
+      "published": "2026-07-31T21:16:01+00:00",
+      "summary": "Backend.AI Maker Lablup Wins Fastest KOSDAQ Approval of 2026 as Market Slips&nbsp;&nbsp;techtimes.com"
     },
     {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
@@ -115,11 +122,11 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnl6ajlLZW5zVEZVczNxUTN6LU1SQnR4OUZXa3ktY25QcksyeUxRb1pZRWpyVzUwcEVTa2FCSmtfU1lNT0tqcUphdWtPYmVCQWloOGswdHpORWNvemZjVno2UWxQU1kzOGx4Ty05dXE4SlA3ZHVNOHF5dXAwcXlabVQ4X2Q0cjhadUhZenRoY2dfZnhrNm50Z3pBQy1mQUs4UXhWQUpqQWYzTWZHOTZFRlFVZ2dSRUs0WmtwSHlyWkJIMDhX?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-30T14:03:49+00:00",
-      "summary": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here&nbsp;&nbsp;24/7 Wall St."
+      "title": "EU Launches AI Gigafactory Bidding With Chips Still American and Cash Still Notional - techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaTZ2cUJaLUthWmNjTDJHaFp0dmxlUjB5cEtNb1lhS09nS0JkendfbmxLc0V5cEZwYkVKZy1NOXBlNmFjcXFWZDJNMkVIRGZZOWRBTnlON0NrOFpsd0p0b0FRYVdpeEEyZU1zRVdBWldDRV9HLThZM0FlZmNJUXN2dUI5WVRFMFpUTlR5bjB2RnNseW5KRVZvbENwNmFuanVUZDQ2dDFjOTQ1cUNveFNfR083eUE0dllDbUdhWFhjeFVhWjZUMXJtVGFn?oc=5",
+      "source": "techtimes.com",
+      "published": "2026-07-31T02:15:10+00:00",
+      "summary": "EU Launches AI Gigafactory Bidding With Chips Still American and Cash Still Notional&nbsp;&nbsp;techtimes.com"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -129,11 +136,32 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1Zac1FNN3dKRkplTzBnbkhxbjhIVl91UGhNaHNFb2M2YUJKRkZXWkZaTzFYYVdTU3V3dEhnLXlIN3FwY3BiWENsYXlYZmhtXzRIYXJOV1NnaWxiYXY1a1QxR2tSU1YyVXRhV01vN2ptYmFDa3FISUtaMDY4MUJzVXAyckVVakxSN0pBc01ZM3BZbndWN1EyVmNZY3BEUXpOQXJqVk4ycjBjamMwamlvajRCZUFyUXpDYkliOHhBX1kzQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-24T17:06:31+00:00",
+      "summary": "AMD Has an Agentic AI Advantage Over Nvidia That Keeps Me Buying Again and Again&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndJQ3ltQ19yRWw3RHhQaldJYmVfN0RhSEhyUlZDQVhJeDFIalFQR0QwSWxYTnEtY1V1dWtlUFMzei0tSmVlMUNBYnRtVlJCMHBraFhBVTZ4YVdtbXpsakRMdDZiOUZjMHlFbUV4RFVuZTBiMy1Lc3RzanpyRk9DYk1Ta0JDUFZ1QmEzNWlPTWpETlZFWnRhSXkzTDNUWjRmYlJaZmVB?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-07-07T07:00:00+00:00",
       "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "As AI inflates gadget prices, Japan’s Rapidus races to add advanced chip supply - JStories",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMU5jaktZeWozSzV4dUQ4RlpoNG84RF9mb3RFSVV4WFBCMVVkNWp5SDNSWWpqcGJONlRsbmZuZ0lHci11amktS25sRDNmR2U3Xy1NR2o1Z05tNTJpbWE0R0xUdllnMXU4MzBUSDNNVGpEM1JCbU84TkdoX1hKUHdFak9pX2V3UFJQMGE5WnJPUWVqZDdVOWdNUzJBc3pIbEFab0VN?oc=5",
+      "source": "JStories",
+      "published": "2026-07-31T08:23:48+00:00",
+      "summary": "As AI inflates gadget prices, Japan’s Rapidus races to add advanced chip supply&nbsp;&nbsp;JStories"
+    },
+    {
+      "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnl6ajlLZW5zVEZVczNxUTN6LU1SQnR4OUZXa3ktY25QcksyeUxRb1pZRWpyVzUwcEVTa2FCSmtfU1lNT0tqcUphdWtPYmVCQWloOGswdHpORWNvemZjVno2UWxQU1kzOGx4Ty05dXE4SlA3ZHVNOHF5dXAwcXlabVQ4X2Q0cjhadUhZenRoY2dfZnhrNm50Z3pBQy1mQUs4UXhWQUpqQWYzTWZHOTZFRlFVZ2dSRUs0WmtwSHlyWkJIMDhX?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-30T14:03:49+00:00",
+      "summary": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
@@ -143,39 +171,11 @@
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AMD's MI450 Chips Take On Nvidia in AI Race - Gotrade",
+      "title": "AMD's MI450 Chips Take On Nvidia in AI Race - heygotrade.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fOS1MMUMyNE10M1ZaZTFQeHBMcFZYOGlPRGF2LW5YUDZHdXhmUmNOM3NmYVNYaGFkcEU5eHBfdU9rZHNPU19KdXI4LWFwY043YlBqSGFrWDNxbjZqZzBNTnVOT3AxQmVpTlJ6eEVtX2Z4NFN4ejVHSVUwQQ?oc=5",
-      "source": "Gotrade",
+      "source": "heygotrade.com",
       "published": "2026-07-23T21:57:00+00:00",
-      "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;Gotrade"
-    },
-    {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "AMD Unleashes Instinct MI455X GPU, A 320 Billion Transistor Behemoth That Is Designed to Tackle NVIDIA’s Rubin With 50% More HBM4 Memory & Up to 40 PFLOPs of AI Compute - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHpUTHRpRk1nRFZTVy1OdFhKRHVTLUQ1VjRzWVF4M2hHY3RIdkZLU0JqSThuV21RVkNTRGJ1YmR1LW9mbXBNVDJFdEZSOGdqcURUOFpuSDNpci0zRUNoRTFxX284ZFB3X2xxdTNKTDlKc19mcXQ5UEtieDZWLVE2Nm1UQVRma3dJdjkwcXRxd3h4WVZINXVFRGwxS05aekYzak9aVUxCdGVseXJp0gGyAUFVX3lxTFBXYjRTXzV0dldYS0EtdXlVWVZGY2RDR0ttd0J1Wm9MN0dpX2w5Uk9LcjhSY0lEcGZ3blRqcjEwWmVFZWtmcEN4T05TNThDRUczNGdRQzg3UzdEbHQ0V3hqc3JKQVRUMER3ZDQ1Z1lxcFdKUjd0UVVkLVBNVmJpY2QzVXhyakw1QXdqZ2ZBYzNQMXBLcTRESzRYcnNYNVVjX0d5NjRjV1MtVXlLUnRmMXlpLXc?oc=5",
-      "source": "Wccftech",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "AMD Unleashes Instinct MI455X GPU, A 320 Billion Transistor Behemoth That Is Designed to Tackle NVIDIA’s Rubin With 50% More HBM4 Memory & Up to 40 PFLOPs of AI Compute&nbsp;&nbsp;Wccftech"
-    },
-    {
-      "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN201YmZQQ1VvVDJNcVZKdFQ2S0xwRUVZYjdmeW9sMzJzbnhmNXFTdkxSV2NMQU43SDlNMDBrUVRNZUJ3WU9DQ3hkRDFmQmFrUjZoeG1maVVXOTVBcWxRU3lITmt5MDdhSEdlNEp6ekV4NGhiRm9WS1JSUjZMV0lGWW5TeDRWSm9xaXI0RjFYZHJfb3pCbmJVcWY1TnpKaHUxaVAyaQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "AMD's MI450 Chips Take On Nvidia in AI Race&nbsp;&nbsp;heygotrade.com"
     }
   ]
 }

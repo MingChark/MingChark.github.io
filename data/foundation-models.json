@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T19:39:47.778477+00:00",
+  "generated": "2026-08-01T03:21:11.147467+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,11 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Introducing the Third Generation of Apple’s Foundation Models - machinelearning.apple.com",
+      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
-      "source": "machinelearning.apple.com",
+      "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;machinelearning.apple.com"
-    },
-    {
-      "title": "LG AI Research unveils 750-billion-parameter AI model - The Korea News Plus",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajNCVzlwNEZJTWxVYmhpcXhKMGlhS1B5M0FZSmJURjN3RDNYeEl3SzJ1VEVsU0Z1QTI3QXNBRGM0RkxEbTVPc21fMUVQTVQ2QkJvZm5TVzh3X3lQcEJGV3lYajNaZ2tabTVxTTEzcllxWUhYazV3?oc=5",
-      "source": "The Korea News Plus",
-      "published": "2026-07-31T00:32:56+00:00",
-      "summary": "LG AI Research unveils 750-billion-parameter AI model&nbsp;&nbsp;The Korea News Plus"
+      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
       "title": "Building the foundation for running extra-large language models - The Cloudflare Blog",
@@ -29,6 +22,13 @@
       "source": "The Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;The Cloudflare Blog"
+    },
+    {
+      "title": "LG AI Research unveils 750-billion-parameter AI model - The Korea News Plus",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajNCVzlwNEZJTWxVYmhpcXhKMGlhS1B5M0FZSmJURjN3RDNYeEl3SzJ1VEVsU0Z1QTI3QXNBRGM0RkxEbTVPc21fMUVQTVQ2QkJvZm5TVzh3X3lQcEJGV3lYajNaZ2tabTVxTTEzcllxWUhYazV3?oc=5",
+      "source": "The Korea News Plus",
+      "published": "2026-07-31T00:32:56+00:00",
+      "summary": "LG AI Research unveils 750-billion-parameter AI model&nbsp;&nbsp;The Korea News Plus"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -108,13 +108,6 @@
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
-      "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFJBTkV0dE1NQ0w1VnJiUTliNno1X2VkUXNsRTZ2QWhzcWZ2V3ZxUnZmdF9NSDQxbFNTczVsZXBYWWVsQ20xdm1sX3pKRkZtUGRhOEIxN196WjdNYlBYczBGWnM4eVk3NEx6QnhnY21mRXVWdXFrNTNaYkUxYkhyTk1Ocno0MDIyd1pYZkQ5bUFKbThsc2dEakF0TWo0Y0dYbWtfR3hpN0RTd3gyZDlrYUNSLVZVa1VyWXc?oc=5",
-      "source": "Morningstar",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Morningstar"
-    },
-    {
       "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
       "source": "AIMultiple",
@@ -157,13 +150,6 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2g0NnJqM2FnR1A5TWhadWJvb0RNN1h4ZXJyMVFSOFVJWUVpOVNMbTBuMlVReDhpenlfcnlVYnVmdVhoLU1NdWJGc2F2Mmg4RmsxN20tRVViSGxaYWtZc19PTE11NjRYUFlKcGVCbE5lRzVIRTFRdFV5TXloOXlZdjVNZ1h4ckVvNzhGZWhwOW1LM3lUeng0R3dNQ3cxemhiR1FnSXNUOE1iVkw5dU1maGVOSzdmZldJNXE4Nw?oc=5",
-      "source": "디지털투데이",
-      "published": "2026-07-29T00:18:20+00:00",
-      "summary": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters&nbsp;&nbsp;디지털투데이"
-    },
-    {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
       "source": "TechRadar",
@@ -176,6 +162,20 @@
       "source": "Nature",
       "published": "2025-11-06T08:00:00+00:00",
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2g0NnJqM2FnR1A5TWhadWJvb0RNN1h4ZXJyMVFSOFVJWUVpOVNMbTBuMlVReDhpenlfcnlVYnVmdVhoLU1NdWJGc2F2Mmg4RmsxN20tRVViSGxaYWtZc19PTE11NjRYUFlKcGVCbE5lRzVIRTFRdFV5TXloOXlZdjVNZ1h4ckVvNzhGZWhwOW1LM3lUeng0R3dNQ3cxemhiR1FnSXNUOE1iVkw5dU1maGVOSzdmZldJNXE4Nw?oc=5",
+      "source": "디지털투데이",
+      "published": "2026-07-29T00:18:20+00:00",
+      "summary": "Krafton unveils 'A.X K2 Raon-Speech' voice AI model to advance game characters&nbsp;&nbsp;디지털투데이"
+    },
+    {
+      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     }
   ]
 }
