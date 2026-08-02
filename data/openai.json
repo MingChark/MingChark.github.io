@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-02T08:28:49.158140+00:00",
+  "generated": "2026-08-02T13:36:31.473701+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5",
-      "source": "NPR",
-      "published": "2026-08-01T09:00:00+00:00",
-      "summary": "Why did OpenAI's and Anthropic's AI models hack other companies?&nbsp;&nbsp;NPRThe OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier&nbsp;&nbsp;WIREDOpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'&nbsp;&nbsp;CNBC"
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-01T12:00:01+00:00",
+      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'&nbsp;&nbsp;CNBCHow the Futuristic Hack by Rogue OpenAI Models Unfolded&nbsp;&nbsp;WSJEXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe&nbsp;&nbsp;Reuters"
     },
     {
       "title": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ",
@@ -24,11 +24,46 @@
       "summary": "Something Weird Is Happening in Math&nbsp;&nbsp;The Atlantic"
     },
     {
-      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions - the-decoder.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk1acTc1NUo5RVlKdDVpUng0cHIzMW9kem1CbmFrWGY1a2NXUXBMV0g1TG5Fc2p0S09aR1h5YU53MDkyZHBIc1htZG5wRExZaFRQZkxSQkxkdE4zbTlQcVNwdzBldlg4a1BCSS1rUjRxSmxtVGV5Yk1mVUotam1ZbEFiZnNzcW5TdlYyT0dKYWJaSmpJRGdiYVBGUi10UHNnOUFQSjczc0hyZ2tXVVhBMjU2TlVSZzlZMEU0?oc=5",
-      "source": "the-decoder.com",
-      "published": "2026-08-01T09:33:21+00:00",
-      "summary": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions&nbsp;&nbsp;the-decoder.com"
+      "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-08-02T09:00:45+00:00",
+      "summary": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math&nbsp;&nbsp;Gizmodo"
+    },
+    {
+      "title": "AI's manifesto war - Axios",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RkVfRVh3bVdObERxcjlQZjBFaGozalNoV0g2YjNzUGQ2RTJDUjlZcHJHWWtacjFxRGZheEloUGFoRjhIOGVuR2VGRXNQV1E1eW1zSDZMT2tqZlZEb3pGQTJhZm9KeHRCREt2VTJJNmNTQQ?oc=5",
+      "source": "Axios",
+      "published": "2026-08-02T12:24:25+00:00",
+      "summary": "AI's manifesto war&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "Sam Altman says Paul Graham and Peter Thiel taught him a key lesson about investing - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemJnTlRiMHF2Y0xERnBLaGgtX2ROZDg3cmFLX0xjb1NLZGE3a2dBQy1kR3FXeVJWNUZOeHA4Uld1OTNnYkhqaU9zUVRZSlZpVF9yWmVfNUpIY3FtMWE5czQ3M2tPTld4dnJLcDR1YmhlWmZhTXBrN2JERUZ6WWJsWkRwaTI?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-02T13:18:45+00:00",
+      "summary": "Sam Altman says Paul Graham and Peter Thiel taught him a key lesson about investing&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "Why did OpenAI's and Anthropic's AI models hack other companies? - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5",
+      "source": "NPR",
+      "published": "2026-08-01T09:00:00+00:00",
+      "summary": "Why did OpenAI's and Anthropic's AI models hack other companies?&nbsp;&nbsp;NPR"
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
+      "source": "WIRED",
+      "published": "2026-08-01T09:30:00+00:00",
+      "summary": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier&nbsp;&nbsp;WIRED"
+    },
+    {
+      "title": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-02T04:24:24+00:00",
+      "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back&nbsp;&nbsp;WSJ"
     },
     {
       "title": "Amazon completes $50bn investment in OpenAI - Financial Times",
@@ -38,13 +73,6 @@
       "summary": "Amazon completes $50bn investment in OpenAI&nbsp;&nbsp;Financial Times"
     },
     {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3d6WXdRRmpOT1ZxWnhNTWljeUx4X19meWpCczFiSzdyUlNjVi1Ncm92cTdMc3BhNTB4c3dJZnNsSTlNRFo2R2FhbmMtZVI4RkVWZHRFZFpQeDJKLVZVcy1fU0Y5UnlYWl9kM2ZzeVFTYWpTU1o1VDJfcVFxdkRFR254LXNfQnQzVVRUR2pqZlFMSHNabXQtOVVTd3Y?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-01T17:07:34+00:00",
-      "summary": "Sam Altman is still making the case for parenting via ChatGPT&nbsp;&nbsp;TechCrunch"
-    },
-    {
       "title": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - The Information",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg?oc=5",
       "source": "The Information",
@@ -52,53 +80,25 @@
       "summary": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC&nbsp;&nbsp;The Information"
     },
     {
-      "title": "More than 1,200 AI workers across Anthropic, DeepMind, OpenAI, and Meta are asking for Washington’s help building an AI slowdown plan - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWtQc0R2SDN0UW1UMkhaeDRQV2g2bFQyTFZENmI0alNJUzJSM24yaUVlUFRuLWMtZHpYcFlocG5QUjJRQnp5SGFRN3Bkcng0NDN2enhNTkJrcHVwUEV3aFUtWDZGVHRTNVBTSndYb1lBMjVjWEZjOU83QVgtSk9lb1A1VUhnUFV5djdERUFR?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-29T20:52:34+00:00",
-      "summary": "More than 1,200 AI workers across Anthropic, DeepMind, OpenAI, and Meta are asking for Washington’s help building an AI slowdown plan&nbsp;&nbsp;Yahoo Finance"
+      "title": "Sam Altman is still making the case for parenting via ChatGPT - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3d6WXdRRmpOT1ZxWnhNTWljeUx4X19meWpCczFiSzdyUlNjVi1Ncm92cTdMc3BhNTB4c3dJZnNsSTlNRFo2R2FhbmMtZVI4RkVWZHRFZFpQeDJKLVZVcy1fU0Y5UnlYWl9kM2ZzeVFTYWpTU1o1VDJfcVFxdkRFR254LXNfQnQzVVRUR2pqZlFMSHNabXQtOVVTd3Y?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-08-01T17:07:34+00:00",
+      "summary": "Sam Altman is still making the case for parenting via ChatGPT&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s his advice for AI prompts. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-01T10:30:00+00:00",
-      "summary": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s his advice for AI prompts.&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI's Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGNZcG1mUFl5cUtaaExPYUg5WjRoSEZsWnJIT0hUSWtrdENNS0hMQlRUbnhfM05HQ0dFS3dzOVc3b3RoVHFuMjd4SDBqQ3plRjdHS2pJc0hXTzBNNXE5NHJaSE0tREJYaTdYOU9zY3JPeDN0c3F6MFA1M0loSmZCS1ZEWm5KTDI4QzlFb2xYT3Jvdw?oc=5",
+      "source": "Futurism",
+      "published": "2026-08-01T18:01:00+00:00",
+      "summary": "OpenAI's Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported&nbsp;&nbsp;Futurism"
     },
     {
-      "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
-      "source": "BBC",
-      "published": "2026-07-30T07:23:11+00:00",
-      "summary": "Trump considering AI controls after OpenAI hacking incidents&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlV6ZXZOeE5EZHRqQ0V6RUZXdVpiNnoxRUNHbDZVdnhocXNJTW1SMDVGZnI0d0hzdnhXLVZCcGIxb1lWdFVmV1V3VjVuWVlULWhHQmI4WWI5ZTJ1TWYxLVV0Q0pScTR6S0Jkd1RJYzRTaTc3bGN6QVJXcXdKa3NNMGxINmEzQnE0WHp5TGV2YXhldFhXeUs5Vzc5Qmc4ZkVqTms1YWZmSWltcVJhajBta0RIdHRfaDhrSGM1OXlhblFHRzQ?oc=5",
-      "source": "reuters.com",
-      "published": "2026-07-30T17:01:43+00:00",
-      "summary": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend&nbsp;&nbsp;reuters.com"
-    },
-    {
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-30T17:01:09+00:00",
-      "summary": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI Surpasses One Billion Users After Cutting Prices - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXdiRTNDR2poMG5NTmxiZ2ZLdnMxWWpSQjVFWHlCenQxR3FBd2tKSHpFdWNWVnc4Vlh5VTh5djMzenRFdTF1c0k0NDVKMWVSNDkzSmRvUjZ3V3B2VlBCdzVoME5vb3V2UzJ0dEN5bVdkZGdtS3ZVdGxERmg4ajZhYzI0NEpfTkcwRDFGTXBvaGQxUFZqTmVz?oc=5",
-      "source": "WSJ",
-      "published": "2026-07-31T16:35:00+00:00",
-      "summary": "OpenAI Surpasses One Billion Users After Cutting Prices&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Celestica Wins OpenAI/Broadcom Contracts - AI Shovel With Premium Growth Prospects (CLS) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmZ2NVJtYXc5Yzk3ZUZrcGVjcnVROXN0SHBZUFE0R2lLSlR2QVZtNXdjSnBNSS1SM1NFXzBHbU5TNGpxV1BLMEpaamMtT2phNjBidUJpUzhzZjJDcklxYUdlTjlVa19pbkxpSjBzMzItMkVlVzBSUWlHTThTd05tc0xYU0l1N3MzOFFXOVhjclRUMUU1am1TaHpGUGJvaTJXNGZWM0JZaDRuVFY4OUV1OGlRX1gySDBJOVpHbw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-01T13:12:29+00:00",
-      "summary": "Celestica Wins OpenAI/Broadcom Contracts - AI Shovel With Premium Growth Prospects (CLS)&nbsp;&nbsp;Seeking Alpha"
+      "title": "OpenAI in Georgia: How $20B data center plan secretly took root in Effingham - AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0IzRkxPYXdYWG1qcmhkN1dHR21EZENFMWxPUkZQNjRKMGZub3dzN2dyVzc2SThnZ2NVdlRDeHY0d3hCcXBySUdLbXI1X1dmVXE0MjRuU092QldFeDAzYTc0RlMtQ09fNXVvb2RwcVlpd3VYMkJlUG83c0cxX2dLVVc5akFiOTFJbWtUTUY4bHlaVWk2b3AyR0paUzdKSU83c2lQaWVPT1VLMHd5?oc=5",
+      "source": "AJC.com",
+      "published": "2026-08-02T09:02:29+00:00",
+      "summary": "OpenAI in Georgia: How $20B data center plan secretly took root in Effingham&nbsp;&nbsp;AJC.com"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
@@ -106,13 +106,6 @@
       "source": "OpenAI",
       "published": "2026-08-01T16:26:45+00:00",
       "summary": "Ten advances in mathematics and theoretical computer science&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-01T11:21:19+00:00",
-      "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back&nbsp;&nbsp;WSJ"
     },
     {
       "title": "OpenAI's AI went rogue and hacked a website. It's a sign of things to come. - Yahoo Finance",
@@ -129,25 +122,11 @@
       "summary": "Inside OpenAI’s Hack of Hugging Face&nbsp;&nbsp;The New Yorker"
     },
     {
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "source": "reuters.com",
-      "published": "2026-07-31T20:16:00+00:00",
-      "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe&nbsp;&nbsp;reuters.com"
-    },
-    {
-      "title": "AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXRmTGxuNzJYbE9wa3JYVHNfeHEzRTZLd2JlZXNjMThMTUVCOG5YZXd4Z0RpR194c2hGYTlzQ2pORnR6bGlOSFN6UE1ZdEFoWFlsdWlRNlB2a0FjeWtwaXN4V0FsSFl1cVFYc0dsNDVQQ09zbkdtaWFTRVZfbmJNb2tXbkZZVDlPTEdCWHFKNjU4TWpycEt2YWxSZ3FaaDhnVnFRM3BLdm1BWDNXVWk2ZnpqSkZoZEd6QVE?oc=5",
-      "source": "Forbes",
-      "published": "2026-08-02T01:52:25+00:00",
-      "summary": "AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed&nbsp;&nbsp;Forbes"
-    },
-    {
-      "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5",
-      "source": "Politico",
-      "published": "2026-07-29T00:57:00+00:00",
-      "summary": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack&nbsp;&nbsp;Politico"
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "source": "Anthropic",
+      "published": "2026-07-30T23:03:16+00:00",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations&nbsp;&nbsp;Anthropic"
     },
     {
       "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - Al Jazeera",
@@ -176,6 +155,27 @@
       "source": "OpenAI",
       "published": "2026-07-30T20:29:58+00:00",
       "summary": "Advancing the price-performance frontier with GPT-5.6&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-29T22:59:55+00:00",
+      "summary": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-07-29T03:21:52+00:00",
+      "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers&nbsp;&nbsp;OpenAI"
     }
   ]
 }
