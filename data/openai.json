@@ -1,34 +1,48 @@
 {
-  "generated": "2026-08-05T02:48:50.759468+00:00",
+  "generated": "2026-08-05T08:41:43.422702+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "Safety testers find more examples of OpenAI, Anthropic models hacking during testing - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1ZreklXNFJlMU4yVlZFRE81NWhyc3U4ZUk3T3FueEx3NGxHRzQwUnk3alBsYjdBYzVZemc5WDdfdllhWE95TGYzbERlNGpqQ3d3X2VrenFjNVNqWmdtd2gxNWd2Y1c4S2hhOFQyQ1hZdU5TVEhxUElHTHRpLXliYWtvaDFWSjgtd0o3eDR4TTh0eWtEY2J1Y3llZ3BWMDJvRy15LWFtMmRZX3kyNFctMFl6RV9hY0hQLXRjdXJ5X1dFS0d2?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-04T21:23:49+00:00",
-      "summary": "Safety testers find more examples of OpenAI, Anthropic models hacking during testing&nbsp;&nbsp;CNBC"
-    },
     {
       "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
       "source": "Reuters",
       "published": "2026-08-05T00:41:00+00:00",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches&nbsp;&nbsp;Reuters"
+      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches&nbsp;&nbsp;ReutersOpenAI and Anthropic Model Tests Reveal More Hacking&nbsp;&nbsp;Bloomberg.comAnthropic's AI used fake human profiles to trick people in safety test&nbsp;&nbsp;BBC"
     },
     {
-      "title": "OpenAI, Anthropic Model Tests Reveal More Hacking, Deception - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-04T21:31:27+00:00",
-      "summary": "OpenAI, Anthropic Model Tests Reveal More Hacking, Deception&nbsp;&nbsp;Bloomberg.com"
+      "title": "How an OpenAI influencer trip backfired - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1p6dHlXSjdCMWs0Q0lNWGluTm81NGpOM0Y1cmhvRV9ZNzRaVUR2Q1NycEFPenJ0c1BybTdjX2daa0lDS3VzTTV4MWhvSWxrTjlESFdtdkhVMTBHQk9XX1huZ19qMkhzblg4REZFcFdrOElyTlQtNThfOElOZ0E3U0cwbF9wZjlySFZFSHRZYU1HQQ?oc=5",
+      "source": "The Verge",
+      "published": "2026-08-04T17:46:41+00:00",
+      "summary": "How an OpenAI influencer trip backfired&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight - ft.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTRDRm4xdDRqMERmaENHcDBtcGZrNkNNRlZ5VmdPdUZZRmZMNWZFZW4xS0syTDZqQzdrZEtXTmZoZ1plaURDUlpxa21BX3Ixb0NHc1dOdElWSEQ0dERoeXJmOWVacVZkekYyQzd3MDdkZHpZUGhUczZoaGFvRmZ1WTBQWV8?oc=5",
-      "source": "ft.com",
-      "published": "2026-08-04T10:31:00+00:00",
-      "summary": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight&nbsp;&nbsp;ft.comApple seeks preliminary injunction against OpenAI in trade secrets case&nbsp;&nbsp;ReutersOpenAI fires back at Apple, publishing private emails to counter trade-secret claims&nbsp;&nbsp;Fortune"
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSW5ZX3FkYWNobjZ5NzRLV0Q4RUpUTWVhWFJPekhtZ1BZXzBvV01OMzFhNEQwX0NKZzVHZVNHRURuZ2UzTTdDSlJ2QTVySU43bndzQjh5b3VLUjBiS041UHc4N3V6WXdOd2hVSGhEc2hFTWszWDduWk1XUF9YXzZGYXNQNkJJVlFXQUFnQlZ0ZmQ3NTlQWU0ybFREUW1zZnkzN01MdnJEOC00Zw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-08-04T14:03:01+00:00",
+      "summary": "Apple says more ex-employees may have taken confidential data to OpenAI&nbsp;&nbsp;TechCrunchApple seeks preliminary injunction against OpenAI in trade secrets case&nbsp;&nbsp;ReutersOpenAI fires back at Apple, publishing private emails to counter trade-secret claims&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "OpenAI reaches $3.2 million settlement with DOJ over claims it discriminated against US workers - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1cxRHJIN1YtQldkdUFDVWs2eDJ6RDRraGJ2UTBudUVpdXVIV0s2UnZXUHc2aHMzaUZyQUdaOWlXTmZoOS1ucDBRQV9BcFZwVzNDRW1HTktNREZhanp6RXl6cmRPcjQzLVJzeDBseEdCLXREQWdRNWxSTVpERUl4N1ZGZTNvTzB5ZUw1NFVOWVJNOTdSSGdrbmwzWGlDUQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-04T20:36:00+00:00",
+      "summary": "OpenAI reaches $3.2 million settlement with DOJ over claims it discriminated against US workers&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlaQVh5QlR5VzNFU0VLRjhzZklNWkVwWTRTNi1FMWw5RGxTVHdtbzRheDBYTjZ5aHAwbVhRMFZjTHVRT3lBMmVNcUtqMnZaaTRnV1B6Y2dONXU1eWJpSi16NmdyZWlVa3k3QmdJc2RDM0g0X0ozM2tacWJ2a3BFU0Zkd1pDM2dOXzl6akFpT1FPSEViZ3Z4blRUc2g0eG1CN1B4ZW5yTzgwV0Ztc0pjTHg1RnRub2RWT3VISEtnV2jSAcYBQVVfeXFMUGE1cXd3MmY4dU85X3lzcnNLTE4wc0Y2MVRrOWhTRHp4b1FVSlZBTTJJSGxZcllmdGpBUmtmLWlYME9kR2dFMHIyMURqVS1XaGRGeDFLS280UFRKREFOTG16YlRlbC1fNnBzM0hhYmoyODh6RnRFQzJTZDlwRTU1QURreURGXzFjUWxmQVBKRHNtaHo5M1JUM0I5dlZtcEhNSDBpT01mb3VuaE9EYXhvNHRueDZodWtFeFFzc0pwZ0NnenpGbEdR?oc=5",
+      "source": "Fox Business",
+      "published": "2026-08-05T01:44:00+00:00",
+      "summary": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans&nbsp;&nbsp;Fox Business"
+    },
+    {
+      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-04T19:24:09+00:00",
+      "summary": "OpenAI pays $3.2 million in US probe over hiring foreign workers&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Watch OpenAI Hack Could Have Been 'Way Worse,' Hugging Face CEO Says - Bloomberg.com",
@@ -45,109 +59,95 @@
       "summary": "15 attorneys general have instructed OpenAI to preserve all materials related to the Hugging Face hack&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnY0ZzJxc0lELWdxa3ZSUEdEb2xfbHk3UlFCZmlKVVNYWkdUYVR1clJmSk9oLTExcEdYS2ZYQk1BdDhOZGU2OFRPWFo3bDdnVGdMcE5OWHJHT3pVd3ZUczZVOEE0d0lxTHVtdWlKV0dvYWtOMGpHRjZQeGxCV0ZLU2JlQTJjdzV2MWtLOU5DU0cybF85bzkzcGx3?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-08-04T13:39:18+00:00",
-      "summary": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks&nbsp;&nbsp;Time Magazine"
+      "title": "Inside OpenAI’s Hack of Hugging Face - The New Yorker",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSnVfdklSQmtTZTVVQzN5WnozOG5zVVVxLVdoYkgzejlGSFMzTzF1UmV2enp2OGRsUHM2X3k5U3JveU8tdzFyT3h5SERwRWlOWFVtbnZDWkQzZFZGdHEzbWctRHpObjFCNXpja3ZINVpkRHQ0NnBxblhucXNXSjA?oc=5",
+      "source": "The New Yorker",
+      "published": "2026-07-30T16:01:36+00:00",
+      "summary": "Inside OpenAI’s Hack of Hugging Face&nbsp;&nbsp;The New Yorker"
     },
     {
-      "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJOQ1NUYjZjQ2RhS091TnNpc0pDdXNyazQxOURLaDUybjNiUEV6OHJfR2FKcC1UaUNoZnVnRDJNUDB1QVdlUzFOSDBPcGRQRWRDUWdMWmZCRHE4bmZQNXlWZ0otMmVQNXBBTTN0UTczZmZ3LVpFVWJUWlVuVGJyOG13WmdNZm1pbW9sZzZPTk10NWc5TjRhNXk4SEdZQV9oX1hPczM3RQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-04T19:24:09+00:00",
-      "summary": "OpenAI pays $3.2 million in US probe over hiring foreign workers&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI pays $3.2m to settle claims it discriminated against US workers - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGdBZ3owUlBRekJPSW5BTUFnREdjbFFlSVRFUklkbl94b05ua2kwdlBHMEc0U2ZHdzJZQzVSRE5icVlPRVFQVVdfTHAtem5UY3VpVU9Ta3hrVW5YZFFfS2hLRTAyR3hVOWVqV3JQTEhSXy1hVm9CWEpYRXNVNWlGVXhZS0VxeU1UM0dJWmJXSklmU0tLeUNpRW1R?oc=5",
-      "source": "theguardian.com",
-      "published": "2026-08-05T00:58:00+00:00",
-      "summary": "OpenAI pays $3.2m to settle claims it discriminated against US workers&nbsp;&nbsp;theguardian.com"
-    },
-    {
-      "title": "OpenAI to Pay $3.2 Million to Settle Claims It Discriminated Against U.S. Workers - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjNCNW42X2lZUENRamZhVlVBb0htODQtMG0zbm15NDh6aEF2aDBqd0xtcFpMa29PR1VHZGgxbW9SYkhlQ0NYVFFMRFlmZXBnXzNPcmE1RUFKQmJSUXMxMFVRal9WLXBDaUJfX0s3X2hMM1NVTHF1MTh3R3pmbF85Sm1ORFdxTGVZMXJDV0lfcG40MHhYb1AtUzJJRllvOVh0RmhMM0VCLV9ubjlHQ3VQckh1UTd1ZEV3X0dCYw?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-04T21:06:00+00:00",
-      "summary": "OpenAI to Pay $3.2 Million to Settle Claims It Discriminated Against U.S. Workers&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Former OpenAI exec Fidji Simo’s health care company has analyzed 3,500 vials of blood with AI - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhnYnprYTVaR01oZDV0am0wbXdyNzQzek9oc0hHVnAzYjdOVUVSc3Bua2ZVTVFncF91cFhtVGJJSmJBeDB2ZXVfVzNFWExrem91dnFSWE5idWxBVVk0bDROVHdUbUJJQ0w0TUFRdEdSbzNoZFhpU0R6OXp3VHAyYzluV2RqeTNfQmJlY1JKZG9FenM2QTkxMUVFTnVCQQ?oc=5",
+      "title": "OpenAI's Greg Brockman gave $5.5 million to protect the home of an internet-famous bald eagle named Jackie - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNMZ3J4WTVpMHZfQzhGZm9HZVV3QmhZZWI4ak9STHQzaDVVZU51ZVRGTWdCTlJmV29aSGQxWTAzWXI2bmNvbFNQRUR5WVFSUTBRNjR4NEpBX0VZNFdRRmxBa29CS2dGNExPWk11MFhSMC1KRHhObEx4ZzctZVZuLVBWYWV2Q0l3TUVIV0JaLTMyaEhxc19TNHB6VTd4WUFfbGVyTnRRMkU4d28xNHhwaUU3c2doUQ?oc=5",
       "source": "Fortune",
-      "published": "2026-08-03T19:23:00+00:00",
-      "summary": "Former OpenAI exec Fidji Simo’s health care company has analyzed 3,500 vials of blood with AI&nbsp;&nbsp;Fortune"
+      "published": "2026-08-04T07:01:00+00:00",
+      "summary": "OpenAI's Greg Brockman gave $5.5 million to protect the home of an internet-famous bald eagle named Jackie&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Microsoft cracks down on tokenmaxxing - Sources | Alex Heath",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYTZ0RnlqcmpIU25jWENEVXhTMm96cnpuRGRMRG95b0lpLTNhZTBlaDVMQkRMX1dJZ2VUeUoxZXdoVlFkSk1FenJkVTFTWVMzcV9QWkp0Rlg2OGwxeUVaVlo2TmxSVWlkczR3NQ?oc=5",
+      "source": "Sources | Alex Heath",
+      "published": "2026-08-05T03:32:44+00:00",
+      "summary": "Microsoft cracks down on tokenmaxxing&nbsp;&nbsp;Sources | Alex Heath"
+    },
+    {
+      "title": "OpenAI and Clearlake Capital Partner to Accelerate AI Adoption Across Clearlake’s Portfolio - Clearlake Capital",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnljNkNqZjhDOUZhcUVaVlVUU0hhRzR2UDZNendaMVJMYlZ5T3NvTnJsQTZTdTVJTmR1QmhycUNjMUxsRHYxVVB2Z284OVZVeUMweWJoMnpJZHdVS0hqdDRVN3kxNUJPTEt2Uk5sd1dnc1pVOGJEenNPUkhMU1ZzckEyZkZCWVpEUW5EamNfaWkzVnQ0WGpfRkVhYXN1MnhyNjhWREFwN3FTeF9zZkRDWXJubnA3QVU2X0E?oc=5",
+      "source": "Clearlake Capital",
+      "published": "2026-08-04T11:05:40+00:00",
+      "summary": "OpenAI and Clearlake Capital Partner to Accelerate AI Adoption Across Clearlake’s Portfolio&nbsp;&nbsp;Clearlake Capital"
+    },
+    {
+      "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-04T22:17:11+00:00",
+      "summary": "Trump White House Readies AI Framework to Review Security Risks&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "US House panel seeks briefing on OpenAI's AI agent security breach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-03T21:31:04+00:00",
+      "summary": "US House panel seeks briefing on OpenAI's AI agent security breach&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Biggest Questions From White House Meet With OpenAI, Google, Anthropic - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0JwU0VnZkVUckZlVVRqZldXWS1CbHpFNWY0ZGhfVW53NW5ySVlxeXhBNDg5cm40SEFNMU1XNTNqQS1Yall3REstNlNFUkhNRXYwSjhGQW4zRWhHTDJfLV9uTFFqOUJJU0dpeTZnU0VaaUNGVDJwak1JV0pna29SX0lOTjcxNlFMLWdGVmFIb2hsMVVDb2xZZE53aGoyQThna0lzQ3ZVaw?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-04T23:26:00+00:00",
+      "summary": "Biggest Questions From White House Meet With OpenAI, Google, Anthropic&nbsp;&nbsp;Business Insider"
     },
     {
       "title": "Inside a Mass Shooter’s Harrowing History With ChatGPT - Mother Jones",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGNFRzFQSWgyYkhIdURMZ2dmXzhiUHNoWExSVzdnaGduNkw2R1pGdVB2Q1JOWkpDejRkRnpFbjFjTXo0Z1BnNVZvYnk1YkxhUVlTdnNoZUh4aVZwSmQxb1dkdzMwWjFvWUVIc1JkemtYOVdyT1lKMlFGUkNoTERMUHhuMTJiaU13R2hnc0dR?oc=5",
       "source": "Mother Jones",
-      "published": "2026-08-04T14:52:35+00:00",
+      "published": "2026-08-04T15:54:35+00:00",
       "summary": "Inside a Mass Shooter’s Harrowing History With ChatGPT&nbsp;&nbsp;Mother Jones"
     },
     {
-      "title": "OpenAI’s luxury brand trip for influencers blasted by online critics as ‘dystopian’ - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZS1wZ091dlpoRVZLbFlQRXhCci1uck1xSlYzSnBxZmZtQjdGdlBNYjk3VDBDM05ibmV3Uy1abkUyb0o1VGdvdk50cmpMdmZfemJORDZleGxRajY3UWdLeEVZVTJUZFVxRzFzMnZ2SkF2bkM0Yk03S3QxQWtzUE9UWXpSZ3dWMjUxVGJYVjV4WXQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-08-04T00:42:00+00:00",
-      "summary": "OpenAI’s luxury brand trip for influencers blasted by online critics as ‘dystopian’&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-08-05T02:05:57+00:00",
-      "summary": "White House will exempt ‘open’ AI systems from security review&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-03T23:26:37+00:00",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-04T23:03:04+00:00",
-      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI’s amazing — but vastly oversold — new model Astra - Marcus on AI | Substack",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
-      "source": "Marcus on AI | Substack",
-      "published": "2026-08-02T21:25:27+00:00",
-      "summary": "OpenAI’s amazing — but vastly oversold — new model Astra&nbsp;&nbsp;Marcus on AI | Substack"
-    },
-    {
-      "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud - The Record from Recorded Future News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aNHJGT1VqSEpUQlZCYUlMN2c4UG1rd0txVURQa2JERV9zRVVBdmp5MDBMOVZ2enVkVzVqcHlKN0dRSnVfQnlMWDRuVzBVdXhfUm5fd2dxQWZ6YWQ4eUdwWXB6VnpET2cwdWtaYmRxczFYZFVMTFFfdXlfMA?oc=5",
-      "source": "The Record from Recorded Future News",
-      "published": "2026-08-04T20:49:29+00:00",
-      "summary": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud&nbsp;&nbsp;The Record from Recorded Future News"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models - OpenAI",
+      "title": "Third-party cyber evaluations involving OpenAI models - openai.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENBNFQwQ0gzSm1EbTFlZmNhZmhBX2RPYzRSR3E4YUYtNmNsYnZ2Ml9ncDN4TGJOOExiSkNxYlhTbV9Zek1kSmZxVUYxck93bWc5VnpGcE11X1RRYWhnZDZZNC1XalhtMVgzNFc4WHBwVmNzM05tMHo1aV9jM0YtUndhbG1JZw?oc=5",
-      "source": "OpenAI",
+      "source": "openai.com",
       "published": "2026-08-04T21:05:32+00:00",
-      "summary": "Third-party cyber evaluations involving OpenAI models&nbsp;&nbsp;OpenAI"
+      "summary": "Third-party cyber evaluations involving OpenAI models&nbsp;&nbsp;openai.com"
+    },
+    {
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFh4R2tCZU4wRFJjSmhLWUJKclduSFFBaVdCbW9LTnE5R3U5NGxXcDV2QWtJX3ZDZkpnU0k0cmNLd3o5ZXFWelJIZHZpNTFMS2t2MVIwRXUwSUliczZlLXRtWXFwQjFLOVRkc0piUjJVSUFSdDdfSWtra3RlVU45SmtjZVhLdw?oc=5",
+      "source": "Politico",
+      "published": "2026-08-05T03:00:00+00:00",
+      "summary": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing&nbsp;&nbsp;Politico"
     },
     {
       "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NQ3pabDlYdEZVeERBX3N4b095NmhxR0dwYnRpNDZ2bXAyeFhMMFZaLUt3THB6aWtOUDZuMkFOWjJUdnVLR3dmeTFvbTFleUpxeWpuZU1fM1F0X25TWEFOTnAzU2M1STNGdklaZ1NTUmo1VExLeWc?oc=5",
       "source": "Axios",
-      "published": "2026-08-04T17:09:33+00:00",
+      "published": "2026-08-04T17:28:16+00:00",
       "summary": "OpenAI to pay $3.2M to settle DOJ worker discrimination case&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSW5ZX3FkYWNobjZ5NzRLV0Q4RUpUTWVhWFJPekhtZ1BZXzBvV01OMzFhNEQwX0NKZzVHZVNHRURuZ2UzTTdDSlJ2QTVySU43bndzQjh5b3VLUjBiS041UHc4N3V6WXdOd2hVSGhEc2hFTWszWDduWk1XUF9YXzZGYXNQNkJJVlFXQUFnQlZ0ZmQ3NTlQWU0ybFREUW1zZnkzN01MdnJEOC00Zw?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-04T14:03:01+00:00",
-      "summary": "Apple says more ex-employees may have taken confidential data to OpenAI&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5",
+      "source": "Financial Times",
+      "published": "2026-08-04T21:46:13+00:00",
+      "summary": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI’s amazing — but vastly oversold — new model Astra - garymarcus.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
+      "source": "garymarcus.substack.com",
+      "published": "2026-08-02T21:25:27+00:00",
+      "summary": "OpenAI’s amazing — but vastly oversold — new model Astra&nbsp;&nbsp;garymarcus.substack.com"
     },
     {
       "title": "OpenAI Responds To Apple Lawsuit—Says It Doesn’t Have Nor Wants Trade Secrets - Forbes",
@@ -157,6 +157,13 @@
       "summary": "OpenAI Responds To Apple Lawsuit—Says It Doesn’t Have Nor Wants Trade Secrets&nbsp;&nbsp;Forbes"
     },
     {
+      "title": "OpenAI's advanced models have gone live for government use - Nextgov/FCW",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWJtVnotYm93dFdkWWp1eEJNSEg2S05nak5rMWo4MUpnT1J2eDlIVmhISkdqNThjRGIyMC1ZVzBkTnlDTF9NU2pyMUtraERydzRGY0swQzV3QjZ6eTZvcWRyT1NMbFNpWVhsNE1QaW54Y2s4QTVhODRTcW5WbHdlb2x5V2pDLTNVbDVKZUpEQkt4eUF1d3M0MHNINU9iaG5sMkpSSXpsM2VBTFRlN0E0Yk03bVZXMk5WdlRZRVByYXlZLU9pMnRzejZnZldqeUZmR182YTdSTQ?oc=5",
+      "source": "Nextgov/FCW",
+      "published": "2026-08-04T21:46:00+00:00",
+      "summary": "OpenAI's advanced models have gone live for government use&nbsp;&nbsp;Nextgov/FCW"
+    },
+    {
       "title": "AISI, OpenAI report more ‘unsanctioned’ model hacks - CyberScoop",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jTGp3LTA0dExsYzJPWVRYOUFtWDlfajVRNFVLandETW94Y2xiYkJQVVZPQWJOeUdhNFlzc044X05fTmN2SzQzRjVhd0ZraEJiUjl3TFFGalh4dm1ES2JkLXA4NW1rNVdjNVl6a0NoMVhqc29KMVFzaUpR?oc=5",
       "source": "CyberScoop",
@@ -164,18 +171,11 @@
       "summary": "AISI, OpenAI report more ‘unsanctioned’ model hacks&nbsp;&nbsp;CyberScoop"
     },
     {
-      "title": "OpenAI publicly pushes back against Apple lawsuit after new filing - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnhiMU0wZmQ2ajBPaDRHemo4YzhBSHUxWEFpeERDQVhWOGlKZU5fRWxuT1pkRk5YWjJJRzN0SDA3N2lubXNucGRzWldIYlpCUHJXR2dZamNUQk9QejZ1YmVtOXdraGRESnZtQTlvZVhWWnJfOV9hS3ZqMXNVaE5QVk1IeFNXZEMtTjdqMzlRTEtvNGM?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-08-04T23:01:37+00:00",
-      "summary": "OpenAI publicly pushes back against Apple lawsuit after new filing&nbsp;&nbsp;SiliconANGLE"
-    },
-    {
-      "title": "OpenAI settles claims of discrimination against US workers for $3.2 million - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXFHYUlhNnN6S09IODhSM2dKX0owTU9KNGVmOHd0dkFZRWd3WWJiVVRBMUxFMl9zWXE4NXJ5R3lxbGhyV2N6d09Va2o4MGV5ZFV2YWU3Vm1UUmZqdkpQb3AycVVpdHcwZldsVmdTZm45MlZvZ3g1dk9tZEFkNDEtX043UU05TmRZQmxucktoNEs?oc=5",
-      "source": "Politico",
-      "published": "2026-08-04T22:14:00+00:00",
-      "summary": "OpenAI settles claims of discrimination against US workers for $3.2 million&nbsp;&nbsp;Politico"
+      "title": "New ways to learn and teach with ChatGPT Work and Codex - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GV1MyNmtiTnBOV2JLaWpxQWJad2doUFB3ZmRVLUlOdUVrSkE5bDNGblNWZklQNDBiOGo3NGpTNTZ1YVZJMHBPRU5YNExpbWNzeG9kazh5MFNydUY5UGdFOExQby03SEU?oc=5",
+      "source": "openai.com",
+      "published": "2026-08-04T17:18:29+00:00",
+      "summary": "New ways to learn and teach with ChatGPT Work and Codex&nbsp;&nbsp;openai.com"
     }
   ]
 }
