@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-06T08:43:03.093325+00:00",
+  "generated": "2026-08-06T14:21:16.441840+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWkNQQXhGQmZ6QXRESTJ3RU1SaU15b0tudy1EN3JOQ2VUUTVZQWFBaXlPbldnV2oxNHJxSzlrMHR6SmQ0VGgxMlVCSHRoNEdjSVkyLTFUbFg?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-08-04T15:07:02+00:00",
+      "summary": "As AI Increases Demands on Memory, Storage Steps Up&nbsp;&nbsp;NVIDIA Blog"
+    },
     {
       "title": "SpaceX backs Nvidia exclusively for future AI infrastructure - The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjhESHluUEFWSzlpTWh1ZllWRlFsNWktSFQ5QTB6U2NpdS00YlV4VkVvNmhaRTNsNm1LU0VSaERJdUxtWmd6UFVKT3FyY3EwRGxrWEdGSHFPN1BzdTU5a1BlV3lBQ0hTU2gySEJGTjZCRkhBTGRoTWV4Z0VKNmlBWFJucm1mOU1LZjI2RTRXYnBqT28?oc=5",
@@ -17,20 +24,6 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZElfLTBrbWtZM19TX0UzWXFZRTVZN1E2S1d5TTBmVHlTN0JTSTZzeXdFVXVDSlhDOXN2MFVLUXN3bndYSEVTamtWU3hYUFluZnhkTklzcVNqa3BNRElJeEhYcnFNRVN6Q2FjREtMWHR2NWhQUHVnLUFudzNHd1lHb3hpbTlOUUQ2MUx6RVVUNGhsVXE3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-05T14:09:58+00:00",
-      "summary": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "As AI Increases Demands on Memory, Storage Steps Up - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWkNQQXhGQmZ6QXRESTJ3RU1SaU15b0tudy1EN3JOQ2VUUTVZQWFBaXlPbldnV2oxNHJxSzlrMHR6SmQ0VGgxMlVCSHRoNEdjSVkyLTFUbFg?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-08-04T15:07:02+00:00",
-      "summary": "As AI Increases Demands on Memory, Storage Steps Up&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
       "title": "Alphabet Stock Could Soar as It Targets the $300 Billion AI Chip Market Dominated by Nvidia - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUdaanR6STBHdFFMaWNXT1lXUTNJcHBrQVExOFlqY2N4UVQtUVlEYzJrWjVYbXFDRmdCS3g1WkJnRGJCOFBNREpqQnhlWk1SNmZsT1A2b2FFaTYzczF2WVlqUUhUR1dxR1QzRzV3dk5oWEpFb1NycWxod0l4OG5aMTNYTW5EdjhsdDVRVnpuQmxVeEQxSFE?oc=5",
       "source": "The Motley Fool",
@@ -38,11 +31,18 @@
       "summary": "Alphabet Stock Could Soar as It Targets the $300 Billion AI Chip Market Dominated by Nvidia&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges - thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iZU9qOHQyXy1FTExQcllLVnMtU3dSMTZweTM4MjYyQVR0REY5MHdfd3dyVEpqVjF1T0Nzbi1NczFtanF0TTZpSlFPbWRlU2dBNFhCejRSYm56dmFUZHN0SE1zU0NEYWM?oc=5",
-      "source": "thelec.net",
-      "published": "2026-08-05T22:39:56+00:00",
-      "summary": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges&nbsp;&nbsp;thelec.net"
+      "title": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZElfLTBrbWtZM19TX0UzWXFZRTVZN1E2S1d5TTBmVHlTN0JTSTZzeXdFVXVDSlhDOXN2MFVLUXN3bndYSEVTamtWU3hYUFluZnhkTklzcVNqa3BNRElJeEhYcnFNRVN6Q2FjREtMWHR2NWhQUHVnLUFudzNHd1lHb3hpbTlOUUQ2MUx6RVVUNGhsVXE3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-05T14:09:58+00:00",
+      "summary": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AMD unveils AI GPU to challenge Nvidia’s Rubin - Network World",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHkzTVR1SjMweFhleTBMX3NEU0RBUFkyZk1lWXY3YzdKZjJOOXI0TFc0cEJpQ19PWVFidUtZOWpYblExWWhCV05fZWRUZ2p4WTVRTjFiZXFHZTNLVWEwR2NnUlhsd01QME8yVTFjUXJOSXJuZjMxSC1mR0EzcGpKM0hDX0NhWTg4ZnREU29aSUxFVFh0bldocFlBbw?oc=5",
+      "source": "Network World",
+      "published": "2026-08-03T16:28:47+00:00",
+      "summary": "AMD unveils AI GPU to challenge Nvidia’s Rubin&nbsp;&nbsp;Network World"
     },
     {
       "title": "Top AI Semiconductor Stocks 2026: Investment Guide & Analysis - Intellectia AI",
@@ -52,18 +52,11 @@
       "summary": "Top AI Semiconductor Stocks 2026: Investment Guide & Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "SK Hynix — Not Nvidia — Has Become the Most Important AI Chip Stock on the Planet - 247wallst.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3EtR051MjNxVUVBc3N1cGMzZTRCUjJtRXhHQVZzSkJDMVcxd1VBRE0tN1BKY2N3OWg5VWpqSXdHUWJkdzdzcHpnUzh1NG5GU3RFN2ZLWEo0MnJoSDVRVU5pdm5qU3IwUGZ2TmZacVU3emw4VUxmMWVrbHlrTnVhSXVWdDFvTmNZN0c3N2c1NnNFZnQydWFOenN0ajlsLWU3c0ZKSEdqQ0lxcC1xcG43REloTWR4VktDOFJfQ21R?oc=5",
-      "source": "247wallst.com",
-      "published": "2026-08-04T13:50:42+00:00",
-      "summary": "SK Hynix — Not Nvidia — Has Become the Most Important AI Chip Stock on the Planet&nbsp;&nbsp;247wallst.com"
-    },
-    {
-      "title": "AMD unveils AI GPU to challenge Nvidia’s Rubin - networkworld.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHkzTVR1SjMweFhleTBMX3NEU0RBUFkyZk1lWXY3YzdKZjJOOXI0TFc0cEJpQ19PWVFidUtZOWpYblExWWhCV05fZWRUZ2p4WTVRTjFiZXFHZTNLVWEwR2NnUlhsd01QME8yVTFjUXJOSXJuZjMxSC1mR0EzcGpKM0hDX0NhWTg4ZnREU29aSUxFVFh0bldocFlBbw?oc=5",
-      "source": "networkworld.com",
-      "published": "2026-08-03T16:28:47+00:00",
-      "summary": "AMD unveils AI GPU to challenge Nvidia’s Rubin&nbsp;&nbsp;networkworld.com"
+      "title": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb - crn.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEhLbXZLS1NjSWVyR2Jyby12aVdmaWVxekJVYkFzYWNXSkdja0cxY0RTaVJ0QkFPMUdDOHdqY1NaYmtaTXR3ZkxKSURkQUdlc0lETGV3aC1wWktxb3BuVndfSGRLNmlNU1lMdHo4b1BTdy03N0V0eVhqYWg3RWpQMU9uS2lON2ZOa3RDZWM1STJJeURwY2dzZEozVjhzUl9wTlpj?oc=5",
+      "source": "crn.com",
+      "published": "2026-08-05T14:10:00+00:00",
+      "summary": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb&nbsp;&nbsp;crn.com"
     },
     {
       "title": "AMD Stock Drops Despite 132% Gains as Su Dismisses Musk Drama - The Tech Buzz",
@@ -94,32 +87,18 @@
       "summary": "Rebuilding Agentic AI from First Principles for AMD GPU - Together with Moonshot AI&nbsp;&nbsp;AMD"
     },
     {
-      "title": "Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume - TechSpot",
+      "title": "Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume - techspot.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzZKZXpkdk83bVpDTFhOLXlUY2RNTkl2TU81X0lxTFQtNldZVUdOYkM1cHhOSTUwUEhZall0MVgzU2ZEQ2ZMa3dZWGs1YktxeGNMUDBxQUg1al9LQ2NoLTU4OTNTVU9lcWtOS2RJaHhuV2RyNG9ZbnZEY2ZxWUt1YWRjQVN4eWx4LVpRT3J3?oc=5",
-      "source": "TechSpot",
+      "source": "techspot.com",
       "published": "2026-07-31T12:03:00+00:00",
-      "summary": "Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume&nbsp;&nbsp;TechSpot"
+      "summary": "Google plans to produce up to 15 million AI chips by 2028, rivaling Nvidia's total accelerator volume&nbsp;&nbsp;techspot.com"
     },
     {
-      "title": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTF4cThMNnJoWDc4aEs0dTh5UDNrSDBuNFdlSndaWFNYWTUzZ0tzdUxwb2FXQm4tOUNwbklob0s3R3RzeFZlMnJwRUFwNmVtZkJfMFg3ekJzWmc2aGNMcE1YLURBWGFfTHA2dlNkV3BJX0FhcjhTUkZUcGZRSUM5LU5oLUNFTmJreVlsUWwxaGxxenB1QWpEUEdR?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-03T19:00:32+00:00",
-      "summary": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined&nbsp;&nbsp;ServeTheHome"
-    },
-    {
-      "title": "I'm Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn't Go To Nvidia - 247wallst.com",
+      "title": "I'm Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn't Go To Nvidia - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVlSWUR4UmRVWTdFYmozalpRNG5pcWRMZHY5U1hTa00yX0xBRkhYWmxYUmsyUjFWNmNYbERtZy1VcDhSWV82N1hKQzhURmxxRE1JblJRVHdwSG41VnF5LXpxSmw4NnF0TkY3YWdaUmhYenV4UXdkNktZSG5WSHVRcFBjMjZ5RHZlTEhicXBZQ3JmTXctMnNUSE5tUW9iMDF6Qm93RlpWTkJfUV9RV2hUSnNXZVFKREpvV3ZsZ2Zyd3hYdjV3bDJGS1ZnQVo?oc=5",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "published": "2026-08-05T04:19:26+00:00",
-      "summary": "I'm Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn't Go To Nvidia&nbsp;&nbsp;247wallst.com"
-    },
-    {
-      "title": "AI Chip Stocks Investment Analysis 2026: Top Picks & Market Outlook - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EV3VZSGhfbExYNFkwdjVRSkY4WW1oSkdSWnNweFZ1X0FCb1ByTjhKU0xZRGxFZjFkWGxUeWhwMHo0ZFppS3JIRzNFR1NYTFJIZWY0TWNQSTMzSXlzdkdBNjNnd3dCWUNZM3M5NGg5WXZMNVE?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-05T04:12:56+00:00",
-      "summary": "AI Chip Stocks Investment Analysis 2026: Top Picks & Market Outlook&nbsp;&nbsp;Intellectia AI"
+      "summary": "I'm Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn't Go To Nvidia&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "The Top Companies Building Custom AI Chips - Built In",
@@ -129,6 +108,27 @@
       "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;Built In"
     },
     {
+      "title": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTF4cThMNnJoWDc4aEs0dTh5UDNrSDBuNFdlSndaWFNYWTUzZ0tzdUxwb2FXQm4tOUNwbklob0s3R3RzeFZlMnJwRUFwNmVtZkJfMFg3ekJzWmc2aGNMcE1YLURBWGFfTHA2dlNkV3BJX0FhcjhTUkZUcGZRSUM5LU5oLUNFTmJreVlsUWwxaGxxenB1QWpEUEdR?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-08-03T19:00:32+00:00",
+      "summary": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined&nbsp;&nbsp;ServeTheHome"
+    },
+    {
+      "title": "Alphabet Lifts CapEx to $205 Billion, Supercharging Nvidia, Broadcom, and Micron - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SanptNGw3VVdmaUVzQWRmODlJaHhRQnBWZXA3YVVhelRjYUM5SEdxR3lWVEE1eHBtUC1tc0JXc2lMbHVhSVppWTVVa2hHSEdlUGNlNUdQdGhBbm9feWM3aGRERmN4VHV6UWZMbTh6cGhSZUR4TUE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-08-06T04:35:00+00:00",
+      "summary": "Alphabet Lifts CapEx to $205 Billion, Supercharging Nvidia, Broadcom, and Micron&nbsp;&nbsp;finance.biggo.com"
+    },
+    {
+      "title": "AI Chip Stocks Investment Analysis 2026: Top Picks & Market Outlook - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EV3VZSGhfbExYNFkwdjVRSkY4WW1oSkdSWnNweFZ1X0FCb1ByTjhKU0xZRGxFZjFkWGxUeWhwMHo0ZFppS3JIRzNFR1NYTFJIZWY0TWNQSTMzSXlzdkdBNjNnd3dCWUNZM3M5NGg5WXZMNVE?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-05T04:12:56+00:00",
+      "summary": "AI Chip Stocks Investment Analysis 2026: Top Picks & Market Outlook&nbsp;&nbsp;Intellectia AI"
+    },
+    {
       "title": "AMD Q2 2026 Earnings: Data Center Revenue Doubles as AI Chips Challenge Nvidia - KuCoin",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWtUXzBtdnJlcW51YWNVME9IdlVRV2RQXzNoTE9WcEZMZXFHOXdFRGZIWVJGTWhTbXpCMFpldTdWU2pZdGM1bTZIYkdJMW8yUnU1ajVyWEdObUl0ZjlOZUxGVXU5UWxWcXp4NnY3eW9mdUloLWNMRDNLdjIyV2RrUUw5QkVKSGZjaWQ0SDFzRDRVbEt1dHVkaE1UcUNXbGFqUzY2WWE3Mk0?oc=5",
       "source": "KuCoin",
@@ -136,18 +136,18 @@
       "summary": "AMD Q2 2026 Earnings: Data Center Revenue Doubles as AI Chips Challenge Nvidia&nbsp;&nbsp;KuCoin"
     },
     {
-      "title": "Google Stock Price Prediction: Server AI Accelerator Shipments Expected to Catch Up With Nvidia by 2028; Can Stock Price Return to $400? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0FobjNGQ09DZldhSzBSWV9TUFd5cW1NTHNVOFRVLWNFcG1iNmUyU3RkRTFXakczd1Z6U1BjX1ByS2pPUjJXYUpXZGJWTjRmUF8zYkR4QzVtczBtNmVqTmRfeG1DdGswU1AtZ3RpU3Y5NG5mSk1Kc094U0xRNERZeE5qOS1wMmdfU0dNX0NHdnVVN0UyRy02X1E2OTgwR2paU0U5cXdnZHpOUFNCTkp5aDNfNlFrNWYyYjI0eGtITQ?oc=5",
-      "source": "TradingKey",
-      "published": "2026-08-03T16:22:24+00:00",
-      "summary": "Google Stock Price Prediction: Server AI Accelerator Shipments Expected to Catch Up With Nvidia by 2028; Can Stock Price Return to $400?&nbsp;&nbsp;TradingKey"
-    },
-    {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
       "source": "NVIDIA Blog",
       "published": "2026-07-22T07:00:00+00:00",
       "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "Google Stock Price Prediction: Server AI Accelerator Shipments Expected to Catch Up With Nvidia by 2028; Can Stock Price Return to $400? - tradingkey.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0FobjNGQ09DZldhSzBSWV9TUFd5cW1NTHNVOFRVLWNFcG1iNmUyU3RkRTFXakczd1Z6U1BjX1ByS2pPUjJXYUpXZGJWTjRmUF8zYkR4QzVtczBtNmVqTmRfeG1DdGswU1AtZ3RpU3Y5NG5mSk1Kc094U0xRNERZeE5qOS1wMmdfU0dNX0NHdnVVN0UyRy02X1E2OTgwR2paU0U5cXdnZHpOUFNCTkp5aDNfNlFrNWYyYjI0eGtITQ?oc=5",
+      "source": "tradingkey.com",
+      "published": "2026-08-03T16:22:24+00:00",
+      "summary": "Google Stock Price Prediction: Server AI Accelerator Shipments Expected to Catch Up With Nvidia by 2028; Can Stock Price Return to $400?&nbsp;&nbsp;tradingkey.com"
     },
     {
       "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
