@@ -1,90 +1,41 @@
 {
-  "generated": "2026-08-06T14:21:16.441840+00:00",
+  "generated": "2026-08-07T00:05:09.957837+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbldZN3NoODhYeWM3Y3Z1NThsRkhzam1qdDd0WkdwclZueTV2YjVqN1VTSFZMa1ZyOGgwc3ZoeXNJVUxETFp4SWx1ZlRXcEp2NzB2RzgyTFoxMnROOFZBU1k2ZWNLQXlVM0s0alhrRHB1bFZCT243dnh5b2J2V3VNdXJMWUg3LWRCMUtkMVhPMnZuTFpDdk1zMnNDX01IZVhONGlwa2JINTdHVjBuTEFNRzZuWWZDZFJXLTNXVQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-06T19:59:38+00:00",
+      "summary": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400 - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWNCTVRlcElINlZvQnRKaW1sX1MyY3FITTk3d0UyN3dSb1NScnM3ay01WWxnZm85b0sxNF80LTktVjhFbk1qRUJhejVrS2V1UmxqRVhBVXpsX3NFWlUtcnBETEtYNk1SQzZrLUwyRW92ZUEwYmNnS200YnZiejVQTUJhS2dET180NmlKb2d2QURLZkpkbmJFZ0RySkFORGFJcGdTRmtuUQ?oc=5",
+      "source": "techcrunch.com",
+      "published": "2026-08-06T22:43:53+00:00",
+      "summary": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400&nbsp;&nbsp;techcrunch.com"
+    },
+    {
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzlsMFlLRzZVYjc1TThTRUpDMlV0NFlIeHpQTTZOQXVmQlVsR2tfYkJaejVBb0p2UjNhWWg0a3ZXU1NDUjctYnFCR1lLU3Y1aXVsR2tKZktLUmIyNDRWenE1Umx2MVNiNldpR0pzbTVMVkNYUE40TFVGUGhTNlVLZzlxS085Sm5lcFR0TGNLZkgyYXo4elBndXFlWmF3MHppcVZN?oc=5",
+      "source": "The Verge",
+      "published": "2026-08-06T20:55:39+00:00",
+      "summary": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker&nbsp;&nbsp;The Verge"
+    },
     {
       "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
       "source": "WIRED",
       "published": "2026-08-06T00:15:00+00:00",
-      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree&nbsp;&nbsp;WIREDOpenAI warns autonomous hacks are ‘watershed moment for computer security’&nbsp;&nbsp;Cybersecurity DiveDem senator presses OpenAI, Anthropic for answers in AI hacking probe&nbsp;&nbsp;Fox News"
+      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree&nbsp;&nbsp;WIREDOpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach&nbsp;&nbsp;PoliticoFirst OpenAI, now Meta - why do AI hacks keep happening?&nbsp;&nbsp;BBC"
     },
     {
-      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-05T19:00:17+00:00",
-      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
-      "source": "wsj.com",
-      "published": "2026-08-05T19:45:00+00:00",
-      "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic&nbsp;&nbsp;wsj.com"
-    },
-    {
-      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-05T20:33:34+00:00",
-      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "'REAL PROBLEM': Rogue OpenAI agent WEAPONIZES ITSELF - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tWnhJZEpCdjByVjFTWk9kMjQ1Z1VpTUNOeW9oRWZvWDR0NVJEZkxVRUk0QzZwUkItOFZtcHBSc0lFSkZKLW9neG1GQVRpRzJuc3EycEFR?oc=5",
-      "source": "Fox News",
-      "published": "2026-08-06T13:21:30+00:00",
-      "summary": "'REAL PROBLEM': Rogue OpenAI agent WEAPONIZES ITSELF&nbsp;&nbsp;Fox News"
-    },
-    {
-      "title": "Meta Joins OpenAI, Anthropic With High-Profile Hack: 8 Key Items Shaping the Stock Market Thursday - TheStreet Pro",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGdzRC1JTng1SDhYaThvRFo3UGFEVHFtUWpOVE1tdkxzalJldUNsaWxUcFgzMm9qbUdIWjEzMWJpb1JUdnFwcjFLblBkcDdmaThQTHY1QkV1aGZwclBxb0h2dHBkMnF1cmJ6RGVCd190WHplZXNaNmtuWlBMTUhKTmoybnM0SVZIWE14a3VRTFgwWkZuOW9SaXRJQ3MwYW1mU0JIUkx3QUUxYUdESURmOVdrZmd1QkYtSUsxVlo1UEhNYlc4TklpdWt0YXM?oc=5",
-      "source": "TheStreet Pro",
-      "published": "2026-08-06T12:58:00+00:00",
-      "summary": "Meta Joins OpenAI, Anthropic With High-Profile Hack: 8 Key Items Shaping the Stock Market Thursday&nbsp;&nbsp;TheStreet Pro"
-    },
-    {
-      "title": "SoftBank Q1 2026 earnings beat: Intel stake drives profit - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4ZE95V1JTMGRvMGpvOURZS1BSUS13Ylk5UU54U1ZFMjRxZ0lVWkx1SGFwTllxQmxtMUlzVkMzd2Y5UkJLMkhvaF9fdWpaSVVPVnhaZ01YbDFPSHM1XzdZcTh3dmU5MGxHbnM2RnE2Um1xWDFocHc?oc=5",
-      "source": "qz.com",
-      "published": "2026-08-06T14:02:51+00:00",
-      "summary": "SoftBank Q1 2026 earnings beat: Intel stake drives profit&nbsp;&nbsp;qz.com"
-    },
-    {
-      "title": "SoftBank Uses OpenAI Stake to Borrow $10 Billion - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVJ2M1BWMXFKaThZSDNDTWlSUkcyOG9GX2RZb0loeTJpZTloMXpWaDJTX3hzSmVha2hhSDkyY2ZHYjJUSVNGWkltaWdWUEtKdkFrem5NamQ1ODMtSDhKZzlycHVGYS10S1VFUzh6Y0VzNGZUOVctZWRjWW5wUjFWTTFqd3VTRjVLMk85d2twQndsU0xudzR3?oc=5",
-      "source": "wsj.com",
-      "published": "2026-08-06T12:55:00+00:00",
-      "summary": "SoftBank Uses OpenAI Stake to Borrow $10 Billion&nbsp;&nbsp;wsj.com"
-    },
-    {
-      "title": "OpenAI seeks dismissal of Apple's trade secrets lawsuit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmhWTlh0eU9takRMMExHYjRRTmNmMm9EcFVlUXJfdzg4Qnc3MWdmWWJXYUJOaDcwWFlTRmFWZGhTd2NKRzlnY2V1RFdmWENIWFNSV2Z5ZVV5U1JOaEZGdlV3MGdZSjFIclhjbTdtRkt6c2ZyWHMxQkR4UEFRV1M4bmgwd0FDZ2JaeWJhM0pCWlRWUTAyVzZTbElOSDk?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-06T06:11:00+00:00",
-      "summary": "OpenAI seeks dismissal of Apple's trade secrets lawsuit&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-06T06:34:00+00:00",
-      "summary": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3NhQVZITTY1cEdvajRQOW9nQ0VCbWVkOEJ6U2lxcUhCMDNkbmpWTzM3N3h3QkV5eTl6QnpoN1ZqeWlNRnU1MzJGOVloY1RteGNWWUFMbmpQM2ZNcHEzalNldTN2Z3pTMHY3T2NybFBLZ09qZWxxQWpqSXRuVWZaTzN0cW4?oc=5",
-      "source": "Financial Times",
-      "published": "2026-08-06T06:09:06+00:00",
-      "summary": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving&nbsp;&nbsp;Financial Times"
-    },
-    {
-      "title": "AI models used fake identities to trick humans in cyberattack: Officials - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkVvbk9ob3JSTkNGZERRNjQzWnpZc2c2VUVDbUZuT0xnNG14Wmx0MlBrYWVhLVMyUFp1Y3NfaXlYQWpuM0lIWGE1bzVnSVZrdUdGSWZFbWlzX1Rnd1RrN0R2ZmpLc0xzZlRmNWd4cXNsczBuT19kaTRMVDVXOF9pX3ZrTmp5UGVIN2k3WmhrcXFkMzAyX0RrUTgtVHBTNFJYRElscTh1c201UXRD0gGyAUFVX3lxTE4zUHUxRHVEdnB4QzRMSmY0RW9Yckl2bUFtRHE0UnU2S1Z2UW5oNE5pRF9EVUhzMENiSnJPcC1EVk5tdksxUXltYVpVTFhhbnpDT1dDR251UktWV1N5am5peVBkRnpmR2ZMT0lYeUhMZEpkTHpRVjRNWGhHb3VLWHVjTzhIbjMtbWVtSlRQTjBJdUxERjI5RzdBQ0NUa24yN01LMUxMYXdCMEhERUxvNlhCQ1E?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-08-05T21:08:49+00:00",
-      "summary": "AI models used fake identities to trick humans in cyberattack: Officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx2bE9JMlVEaHV3X0VSWkRraFMtZng0X3A2SW1hN2syblFOVDZsOUVRN194SzVpSkluZ2J6TDQ0cVJNSlBjbUkzNERrb1AyM1F4UF85N0FoNG9HN1c2a28zVGotS24xNnZjeC1lWVZqdlZqSWQ3WmJYZTI5VEY2eVl0dnNzM1RranFjcHRxeVEtbERBYlZKckRUZzFNdXRhNmc?oc=5",
+      "source": "techcrunch.com",
+      "published": "2026-08-03T19:09:56+00:00",
+      "summary": "Influencers draw backlash for attending OpenAI’s first luxury trip&nbsp;&nbsp;techcrunch.com"
     },
     {
       "title": "How an OpenAI influencer trip backfired - The Verge",
@@ -94,39 +45,88 @@
       "summary": "How an OpenAI influencer trip backfired&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWc4dFlEakduTGZhSFdGRjh3bjd3VzZKQ3RxT0xIVWw3eXItZTd2bzY4VThXYWttX1JuOV84dWdnT2lBMGtmVjdhb3J0TEFKbEo1TURmUWxrNlhIRmxlOW4zU1hNd2V4S0tKdVhlSUZGZXJmeFdJNHNRUlRIY3dOVFU3N191dHAzTThhelJLdk16djR5ejdRRGFzQ0R1dlpITVl2ZGR6NWo?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-05T21:05:37+00:00",
-      "summary": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships&nbsp;&nbsp;TechCrunch"
+      "title": "Creators Get Slammed for Taking OpenAI Luxury Trip, Company Welcomes “Healthy Debate” - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUS0wRjdRWmlkNWhQSGNUR3ZiMWpJUk02S3JJZnZJRmNuT29fU0Q1b0dibWRjNlA1bXFDeGh2bTY5ZGc5andJQnBjNVNaWTY0WUhTY1JKcVN3d0lFdFJPazhyamVXeEZqNk1KZDJ6V18tVzhERzJkYWpST2JIdzhtMHZoQ2FkU3liZHRhdmhzMjhfZGNkYi1FdkRZRjlVZjJzZGI1RG41ektBOTNmQm45akdyd0tIdmcxTndzUHIxcEY?oc=5",
+      "source": "The Hollywood Reporter",
+      "published": "2026-08-06T23:28:49+00:00",
+      "summary": "Creators Get Slammed for Taking OpenAI Luxury Trip, Company Welcomes “Healthy Debate”&nbsp;&nbsp;The Hollywood Reporter"
     },
     {
-      "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2RqUWNVMkhVcXhLNjUwaXg0ZG1odGtUR0xVdHdQTU1qQ0RrRU9ZZ0xYSlBPaEF3WWE4ZndxcHpER1RFZ0F1SnZZSHlyZy1hcmcwWHQtY2NIWGdpM2wwYkpzeEtsekRlVEF1bmVYNllEQnZ3OFVFVF9RNTJ0aGQ2Z3ZnOUF6TVRHN1AxdEhjOFN2M19WNC1YZDdIcVBqd1JvME9FUno2QU9JWVJiOEdCRlVob3Q3SF9YX19STFBxcHdERWN1?oc=5",
-      "source": "Politico",
-      "published": "2026-08-06T02:02:00+00:00",
-      "summary": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach&nbsp;&nbsp;Politico"
+      "title": "OpenAI moves to dismiss Apple's trade secret lawsuit - Axios",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT3hrQ05xWEVpRTZVeHRiTFRseEVmRTFMbjZISDhDangzY2N5TzMwb0VRclBWanZxZ0I0dTJZeVRSN1lqUzRXTmdEYVEyOFZ5UHdUQW05dFZhN3ZyTEIyNExMV0IzZTY1QkVLLUxQWFY?oc=5",
+      "source": "Axios",
+      "published": "2026-08-06T06:29:12+00:00",
+      "summary": "OpenAI moves to dismiss Apple's trade secret lawsuit&nbsp;&nbsp;Axios"
     },
     {
-      "title": "How OpenAI's agents broke out of testing to hack Hugging Face - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNW5EMlBhN0N6SlRwVkRkMWhCQlVjbWZWX2JXSDZUdHRKVV9Ua3c3S1JFZk9GYnNyUlQxVWxKQ29tQ1VmQVNpWU5ORFZueFNCek1zU09wMmpyV2F1aUhVM2N0V0lQV20td0V6Zk5PMA?oc=5",
-      "source": "axios.com",
-      "published": "2026-08-06T01:36:42+00:00",
-      "summary": "How OpenAI's agents broke out of testing to hack Hugging Face&nbsp;&nbsp;axios.com"
+      "title": "OpenAI seeks dismissal of Apple's trade secrets lawsuit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmhWTlh0eU9takRMMExHYjRRTmNmMm9EcFVlUXJfdzg4Qnc3MWdmWWJXYUJOaDcwWFlTRmFWZGhTd2NKRzlnY2V1RFdmWENIWFNSV2Z5ZVV5U1JOaEZGdlV3MGdZSjFIclhjbTdtRkt6c2ZyWHMxQkR4UEFRV1M4bmgwd0FDZ2JaeWJhM0pCWlRWUTAyVzZTbElOSDk?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-06T06:11:00+00:00",
+      "summary": "OpenAI seeks dismissal of Apple's trade secrets lawsuit&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Third-party cyber evaluations involving OpenAI models - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENBNFQwQ0gzSm1EbTFlZmNhZmhBX2RPYzRSR3E4YUYtNmNsYnZ2Ml9ncDN4TGJOOExiSkNxYlhTbV9Zek1kSmZxVUYxck93bWc5VnpGcE11X1RRYWhnZDZZNC1XalhtMVgzNFc4WHBwVmNzM05tMHo1aV9jM0YtUndhbG1JZw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-04T21:05:32+00:00",
-      "summary": "Third-party cyber evaluations involving OpenAI models&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkxSS2lSWnE3bjlKaEtPMFA1d0dOOGw1Z2dwNFMzdVAwT1EtS1ZZYi1yX19yZzZpSGxYbHJ4OTdqWEFQbTlYQWZsLTF1ZkplcVRsS0FEQnBKMVlpVWc4bWdwWkM0by00a2RYelNRQWJPQlNNckJBeEFpMnVKV2VjcXdMS18zallKamRKcktJb1V6ZkVxejZEejlB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-06T15:10:32+00:00",
+      "summary": "OpenAI says Apple’s own security practices undermine its trade secrets case&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5",
+      "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnQ2cXoyQm1jcEZpRDVFdjBiOWc0WTNxS3lZN2IyMUlfSk8yQzB6UVgwYTdkdUJnRFh5NThfa3BuTTZsQnJhZlpmZWZOdWQtNW12aEZiRzlnanJBdE05TDRJQXJ6RDJPc1pteE81YVVHZTZEbTNRREhYS2p1N3NqQjFSa01Vd0gyT1NrMXVJNEtyamY4YTZoSzc4QUZxYmx0WndpbW5pLVJ6SEZRenJzbU0yelBUQk0?oc=5",
+      "source": "Scientific American",
+      "published": "2026-08-06T18:47:54+00:00",
+      "summary": "OpenAI’s latest math breakthroughs commit research misconduct, experts say&nbsp;&nbsp;Scientific American"
+    },
+    {
+      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-05T18:31:08+00:00",
+      "summary": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YNDQ0UTI4Rkl6V0FCWGhicUVOZzEtQTYzQ2hoMFhVaU51enIzektWNHhxajhaWGJWRm1jSExSLWt4X1NZYjJsbk8wWDZNekZvdWt3XzlfdWlfYmVwZGs4aXoxWmZIVlFEbXI5ZzRwdl9MRy1wX09yWkE3VQ?oc=5",
+      "source": "Axios",
+      "published": "2026-08-06T17:41:19+00:00",
+      "summary": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzNVMXZROTVDcTFTS3lLWHFpQi1keDdsQnVoRm40NzcyQUNiYWlmYUVsaTN5WDRldFhTRl83RGpuWjh5TVlvVk5KLUY4aV82eHJHUlNGa3VXOWRGSkktRDM4YUFZWnVDU3FzcUR0X2lqc1lSd0ZhRW5BY1AyUnF6SVhOaEd2LTJSLUJkT0w0cmFXQTlNcEE?oc=5",
+      "source": "techcrunch.com",
+      "published": "2026-08-06T17:34:42+00:00",
+      "summary": "ChatGPT brings unlimited text chats to free users&nbsp;&nbsp;techcrunch.com"
+    },
+    {
+      "title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-05T19:45:00+00:00",
+      "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-05T19:00:17+00:00",
+      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-08-05T18:06:51+00:00",
-      "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT)&nbsp;&nbsp;Bloomberg.com"
+      "published": "2026-08-05T20:33:34+00:00",
+      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "SoftBank Uses OpenAI Stake to Borrow $10 Billion - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVJ2M1BWMXFKaThZSDNDTWlSUkcyOG9GX2RZb0loeTJpZTloMXpWaDJTX3hzSmVha2hhSDkyY2ZHYjJUSVNGWkltaWdWUEtKdkFrem5NamQ1ODMtSDhKZzlycHVGYS10S1VFUzh6Y0VzNGZUOVctZWRjWW5wUjFWTTFqd3VTRjVLMk85d2twQndsU0xudzR3?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-06T12:55:00+00:00",
+      "summary": "SoftBank Uses OpenAI Stake to Borrow $10 Billion&nbsp;&nbsp;WSJ"
     },
     {
       "title": "OpenAI brings product carousels to ChatGPT ads - Digiday",
@@ -136,46 +136,46 @@
       "summary": "OpenAI brings product carousels to ChatGPT ads&nbsp;&nbsp;Digiday"
     },
     {
-      "title": "OpenAI’s amazing — but vastly oversold — new model Astra - Marcus on AI | Substack",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmcXFpN2pDczFwYUxBMEc1ZF9BbDQ3RS1hWU1YQkM0bFRRT1AwTk1NRXhlNmV0X3hFSzVENktCZHp1WXFlMEd6ZFA4YmV3MC1meHMydy1KMjRMM2s5c0tYMi1jQVZ1NmkySkNOZmJHbTRZY19RYkVmVg?oc=5",
-      "source": "Marcus on AI | Substack",
-      "published": "2026-08-02T21:25:27+00:00",
-      "summary": "OpenAI’s amazing — but vastly oversold — new model Astra&nbsp;&nbsp;Marcus on AI | Substack"
+      "title": "OpenAI Acquired Patents from Altman-Backed AI Chip Startup Following Failed Acquisition - The Information",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWUVpNWZ2SHN0S052SFNSY3ZUNVhNb1czNGN3dHgxOXM1bUFqclB6RVZsQjM5UWtyX0VJd01XOWtnMzBkY2VTOHNscGpPdDNmNmNkMVM2aGtVZXFSY0xZUVZqTzhTaUh5TnZzcjhSaEJBYW0xRXYyS3FxOVJETW82cEI5TExQUzlLbXBJenJpenVDVGtFRFlYSEg1c0dIU3A1N0Q2dWlOekhfNmFOT05pajVZLVE1dGRuQXpRTUY1RF9ROU9jSldDTmlRclYzcmI2?oc=5",
+      "source": "The Information",
+      "published": "2026-08-06T14:06:00+00:00",
+      "summary": "OpenAI Acquired Patents from Altman-Backed AI Chip Startup Following Failed Acquisition&nbsp;&nbsp;The Information"
     },
     {
-      "title": "OpenAI's AI models teamed up to hack their way online. Then Meta admitted a breach of its own - Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcGEybnl1Rkdfd0c1NUEzT1BDQ0l6ZVdNd3hTWkg0SjRVWnNEeEtpYUVINTF3UWFYdS14bjk2SFU3Q2xvUkZ0aTZBbGFPeFVkYkx2VFhQVlc2MWZWRmVQQXhjckFUaXU5X1NNdjM3bUliT2o5STlPcXhsY0dKaDZxNGRRWVd0eUhoaG1DQlk3X0VPMzBGN2k4STNCS2x4OGNmajBKVkJIa3pYSnJia1AtUjBIT0dzT2tSZTkwU2Qxd2gycmhOZjROajFkcUpLcURfQXdhb0hKVVlQTlFGSE9EUldHRHZZUEI0NXZDTjl5RG14dw?oc=5",
-      "source": "Insurance Business",
-      "published": "2026-08-06T13:36:26+00:00",
-      "summary": "OpenAI's AI models teamed up to hack their way online. Then Meta admitted a breach of its own&nbsp;&nbsp;Insurance Business"
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTk15ZjhTalBJMUpDa0FudE9faExCSHJoNzVmeG5XUUJleUg2ZlcwbEwwUnhCTXlZVVZJUXgwTXg0N092UnNCaERsZVZIYWNrMUo0QTJUc3BZSUJiLTRzN1hfSGxoN1lMZVE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-06T20:54:59+00:00",
+      "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach - Nextgov/FCW",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHZTeE14V0pmU0RyN0FhRXRCdTczSlItYXZodG1XYTBtek40cWw4blc2d09pSjYxMEctbnEtYWRnYXZfNE00dGk3bHk1SXhnTlBaWWtSVmJjYTVtYXozZ2V0STFhdFo0aU9RTEVFN3ZqYndjNzhRaHJIMVYtb2JSY1BkS2VaaWFjT19rem95SjU5WVBjR0FCUUdhYjcxY3h5NF9FRjdoYXBsZFpWVDgzT1VoNWJtVGp4R2ZlclZyWXRWTDBCd3M3eFRSZ04tdw?oc=5",
-      "source": "Nextgov/FCW",
-      "published": "2026-08-05T23:06:00+00:00",
-      "summary": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach&nbsp;&nbsp;Nextgov/FCW"
+      "title": "OpenAI warns autonomous hacks are ‘watershed moment for computer security’ - Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMm13bzhEbWpJc1pwN2Jod2UwSG5rYzBkeWVjWmRQbFk0cVBEMmZpaURpRTQ1RHpkVi1VMkdsLWxHSGYtUmkxZzRLbk9NZVQ2Zm4xcXBtWHNUTmQ5LXBPbVYyWnExUFpzYlRaRGFYRVR6MXhZS1FzbkpwVnNQYk5GcDhQNmFGSjhPdGo5VW9NMFc0VnNpd2c?oc=5",
+      "source": "Cybersecurity Dive",
+      "published": "2026-08-05T22:37:49+00:00",
+      "summary": "OpenAI warns autonomous hacks are ‘watershed moment for computer security’&nbsp;&nbsp;Cybersecurity Dive"
     },
     {
-      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-04T15:59:04+00:00",
-      "summary": "Apple seeks preliminary injunction against OpenAI in trade secrets case&nbsp;&nbsp;Reuters"
+      "title": "What is OpenAI Astra? Everything we know about the quantum math-solving model. - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
+      "source": "Mashable",
+      "published": "2026-08-06T16:16:54+00:00",
+      "summary": "What is OpenAI Astra? Everything we know about the quantum math-solving model.&nbsp;&nbsp;Mashable"
     },
     {
-      "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2hzWnZyd2FsTm5QR0cyVEFhbFB3NW9RZUk0bWdlVjdJQTVIa18xVDdPWTg3ZEdycngtTEtQZDNGN182RkhZNkpFZGdSTXU4Q2VpMlN5TWxUdmg3Zml3ZWNLeGlYWDN6b3J5UGNPLUNmaXRLSW1KY2FVdjB1R1ZNVFFnam9tek3SAYwBQVVfeXFMUGhUTENrNm11UHctZHdSdHgwaG1vVzhleDdZZ0E0Zk9Ra2piUFRlazVPRWxkdU1adVZEdDFPUFFQWEZyNHQ1V3B3THppdEhadTk2N2M0VjBsakR5UWU1UUNIZ0tNYWx6Ymdndk00VUxuVmxKYVVCMWttSlg2SFpyTjlOZHBhV1gwZk8wYXQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-06T06:55:47+00:00",
-      "summary": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat&nbsp;&nbsp;CNBC"
+      "title": "OpenAI's new hardware leak: $300, and same size as an Alexa Dot - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEVNcVFxaGtEZlhsU1RaSGp4TzFWTzZxSTJrWmlJOG5sNjFHcWg2YmxRNjZRbWVHRjVhMFFySmIyM2RvMUZzaHo3VUoxcC1sZkYxUk1UbXhOa0RZSG9BdmEtYi1zVU9WSDUtdmhmU1o1dTcxMmRLdXBYZzlYaFBBVHd4YzRTTzg3bHRDakhqNmlVeHg2d2UwdmNn?oc=5",
+      "source": "AppleInsider",
+      "published": "2026-08-06T20:18:03+00:00",
+      "summary": "OpenAI's new hardware leak: $300, and same size as an Alexa Dot&nbsp;&nbsp;AppleInsider"
     },
     {
-      "title": "OpenAI asked a judge to throw out Apple's trade secrets lawsuit, calling it \"baseless\" - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1Y29mbGtiSjVCYXVIdU1OLWtBZ1ZIWGlZMTdCTldNanhaZDE5cFYzRkxNWnFGLUZQZ19lZ3BSNTkwVHRLbE9YRFVCTFhieGowYUMzZ0ZQcG5LSEFHYzJTOFdCMW13dmktV2drUER1MXQ5dl84Ukk2bjd3UQ?oc=5",
-      "source": "qz.com",
-      "published": "2026-08-06T12:43:21+00:00",
-      "summary": "OpenAI asked a judge to throw out Apple's trade secrets lawsuit, calling it \"baseless\"&nbsp;&nbsp;qz.com"
+      "title": "OpenAI agents passed secret notes for months leading up to Hugging Face hack - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnFKLXV4WTNEM3VCQ2UyeFgtZ1hoMnZEMWxTSHN4VjdvZzNfM2RXX1NWejZPZGpvNVo2MHhpVndVWEV6S0pwM0luaFBqV04zTWJaQmtnSWUydm1acGJZYjJnZDVEdVRuLXVrTGJfS283SVVBZktxVHExOUhhV3h0YUFLNTNyVVpBSmptX0NkTHFCdVlHY1lGQnNodHBJX1BPS2xxdVd2Z3VsTVdt?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-06T19:31:00+00:00",
+      "summary": "OpenAI agents passed secret notes for months leading up to Hugging Face hack&nbsp;&nbsp;Fortune"
     }
   ]
 }
