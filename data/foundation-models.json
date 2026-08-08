@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T12:55:21.504437+00:00",
+  "generated": "2026-08-08T18:42:30.461296+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,6 +17,13 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
       "source": "VentureBeat",
@@ -24,11 +31,11 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
+      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "Cloudflare Blog",
+      "source": "blog.cloudflare.com",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -59,18 +66,18 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
-      "source": "아시아경제",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
-    },
-    {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFJBTkV0dE1NQ0w1VnJiUTliNno1X2VkUXNsRTZ2QWhzcWZ2V3ZxUnZmdF9NSDQxbFNTczVsZXBYWWVsQ20xdm1sX3pKRkZtUGRhOEIxN196WjdNYlBYczBGWnM4eVk3NEx6QnhnY21mRXVWdXFrNTNaYkUxYkhyTk1Ocno0MDIyd1pYZkQ5bUFKbThsc2dEakF0TWo0Y0dYbWtfR3hpN0RTd3gyZDlrYUNSLVZVa1VyWXc?oc=5",
       "source": "Morningstar",
       "published": "2026-06-29T07:00:00+00:00",
       "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Morningstar"
+    },
+    {
+      "title": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TEc1cjA2dHkyNkYxLUpXUFR6V3h0MHBSUnFFM3dLeG5XY291bFYwell5MDkyX19EQTd3WEN3T3NGc0JINmVsUHJKMVVPYi1JSm1Zd29pZmtaZzVqZGRXS1huS3Q?oc=5",
+      "source": "아시아경제",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Upstage Unveils Second Proprietary Foundation Model 'Sola Open 2'... Agent-Focused LLM Released&nbsp;&nbsp;아시아경제"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -115,13 +122,6 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
@@ -143,18 +143,11 @@
       "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE51djkxajdjeGFyWWpNQVFlaDZmU0RrcDhWYVBBd0poa3NvbTg3eDAzUkdsMWdJR1pUclpxZE5HM0lybDFUQUlZd3RDdUxhVVViVVUyaEh1VHZ0c2hsYnkxMEZITlphY3dQN1RPRmlyUU1zTm52X21MaldnRVdxcEVPSDV3akNGRnhpTXNwWWU3WndlRTFmZEFWUzZfUHNVQnZhLWZ4QmF2MTJCSl94Ql9LbVZiSkZMeW5NN3NMN1pycEIzZWVjS09zSDJoWXpvR213ZDQ4U1RvRVRNRGhrTk1Eam9IcnVrYWZ5dkpPTUJCSA?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-04-27T07:00:00+00:00",
-      "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeG9pYldNRkpaZWsybEdqSVZnZzdLOS1jZnpxVDZ5emJmU1FBekRiRlk4c2Q4emJwTlIwWDJTT0dKZXo2MGZWaUpoTlZxZFdRM1psWmtsbnJHOW1xX3VRRzFDN3A2bVNRbi1kdFRmUV92TkFfNGlPdGhReFdvb3A2UGtiV3pfU01qNmZhSEZDWG5IbGhEX0xhYmtfaFdIMmFxXzR1bnB0cGJvb3cza09vbWZ4Qy1ORzVTSlBrcUxEWDQ3VkFlLVVINEg1bC03TmZIVXFyaG81TjFOeGROVmduRzdqd0F1SkJmVktXNU1UUWg5Smp5U0RoSlZZSDdraDhHYjR6ZkJ5TV9qMlh2TVQ2b05EZEVrbW9INHc?oc=5",
-      "source": "GlobeNewswire",
-      "published": "2026-06-24T07:00:00+00:00",
-      "summary": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology&nbsp;&nbsp;GlobeNewswire"
+      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation - MarkTechPost",
@@ -164,18 +157,25 @@
       "summary": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation&nbsp;&nbsp;MarkTechPost"
     },
     {
+      "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE51djkxajdjeGFyWWpNQVFlaDZmU0RrcDhWYVBBd0poa3NvbTg3eDAzUkdsMWdJR1pUclpxZE5HM0lybDFUQUlZd3RDdUxhVVViVVUyaEh1VHZ0c2hsYnkxMEZITlphY3dQN1RPRmlyUU1zTm52X21MaldnRVdxcEVPSDV3akNGRnhpTXNwWWU3WndlRTFmZEFWUzZfUHNVQnZhLWZ4QmF2MTJCSl94Ql9LbVZiSkZMeW5NN3NMN1pycEIzZWVjS09zSDJoWXpvR213ZDQ4U1RvRVRNRGhrTk1Eam9IcnVrYWZ5dkpPTUJCSA?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-04-27T07:00:00+00:00",
+      "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology - globenewswire.com",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeG9pYldNRkpaZWsybEdqSVZnZzdLOS1jZnpxVDZ5emJmU1FBekRiRlk4c2Q4emJwTlIwWDJTT0dKZXo2MGZWaUpoTlZxZFdRM1psWmtsbnJHOW1xX3VRRzFDN3A2bVNRbi1kdFRmUV92TkFfNGlPdGhReFdvb3A2UGtiV3pfU01qNmZhSEZDWG5IbGhEX0xhYmtfaFdIMmFxXzR1bnB0cGJvb3cza09vbWZ4Qy1ORzVTSlBrcUxEWDQ3VkFlLVVINEg1bC03TmZIVXFyaG81TjFOeGROVmduRzdqd0F1SkJmVktXNU1UUWg5Smp5U0RoSlZZSDdraDhHYjR6ZkJ5TV9qMlh2TVQ2b05EZEVrbW9INHc?oc=5",
+      "source": "globenewswire.com",
+      "published": "2026-06-24T07:00:00+00:00",
+      "summary": "EXL to acquire iMerit, advancing its leadership in enterprise AI by adding foundation model expertise and technology&nbsp;&nbsp;globenewswire.com"
+    },
+    {
       "title": "SoftBank Corp.'s Large Telecom Model a Generative AI Foundation Model for the Telecommunications Industry Achieves a Top-Tier Ranking in the GSMA Open-Telco LLM Benchmarks | About Us | SoftBank - ソフトバンク",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hemxKWG0zdnV0eHdqQUVuejl6TnRBdHBYMmJ5cS1ydm4yMGdhTEU4bjdXU3ptSW13dWx4Wklsb3l4UjJWSFdUVUdlX2dhLXZqdUR4dUtCMkQxU3JWRmtTa2lfSk5GanNlWDRWVUtLbjI?oc=5",
       "source": "ソフトバンク",
       "published": "2026-03-30T07:00:00+00:00",
       "summary": "SoftBank Corp.'s Large Telecom Model a Generative AI Foundation Model for the Telecommunications Industry Achieves a Top-Tier Ranking in the GSMA Open-Telco LLM Benchmarks | About Us | SoftBank&nbsp;&nbsp;ソフトバンク"
-    },
-    {
-      "title": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications - SK텔레콤 뉴스룸",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUNIcVlCanRNVG1TTE5Da2kzWU93UmRkbmlteHBNRmd0SkJhN3Z1RzhpYjBIWXNqd2ozSnZtM2YtOXJPWXdlZy13?oc=5",
-      "source": "SK텔레콤 뉴스룸",
-      "published": "2026-05-14T07:00:00+00:00",
-      "summary": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications&nbsp;&nbsp;SK텔레콤 뉴스룸"
     }
   ]
 }
