@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T01:52:45.701763+00:00",
+  "generated": "2026-08-08T06:59:15.747825+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
     },
     {
-      "title": "Nvidia Stock Jumps After AMD Acquires AI Startup Taalas - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2daSVY1WXNtM1RKZjVSWV82TkZYTHpCcDZBancyZ21HLXlqTnF0TDlZWGhuSE5UY1JYZHhyTmxMTkxVcVpyc09NdGw1OUJ5ZHQ1RnV4STdFczNaUkJKTnFZMlZ4QUYtVlNNUjdYeUdZZzhhNmdidndfTER2eDNrX0RiaTQ4WGs?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-08-07T16:45:13+00:00",
-      "summary": "Nvidia Stock Jumps After AMD Acquires AI Startup Taalas&nbsp;&nbsp;Yahoo! Finance Canada"
-    },
-    {
       "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-06T20:05:37+00:00",
       "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Nvidia Stock Jumps After AMD Acquires AI Startup Taalas - ca.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2daSVY1WXNtM1RKZjVSWV82TkZYTHpCcDZBancyZ21HLXlqTnF0TDlZWGhuSE5UY1JYZHhyTmxMTkxVcVpyc09NdGw1OUJ5ZHQ1RnV4STdFczNaUkJKTnFZMlZ4QUYtVlNNUjdYeUdZZzhhNmdidndfTER2eDNrX0RiaTQ4WGs?oc=5",
+      "source": "ca.finance.yahoo.com",
+      "published": "2026-08-07T16:45:13+00:00",
+      "summary": "Nvidia Stock Jumps After AMD Acquires AI Startup Taalas&nbsp;&nbsp;ca.finance.yahoo.com"
     },
     {
       "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - Tom's Hardware",
@@ -52,13 +52,6 @@
       "summary": "Nvidia dominates AI chips, but BofA sees AMD closing in&nbsp;&nbsp;thestreet.com"
     },
     {
-      "title": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026 - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ZmZvcFJXd0VER2ZCd252VXNHazQ2N1VNWUt3amQ1RzRUaENwenppc1FXNjBlR1BITkhZYndWenhsWlVUODI5SThINlQ0UGhfUkgwaHhYTHZoVVZIMU5ZUHBGc0h2a3prLTBfVnNyUzBVTkk0NW13UWV1TQ?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-07T05:02:42+00:00",
-      "summary": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026&nbsp;&nbsp;Intellectia AI"
-    },
-    {
       "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
       "source": "Pulse 2.0",
@@ -66,11 +59,11 @@
       "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
     },
     {
-      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon - theregister.com",
+      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon - The Register",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdlJIbEZFdG5GN29QSTRoaGZhYndyaW9yQWxmNWFkY1VBNS1TOWFEaE1WXzhhWUItbUtCR2ZWd3Q2Tl9PVl9tTU8xeGt4TUhMTTUyU05PWHV6VVdaY1FFcnFtUnQ5V1pRTXRSVkNGWXdCRWxhQlItSGNmX28xeVVyQWV3ZnpET0lYWENtLWFjdENsZmhUbEUyRFBVVkE2NE00b1ptMTduQ3NTODhMRW9lcEY0T0kwcGxhTHBEejlDRVZHZVRuRGl0NXFVS3E3VTJWRVU4bHVVR1BPcDEyb1Y4NTBCbjZVSjQ?oc=5",
-      "source": "theregister.com",
+      "source": "The Register",
       "published": "2026-08-06T20:05:00+00:00",
-      "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon&nbsp;&nbsp;theregister.com"
+      "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon&nbsp;&nbsp;The Register"
     },
     {
       "title": "Top 16 AI Infrastructure Companies to Know - Built In",
@@ -87,11 +80,11 @@
       "summary": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "SpaceX backs Nvidia exclusively for future AI infrastructure - The American Bazaar",
+      "title": "SpaceX backs Nvidia exclusively for future AI infrastructure - americanbazaaronline.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjhESHluUEFWSzlpTWh1ZllWRlFsNWktSFQ5QTB6U2NpdS00YlV4VkVvNmhaRTNsNm1LU0VSaERJdUxtWmd6UFVKT3FyY3EwRGxrWEdGSHFPN1BzdTU5a1BlV3lBQ0hTU2gySEJGTjZCRkhBTGRoTWV4Z0VKNmlBWFJucm1mOU1LZjI2RTRXYnBqT28?oc=5",
-      "source": "The American Bazaar",
+      "source": "americanbazaaronline.com",
       "published": "2026-08-05T19:28:14+00:00",
-      "summary": "SpaceX backs Nvidia exclusively for future AI infrastructure&nbsp;&nbsp;The American Bazaar"
+      "summary": "SpaceX backs Nvidia exclusively for future AI infrastructure&nbsp;&nbsp;americanbazaaronline.com"
     },
     {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
@@ -101,18 +94,18 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AMD unveils AI GPU to challenge Nvidia’s Rubin - Network World",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHkzTVR1SjMweFhleTBMX3NEU0RBUFkyZk1lWXY3YzdKZjJOOXI0TFc0cEJpQ19PWVFidUtZOWpYblExWWhCV05fZWRUZ2p4WTVRTjFiZXFHZTNLVWEwR2NnUlhsd01QME8yVTFjUXJOSXJuZjMxSC1mR0EzcGpKM0hDX0NhWTg4ZnREU29aSUxFVFh0bldocFlBbw?oc=5",
-      "source": "Network World",
-      "published": "2026-08-03T16:28:47+00:00",
-      "summary": "AMD unveils AI GPU to challenge Nvidia’s Rubin&nbsp;&nbsp;Network World"
-    },
-    {
       "title": "Nvidia stock surges 3.4% as AMD stumbles on earnings - eciks.org",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuN3d6TTBUMVZraTJZT0VPTE5JdldkcHRnWFI3UWo4dURCU2NHRUswaFY1V2pncE9DdHdXOFo3cERNZklweV83eFk3NmdtWUhYNHNzc1dVWThHbTlQWFZQWjRydW9sdw?oc=5",
       "source": "eciks.org",
       "published": "2026-08-06T14:43:47+00:00",
       "summary": "Nvidia stock surges 3.4% as AMD stumbles on earnings&nbsp;&nbsp;eciks.org"
+    },
+    {
+      "title": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026 - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ZmZvcFJXd0VER2ZCd252VXNHazQ2N1VNWUt3amQ1RzRUaENwenppc1FXNjBlR1BITkhZYndWenhsWlVUODI5SThINlQ0UGhfUkgwaHhYTHZoVVZIMU5ZUHBGc0h2a3prLTBfVnNyUzBVTkk0NW13UWV1TQ?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-07T05:02:42+00:00",
+      "summary": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap - Unite.AI",
@@ -122,20 +115,6 @@
       "summary": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap&nbsp;&nbsp;Unite.AI"
     },
     {
-      "title": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZElfLTBrbWtZM19TX0UzWXFZRTVZN1E2S1d5TTBmVHlTN0JTSTZzeXdFVXVDSlhDOXN2MFVLUXN3bndYSEVTamtWU3hYUFluZnhkTklzcVNqa3BNRElJeEhYcnFNRVN6Q2FjREtMWHR2NWhQUHVnLUFudzNHd1lHb3hpbTlOUUQ2MUx6RVVUNGhsVXE3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-05T14:09:58+00:00",
-      "summary": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - kbra.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ3NlWHNWODR6SVhpTjFMM29maUZLSG9Lc2Q2LUxRZHI4UmFHNHI4X3hOS2YxNklWOE9DcnlYZzRiM1hjUFFIVDRreEJ6c2NmcXVRV0FVT0E2SDB4Ykxxdl9MYWFBZzdzNUpSOUZURy1HZ0lmT3JkTFdRQkZaN2JsT3FWOEZsSGJHSXBheWdWRjVGRDZudm9JNnhYdk9iOVMxcV9XTXFKeWNWWjlCck5HdWdQcTNMNnc2enR5a1F6d0VZZEZKTXc2dGF4ZHh0NWpvTkFWVDE4NHNIZ1h0R0J0WEFkTDdXcXlYYWtSSGxhWkM?oc=5",
-      "source": "kbra.com",
-      "published": "2026-07-27T12:32:23+00:00",
-      "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;kbra.com"
-    },
-    {
       "title": "Rebuilding Agentic AI from First Principles for AMD GPU - Together with Moonshot AI - AMD",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5wOHNTMng1WkpNRUwtaGtMRmlkb3FrMkZaLWN1dnFhc3NkNk1tSmlWd0NiSHBmNm53N2pESlRnblVjNzE5WjFYUmJSS3BKd3FWRThJMFEwOTdYVFhRS3VBd1MyMjRFZHZUUHdDWm9oY2psRk1ZejQ0NGU4eU1RM2dzY3ZkSHV6bWpzeldHS1VNejFBZzl2YndsX1BEdUhuNVQ5Mi13Yk4?oc=5",
       "source": "AMD",
@@ -143,11 +122,25 @@
       "summary": "Rebuilding Agentic AI from First Principles for AMD GPU - Together with Moonshot AI&nbsp;&nbsp;AMD"
     },
     {
-      "title": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI - Business Wire",
+      "title": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZElfLTBrbWtZM19TX0UzWXFZRTVZN1E2S1d5TTBmVHlTN0JTSTZzeXdFVXVDSlhDOXN2MFVLUXN3bndYSEVTamtWU3hYUFluZnhkTklzcVNqa3BNRElJeEhYcnFNRVN6Q2FjREtMWHR2NWhQUHVnLUFudzNHd1lHb3hpbTlOUUQ2MUx6RVVUNGhsVXE3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-05T14:09:58+00:00",
+      "summary": "AMD falls after Musk says SpaceX will exclusively use Nvidia AI chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ3NlWHNWODR6SVhpTjFMM29maUZLSG9Lc2Q2LUxRZHI4UmFHNHI4X3hOS2YxNklWOE9DcnlYZzRiM1hjUFFIVDRreEJ6c2NmcXVRV0FVT0E2SDB4Ykxxdl9MYWFBZzdzNUpSOUZURy1HZ0lmT3JkTFdRQkZaN2JsT3FWOEZsSGJHSXBheWdWRjVGRDZudm9JNnhYdk9iOVMxcV9XTXFKeWNWWjlCck5HdWdQcTNMNnc2enR5a1F6d0VZZEZKTXc2dGF4ZHh0NWpvTkFWVDE4NHNIZ1h0R0J0WEFkTDdXcXlYYWtSSGxhWkM?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T12:32:23+00:00",
+      "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
+    {
+      "title": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI - businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxSQjBPZGNOZGJOM19EZEpvMG0wUXNkR2NRWjN4UEZEZXZ0TVFOeVBNS2JrYlQyejZid0VhcFBaTGpiU0Nod1FGUGpfWjROa1pRWlVZYk92blNlU0FJS1czYnBSN1VidVRNakV1TWlvYURXRG42ODNpM0xBcHJEVXFyWS1EOHRlSWQzZ2RpVUFrSkM3QlZZYXZaMnQzS29objRyLVdHclpHQUZyRUZwR3BmUllKUkM5d3VRWW42cXM1NDdQajJUNTU3UG5VbWEyT3I4amhRZGlYM1pvV0E?oc=5",
-      "source": "Business Wire",
+      "source": "businesswire.com",
       "published": "2026-08-04T15:00:00+00:00",
-      "summary": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI&nbsp;&nbsp;Business Wire"
+      "summary": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI&nbsp;&nbsp;businesswire.com"
     },
     {
       "title": "Top AI Semiconductor Stocks 2026: Investment Guide & Analysis - Intellectia AI",
@@ -157,11 +150,11 @@
       "summary": "Top AI Semiconductor Stocks 2026: Investment Guide & Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "AMD Stock Drops Despite 132% Gains as Su Dismisses Musk Drama - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXRKa1RSazNvb3hKR0lHZ3ZTYTEtUklvVUd3bnRsSTZ5R2tiVzJsT2dSYWZscVNvMWtWdGRRR3A0M09adm9TT3djWkl1RnlyY2lXWXFvbEduVmViRUswaUZGeTFQUmZCRzlmd1Ixem1nanhrVXpSYmtZSVpIeHQ0X3dxRzhGbkVsZVVtd00xcm9JQktsV3VaNg?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-08-05T17:03:00+00:00",
-      "summary": "AMD Stock Drops Despite 132% Gains as Su Dismisses Musk Drama&nbsp;&nbsp;The Tech Buzz"
+      "title": "AMD doubled its data-center revenue to $6.7 billion — its stock still fell 9% - Martin Cid Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16eTd4RVdqOGlrSThiczcxcEp5THlWemwxYi1YdWxwMGhsUmhEdEZMRlM3ZlNtaG5JR1kxRDdfel90a2FtdnRPNDQ4SnlyazlSOU5IemkwN19sRUFzRUpIeTZzNHBTSzlGa0NDZmY1am4yd2FwZnpaNFJn?oc=5",
+      "source": "Martin Cid Magazine",
+      "published": "2026-08-07T11:08:24+00:00",
+      "summary": "AMD doubled its data-center revenue to $6.7 billion — its stock still fell 9%&nbsp;&nbsp;Martin Cid Magazine"
     },
     {
       "title": "The Top Companies Building Custom AI Chips - Built In",
@@ -169,6 +162,13 @@
       "source": "Built In",
       "published": "2026-07-22T07:00:00+00:00",
       "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;Built In"
+    },
+    {
+      "title": "AMD Stock Drops Despite 132% Gains as Su Dismisses Musk Drama - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXRKa1RSazNvb3hKR0lHZ3ZTYTEtUklvVUd3bnRsSTZ5R2tiVzJsT2dSYWZscVNvMWtWdGRRR3A0M09adm9TT3djWkl1RnlyY2lXWXFvbEduVmViRUswaUZGeTFQUmZCRzlmd1Ixem1nanhrVXpSYmtZSVpIeHQ0X3dxRzhGbkVsZVVtd00xcm9JQktsV3VaNg?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-08-05T17:03:00+00:00",
+      "summary": "AMD Stock Drops Despite 132% Gains as Su Dismisses Musk Drama&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "AI Chip Stocks Investment Analysis 2026: Top Picks & Market Outlook - Intellectia AI",
