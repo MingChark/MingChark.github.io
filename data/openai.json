@@ -1,21 +1,7 @@
 {
-  "generated": "2026-08-09T12:58:33.451974+00:00",
+  "generated": "2026-08-09T18:46:52.583116+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
-      "source": "The Guardian",
-      "published": "2026-08-08T16:51:00+00:00",
-      "summary": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)&nbsp;&nbsp;The GuardianOpenAI says it slowed Astra model development over security concerns&nbsp;&nbsp;TechCrunchOpenAI Pauses Some Work on New Astra Model on Cyber Concerns&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-08T19:41:13+00:00",
-      "summary": "OpenAI acquires presentation startup NextSlide&nbsp;&nbsp;TechCrunch"
-    },
     {
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
@@ -24,18 +10,25 @@
       "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
-      "source": "WIRED",
-      "published": "2026-08-06T00:15:00+00:00",
-      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree&nbsp;&nbsp;WIRED"
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-08T16:51:00+00:00",
+      "summary": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "Why Aren't Any AI Companies Watching Their Frontier Models to Make Sure They Don't Go on Hacking Sprees? - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdU55Mnoyc2VXTW9YY3M0WURQb3A0eEQtaHV4dVlYYldOTE5qQ2cwRTRIcWwycVdwNm1fSThaTW9sMDZVOWVOYmZDTmJtZ21KY0FsMGJLaE43VjJ6QWZ4U09vTTFoeXdCM3NKemlyOWhEblphaERRQ09Cb2hwODNLdzJFVmoyTGItSDBJXzhKa3ZuQQ?oc=5",
-      "source": "Futurism",
-      "published": "2026-08-08T12:01:00+00:00",
-      "summary": "Why Aren't Any AI Companies Watching Their Frontier Models to Make Sure They Don't Go on Hacking Sprees?&nbsp;&nbsp;Futurism"
+      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHp6aG5OdGNBX3MyblBfOUZwQlpKX2M1QnZoazdwWGg1VGRHMWxpaHRja2V6YXBPNVJLeEkzYmdPRTNKRGwxM3RzMUtKN1BueFNyaVVPMlJuWWdtbTI5MUNpV2lodHBGVUQ1aHhqNkVYN01PcDJEbWRFUm12M0Q2X1JaOTBTRDRJVmo1cG5sUGtUZTdCd2V6VV9LYy1uWEk5OHhHYlMzNnRZUkxoMVBpUENLOA?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-07T23:12:34+00:00",
+      "summary": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "The world's leading AI companies are all struggling to contain their latest models - businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0Q1NjhDZUhMYTd6ZzZFMndvNkFaNFpjQlU5Q0lCU2RZZFdYcW1RUk91WkoxeWVsVXBBX2I1a1EzMThrdHBEUmpraEFWYnpUZHFKYWZqc09zVk5TU1h1cEk0NUFhaWhVNlp4WF83WVlIeXF3OURTWXI5STdwcWdTenhneGtIMG01QzRrODVSRDF6cVg1UTdjakVRbEtfWkU?oc=5",
+      "source": "businessinsider.com",
+      "published": "2026-08-09T15:25:48+00:00",
+      "summary": "The world's leading AI companies are all struggling to contain their latest models&nbsp;&nbsp;businessinsider.com"
     },
     {
       "title": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments - The Hollywood Reporter",
@@ -45,6 +38,13 @@
       "summary": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments&nbsp;&nbsp;The Hollywood Reporter"
     },
     {
+      "title": "The Ball in OpenAI's court - businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2JYd0NPNmhWVmJDMkN6dktHTXliMWl0MEY3cHJGaENSSndKVXhTOUtZRVBPU1dsN3ZzeHNxOWlFU3dQZzNuRDk3LTFpLUNBMzVXc05xeGNTQ3VZY1M3WWtsbXVMcWpubVZMWXRqQVRidXdfdG1ybUVZOUZjbDJ3VnRCeWs?oc=5",
+      "source": "businessinsider.com",
+      "published": "2026-08-09T08:11:00+00:00",
+      "summary": "The Ball in OpenAI's court&nbsp;&nbsp;businessinsider.com"
+    },
+    {
       "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbldZN3NoODhYeWM3Y3Z1NThsRkhzam1qdDd0WkdwclZueTV2YjVqN1VTSFZMa1ZyOGgwc3ZoeXNJVUxETFp4SWx1ZlRXcEp2NzB2RzgyTFoxMnROOFZBU1k2ZWNLQXlVM0s0alhrRHB1bFZCT243dnh5b2J2V3VNdXJMWUg3LWRCMUtkMVhPMnZuTFpDdk1zMnNDX01IZVhONGlwa2JINTdHVjBuTEFNRzZuWWZDZFJXLTNXVQ?oc=5",
       "source": "Bloomberg.com",
@@ -52,32 +52,11 @@
       "summary": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive” - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHdHRHlBTDUzN2RJTFo5azdHOXRNWFFDbkR1UFNncEFlVnY4dFFhUTh6WVQ4aVhtNnZ5NTM1djFkZHFseE93d2hoZmJWMGd3ZkZoYXhkaHBySzRfTXRORHVWZFh5RFF2bnNQcVY1aV80cHBEWTF6OVZoVzduMWxidld0VkNFaExRbnk1MGJVcEVycFhRbnhxSWk3VWd3R2hmNVNIcFg1X1FnWnJSb1NFdk1CTQ?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-08-07T17:36:22+00:00",
-      "summary": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVI3RU9CWC02X1pSSWM5ZUplVmlFQi1tVDZST0RKQmtOam1wWE5XNWlPbWR1Zkh6MUYzakVBejNWalRuaGZWYVNycDRWb0tMcU0tUHQ2R0lvVXNPSUJfcW9za05BTzhsTGNRalFMVm5tYXczTUozOWVSNmJ3MEhLLVhWeWtBMjd1V3BXZDZOOGxvWERIT1NRUVgyOV9WTzZZeTFNTFhiZHpGdnM2?oc=5",
+      "title": "OpenAI acquires presentation startup NextSlide - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
       "source": "TechCrunch",
-      "published": "2026-08-06T22:43:53+00:00",
-      "summary": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "The Ball in OpenAI's Court - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2JYd0NPNmhWVmJDMkN6dktHTXliMWl0MEY3cHJGaENSSndKVXhTOUtZRVBPU1dsN3ZzeHNxOWlFU3dQZzNuRDk3LTFpLUNBMzVXc05xeGNTQ3VZY1M3WWtsbXVMcWpubVZMWXRqQVRidXdfdG1ybUVZOUZjbDJ3VnRCeWs?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-09T08:11:20+00:00",
-      "summary": "The Ball in OpenAI's Court&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say - Scientific American",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnQ2cXoyQm1jcEZpRDVFdjBiOWc0WTNxS3lZN2IyMUlfSk8yQzB6UVgwYTdkdUJnRFh5NThfa3BuTTZsQnJhZlpmZWZOdWQtNW12aEZiRzlnanJBdE05TDRJQXJ6RDJPc1pteE81YVVHZTZEbTNRREhYS2p1N3NqQjFSa01Vd0gyT1NrMXVJNEtyamY4YTZoSzc4QUZxYmx0WndpbW5pLVJ6SEZRenJzbU0yelBUQk0?oc=5",
-      "source": "Scientific American",
-      "published": "2026-08-06T18:47:54+00:00",
-      "summary": "OpenAI’s latest math breakthroughs commit research misconduct, experts say&nbsp;&nbsp;Scientific American"
+      "published": "2026-08-08T19:41:13+00:00",
+      "summary": "OpenAI acquires presentation startup NextSlide&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "I Got My Hands on OpenAI's Sold-Out Codex Micro. Who Is This $230 Vibe-Coding Keyboard Even For? - PCMag",
@@ -94,11 +73,18 @@
       "summary": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnFrWkZJdVpXcDZPVTN6d2h2WEp5LWtsOVl4eENvUGY0ZGhpcWYtbXdpTWs5YkVhMmFtY01JVTBuT1pjcVZxbUVBQ0RUZUFYdllRWG9oRHNoeGdMeDYtQW11QTJkVUpOVG1jQnZtcTB2emMwR2YxS2dmVjllTDBwR2FTQ2xDUzNvRzVEUVJ6cTdsekR3WWtPOTdvQWtWTkwzZlNOUGQ1YmRrVDZETTNyWmQ3a3VFT2RsdUhaLURPZXVyNEtwU1NQMVFJVnp3UDZ4RjdCag?oc=5",
-      "source": "The Register",
-      "published": "2026-08-08T13:00:00+00:00",
-      "summary": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default&nbsp;&nbsp;The Register"
+      "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-07T16:17:00+00:00",
+      "summary": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Next steps for Effingham County’s OpenAI data center - WTOC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1k1SlVNTnNHajFGbDZORVJvZUVMTWVySzZTMXJaQnpVMk8ySjVNekoyTUhLcnp0ZDV4MmVKM3pOOEpHaEZBejQ0ZENqeXpQemE0Q2NXdm5kbnNyd0FFNUhPa0pGT2hyM2JSRXpISk81SGxyYVB3N0Izd0Jra3ZGMdIBlAFBVV95cUxNaXNKU2Y4TloxUlBFb29Xcl9JaG9NcTN0UWI2NWxGaHNHaVhqOTgwcGttX1doZU5odlNRRFktSkJSSW9zU1g2QlRtM1NDZzBJMnE5ZjMxM082WWtRQ2owOEk1SWpic19abFYwcjZiYnlaQXdfUEQ4YUFuMW93VExiVEFFZlhUVFlMcm9KaF9oT3ZWNG5G?oc=5",
+      "source": "WTOC",
+      "published": "2026-08-08T03:17:00+00:00",
+      "summary": "Next steps for Effingham County’s OpenAI data center&nbsp;&nbsp;WTOC"
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities - OpenAI",
@@ -108,18 +94,18 @@
       "summary": "Responding to the next frontier of critical cyber capabilities&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFNrTmZZTTlEY1hoYjdEUDRyZHQ5MEN3dlVaanlnSTRnbm9xOWNoRGJLVWMtbE9pbFp3M09NZk15RUFUVF9BczJOblBDTlpySXRlbHdISkxJM1pWMnd2WWdHYjhVaHhrN1ZsS1lfcWNqZkowZUdxaTljQ0tIdTFMN0xuSlJyYWtsZDlQVk9seHFMb0NuZXBUc1VYQjA2V0RidklvOF9xMEw5OExjb2RZ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-08T19:41:13+00:00",
-      "summary": "OpenAI acquires presentation startup NextSlide&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
       "title": "OpenAI warns autonomous hacks are ‘watershed moment for computer security’ - Cybersecurity Dive",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMm13bzhEbWpJc1pwN2Jod2UwSG5rYzBkeWVjWmRQbFk0cVBEMmZpaURpRTQ1RHpkVi1VMkdsLWxHSGYtUmkxZzRLbk9NZVQ2Zm4xcXBtWHNUTmQ5LXBPbVYyWnExUFpzYlRaRGFYRVR6MXhZS1FzbkpwVnNQYk5GcDhQNmFGSjhPdGo5VW9NMFc0VnNpd2c?oc=5",
       "source": "Cybersecurity Dive",
       "published": "2026-08-05T22:37:49+00:00",
       "summary": "OpenAI warns autonomous hacks are ‘watershed moment for computer security’&nbsp;&nbsp;Cybersecurity Dive"
+    },
+    {
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive” - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHdHRHlBTDUzN2RJTFo5azdHOXRNWFFDbkR1UFNncEFlVnY4dFFhUTh6WVQ4aVhtNnZ5NTM1djFkZHFseE93d2hoZmJWMGd3ZkZoYXhkaHBySzRfTXRORHVWZFh5RFF2bnNQcVY1aV80cHBEWTF6OVZoVzduMWxidld0VkNFaExRbnk1MGJVcEVycFhRbnhxSWk3VWd3R2hmNVNIcFg1X1FnWnJSb1NFdk1CTQ?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-08-07T17:36:22+00:00",
+      "summary": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”&nbsp;&nbsp;Ars Technica"
     },
     {
       "title": "OpenAI Astra: The mysterious new quantum math-solving model - Mashable",
@@ -136,18 +122,18 @@
       "summary": "OpenAI seeks dismissal of Apple's trade secrets lawsuit&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - Forbes",
+      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew - forbes.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2FHRHkzMmt0RGN6QmRqaVFzVnliOWxOZTlMSnpySEZJZ3BDMFQ3R1FHOGM1TTVjOTN6NTZmQTRqVV9aN1luV0ZFSlAwZkhKck9PbEZnMjhmRFROc2xtdDBUYm52bmxrcVJ0TGczcHdPaWcwYUtfTWExeFozdW53cG1reXMxem9EYmdCYzdoSzZuUlFTZUVHakhGTGk5WFU4ci1ZRzVEdWhWSTZx?oc=5",
-      "source": "Forbes",
+      "source": "forbes.com",
       "published": "2026-08-07T13:59:22+00:00",
-      "summary": "OpenAI’s Security Breach Was More Alarming Than We Knew&nbsp;&nbsp;Forbes"
+      "summary": "OpenAI’s Security Breach Was More Alarming Than We Knew&nbsp;&nbsp;forbes.com"
     },
     {
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-07T21:17:00+00:00",
-      "summary": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns&nbsp;&nbsp;WSJ"
+      "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach - Politico",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2RqUWNVMkhVcXhLNjUwaXg0ZG1odGtUR0xVdHdQTU1qQ0RrRU9ZZ0xYSlBPaEF3WWE4ZndxcHpER1RFZ0F1SnZZSHlyZy1hcmcwWHQtY2NIWGdpM2wwYkpzeEtsekRlVEF1bmVYNllEQnZ3OFVFVF9RNTJ0aGQ2Z3ZnOUF6TVRHN1AxdEhjOFN2M19WNC1YZDdIcVBqd1JvME9FUno2QU9JWVJiOEdCRlVob3Q3SF9YX19STFBxcHdERWN1?oc=5",
+      "source": "Politico",
+      "published": "2026-08-06T02:02:00+00:00",
+      "summary": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach&nbsp;&nbsp;Politico"
     },
     {
       "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
@@ -164,10 +150,17 @@
       "summary": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities&nbsp;&nbsp;Axios"
     },
     {
+      "title": "OpenAI says it slowed Astra model development over security concerns - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-08-07T22:48:24+00:00",
+      "summary": "OpenAI says it slowed Astra model development over security concerns&nbsp;&nbsp;TechCrunch"
+    },
+    {
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
       "source": "Reuters",
-      "published": "2026-08-07T17:46:00+00:00",
+      "published": "2026-08-07T17:54:56+00:00",
       "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls&nbsp;&nbsp;Reuters"
     },
     {
@@ -176,6 +169,13 @@
       "source": "OpenAI",
       "published": "2026-08-04T21:05:32+00:00",
       "summary": "Third-party cyber evaluations involving OpenAI models&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "From asking to doing: How the world is putting ChatGPT to work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QRkNHS1dlTVRqY3d4bUp2bFNiaUVPTkp1NElvWXlMek0yM1d0UjJlVlpPYXFtbEpGa0x3cWYzemZuODZpYXFXNk1VcUI4X0cwR1ZCTW00bDNDMWI3dXNsLVdPdmRlaktxYlZEc2R3WjJaTnB4?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-06T18:09:10+00:00",
+      "summary": "From asking to doing: How the world is putting ChatGPT to work&nbsp;&nbsp;OpenAI"
     }
   ]
 }
