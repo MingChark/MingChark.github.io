@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T02:05:06.467781+00:00",
+  "generated": "2026-08-10T07:48:18.935887+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
+      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "blog.cloudflare.com",
+      "source": "Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -38,11 +38,11 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Microsoft takes on AI rivals with three new foundational models - techcrunch.com",
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;techcrunch.com"
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -108,18 +108,11 @@
       "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
+      "title": "ETRI begins development of a 100B-scale large foundation model - eurekalert.org",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert!",
+      "source": "eurekalert.org",
       "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
-    },
-    {
-      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;eurekalert.org"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -155,6 +148,13 @@
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
+      "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",

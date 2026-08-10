@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T02:05:06.467781+00:00",
+  "generated": "2026-08-10T07:48:18.935887+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,11 +10,11 @@
       "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - Tom's Hardware",
+      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - tomshardware.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxORm5iZ2QzQkJoZFB2UFlObDRTNU11WDVaeDdFbGYtMWoyRmd2VzV3UWppV2g1TWJjdFZZZ0dlZVNaaWk5MmVCZzFSRUNfRXN4ZFY1TFdKWkx2SWJIczNqaTlzQ1JYTmJnT09ST2VrTUhJMS05dE9DUUczVml5ZUxJbjNYZVpoa1BkclR0QkZmMWZlUFpyTWdtUG5HYkNMUHhuNHJaWDF0SDYza2sycGJ6VUFjS1dzMmRaSDdSV1dIVng5X2IxWDl6aFEwQ0hyVDhDNWRFR24tVDFwMEF0OHpSQjRfOEM5aDlLSHNzanNqb1NpWDRCNTVsV0dxSjA1TDhlU29UNFZvRFVjZFYycnRnSkhsaVFXSmxBNnk4MWRCNURNanRkTkt4dEhmV1Jmc0k?oc=5",
-      "source": "Tom's Hardware",
+      "source": "tomshardware.com",
       "published": "2026-08-07T10:30:00+00:00",
-      "summary": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker&nbsp;&nbsp;Tom's Hardware"
+      "summary": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker&nbsp;&nbsp;tomshardware.com"
     },
     {
       "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
@@ -52,25 +52,18 @@
       "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon&nbsp;&nbsp;theregister.com"
     },
     {
-      "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-08-06T20:02:56+00:00",
-      "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
-    },
-    {
-      "title": "Top 16 AI Infrastructure Companies to Know - Built In",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sYjIzLWtWRE1VQVVqLUtUXzJ5UUhNMG40aHFjd2RPMXJaeDlvbnVTZmxCazROUGJLalJVcmdhOUdqa0hvVGJtRzgwZU1uNy1RenJITEtQYkNSM2JrY25WMWhJR3h0NDg?oc=5",
-      "source": "Built In",
-      "published": "2026-08-05T07:00:00+00:00",
-      "summary": "Top 16 AI Infrastructure Companies to Know&nbsp;&nbsp;Built In"
-    },
-    {
       "title": "AMD's AI Story Has Quietly Entered A New Phase (NASDAQ:AMD) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFY0RjA2OGFyRy1lVExFM1N0dXk5c1UycmF3R3k1NElLaWU0VGZzNU5TR0VqcDBfcEtKaE42TVZYT09JNTRVWWZzMWVBUlJJek42UW56WUt5Mm1OVXJCbXU5dUN5dU95WnNJUk1iSXdYejN3Mk40blVLNW5WandrOHliQXNJQUxnX08yeVln?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-08-06T19:04:47+00:00",
       "summary": "AMD's AI Story Has Quietly Entered A New Phase (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
+      "source": "Pulse 2.0",
+      "published": "2026-08-06T20:02:56+00:00",
+      "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
     },
     {
       "title": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb - crn.com",
@@ -80,20 +73,6 @@
       "summary": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWRMQkR3TG1hM3FiUFp3ZmJjU0dLcjNiZ0hfVHhYX2NLaWRva3Q5OGtfSDBVcDhNUFJVWnhyc0VQV0doY09CVkZheVVNWXY3Y0U5bTRvQ3cwSmpRbEs5OXpLRGd1dDdISXk1NVhld21qLVdacE9ZTEY1cm9uTGdnYTR5UmZqQVhfS25nbmZsUVpWcUstaXRIc0o1Ujc?oc=5",
-      "source": "HP",
-      "published": "2026-08-05T19:47:14+00:00",
-      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
-    },
-    {
-      "title": "Nvidia stock surges 3.4% as AMD stumbles on earnings - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuN3d6TTBUMVZraTJZT0VPTE5JdldkcHRnWFI3UWo4dURCU2NHRUswaFY1V2pncE9DdHdXOFo3cERNZklweV83eFk3NmdtWUhYNHNzc1dVWThHbTlQWFZQWjRydW9sdw?oc=5",
-      "source": "eciks.org",
-      "published": "2026-08-06T14:43:47+00:00",
-      "summary": "Nvidia stock surges 3.4% as AMD stumbles on earnings&nbsp;&nbsp;eciks.org"
-    },
-    {
       "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ3NlWHNWODR6SVhpTjFMM29maUZLSG9Lc2Q2LUxRZHI4UmFHNHI4X3hOS2YxNklWOE9DcnlYZzRiM1hjUFFIVDRreEJ6c2NmcXVRV0FVT0E2SDB4Ykxxdl9MYWFBZzdzNUpSOUZURy1HZ0lmT3JkTFdRQkZaN2JsT3FWOEZsSGJHSXBheWdWRjVGRDZudm9JNnhYdk9iOVMxcV9XTXFKeWNWWjlCck5HdWdQcTNMNnc2enR5a1F6d0VZZEZKTXc2dGF4ZHh0NWpvTkFWVDE4NHNIZ1h0R0J0WEFkTDdXcXlYYWtSSGxhWkM?oc=5",
       "source": "KBRA",
@@ -101,11 +80,25 @@
       "summary": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
+      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWRMQkR3TG1hM3FiUFp3ZmJjU0dLcjNiZ0hfVHhYX2NLaWRva3Q5OGtfSDBVcDhNUFJVWnhyc0VQV0doY09CVkZheVVNWXY3Y0U5bTRvQ3cwSmpRbEs5OXpLRGd1dDdISXk1NVhld21qLVdacE9ZTEY1cm9uTGdnYTR5UmZqQVhfS25nbmZsUVpWcUstaXRIc0o1Ujc?oc=5",
+      "source": "HP",
+      "published": "2026-08-05T19:47:14+00:00",
+      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
+    },
+    {
       "title": "Rebuilding Agentic AI from First Principles for AMD GPU - Together with Moonshot AI - AMD",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5wOHNTMng1WkpNRUwtaGtMRmlkb3FrMkZaLWN1dnFhc3NkNk1tSmlWd0NiSHBmNm53N2pESlRnblVjNzE5WjFYUmJSS3BKd3FWRThJMFEwOTdYVFhRS3VBd1MyMjRFZHZUUHdDWm9oY2psRk1ZejQ0NGU4eU1RM2dzY3ZkSHV6bWpzeldHS1VNejFBZzl2YndsX1BEdUhuNVQ5Mi13Yk4?oc=5",
       "source": "AMD",
       "published": "2026-07-21T07:00:00+00:00",
       "summary": "Rebuilding Agentic AI from First Principles for AMD GPU - Together with Moonshot AI&nbsp;&nbsp;AMD"
+    },
+    {
+      "title": "Nvidia stock surges 3.4% as AMD stumbles on earnings - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuN3d6TTBUMVZraTJZT0VPTE5JdldkcHRnWFI3UWo4dURCU2NHRUswaFY1V2pncE9DdHdXOFo3cERNZklweV83eFk3NmdtWUhYNHNzc1dVWThHbTlQWFZQWjRydW9sdw?oc=5",
+      "source": "eciks.org",
+      "published": "2026-08-06T14:43:47+00:00",
+      "summary": "Nvidia stock surges 3.4% as AMD stumbles on earnings&nbsp;&nbsp;eciks.org"
     },
     {
       "title": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026 - Intellectia AI",
@@ -122,13 +115,6 @@
       "summary": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap&nbsp;&nbsp;Unite.AI"
     },
     {
-      "title": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics - crn.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2FKeTFZZXdCSzBSbldlemFKOS16ZWVDOWJMY2hIQi1hcFdfRnZuaTdZY0E5cXgteFItbTZZMjVIdDUycnlaMl9WZ1pOd3B5WE9oWjBoRkM2NGVOd25VRWhRbUhia3EzMlE3RHoxZkF2VGlMajZxYkxHd0JSWHN3ZVdpOXJZUi1SRGJDekhCRlZYVkU?oc=5",
-      "source": "crn.com",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics&nbsp;&nbsp;crn.com"
-    },
-    {
       "title": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxSQjBPZGNOZGJOM19EZEpvMG0wUXNkR2NRWjN4UEZEZXZ0TVFOeVBNS2JrYlQyejZid0VhcFBaTGpiU0Nod1FGUGpfWjROa1pRWlVZYk92blNlU0FJS1czYnBSN1VidVRNakV1TWlvYURXRG42ODNpM0xBcHJEVXFyWS1EOHRlSWQzZ2RpVUFrSkM3QlZZYXZaMnQzS29objRyLVdHclpHQUZyRUZwR3BmUllKUkM5d3VRWW42cXM1NDdQajJUNTU3UG5VbWEyT3I4amhRZGlYM1pvV0E?oc=5",
       "source": "Business Wire",
@@ -136,11 +122,18 @@
       "summary": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI&nbsp;&nbsp;Business Wire"
     },
     {
-      "title": "The Top Companies Building Custom AI Chips - Built In",
+      "title": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics - crn.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2FKeTFZZXdCSzBSbldlemFKOS16ZWVDOWJMY2hIQi1hcFdfRnZuaTdZY0E5cXgteFItbTZZMjVIdDUycnlaMl9WZ1pOd3B5WE9oWjBoRkM2NGVOd25VRWhRbUhia3EzMlE3RHoxZkF2VGlMajZxYkxHd0JSWHN3ZVdpOXJZUi1SRGJDekhCRlZYVkU?oc=5",
+      "source": "crn.com",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics&nbsp;&nbsp;crn.com"
+    },
+    {
+      "title": "The Top Companies Building Custom AI Chips - builtin.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUnpkd1JIUWdRb19LaklsWFg3c0FkeXphaWZDbG0yQ3JtLThweGk0RVlWMUpYWHRrZlNXMUZKS0JFSC1tM3MxRzBkV2hTVUtJcHh3TUJsQ05mUkhSR3hNRnhDWnJjQjQ?oc=5",
-      "source": "Built In",
+      "source": "builtin.com",
       "published": "2026-07-22T07:00:00+00:00",
-      "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;Built In"
+      "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;builtin.com"
     },
     {
       "title": "AMD says its newest AI server is in full production, will ship in months - Reuters",
@@ -164,18 +157,25 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Instinct MI455X and the Helios Rack: Can AMD beat Nvidia in AI? - hwcooling.net",
+      "title": "Instinct MI455X and the Helios Rack: Can AMD beat Nvidia in AI? - HWCooling.net",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTgyUlpUT1V6V09ROWNqX2NldmdUMTlTWUFtckxCUkZ6YXZHTWNxQXVqeTduQlVaaTNWT1NGZ1ZHWGZZUGlmODM5aW04WWtSREs5R1hId2xMM3g0akIzSGNlUXl3ZUp6WnhEWVY4bVhOXzRURWhaZnB0WlNZdlBkTGhXVm04cElPSGY0LWpkZE9kRnlKOVE2czhvaFFHOElHTHczbjdB?oc=5",
-      "source": "hwcooling.net",
+      "source": "HWCooling.net",
       "published": "2026-08-05T15:00:32+00:00",
-      "summary": "Instinct MI455X and the Helios Rack: Can AMD beat Nvidia in AI?&nbsp;&nbsp;hwcooling.net"
+      "summary": "Instinct MI455X and the Helios Rack: Can AMD beat Nvidia in AI?&nbsp;&nbsp;HWCooling.net"
     },
     {
-      "title": "NVIDIA Opens cuFile: SSD Storage Is Set to Move Much Closer to the GPU for AI - igor´sLAB",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT19DdHplVkVCY2N3TTZ5cU5TOFF1WEU4c1NnWVNGSmdfdy1yX3piVXZ0eGIxZVYtT1F5TTIzVVROWm01S3ZHRmxQa0pvanR6WEtkUmNJcTNERnllLWxPdWtGTExULUI2SkJUWENEcl9RNVFacUxCZmZlOGJIaTFPV3Y5QUIydFk?oc=5",
-      "source": "igor´sLAB",
-      "published": "2026-08-09T04:00:00+00:00",
-      "summary": "NVIDIA Opens cuFile: SSD Storage Is Set to Move Much Closer to the GPU for AI&nbsp;&nbsp;igor´sLAB"
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-07-22T07:00:00+00:00",
+      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
     }
   ]
 }
