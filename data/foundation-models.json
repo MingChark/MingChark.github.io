@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-11T13:14:14.327074+00:00",
+  "generated": "2026-08-11T19:06:03.630730+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Introducing the Third Generation of Apple’s Foundation Models - machinelearning.apple.com",
+      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
-      "source": "machinelearning.apple.com",
+      "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;machinelearning.apple.com"
+      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -17,18 +17,18 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - research.google",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
+      "source": "research.google",
       "published": "2026-06-30T07:00:00+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;research.google"
     },
     {
-      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
+      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "blog.cloudflare.com",
+      "source": "Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -45,11 +45,11 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
+      "source": "nvidianews.nvidia.com",
       "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -59,11 +59,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
+      "title": "Introducing the IBM Granite 4.1 family of models - research.ibm.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "source": "IBM Research",
+      "source": "research.ibm.com",
       "published": "2026-04-29T07:00:00+00:00",
-      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
+      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;research.ibm.com"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -73,18 +73,18 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
       "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
+    },
+    {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "Transparency in AI is on the Decline - Stanford HAI",
@@ -94,6 +94,13 @@
       "summary": "Transparency in AI is on the Decline&nbsp;&nbsp;Stanford HAI"
     },
     {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "247wallst.com",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;247wallst.com"
+    },
+    {
       "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
       "source": "Towards Data Science",
@@ -101,11 +108,11 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
-      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
+      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - medium.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "Medium",
+      "source": "medium.com",
       "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
+      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;medium.com"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -115,18 +122,11 @@
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 247wallst.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "247wallst.com",
-      "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;247wallst.com"
-    },
-    {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - marktechpost.com",
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTE1pYjZfZnJoRzhYbUloS0hnNlNONTFONjlLTkN1ejFFUmFOMUFwMDlXNFJrY1pqbVR3NXZqeFlEaTBzXy03NUx1MEMxT1R3dlNXUktZTnlTcFZQakFxZVl3Wlh5UUxsUy1STlhmOHc2R3hCakQ5SVROVmNWN0V2NklMV19oNGc5alVNZnNnTkVFTURVdUZuVDI0VTU0dGFpTHVuZ3VCMUUxSGZWeURyVGlKX1dxNUpfZDBrbTVPYjVXV1hpeW0wbF9oUGZZd05kdGlyY1N0alNyaVE1ZE5EVUgyeF9wZnhVMjZ2cjE4TEpWbA?oc=5",
-      "source": "marktechpost.com",
+      "source": "MarkTechPost",
       "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;marktechpost.com"
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -136,11 +136,11 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
+      "source": "nvidianews.nvidia.com",
       "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "Densing law of LLMs - Nature",
@@ -150,11 +150,18 @@
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
-      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
+      "source": "Stanford HAI",
+      "published": "2025-12-16T08:00:00+00:00",
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
+    },
+    {
+      "title": "How AI foundation models trained on DNA could transform plant biology - techradar.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "TechRadar",
+      "source": "techradar.com",
       "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;techradar.com"
     },
     {
       "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
@@ -169,13 +176,6 @@
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
-    },
-    {
-      "title": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXFDU1JWYnVjR3kyNDRrM3VKQ3dCd1JDaUQ5LWgtN21GcWs2R0RnMFZYX3dSYWlSMk5Wd2VaQjg0QkxXaVg1cy12d3RqaDNyMXFKQnlIZlU1TTZ1ZE5ZS0VvOXlEaDNaTzZreGlzZUo4ckV0TTdocUF2WXNmNlktQUMzR1d0anZvN1pRckZDT3dDaVNUeFF5YnVrLW0tNlE4OGhIMjZoZUdtczBBS0hlTnBmMk1YeTVDZDhfMWt3aVpBSFE1Rm9Sc0d4UFNSNUZJTVJpNGhSSWdMZC1oVUJXYXBoX2VqZw?oc=5",
-      "source": "FICO",
-      "published": "2025-09-23T07:00:00+00:00",
-      "summary": "FICO® Focused Foundation Model for Financial Services Provides Superior Accuracy in Decisioning and Trust When Deploying GenAI&nbsp;&nbsp;FICO"
     }
   ]
 }
