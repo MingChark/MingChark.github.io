@@ -1,27 +1,34 @@
 {
-  "generated": "2026-08-10T19:01:55.793181+00:00",
+  "generated": "2026-08-11T02:00:17.067596+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5",
+      "source": "The Next Web",
+      "published": "2026-08-10T15:17:32+00:00",
+      "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
+    },
+    {
+      "title": "Intel raises $15B to fight Nvidia in AI chip war - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSENicWkyVzR6U0tOc2NwdHNsTEN6TDJFM3k1LUJsMFhOX0R3U0JLT3lsaDloWGJDbmRORVdGQVpxWUp4aGtZcWNQVmM0Y1VaYi15ZUJNYWlBY2FjZVlndElSa20tYWNuMFBGRjl0WVVnQkt3ZUVQX2NqVGJ6UUdTSVpmLVBkcGs?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-08-10T20:34:00+00:00",
+      "summary": "Intel raises $15B to fight Nvidia in AI chip war&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
+      "title": "Nvidia Makes Massive Move to Fund AI Buildout - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjRBbkhpTTBYekoyZ2ZTc2xzWWxUUDc4bUxiWW9na20wR190OXAzWk9QVzBOQ19qTXZCZ3JISHZXZEN1ajctYUU5ZnZfalJPUG9TbXpucEdEcFBwSkxsbjI4SS1WLWVJZ1VlLVNQUEM2OWhEY0VsVWNZd3IxbENPM3J2dDFjU0puNFdjNmc0cGJ5VjVpcGs5NE5aRl82Y2k1bkVhSXZlUUE?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-10T21:27:35+00:00",
+      "summary": "Nvidia Makes Massive Move to Fund AI Buildout&nbsp;&nbsp;TradingView"
+    },
     {
       "title": "AMD buys Taalas and a very different idea about AI inference - Jon Peddie Research",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtrMWpyTVh2VTdlX240X2FYWUFkenlfdENvNjF2SFhxN2k0eGNSdE9ZUUNEUTNMby16MURqT2dfeWw4UmJCalMxQ2FmUUFkRGlPUUJDNG9tZ1Vma2MtVWs0MG9aZEdESXZzOC1YdFZRUWV0OGo1S1BrVlZXYnBqbTU2Rm5obHlRLXdyYzh1czNpT04zdWFr?oc=5",
       "source": "Jon Peddie Research",
       "published": "2026-08-10T18:46:06+00:00",
       "summary": "AMD buys Taalas and a very different idea about AI inference&nbsp;&nbsp;Jon Peddie Research"
-    },
-    {
-      "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5",
-      "source": "The Next Web",
-      "published": "2026-08-10T15:06:26+00:00",
-      "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
-    },
-    {
-      "title": "Accelerating life science computing with AI-ready infrastructure - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUxaR3FBNkRPdHhoSzZQcWdxNzZwOHdfTE5vRTltVUtoUEdCTC1JRTJaeWg1NTBuYlU0RlIwaXF0QVA3RGpGS2hEZEN5ck5KdTVYc2RBMC13a1RLYjQyOHB0NFp0X2VYTVFOMmMzYWZ1djZJVEYwUmc2YmlXRFVvblU0R3VJREgzcGFLU3BsSDAtZHdPMDRtZS1iYkVyLWNVaE1DNzVWS2ZYU2RpcldQQjJR?oc=5",
-      "source": "News-Medical",
-      "published": "2026-08-10T12:54:00+00:00",
-      "summary": "Accelerating life science computing with AI-ready infrastructure&nbsp;&nbsp;News-Medical"
     },
     {
       "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
@@ -38,13 +45,6 @@
       "summary": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "Alphabet's Higher AI Spending Could Boost These ETFs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdFWWJtZVpuN3o1TzBONldDMERGR1JZRXJZU1UzaWpRbW5adVMyT1lheTVJYjY2bTQwbWVhdlpzMGZMRmhhOUVxb2R2LWd1RWxfRGtkTGtweFRraEZTV2p4UnFVek1uWTZCb3hmRUxrMy1pRGNkT0ViZmI1RXJUcGtsUVc1ZnZrNC1iMXBaVEZlVHBhcE1MQmhta3FZczJMZUdfbWJJQ1Nja2pM?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-10T14:40:00+00:00",
-      "summary": "Alphabet's Higher AI Spending Could Boost These ETFs&nbsp;&nbsp;TradingView"
-    },
-    {
       "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
       "source": "The Next Platform",
@@ -52,11 +52,11 @@
       "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
     },
     {
-      "title": "AMD's AI Story Has Quietly Entered A New Phase (NASDAQ:AMD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFY0RjA2OGFyRy1lVExFM1N0dXk5c1UycmF3R3k1NElLaWU0VGZzNU5TR0VqcDBfcEtKaE42TVZYT09JNTRVWWZzMWVBUlJJek42UW56WUt5Mm1OVXJCbXU5dUN5dU95WnNJUk1iSXdYejN3Mk40blVLNW5WandrOHliQXNJQUxnX08yeVln?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-06T19:04:47+00:00",
-      "summary": "AMD's AI Story Has Quietly Entered A New Phase (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+      "title": "Camtek Piles Up $600M in Orders While AI CapEx Forecasters Debate Slowdown - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmVjcjJFc2VnbFpMeTZ6MFZvVlBld1ZKX1RvdUdoQWk4eENYSFliTmhHOU9BcVh5MVBwalMwemt2SkFFZlctUmlIVWpwUm44LXRsY2xySUxIY2JwZ2R5dXdMMFg0LXUyZmgwOFlURmV3ZnBtbk42QXM3VWJjTWJqVEMzMlM3QUVrUjhiTThNVlZuV3VwV1d6SGZUMVJNZ3lkbUtmLUhFVDM0NDhQUVFLOUViaC1Ec2h5bVYtNDRMYw?oc=5",
+      "source": "Tech Times",
+      "published": "2026-08-10T23:25:29+00:00",
+      "summary": "Camtek Piles Up $600M in Orders While AI CapEx Forecasters Debate Slowdown&nbsp;&nbsp;Tech Times"
     },
     {
       "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon - theregister.com",
@@ -64,13 +64,6 @@
       "source": "theregister.com",
       "published": "2026-08-06T20:05:00+00:00",
       "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon&nbsp;&nbsp;theregister.com"
-    },
-    {
-      "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-08-06T20:02:56+00:00",
-      "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
     },
     {
       "title": "AI Compute Infrastructure: Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
@@ -101,13 +94,6 @@
       "summary": "AMD Acquires Taalas: AI Chip Acquisition Investment Analysis 2026&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUI2VTZ0SXNnSWlLVkNDNUQwZ0YtYV9paDhJR3R6aVk2TW1nSmY4TExNR2FDdGlTVENaZUFtTmxqN3RndFFWT0NkQ3BNSWQwZFJYekRhTE42enRNQTE0Y29UQUFIeDdnREhFQzg5V1NiX1BYTm9sVmdvUXI2ZUxzTWRmRjJRSDY4VUxzWTdob2U3QVFLVU9j?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-08-06T21:12:01+00:00",
-      "summary": "AMD Buys Taalas to Put Hard-Wired AI Models in Its Accelerator Roadmap&nbsp;&nbsp;Unite.AI"
-    },
-    {
       "title": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics - crn.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2FKeTFZZXdCSzBSbldlemFKOS16ZWVDOWJMY2hIQi1hcFdfRnZuaTdZY0E5cXgteFItbTZZMjVIdDUycnlaMl9WZ1pOd3B5WE9oWjBoRkM2NGVOd25VRWhRbUhia3EzMlE3RHoxZkF2VGlMajZxYkxHd0JSWHN3ZVdpOXJZUi1SRGJDekhCRlZYVkU?oc=5",
       "source": "crn.com",
@@ -115,18 +101,11 @@
       "summary": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics&nbsp;&nbsp;crn.com"
     },
     {
-      "title": "TrendForce: Nvidia, AMD Combined China AI Chip Share to Fall to 21% in 2026 - Shane the Gamer",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWp1WGtKcFQzN2xUVHVka2dXVmhFMWRxSG5yN294cGNSRTFQYmlQRzd4a3N0dHZkMUx4RDhEdEpfN0QyUDZnTTctX0ZZOUcyUzhYcm9zMGFIeEh5blJmUnR6andsVjAwcHlwQzE2c3RZcG1vQ1ZwOGNZN0tXdHRPcEYxS3kweUt0WEpMenFGWHQteHZ3QnpGUC1QX2ZQWXQxeGFzby14a2RmM3QxNGhz?oc=5",
-      "source": "Shane the Gamer",
-      "published": "2026-08-10T09:11:35+00:00",
-      "summary": "TrendForce: Nvidia, AMD Combined China AI Chip Share to Fall to 21% in 2026&nbsp;&nbsp;Shane the Gamer"
-    },
-    {
-      "title": "AMD EPYC Venice Hits Record 46.2% Server Share [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TEdkVXhWQUt3dFdQTEdOYXRVbFA3SVRuZW0wTzhXWXJVbDRJUjRDTGhjMjVfbWhEdENPVUxtMjVGRVdlRlgtbEkyOXp2OXljMXBENVpRQW10Mzl0bWctbGJFYmJrcEhmOTU4?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-08-09T19:52:52+00:00",
-      "summary": "AMD EPYC Venice Hits Record 46.2% Server Share [2026]&nbsp;&nbsp;tech-insider.org"
+      "title": "Intel Launches $15B Stock Offering to Fund AI Chip Push - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXNyR3ZEUlp1N0pMWEI1WjhHaWc4S1d0VVJBSUVYOXNaaVpnakN4eExBTDZlLWY3VHh5SGZJSFdBS2hEUGRoNzdlaGR6akgxLWN4S0FheU42TDlJUHdzc1dfeUJTelZJSno2ZU5pT241Y0hDdGc1aHg3SEM1V2hzaW1rN2dub1V5UVU0blpwOVg?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-08-10T21:06:00+00:00",
+      "summary": "Intel Launches $15B Stock Offering to Fund AI Chip Push&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "The Top Companies Building Custom AI Chips - Built In",
@@ -136,11 +115,25 @@
       "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;Built In"
     },
     {
-      "title": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxSQjBPZGNOZGJOM19EZEpvMG0wUXNkR2NRWjN4UEZEZXZ0TVFOeVBNS2JrYlQyejZid0VhcFBaTGpiU0Nod1FGUGpfWjROa1pRWlVZYk92blNlU0FJS1czYnBSN1VidVRNakV1TWlvYURXRG42ODNpM0xBcHJEVXFyWS1EOHRlSWQzZ2RpVUFrSkM3QlZZYXZaMnQzS29objRyLVdHclpHQUZyRUZwR3BmUllKUkM5d3VRWW42cXM1NDdQajJUNTU3UG5VbWEyT3I4amhRZGlYM1pvV0E?oc=5",
-      "source": "Business Wire",
-      "published": "2026-08-04T15:00:00+00:00",
-      "summary": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI&nbsp;&nbsp;Business Wire"
+      "title": "AMD EPYC Venice Hits Record 46.2% Server Share [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TEdkVXhWQUt3dFdQTEdOYXRVbFA3SVRuZW0wTzhXWXJVbDRJUjRDTGhjMjVfbWhEdENPVUxtMjVGRVdlRlgtbEkyOXp2OXljMXBENVpRQW10Mzl0bWctbGJFYmJrcEhmOTU4?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-08-09T19:52:52+00:00",
+      "summary": "AMD EPYC Venice Hits Record 46.2% Server Share [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "TrendForce: Nvidia, AMD Combined China AI Chip Share to Fall to 21% in 2026 - Shane the Gamer",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWp1WGtKcFQzN2xUVHVka2dXVmhFMWRxSG5yN294cGNSRTFQYmlQRzd4a3N0dHZkMUx4RDhEdEpfN0QyUDZnTTctX0ZZOUcyUzhYcm9zMGFIeEh5blJmUnR6andsVjAwcHlwQzE2c3RZcG1vQ1ZwOGNZN0tXdHRPcEYxS3kweUt0WEpMenFGWHQteHZ3QnpGUC1QX2ZQWXQxeGFzby14a2RmM3QxNGhz?oc=5",
+      "source": "Shane the Gamer",
+      "published": "2026-08-10T09:11:35+00:00",
+      "summary": "TrendForce: Nvidia, AMD Combined China AI Chip Share to Fall to 21% in 2026&nbsp;&nbsp;Shane the Gamer"
+    },
+    {
+      "title": "Alphabet's Higher AI Spending Could Boost These ETFs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdFWWJtZVpuN3o1TzBONldDMERGR1JZRXJZU1UzaWpRbW5adVMyT1lheTVJYjY2bTQwbWVhdlpzMGZMRmhhOUVxb2R2LWd1RWxfRGtkTGtweFRraEZTV2p4UnFVek1uWTZCb3hmRUxrMy1pRGNkT0ViZmI1RXJUcGtsUVc1ZnZrNC1iMXBaVEZlVHBhcE1MQmhta3FZczJMZUdfbWJJQ1Nja2pM?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-10T14:40:00+00:00",
+      "summary": "Alphabet's Higher AI Spending Could Boost These ETFs&nbsp;&nbsp;TradingView"
     },
     {
       "title": "AMD says its newest AI server is in full production, will ship in months - Reuters",
@@ -150,6 +143,13 @@
       "summary": "AMD says its newest AI server is in full production, will ship in months&nbsp;&nbsp;Reuters"
     },
     {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
       "source": "CNBC",
@@ -157,11 +157,11 @@
       "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI - businesswire.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxSQjBPZGNOZGJOM19EZEpvMG0wUXNkR2NRWjN4UEZEZXZ0TVFOeVBNS2JrYlQyejZid0VhcFBaTGpiU0Nod1FGUGpfWjROa1pRWlVZYk92blNlU0FJS1czYnBSN1VidVRNakV1TWlvYURXRG42ODNpM0xBcHJEVXFyWS1EOHRlSWQzZ2RpVUFrSkM3QlZZYXZaMnQzS29objRyLVdHclpHQUZyRUZwR3BmUllKUkM5d3VRWW42cXM1NDdQajJUNTU3UG5VbWEyT3I4amhRZGlYM1pvV0E?oc=5",
+      "source": "businesswire.com",
+      "published": "2026-08-04T15:00:00+00:00",
+      "summary": "DDN Collaborates with NVIDIA to Advance GPU-Initiated Data Access for Next-Generation AI&nbsp;&nbsp;businesswire.com"
     },
     {
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
@@ -171,11 +171,11 @@
       "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - NVIDIA Blog",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework - blogs.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTnpMR0ZBNlZsUjBzUjZIUHZzb0h0VmVmY21yazhSMXR6a1NYdG5xUEJMRi1uMUNsVXRsZU0yVW1Rai1YWVJLNmgtcWxELUdSeDJ1UEh2Ql9PODd1UEdjenVaT2dCUEc3OVhZVGdQWUEwdmtpV2Niaw?oc=5",
-      "source": "NVIDIA Blog",
+      "source": "blogs.nvidia.com",
       "published": "2026-07-22T07:00:00+00:00",
-      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;NVIDIA Blog"
+      "summary": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework&nbsp;&nbsp;blogs.nvidia.com"
     }
   ]
 }
