@@ -1,20 +1,20 @@
 {
-  "generated": "2026-08-13T07:39:39.427893+00:00",
+  "generated": "2026-08-13T13:20:00.005233+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
-    {
-      "title": "Korea Opens Cybersecurity AI Model Bid; Criminal Probes Shadow Both Leading Consortiums - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb2JGdXFXM2lQRUJBUGdtQk0tYXFVUksyWFBkS2xZbVNfbWRSVVNlYm9tZmN0RnFlbmQ0cTNtdkY3c0J3V01jQWdxaFlTT084aWQxcjJjTUlzZy0tTXo0NkxXV25lMjM0Nmx2UFZlZk91TG0yUk5WN181bFlySHJSWGNQb1E2enJWZVdIS1VJOGlocXdHS0hEemswckxwVUs0VDB2ZkYwQURXUE5oeGRTT3JhSDN4ajAyeW1NeC05bFVUUGotTXh1cEYtS3d5NW9NQUotZnRKQjE?oc=5",
-      "source": "Tech Times",
-      "published": "2026-08-12T14:53:21+00:00",
-      "summary": "Korea Opens Cybersecurity AI Model Bid; Criminal Probes Shadow Both Leading Consortiums&nbsp;&nbsp;Tech Times"
-    },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "Korea Opens Cybersecurity AI Model Bid; Criminal Probes Shadow Both Leading Consortiums - techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb2JGdXFXM2lQRUJBUGdtQk0tYXFVUksyWFBkS2xZbVNfbWRSVVNlYm9tZmN0RnFlbmQ0cTNtdkY3c0J3V01jQWdxaFlTT084aWQxcjJjTUlzZy0tTXo0NkxXV25lMjM0Nmx2UFZlZk91TG0yUk5WN181bFlySHJSWGNQb1E2enJWZVdIS1VJOGlocXdHS0hEemswckxwVUs0VDB2ZkYwQURXUE5oeGRTT3JhSDN4ajAyeW1NeC05bFVUUGotTXh1cEYtS3d5NW9NQUotZnRKQjE?oc=5",
+      "source": "techtimes.com",
+      "published": "2026-08-12T14:53:21+00:00",
+      "summary": "Korea Opens Cybersecurity AI Model Bid; Criminal Probes Shadow Both Leading Consortiums&nbsp;&nbsp;techtimes.com"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -59,18 +59,18 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
+      "title": "Introducing the IBM Granite 4.1 family of models - research.ibm.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "source": "IBM Research",
+      "source": "research.ibm.com",
       "published": "2026-04-29T07:00:00+00:00",
-      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
+      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;research.ibm.com"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -87,18 +87,18 @@
       "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5mac.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5mac.com",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5mac.com"
+    },
+    {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
       "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
-    },
-    {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
@@ -115,11 +115,11 @@
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 247wallst.com",
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;247wallst.com"
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -129,11 +129,11 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -143,18 +143,18 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Densing law of LLMs - Nature",
+      "title": "Densing law of LLMs - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2025-11-06T08:00:00+00:00",
-      "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
+      "summary": "Densing law of LLMs&nbsp;&nbsp;nature.com"
     },
     {
-      "title": "How AI foundation models trained on DNA could transform plant biology - techradar.com",
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "techradar.com",
+      "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;techradar.com"
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
@@ -171,11 +171,11 @@
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
     },
     {
-      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
-      "source": "Linux Foundation",
-      "published": "2025-12-09T08:00:00+00:00",
-      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
+      "title": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSUtnb1JnSjg1VG5QSVAzOHhFQi1USmluei1YRDBRV0JYM0dYV3lGWHlSN1pkSlNHMVdBTl9Zc2xES2VCazdxNi1BWHZEZnFBbmRwVk9tSlBCYlh4V2piNWRVTDd4LU54RmNJcFpGMk5XbUxkNHMyZUJtcndRVTloekVacW1taE1BdTkwWmdsbXh0UHhkYWlQZFBZVjF3N3FVYVQxX0t6Z2l4cm5QYW1SdDV2NUJwczhvdURhS2c4X3FxQVplbFZ5SkdaemZLRzNXbDBBcWhFTnJhTkxyUWYxZ0tocUVlV1RaWmpsTXk1OFFKWUE3NU1wbEtuYTJ3UVd3VXJRREJn0gGLAkFVX3lxTE5Jb3owQmw2emZIV3J0Y0hCZHJVNTFaZnJybW9ZRzhSWHJIZkozbGY0U0RBQTB4bnQ5VkU4M28tR0ZiLTZnbEpodTViR0ZFZ0JPUUNBYTRCMXBVNS0yR21odURNR1hXcDJjVkRpRXRSemg1TVV6aDN2eWhyM1BkNDRUTllrMkpuNTB1MGc1dG1IT1A0dWJpUW1VZGxsYnUwbmwtRjZFd2NKYncycjdOR3lDVmQ5R3V5VWt6Y2x3ZTFCa3VxRy1rSDJrRTlGczlBbjd6eFFTNm12RWY0STY0WGtRd0d5Y1h0VXNKSS1vMjdtRFFBMy1sOXZSVm5VT1pLSVF0blJ6MVV4Tk9IUQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-03-04T08:00:00+00:00",
+      "summary": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency&nbsp;&nbsp;MarkTechPost"
     }
   ]
 }
