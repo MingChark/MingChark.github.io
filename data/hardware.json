@@ -1,14 +1,7 @@
 {
-  "generated": "2026-08-14T02:13:49.658252+00:00",
+  "generated": "2026-08-14T07:37:40.775007+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmp6Tmd0dUEzWS0xYzJOQXM0QzY4RmVxUUwtd21JUmxRc3ZIRl9NcFBaOEFPcnRnRGs2d19NbHc5aG5wQXBtMFByNzNHOWdYYXJOeGhPMEozN1ptVXBBQllySW5hTWpiQ1J5SW43SzdKcU4wd3VHZXRPcERzRGpXc1p3TWtKMDFRcWpHU2RzUV96UXBuMUdyd21XSDJkTklFMGY3MEREb2ZHNUFITXFrV2RvMWk0c1E0ZWtlczVOZDJKWlR5MWFrOGZwWktBeWhsazFUckNoakJPMzFsdXp5S2dJS0hUeEttQTBF?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-08-13T13:00:49+00:00",
-      "summary": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips&nbsp;&nbsp;24/7 Wall St."
-    },
     {
       "title": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTVxaXV5VllfZ3ZELWVMemR2SjR2bmxnME9IQW9NN1JQcTBTMFFoVWMxN001S0VEX0tuNEhyb3ZWS0p4S1Y4cFhjbnVPT3hBN3A0eFc2QlpXejBYSFR6eUVpVkQ2N2YzNTE4X0tQOXozOEU5dlk5dU80N0hwN28tWnJwUDZsOW5LWUhuYWpxQ3JFZG1NVnIxM3VCbHA2WXUwRXRoOENRRXJGT2hWcVRHdXdnSFFCU0xP?oc=5",
@@ -17,11 +10,18 @@
       "summary": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days&nbsp;&nbsp;Business Wire"
     },
     {
-      "title": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVk0RGZneElnSVNuXzhaUVZ6Z19EOVcwTHZ3UWp1M2RXdVg2Uy1hU3NLcTdob1M1UkF2eDhxZDc0dnZKYi1HRVRDS1U4a2VIaW1pRkNnY2Q2TmdGeC15aWI4U2lFVUZxZHgzR0xSOHlEUW1zUERZZGVXSG16OHR0VlZNODRfbEwta0MzTEpwQzRCQkhWdUFmaVNraUxZTFdwdENQYlJ3R2tCQmVwNFhSYmJ3VWZnWjg5amh6ekVla2hmUHU0UmFGNklydFNuMW9rcDg0Ul94UnBJX05ERWNF0gHkAUFVX3lxTE01Qm8wUEdDaXFPaDk1eURQeUZpM09kcllpSloteHlNU25IUnM2VXc0UVpvb0dOS0pkTkNXdnd6NXBxdVIwNHhzSVpsbXlRX0ltVVNqaEF4YThsMmVQMG9qSVRnTUQ3SEhYUVF5TEdZNGNWUWFLQTVrRVgxcEVGQVBIRFpZRlo0a3RLeEY4MTRib2Fpek1uZ1pJbk9lMk5iMlZLUUVIYTIySDRVb2ZMLUZDcUVlOVdSRUcxWDZsWjh4MXNJMlZWZjdiRmh1YnRQOEU5d1NkWDE2SXRDazFVblBSZ3RaWQ?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-08-13T11:34:32+00:00",
-      "summary": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade&nbsp;&nbsp;simplywall.st"
+      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
+      "source": "NAI500",
+      "published": "2026-08-14T02:44:17+00:00",
+      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
+    },
+    {
+      "title": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmp6Tmd0dUEzWS0xYzJOQXM0QzY4RmVxUUwtd21JUmxRc3ZIRl9NcFBaOEFPcnRnRGs2d19NbHc5aG5wQXBtMFByNzNHOWdYYXJOeGhPMEozN1ptVXBBQllySW5hTWpiQ1J5SW43SzdKcU4wd3VHZXRPcERzRGpXc1p3TWtKMDFRcWpHU2RzUV96UXBuMUdyd21XSDJkTklFMGY3MEREb2ZHNUFITXFrV2RvMWk0c1E0ZWtlczVOZDJKWlR5MWFrOGZwWktBeWhsazFUckNoakJPMzFsdXp5S2dJS0hUeEttQTBF?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-08-13T13:00:49+00:00",
+      "summary": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
@@ -31,18 +31,18 @@
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
     },
     {
+      "title": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcVk0RGZneElnSVNuXzhaUVZ6Z19EOVcwTHZ3UWp1M2RXdVg2Uy1hU3NLcTdob1M1UkF2eDhxZDc0dnZKYi1HRVRDS1U4a2VIaW1pRkNnY2Q2TmdGeC15aWI4U2lFVUZxZHgzR0xSOHlEUW1zUERZZGVXSG16OHR0VlZNODRfbEwta0MzTEpwQzRCQkhWdUFmaVNraUxZTFdwdENQYlJ3R2tCQmVwNFhSYmJ3VWZnWjg5amh6ekVla2hmUHU0UmFGNklydFNuMW9rcDg0Ul94UnBJX05ERWNF0gHkAUFVX3lxTE01Qm8wUEdDaXFPaDk1eURQeUZpM09kcllpSloteHlNU25IUnM2VXc0UVpvb0dOS0pkTkNXdnd6NXBxdVIwNHhzSVpsbXlRX0ltVVNqaEF4YThsMmVQMG9qSVRnTUQ3SEhYUVF5TEdZNGNWUWFLQTVrRVgxcEVGQVBIRFpZRlo0a3RLeEY4MTRib2Fpek1uZ1pJbk9lMk5iMlZLUUVIYTIySDRVb2ZMLUZDcUVlOVdSRUcxWDZsWjh4MXNJMlZWZjdiRmh1YnRQOEU5d1NkWDE2SXRDazFVblBSZ3RaWQ?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-08-13T11:34:32+00:00",
+      "summary": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade&nbsp;&nbsp;simplywall.st"
+    },
+    {
       "title": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst - Intellectia AI",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hRVhIS2h1ekllZmxXUWlpeVQyMjE2S0F2Sld3YllUOTc4QmZQbDFDc0x2UXFLMFp2X2RoaWxnM1p4ZzBMWk5aVDhnV0ozWTVZM1h5cV9BdVFHUkM5cWdGNVVZWlpyRXVIM09URVVQZ0c?oc=5",
       "source": "Intellectia AI",
       "published": "2026-08-13T12:15:52+00:00",
       "summary": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst&nbsp;&nbsp;Intellectia AI"
-    },
-    {
-      "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTkg0RTlPMUhGMEtaOVpzQ3FfSnBSWFI0SnU0QS1Kb1lPQmo5ZW1aeUM5alhsLVVOOU9ia29hV3pTb0hfRUFMcndCOVQxLWpId2s1Q1lPSUZBNjh6UlNpSWFsWFJiTVhOMnlwbmtoLU1nZE5Ed2g0U0VIWEJ1aWNkaE9BOUlBbzRpTW1uQjhmY0tibEpUbVRRSTREY1VoVXdGRUVFM3pzT3R5aWNkdzNhYjNQa0d0bXVPT0xmbFA3VEx3b2VTRndHZUxDOS1DSzFpbHdvQWRFbmZFdDhZNVBUOFFNTWdoWEtSVUJKMVhueWZNcnlsNUxkMm5BR00tdw?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-08-13T07:15:18+00:00",
-      "summary": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
@@ -52,18 +52,11 @@
       "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
     },
     {
-      "title": "Nvidia Makes Another Bold Move Beyond AI Chips - tradingview.com",
+      "title": "Nvidia Makes Another Bold Move Beyond AI Chips - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkdTMEdIdE5XV3BFSktERDlULUpDa0JmVU9YUGFTRnJ6WHZ0ZkZPV1VoTzFJMzBvT0pPTkM4Y2Y1bmJNRjA2ZWxvc0hCVWlIN2t1YkFVWGU4SWtNZ3FUMjhTTHd1YVVodVNHZE9fVlhsREV6VkoyalZmYnJwOC12b3gxNXpHTmV3clNLNUtpZ3RzVEVtcTJXV0JNN20xVVMteHJoN3ZGbWVHZw?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published": "2026-08-11T18:28:20+00:00",
-      "summary": "Nvidia Makes Another Bold Move Beyond AI Chips&nbsp;&nbsp;tradingview.com"
-    },
-    {
-      "title": "FC-BGA Shortage Deepens as AI Chips Get Bigger… Samsung Electro-Mechanics Runs Lines at Full Capacity - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQ1gzUkdsODRXZmFzTmxDX3BNNmJ2TC1QZG5Rd2ZhTW1FUU5ZYi1tTVQzei1JRllEV1B6SXlvZmt1OENndkd5NERTXzc3ajJKcW03amVjVElhMk9HaW96UWlwYlh6akk5WGJTWWt3WC1VdTkwelE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-08-13T21:55:00+00:00",
-      "summary": "FC-BGA Shortage Deepens as AI Chips Get Bigger… Samsung Electro-Mechanics Runs Lines at Full Capacity&nbsp;&nbsp;finance.biggo.com"
+      "summary": "Nvidia Makes Another Bold Move Beyond AI Chips&nbsp;&nbsp;TradingView"
     },
     {
       "title": "[China AI Bottleneck] “Still Running on Nvidia Chips”: China’s AI Self-Sufficiency Drive Falters Despite Massive Investment as Hardware, Software and Ecosystem Constraints Persist - economy.ac",
@@ -87,11 +80,11 @@
       "summary": "AMD buys Taalas and a very different idea about AI inference&nbsp;&nbsp;Jon Peddie Research"
     },
     {
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-08-07T19:22:18+00:00",
-      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
+      "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTkg0RTlPMUhGMEtaOVpzQ3FfSnBSWFI0SnU0QS1Kb1lPQmo5ZW1aeUM5alhsLVVOOU9ia29hV3pTb0hfRUFMcndCOVQxLWpId2s1Q1lPSUZBNjh6UlNpSWFsWFJiTVhOMnlwbmtoLU1nZE5Ed2g0U0VIWEJ1aWNkaE9BOUlBbzRpTW1uQjhmY0tibEpUbVRRSTREY1VoVXdGRUVFM3pzT3R5aWNkdzNhYjNQa0d0bXVPT0xmbFA3VEx3b2VTRndHZUxDOS1DSzFpbHdvQWRFbmZFdDhZNVBUOFFNTWdoWEtSVUJKMVhueWZNcnlsNUxkMm5BR00tdw?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-08-13T07:15:18+00:00",
+      "summary": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity&nbsp;&nbsp;The Globe and Mail"
     },
     {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
@@ -101,25 +94,25 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0QtelJxQkZuaEJub1NZbi0yTnBjc3dFUXRsUWpjUDFlUTNaMVpPMkp2UTZ6MUlZVm9wNGNOTXBWOTREVG9HeHJZNDVHUjNfUUxmWldvMl9wMkVPQWRLbzZRUllHSHB2SzZGanU4MjM5NTRROXdSNkw0N2JXM2o4dFZfSUlSMHg5ZGhNc3J4LUtjajBnNXpXcWhVT21JQQ?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-12T17:00:19+00:00",
-      "summary": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct&nbsp;&nbsp;ServeTheHome"
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
+      "source": "The Next Platform",
+      "published": "2026-08-07T19:22:18+00:00",
+      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
     },
     {
-      "title": "Specialized AI Inference Chips: AMD Acquires Taalas to Improve AI Processing Efficiency - trendhunter.com",
+      "title": "FC-BGA Shortage Deepens as AI Chips Get Bigger… Samsung Electro-Mechanics Runs Lines at Full Capacity - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQ1gzUkdsODRXZmFzTmxDX3BNNmJ2TC1QZG5Rd2ZhTW1FUU5ZYi1tTVQzei1JRllEV1B6SXlvZmt1OENndkd5NERTXzc3ajJKcW03amVjVElhMk9HaW96UWlwYlh6akk5WGJTWWt3WC1VdTkwelE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-08-13T21:55:00+00:00",
+      "summary": "FC-BGA Shortage Deepens as AI Chips Get Bigger… Samsung Electro-Mechanics Runs Lines at Full Capacity&nbsp;&nbsp;finance.biggo.com"
+    },
+    {
+      "title": "Specialized AI Inference Chips: AMD Acquires Taalas to Improve AI Processing Efficiency - Trend Hunter",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LS1VLTTVDSHZZQU91ZFo5ajd6d3VaNXZOcXJIS3pCUWVORDBGaDg3QnViay00N3RNcE5oU0NWXzAyb3pYRmY4MFJVNklxR1FtWDFUVkxJcmhyM2Q3dzN0ZnBKd19DUnFjZFVBNWFta3ViWk0?oc=5",
-      "source": "trendhunter.com",
+      "source": "Trend Hunter",
       "published": "2026-08-11T07:00:00+00:00",
-      "summary": "Specialized AI Inference Chips: AMD Acquires Taalas to Improve AI Processing Efficiency&nbsp;&nbsp;trendhunter.com"
-    },
-    {
-      "title": "Nvidia Stock Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZelNmOVRacVh2WDNfTXBQMmxJNFRyWDdWU1hWUzdrY2RPMDhGd3hkVzZySjdEOWtGM1plZ09zTEJGSzNPbzlfbE9EWnkyUjVqYW1teHc1b3dMa25ObGJIbXdPOHotaFZta3Nn?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-13T10:14:23+00:00",
-      "summary": "Nvidia Stock Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook&nbsp;&nbsp;Intellectia AI"
+      "summary": "Specialized AI Inference Chips: AMD Acquires Taalas to Improve AI Processing Efficiency&nbsp;&nbsp;Trend Hunter"
     },
     {
       "title": "AI Chip Stocks August 2026: Nvidia vs AMD Investment Analysis - Intellectia AI",
@@ -129,11 +122,18 @@
       "summary": "AI Chip Stocks August 2026: Nvidia vs AMD Investment Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "NVIDIA CEO warns China AI using Huawei chips co... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeklDTmdZNUJ2cWxXZ2s1bXh1OW9VNU5hcjBqSm5TNW56bE5na01zeDlWV2VBWWdwUENES1hlRXVRdVRUQXQzZkQ2UDFEYW8xc1JVZUptc29zUWtVTmNXakFrUHVoOVlrb25TY2FyeloxeEdaNERBbzVyOHhzSmZNVUgxWldKaGNBTFI5UWExMHJoRGxfODRRUlE0N2hjUU9iclNzVHUxOTQ?oc=5",
-      "source": "Pluang",
-      "published": "2026-08-13T13:19:28+00:00",
-      "summary": "NVIDIA CEO warns China AI using Huawei chips co...&nbsp;&nbsp;Pluang"
+      "title": "Nvidia Stock Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZelNmOVRacVh2WDNfTXBQMmxJNFRyWDdWU1hWUzdrY2RPMDhGd3hkVzZySjdEOWtGM1plZ09zTEJGSzNPbzlfbE9EWnkyUjVqYW1teHc1b3dMa25ObGJIbXdPOHotaFZta3Nn?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-13T10:14:23+00:00",
+      "summary": "Nvidia Stock Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0QtelJxQkZuaEJub1NZbi0yTnBjc3dFUXRsUWpjUDFlUTNaMVpPMkp2UTZ6MUlZVm9wNGNOTXBWOTREVG9HeHJZNDVHUjNfUUxmWldvMl9wMkVPQWRLbzZRUllHSHB2SzZGanU4MjM5NTRROXdSNkw0N2JXM2o4dFZfSUlSMHg5ZGhNc3J4LUtjajBnNXpXcWhVT21JQQ?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-08-12T17:00:19+00:00",
+      "summary": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct&nbsp;&nbsp;ServeTheHome"
     },
     {
       "title": "AMD to Acquire Taalas for Model Specific AI Inference Chips - ServeTheHome",
@@ -164,11 +164,11 @@
       "summary": "TSMC Revenue Surges 45% as AI Chip Demand From Nvidia, AMD, and Apple&nbsp;&nbsp;Memeburn"
     },
     {
-      "title": "Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase - EE Times India",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXhsQ19ZSnVvYU5acW1TcnNCNXFqR0x0TzFtRkpTNkxIWkpvV1BGaTJlZUNXOU5HRjE5MEJuQWw4aWRIZU90RjFUTG5vSE5PSW5BUTk3eWViQTRLUzZuN0EyS1hyLUNWQ2F2dzNBb3pFWVNFQW9xN1VKeFNrc0dTTnNyWG9ydlhLZ2EzcEIyLUJGNEpP?oc=5",
-      "source": "EE Times India",
-      "published": "2026-08-13T10:25:31+00:00",
-      "summary": "Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase&nbsp;&nbsp;EE Times India"
+      "title": "NVIDIA CEO warns China AI using Huawei chips co... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeklDTmdZNUJ2cWxXZ2s1bXh1OW9VNU5hcjBqSm5TNW56bE5na01zeDlWV2VBWWdwUENES1hlRXVRdVRUQXQzZkQ2UDFEYW8xc1JVZUptc29zUWtVTmNXakFrUHVoOVlrb25TY2FyeloxeEdaNERBbzVyOHhzSmZNVUgxWldKaGNBTFI5UWExMHJoRGxfODRRUlE0N2hjUU9iclNzVHUxOTQ?oc=5",
+      "source": "Pluang",
+      "published": "2026-08-13T13:19:28+00:00",
+      "summary": "NVIDIA CEO warns China AI using Huawei chips co...&nbsp;&nbsp;Pluang"
     },
     {
       "title": "The Top Companies Building Custom AI Chips - Built In",
