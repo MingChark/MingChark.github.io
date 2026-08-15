@@ -1,111 +1,34 @@
 {
-  "generated": "2026-08-15T12:43:28.623023+00:00",
+  "generated": "2026-08-15T18:34:40.484247+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days - cnbc.com",
+      "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-08-13T18:28:11+00:00",
+      "summary": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up&nbsp;&nbsp;nytimes.com"
+    },
+    {
+      "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzUDJHcGxIMHA5TEdHVkpQNWNndlFIdFdJYVNnSGtBQnRvZ2ZHUnhXQ3lsMVpxcWZ6R0ZiSTB0UXNJSXlUcmFwRDVHWHhWVTBXczM5bnBHUWtySHdzVzNWYTMyWTQzYzdHdTZqbmJ0cHd4OHlLRE1kRGM1YUluNknSAYQBQVVfeXFMUFU3RUdtT3VLNFJNdFExaUM1QTB5d0s0WDBnMk04TFR5VXVTcFA0Z3VWX3BZb1JlcklGN0ZtdE1nY2xCMVhxbV9PeEtJWnQzRVZvOU5WbGZudnVXM2pzeTNha3JuR1JhYUt5Qk9waEpVNGNqUHpweTF4ZWFkUktMOTkwOW54?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-08-13T16:12:32+00:00",
-      "summary": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days&nbsp;&nbsp;cnbc.com"
+      "summary": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEJmT0pZQ2VMODVNNVdTQ1g4VjJUdVlMV2xLUFl4Um9oNjg4STQwSjJRaWhYT1FiUzJDd3pON3VJVGNPVm5OTWNHd0gtY2pjWUFJVkg2MmNIdzNHcnVpMDNFNUtRV04tUVFPeTZPeEVfUXpTeWdPV0gyYVg3bkFOWWM1SE5DbEduS1V5TlZCeVhMMER3ckJYektBbHFPczgycXd6MEI0emlpbkJsSlljWkRn?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-08-13T15:55:22+00:00",
-      "summary": "OpenAI Hires New Chief Revenue Officer After Less Than a Year&nbsp;&nbsp;Bloomberg"
+      "title": "OpenAI sheds senior execs in pre-IPO refresh - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SN1dFNXE5NHoyVi1rN3FfenZnUTBhWVYzVVE2eGduV2djbndmMHVTbVFrQnhId1RYUUkxck80SnVZVUppTC05UGl0ajRWZmlHVE5uS01qNGY5RkpfRnBzV0VKVC1waEp0OFZEUnZPeUJJSWtzWnc?oc=5",
+      "source": "Axios",
+      "published": "2026-08-14T09:33:04+00:00",
+      "summary": "OpenAI sheds senior execs in pre-IPO refresh&nbsp;&nbsp;Axios"
     },
     {
-      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
-      "source": "Financial Times",
-      "published": "2026-08-15T04:00:31+00:00",
-      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push&nbsp;&nbsp;Financial Times"
-    },
-    {
-      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-14T23:29:00+00:00",
-      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Nvidia Close to Deal to Guarantee About $100 Billion in Credit for OpenAI - The Information",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdEZDIteGxJU2tFTHZYbDNfRU9TaUhTMjFhQmtlR0c5RmstWlVKVDZUVWs5UXhMTEtONzNGQ2xlUmdub0lxOGZWUDBkU1owOHR4UEV4Q1NEWG11NV9RY1lZV2xmQVRjMnhYZnB2akNvNFkyUDZXUlhWaEM1UVFWNFFBdHUxQ3FpWG04SEN3Vmt2M0wwbU84NTQ2ektiaDZRUDk5Rk9CdEFJaF9zQkE?oc=5",
-      "source": "The Information",
-      "published": "2026-08-15T00:01:00+00:00",
-      "summary": "Nvidia Close to Deal to Guarantee About $100 Billion in Credit for OpenAI&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0F4OVVubTVYb29xaWx3NXl3VzZ3X3hyR2lucTZRMDF6OXdXVU9mREs3UEJwMkZOMG5XR3FyR1FyX0JXMkl4cjhZMENLMUhFbDdkZFNmWWh3Zjd0aVJfdTZ4Vml0U2IyOE9zbi02VTNjanJ5eXh2WWM2TDdpeHFSR0lNbmlORlJvcm1XQzVmeWdwTHQydkRLWlBwLURfNnVJVjRrZFAzOEtZZE9Na0l3djZsYi1oNjRKMlJRQUI2QVM0ZVdW?oc=5",
-      "source": "Investing.com",
-      "published": "2026-08-15T04:41:38+00:00",
-      "summary": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ&nbsp;&nbsp;Investing.com"
-    },
-    {
-      "title": "This company built its own language models instead of using OpenAI - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdl91bnVkVmFlM2t5bkhMdExfYmZVOWxRQlhrZzlrZm5Xc3MtMW9MZk5pVXJwR0NteGR6NjVhSXlIR1dPOEt1UlFHbUZTZmRLaV9vRFlWdmxZWHF3aFpFZTVhSnh5d2lMM1QxbWNVelVnQXRFWnpLMDU0ZklrWlVQRmxFT3EtTmdqbHc?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-15T12:00:00+00:00",
-      "summary": "This company built its own language models instead of using OpenAI&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "OpenAI's Jony Ive-designed AI device targets home use - New Atlas",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5odFRTMVFxMmMwTTBxbUFMZ1F1QnhMVXVyQ250enoyUE4tR2VWcFZrbTM2bE83VlpsUXpmX1BPUzE5RlZUYTFiSGpiLXAwYnlGWkZXSGhTTmJDcjk2c255UzN2b191R3RzZ2c4aDRGVS1vUQ?oc=5",
-      "source": "New Atlas",
-      "published": "2026-08-15T11:08:13+00:00",
-      "summary": "OpenAI's Jony Ive-designed AI device targets home use&nbsp;&nbsp;New Atlas"
-    },
-    {
-      "title": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5",
-      "source": "inc.com",
-      "published": "2026-08-15T10:03:38+00:00",
-      "summary": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace&nbsp;&nbsp;inc.com"
-    },
-    {
-      "title": "Billionaire Joshua Kushner just bought the Lakers for $12.5 billion—OpenAI's Sam Altman once said he 'doesn't care' what others think - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3VMVGxZQUY2bzI2WjNLcEpBZ3BWNUJoVEk0eWF6ZWFVS1o4MlU0NnJiSU9abDMxb0lFWk1WSDlrODZ3d19XY0hhejcxUS1ZZ2EwNHMtdTlWMW02OTV0Vzctd1d1dGlfQ21rSE52UXpnaGpCVk1fUDZya1QwV0lnQnE3Y0V2NHJROFpLSDI3cmVIVWxac2hIblBzUkhGSGFwQzdYeVdrRzM3bEE0SHk2UzJCSFJWM2V6Ym1mXzRfaHFIVzZ5dDNNejQ4Zm9pUExhQ2JpVWstSnE?oc=5",
-      "source": "Fortune",
-      "published": "2026-08-14T07:00:00+00:00",
-      "summary": "Billionaire Joshua Kushner just bought the Lakers for $12.5 billion—OpenAI's Sam Altman once said he 'doesn't care' what others think&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
-      "source": "Cerebras",
-      "published": "2026-08-13T17:05:30+00:00",
-      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI&nbsp;&nbsp;Cerebras"
-    },
-    {
-      "title": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXc3ZnJEY3ZvOU5QLUs3YlNmNTNsQ1FSdS1LT0phclRMZmZmaTNzMWFpcUt3NUZEdXhXNlUwVjhiWmNGNlFJMjhiUlk0elA5X3B4c2V3Z1oyMWpHcXZIWEFIbFQtazRYQnVENFc2dTJneXJTdzZDNW9OVDFpZHp4dkdaSmRxdmot?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-13T05:00:07+00:00",
-      "summary": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "OpenAI’s Annualized Revenue Tops $40 Billion Ahead of IPO - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-08-13T21:36:04+00:00",
-      "summary": "OpenAI’s Annualized Revenue Tops $40 Billion Ahead of IPO&nbsp;&nbsp;Bloomberg"
-    },
-    {
-      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekpYMnJzNV8tUXhUWVAxRThSYkhXaFBnT0xxMFBwLTlwZTVLZzZENGxoN0s3b25HSmhLcWkwNWZMQUYxcEZqU1E1ajhvQUtWWTVnOUZtTldTbTJTcjk3di1Bd0FDQURaRG12X1dzOGtNRnFKbWQzR0E2MEdkU1pqOG1IU01JQkZocDl5NGtrVV9hZw?oc=5",
-      "source": "Detroit Free Press",
-      "published": "2026-08-14T21:40:00+00:00",
-      "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI&nbsp;&nbsp;Detroit Free Press"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZ014TTBMWjk5ZkxNRkhScXlJakpYU3FzYlpxdnpPMXhwQTJIbnhDYTVXcll3Y0xUTU9WYlM5Sm5Jbnp4MGlVTGd6dlY0MUdrRnVJODdqbEVuTEFadkdBMTRsdlVVLXRmc0E?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-13T16:02:30+00:00",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer&nbsp;&nbsp;OpenAI"
+      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T23:43:56+00:00",
+      "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
@@ -115,11 +38,81 @@
       "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHBnZWdHT2ZNTFBza3ZncERqUnFNTFJPcGUyY3ljd3hYUUFTMEF5ZHpWVGxrY0l2a0Ftd3ZWcTc3bjA2aHBVSUcyZ0xwVTFRUEJRdEhSSV95cVd3S01NcDBiQ19RbVFkbUlUSWNqVE4zUkM4bVJCMVNRb2xRdWVyT2p3RTFkWnluVnllUk4yYm84YXQ2T09NSzVEUnY2c2Vub0VxZ3VxSXl4d9IBrwFBVV95cUxPOGVvSTlpbkI0eWNxcVZEbk4zbFdJdUF1ZEJ0QmxKelEzbG1NQW82TFNIeUEyXzlVdm1hb1pUZkh4MnU1bFZaMTdzdFBpZmk3TmM3VFh6SXFBV0pCUHRURFBkLVhtZEN0X2tSVVVkR0E3WEFyRzNablVSTjRucC1DZE1fRUNMLXVRZUVUS3F5cmptNkF6WkRxS1JQVl9TaUtQX1owTnVnY09SVkJIZHpN?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-08-14T19:00:31+00:00",
-      "summary": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue&nbsp;&nbsp;cnbc.com"
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-14T23:29:00+00:00",
+      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekpYMnJzNV8tUXhUWVAxRThSYkhXaFBnT0xxMFBwLTlwZTVLZzZENGxoN0s3b25HSmhLcWkwNWZMQUYxcEZqU1E1ajhvQUtWWTVnOUZtTldTbTJTcjk3di1Bd0FDQURaRG12X1dzOGtNRnFKbWQzR0E2MEdkU1pqOG1IU01JQkZocDl5NGtrVV9hZw?oc=5",
+      "source": "Detroit Free Press",
+      "published": "2026-08-14T21:40:00+00:00",
+      "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI&nbsp;&nbsp;Detroit Free Press"
+    },
+    {
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
+      "source": "Financial Times",
+      "published": "2026-08-15T04:02:14+00:00",
+      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI’s Annualized Revenue Tops $40 Billion Ahead of IPO - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-08-13T21:36:04+00:00",
+      "summary": "OpenAI’s Annualized Revenue Tops $40 Billion Ahead of IPO&nbsp;&nbsp;Bloomberg"
+    },
+    {
+      "title": "Billionaire Joshua Kushner just bought the Lakers for $12.5 billion—OpenAI's Sam Altman once said he 'doesn't care' what others think - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3VMVGxZQUY2bzI2WjNLcEpBZ3BWNUJoVEk0eWF6ZWFVS1o4MlU0NnJiSU9abDMxb0lFWk1WSDlrODZ3d19XY0hhejcxUS1ZZ2EwNHMtdTlWMW02OTV0Vzctd1d1dGlfQ21rSE52UXpnaGpCVk1fUDZya1QwV0lnQnE3Y0V2NHJROFpLSDI3cmVIVWxac2hIblBzUkhGSGFwQzdYeVdrRzM3bEE0SHk2UzJCSFJWM2V6Ym1mXzRfaHFIVzZ5dDNNejQ4Zm9pUExhQ2JpVWstSnE?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-14T07:00:00+00:00",
+      "summary": "Billionaire Joshua Kushner just bought the Lakers for $12.5 billion—OpenAI's Sam Altman once said he 'doesn't care' what others think&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXc3ZnJEY3ZvOU5QLUs3YlNmNTNsQ1FSdS1LT0phclRMZmZmaTNzMWFpcUt3NUZEdXhXNlUwVjhiWmNGNlFJMjhiUlk0elA5X3B4c2V3Z1oyMWpHcXZIWEFIbFQtazRYQnVENFc2dTJneXJTdzZDNW9OVDFpZHp4dkdaSmRxdmot?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-08-13T05:00:07+00:00",
+      "summary": "Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks&nbsp;&nbsp;nytimes.com"
+    },
+    {
+      "title": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5",
+      "source": "inc.com",
+      "published": "2026-08-15T13:01:13+00:00",
+      "summary": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace&nbsp;&nbsp;inc.com"
+    },
+    {
+      "title": "Sam Altman says 4 years could be too long for college: 'The way the world has evolved, college just shouldn't be as long as it is' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVZpSUJPemo5Yl9uZE9jU21WY1hTY0tzdlM5U0hVbTVGdy1WRTEzRW5teUR3UnFqSUpKc3IxVU42QWZBOW9teF9NYVp4TWl0MERmZVhUYS1RM3o1U204dGMwZk1xd0ZTVDVOYW5aQmJ4dS0zME1iMXY2TEpiWThGeXMwOU80NTN6?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-15T08:46:00+00:00",
+      "summary": "Sam Altman says 4 years could be too long for college: 'The way the world has evolved, college just shouldn't be as long as it is'&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "Thrive Capital’s 2022 Fund Surges on OpenAI, Cursor - The Information",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHYzZEFRYS1FNE1ZRENKR21IT2N3aS14YkF2N09COTN3V3p2LWhieHBGT1kwUDJxQ3M2MlRDVWNtTklIT0d6TFNmd3dJNC1GXzRrdXFFZno2UU5JUmJQU0pFSzd6N2hjeDVQdHVHajUxeldhNkNaZUJuWUphRDdSVXVQcXVDbXlVLVc0WTdlZHU?oc=5",
+      "source": "The Information",
+      "published": "2026-08-14T23:31:00+00:00",
+      "summary": "Thrive Capital’s 2022 Fund Surges on OpenAI, Cursor&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZ014TTBMWjk5ZkxNRkhScXlJakpYU3FzYlpxdnpPMXhwQTJIbnhDYTVXcll3Y0xUTU9WYlM5Sm5Jbnp4MGlVTGd6dlY0MUdrRnVJODdqbEVuTEFadkdBMTRsdlVVLXRmc0E?oc=5",
+      "source": "openai.com",
+      "published": "2026-08-13T16:02:30+00:00",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer&nbsp;&nbsp;openai.com"
+    },
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-14T15:45:15+00:00",
+      "summary": "OpenAI talent exodus raises 'huge red flag' ahead of IPO&nbsp;&nbsp;CNBC"
     },
     {
       "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
@@ -129,53 +122,60 @@
       "summary": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations&nbsp;&nbsp;IBM Newsroom"
     },
     {
-      "title": "OpenAI sheds senior execs in pre-IPO refresh - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SN1dFNXE5NHoyVi1rN3FfenZnUTBhWVYzVVE2eGduV2djbndmMHVTbVFrQnhId1RYUUkxck80SnVZVUppTC05UGl0ajRWZmlHVE5uS01qNGY5RkpfRnBzV0VKVC1waEp0OFZEUnZPeUJJSWtzWnc?oc=5",
-      "source": "axios.com",
-      "published": "2026-08-14T09:33:04+00:00",
-      "summary": "OpenAI sheds senior execs in pre-IPO refresh&nbsp;&nbsp;axios.com"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI - WIRED",
+      "title": "The Safety Reckoning Inside OpenAI - wired.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qMXhpZTVPWkw5WFRBU1hSSFpqTjRUdjJOb2pSdEZROGtibm93MGVGUzVZTmFqTERJeU1YbW13SFREQzhuMl9NNW4yamNuRm1jaVZXMnRaMkVuMnpWLWw0bjZra2FDbkxPRmlETUFEOGtJeUlZNmExNw?oc=5",
-      "source": "WIRED",
+      "source": "wired.com",
       "published": "2026-08-13T22:37:00+00:00",
-      "summary": "The Safety Reckoning Inside OpenAI&nbsp;&nbsp;WIRED"
+      "summary": "The Safety Reckoning Inside OpenAI&nbsp;&nbsp;wired.com"
     },
     {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed - OpenAI",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
+      "source": "Cerebras",
+      "published": "2026-08-13T17:05:30+00:00",
+      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI&nbsp;&nbsp;Cerebras"
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed - openai.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
-      "source": "OpenAI",
+      "source": "openai.com",
       "published": "2026-08-13T17:02:46+00:00",
-      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed&nbsp;&nbsp;OpenAI"
+      "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed&nbsp;&nbsp;openai.com"
     },
     {
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-08-14T15:45:15+00:00",
-      "summary": "OpenAI talent exodus raises 'huge red flag' ahead of IPO&nbsp;&nbsp;cnbc.com"
+      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHBnZWdHT2ZNTFBza3ZncERqUnFNTFJPcGUyY3ljd3hYUUFTMEF5ZHpWVGxrY0l2a0Ftd3ZWcTc3bjA2aHBVSUcyZ0xwVTFRUEJRdEhSSV95cVd3S01NcDBiQ19RbVFkbUlUSWNqVE4zUkM4bVJCMVNRb2xRdWVyT2p3RTFkWnluVnllUk4yYm84YXQ2T09NSzVEUnY2c2Vub0VxZ3VxSXl4d9IBrwFBVV95cUxPOGVvSTlpbkI0eWNxcVZEbk4zbFdJdUF1ZEJ0QmxKelEzbG1NQW82TFNIeUEyXzlVdm1hb1pUZkh4MnU1bFZaMTdzdFBpZmk3TmM3VFh6SXFBV0pCUHRURFBkLVhtZEN0X2tSVVVkR0E3WEFyRzNablVSTjRucC1DZE1fRUNMLXVRZUVUS3F5cmptNkF6WkRxS1JQVl9TaUtQX1owTnVnY09SVkJIZHpN?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-14T19:00:31+00:00",
+      "summary": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI replaces revenue lead as Greg Brockman builds his presence - axios.com",
+      "title": "OpenAI replaces revenue lead as Greg Brockman builds his presence - Axios",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNell4Y1RVeF84QkQxenJ0WUxvZnlJSmxNSGQzaEJFOXB0LXN1bGRGRnVQNUNjMkNfQWJ4NmFzOHdKWGo0V1pzX1B0NFBtVmsyN3JnT3NKUEJJdllKTHk4UC1JVV9CTmpOYzk5a1p0alRUNXZpemRveDhwb2xfbU42RWhGNkV4VklTSnRMeg?oc=5",
-      "source": "axios.com",
+      "source": "Axios",
       "published": "2026-08-13T17:02:47+00:00",
-      "summary": "OpenAI replaces revenue lead as Greg Brockman builds his presence&nbsp;&nbsp;axios.com"
+      "summary": "OpenAI replaces revenue lead as Greg Brockman builds his presence&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - openai.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-      "source": "OpenAI",
+      "source": "openai.com",
       "published": "2026-08-13T10:00:00+00:00",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;openai.com"
     },
     {
-      "title": "From assistance to execution: How enterprises put AI to work - OpenAI",
+      "title": "From assistance to execution: How enterprises put AI to work - openai.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWU9Wam51YVk5a1BYMlpjSFVMSy1UWDUwcHdFM2o1aUJRTUVzVHhPZVg3MzB4Q3l5UVVtemJzRnFyRU84YTNNeE1fUEt1Y3NXU25Db09pUFZuSXpLby1rZ2FzbDJPb3c?oc=5",
-      "source": "OpenAI",
+      "source": "openai.com",
       "published": "2026-08-12T13:06:54+00:00",
-      "summary": "From assistance to execution: How enterprises put AI to work&nbsp;&nbsp;OpenAI"
+      "summary": "From assistance to execution: How enterprises put AI to work&nbsp;&nbsp;openai.com"
+    },
+    {
+      "title": "Daybreak models are now available on AWS - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5",
+      "source": "openai.com",
+      "published": "2026-08-11T21:50:32+00:00",
+      "summary": "Daybreak models are now available on AWS&nbsp;&nbsp;openai.com"
     }
   ]
 }
