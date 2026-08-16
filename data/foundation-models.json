@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T18:34:40.484247+00:00",
+  "generated": "2026-08-16T01:36:42.722156+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - research.google",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
+      "source": "research.google",
       "published": "2026-06-30T07:00:00+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;research.google"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -31,11 +31,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - venturebeat.com",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "venturebeat.com",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;venturebeat.com"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -45,18 +45,18 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Introducing the IBM Granite 4.1 family of models - research.ibm.com",
+      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "source": "research.ibm.com",
+      "source": "IBM Research",
       "published": "2026-04-29T07:00:00+00:00",
-      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;research.ibm.com"
+      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - science.nasa.gov",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
-      "source": "NASA Science (.gov)",
+      "source": "science.nasa.gov",
       "published": "2026-05-07T07:00:00+00:00",
-      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;science.nasa.gov"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -94,6 +94,13 @@
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
+      "title": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG5odDJBSG5RaHI4YmZJc0NzdkZCdklaQkMxeDcyR0NuczZqSnNaOFM2a0xmMjlLTzhzLUktV0VSeXVDVE1ZVnpLTmNpYm9wREc1VF8yenVwU3JXVnV0cExtdldvaDJobkhkMXpjS1lIS21kSkNLWm5DSU0wdnZveHVtV0N5RlpTUVhhaFduaS1hWTZFU210d21wRUFXOC01WkRpSW5OQUR6dzJPYmZjYzNJVmx2bDFQdHRpekl1elpLTUJkWTRndw?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-24T07:00:00+00:00",
+      "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
+    },
+    {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
       "source": "EurekAlert!",
@@ -113,13 +120,6 @@
       "source": "MarkTechPost",
       "published": "2026-07-01T07:00:00+00:00",
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "TechRadar",
-      "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -143,6 +143,13 @@
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
+      "source": "TechRadar",
+      "published": "2026-03-29T07:00:00+00:00",
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
       "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGJ1VjlFek1SeWVocmZzN2tSbkxhMWhQNzJoeG9FU1Jyck5WUGhDc3BkNlNQMURfU2V4aDd1MFlMeXZ6UFdCdk9pMGstNEdPT0ltczVpTjY0b0FVYlpLUDNJNERyeUZrZ0kzTE9wZlhMd0VLSGFuV0YzeGxDc1FJNWRYN1FxZ3h4WGlxTmJoQW94SFJMZHZyUEVFaEZYbzdNWjVINTRMb0ROdkt6ZzNYU1ZWaVlqR1g3MDlILUtPMV9YdTBscHhCa3ZJQUQ5X05ieVdBQjRuclJOVGtxcThXdkE0cTk1ZS1JVjRwWURUYTBoVnNQeEFndzV2Y052QlRCWmczTEZjclFLZWVF?oc=5",
       "source": "PR Newswire",
@@ -157,25 +164,18 @@
       "summary": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
+      "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE51djkxajdjeGFyWWpNQVFlaDZmU0RrcDhWYVBBd0poa3NvbTg3eDAzUkdsMWdJR1pUclpxZE5HM0lybDFUQUlZd3RDdUxhVVViVVUyaEh1VHZ0c2hsYnkxMEZITlphY3dQN1RPRmlyUU1zTm52X21MaldnRVdxcEVPSDV3akNGRnhpTXNwWWU3WndlRTFmZEFWUzZfUHNVQnZhLWZ4QmF2MTJCSl94Ql9LbVZiSkZMeW5NN3NMN1pycEIzZWVjS09zSDJoWXpvR213ZDQ4U1RvRVRNRGhrTk1Eam9IcnVrYWZ5dkpPTUJCSA?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-04-27T07:00:00+00:00",
+      "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
+    },
+    {
       "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTkyUG02RzM1YlBLZlBFTjFHRFgxODNZelROUThucmtxek9KbFJQUm8zSVROTnBjZXFhcmY1bjNrcDN4dDlfbzdDLS1aYUhKYTJzckpSMWFIZklZS0R3bnBrTG83R1llYWVnVEZtSmt3Rk5IdFQtSTNaLUdwQWNuZXRYeHZsRktWT3lPN0ktSTgwNVQ5R1dZNUZteFM3Y2I3MTJDYzMwUlIzWTBNekdRbFY1bkY?oc=5",
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
-    },
-    {
-      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2025-12-01T08:00:00+00:00",
-      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
-      "source": "Linux Foundation",
-      "published": "2025-12-09T08:00:00+00:00",
-      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     }
   ]
 }
