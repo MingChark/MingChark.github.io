@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-17T01:28:21.529335+00:00",
+  "generated": "2026-08-17T07:02:11.722313+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - tomshardware.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
+      "source": "tomshardware.com",
+      "published": "2026-08-16T12:40:00+00:00",
+      "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning&nbsp;&nbsp;tomshardware.com"
+    },
     {
       "title": "Nvidia Earnings August 2026: AI Chip Leader Investment Outlook & Analysis - Intellectia AI",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZjEzc19iT0dnTG4tSlpwTy1mc1VpcmJWeUE2RjFONEVYWDJoaFRJRjhuN0Q1RG5JNzM5TmFUSGlWemE4Y0oyY3E4ajRjVjgxOWYySWNlQmlEZnpmakNiX0JtYU9aZjZlRE9aenM5bEhyaHFXWmVhQXB2TQ?oc=5",
@@ -38,18 +45,11 @@
       "summary": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days - Business Wire",
+      "title": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days - businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTVxaXV5VllfZ3ZELWVMemR2SjR2bmxnME9IQW9NN1JQcTBTMFFoVWMxN001S0VEX0tuNEhyb3ZWS0p4S1Y4cFhjbnVPT3hBN3A0eFc2QlpXejBYSFR6eUVpVkQ2N2YzNTE4X0tQOXozOEU5dlk5dU80N0hwN28tWnJwUDZsOW5LWUhuYWpxQ3JFZG1NVnIxM3VCbHA2WXUwRXRoOENRRXJGT2hWcVRHdXdnSFFCU0xP?oc=5",
-      "source": "Business Wire",
+      "source": "businesswire.com",
       "published": "2026-08-13T17:45:00+00:00",
-      "summary": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days&nbsp;&nbsp;Business Wire"
-    },
-    {
-      "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORElBd1RoeE9vQVMxek0tbmNDOUVqYzFSUnlIR0NZbEQtdkhlTW1mTHhOQnFOWllLdEZyUG5OMkdaTE1qQTZmdnpBWFdldWlES3hCOEpaVzcwRWowcjB3RjRqV29BVmJLX01yNER2eEpnaXlGbWdoMEVOakJzbnBrWWU3b2hheFdpalY1SVZRUkNwVWN4bmM2bndrM3NuMFJOQjBXTEVsZkNZS2wyc1lBb25FNUVHQ2ZvbGZ0UWdoY2JQclNUNTdmN3BySUc4VWJLYmFtR0RyVFUyaW5wcVkxcEJqYjZDQ1JmcFVLbUozaWJ5SmFPdTNrMHB5VThDeVlPR3luTFE4c1VQanRWcFNNVU9VQUZRMENPSVFZeHJxeno?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-08-14T10:30:00+00:00",
-      "summary": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech&nbsp;&nbsp;Tom's Hardware"
+      "summary": "Infinity’s Agentic Tools Get AI Chips Inference-Ready in Days&nbsp;&nbsp;businesswire.com"
     },
     {
       "title": "Advanced Micro Devices (AMD) Stock Is Emerging As A Core AI Infrastructure Trade - simplywall.st",
@@ -66,13 +66,6 @@
       "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
     },
     {
-      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
-      "source": "NAI500",
-      "published": "2026-08-14T02:43:37+00:00",
-      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
-    },
-    {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
       "source": "HP",
@@ -80,11 +73,11 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTkg0RTlPMUhGMEtaOVpzQ3FfSnBSWFI0SnU0QS1Kb1lPQmo5ZW1aeUM5alhsLVVOOU9ia29hV3pTb0hfRUFMcndCOVQxLWpId2s1Q1lPSUZBNjh6UlNpSWFsWFJiTVhOMnlwbmtoLU1nZE5Ed2g0U0VIWEJ1aWNkaE9BOUlBbzRpTW1uQjhmY0tibEpUbVRRSTREY1VoVXdGRUVFM3pzT3R5aWNkdzNhYjNQa0d0bXVPT0xmbFA3VEx3b2VTRndHZUxDOS1DSzFpbHdvQWRFbmZFdDhZNVBUOFFNTWdoWEtSVUJKMVhueWZNcnlsNUxkMm5BR00tdw?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-08-13T07:15:18+00:00",
-      "summary": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity&nbsp;&nbsp;The Globe and Mail"
+      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
+      "source": "NAI500",
+      "published": "2026-08-14T02:43:37+00:00",
+      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
     },
     {
       "title": "[China AI Bottleneck] “Still Running on Nvidia Chips”: China’s AI Self-Sufficiency Drive Falters Despite Massive Investment as Hardware, Software and Ecosystem Constraints Persist - economy.ac",
@@ -108,11 +101,11 @@
       "summary": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird's $1,250 Call&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMExMVU1Ndm9iY3hNS0VCaWxpQzJaS28xenZlY21SSkNsTUhoY0FyUnZZUGlsNlFNVEZqYjFzMWJKNHR5cVZCNWNxalMwZWhMSjRUZ2RUYXZlcHA5aUs3Z2lOY2F5QVFYTmJZbnNicXplT2w2OUV4TmR3bS1rRjVWWFV0dEl0U1Z5cEdOVGhiMHVScVV2R0xaOFo2cWZhYlVleENGRlU4QldsVEh3Z1dNcGdrMlJxWjY1d0E5djJaRGpobWNyLXVRelU0bGJVbE5ZQk93MXh6T0tGR0RPQTV6dTBnOFotTTFrYmFDUjVwY3kyelF2UHVNaDV2OWpWZzVQVWN5MGpQRzhDblRJbmxFdjFQVC1DbnZ5ZGVCUTQ2OWpHMEI2ZExsYThqN2k5Rm0zNk5r?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-30T07:00:00+00:00",
-      "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;Tom's Hardware"
+      "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech - tomshardware.com",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORElBd1RoeE9vQVMxek0tbmNDOUVqYzFSUnlIR0NZbEQtdkhlTW1mTHhOQnFOWllLdEZyUG5OMkdaTE1qQTZmdnpBWFdldWlES3hCOEpaVzcwRWowcjB3RjRqV29BVmJLX01yNER2eEpnaXlGbWdoMEVOakJzbnBrWWU3b2hheFdpalY1SVZRUkNwVWN4bmM2bndrM3NuMFJOQjBXTEVsZkNZS2wyc1lBb25FNUVHQ2ZvbGZ0UWdoY2JQclNUNTdmN3BySUc4VWJLYmFtR0RyVFUyaW5wcVkxcEJqYjZDQ1JmcFVLbUozaWJ5SmFPdTNrMHB5VThDeVlPR3luTFE4c1VQanRWcFNNVU9VQUZRMENPSVFZeHJxeno?oc=5",
+      "source": "tomshardware.com",
+      "published": "2026-08-14T10:30:00+00:00",
+      "summary": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech&nbsp;&nbsp;tomshardware.com"
     },
     {
       "title": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst - Intellectia AI",
@@ -120,6 +113,13 @@
       "source": "Intellectia AI",
       "published": "2026-08-16T04:09:52+00:00",
       "summary": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - tomshardware.com",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMExMVU1Ndm9iY3hNS0VCaWxpQzJaS28xenZlY21SSkNsTUhoY0FyUnZZUGlsNlFNVEZqYjFzMWJKNHR5cVZCNWNxalMwZWhMSjRUZ2RUYXZlcHA5aUs3Z2lOY2F5QVFYTmJZbnNicXplT2w2OUV4TmR3bS1rRjVWWFV0dEl0U1Z5cEdOVGhiMHVScVV2R0xaOFo2cWZhYlVleENGRlU4QldsVEh3Z1dNcGdrMlJxWjY1d0E5djJaRGpobWNyLXVRelU0bGJVbE5ZQk93MXh6T0tGR0RPQTV6dTBnOFotTTFrYmFDUjVwY3kyelF2UHVNaDV2OWpWZzVQVWN5MGpQRzhDblRJbmxFdjFQVC1DbnZ5ZGVCUTQ2OWpHMEI2ZExsYThqN2k5Rm0zNk5r?oc=5",
+      "source": "tomshardware.com",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;tomshardware.com"
     },
     {
       "title": "Nvidia's $500 Billion Bet: How AI Chips Are Becoming Wall Street's Hottest New Asset Class - Intellectia AI",
@@ -143,11 +143,11 @@
       "summary": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "AMD to Acquire Taalas for Model Specific AI Inference Chips - ServeTheHome",
+      "title": "AMD to Acquire Taalas for Model Specific AI Inference Chips - servethehome.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEc1T3lDNWpuZk9lRC1vYWY1VkM5ZzdkbFcyWmI5SlM1WlJjczN1NGl3NWtGWVNrT2FON1VfZHp4MzZzSFB4R0FyeVFIN1NpS2pHS3VEM1NXbXFSVGJvbVg1R0RQLTVpRlNCRFhaLW1OeGtuMFQzNExuNkZULXMtMHdtdVBuS2lrNnNkSWFqaVZfUms?oc=5",
-      "source": "ServeTheHome",
+      "source": "servethehome.com",
       "published": "2026-08-06T07:00:00+00:00",
-      "summary": "AMD to Acquire Taalas for Model Specific AI Inference Chips&nbsp;&nbsp;ServeTheHome"
+      "summary": "AMD to Acquire Taalas for Model Specific AI Inference Chips&nbsp;&nbsp;servethehome.com"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
