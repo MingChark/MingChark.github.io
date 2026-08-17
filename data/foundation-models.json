@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T07:02:11.722313+00:00",
+  "generated": "2026-08-17T12:51:06.165076+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -31,11 +31,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - venturebeat.com",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "venturebeat.com",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;venturebeat.com"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -143,13 +143,6 @@
       "summary": "Densing law of LLMs&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDhWdnpadEp5eng2Z3d1cXl0WkVTdGVSZEdoWUNTN2puMktJNm9wRTNoNHVkaEZ6UkxuNXJWQzdpNWpWbGhxeDVTUHVjWEs1dXRDSGE2MHplQjBwc1M1SmM0U1dTdjd6bVBJODRPWHE2VEwxdGJhRy10YnhmUjF1TkpZaWlQX3JXSGZHVXZ1VjFXT2lybEJuQ2pWYVlZWUJNY3dWN2ZaN1R3WHd3RGNTYkdTMElURmFqZWJHVFk2MFdueGpBaTNkOWRDUzdHX0pHNFYwYkJyUzJwMk5Vb3lLUk1aNVBSaEJv0gHuAUFVX3lxTFB1LW96VTl0ZEFUM1RlQUpZcE82QVNwVFNFZlBycTZXOXZNeWNUckdZLU9tdzFmZWJNcldFM01aTTNIY0h6SFhiTEsyNXRjaGQwYTAzajVJQnJBUFBVNGlkbkFjOXlaS3NqMUFKY0M2Q0J0OGlrc3lBTWlPdlZ3VnZVWm8tLUhWdkc0ZmJFeUJic19hLTljVWU0eVAyc21jRS04Wi1UTTZiVU1LY3NuT3B2bnFoR2s0NkJyM0FCOC1uSHdNVWpLeVdRUFBMT3Q1WHpJbW1Xd1hzVmpaeUgyU1gzMkFPYWlxbTZkSGZUd3c?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
       "source": "TechRadar",
@@ -176,6 +169,13 @@
       "source": "MarkTechPost",
       "published": "2026-04-27T07:00:00+00:00",
       "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTkyUG02RzM1YlBLZlBFTjFHRFgxODNZelROUThucmtxek9KbFJQUm8zSVROTnBjZXFhcmY1bjNrcDN4dDlfbzdDLS1aYUhKYTJzckpSMWFIZklZS0R3bnBrTG83R1llYWVnVEZtSmt3Rk5IdFQtSTNaLUdwQWNuZXRYeHZsRktWT3lPN0ktSTgwNVQ5R1dZNUZteFM3Y2I3MTJDYzMwUlIzWTBNekdRbFY1bkY?oc=5",
+      "source": "Apple",
+      "published": "2025-09-29T07:00:00+00:00",
+      "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
     }
   ]
 }
