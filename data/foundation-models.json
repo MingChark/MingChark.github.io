@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T12:53:06.684021+00:00",
+  "generated": "2026-08-18T18:41:53.711869+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -38,13 +38,6 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
-    },
-    {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
       "source": "NVIDIA Newsroom",
@@ -59,11 +52,11 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -71,6 +64,13 @@
       "source": "NASA Science (.gov)",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-04-02T07:00:00+00:00",
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
@@ -129,11 +129,11 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -171,11 +171,11 @@
       "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSUtnb1JnSjg1VG5QSVAzOHhFQi1USmluei1YRDBRV0JYM0dYV3lGWHlSN1pkSlNHMVdBTl9Zc2xES2VCazdxNi1BWHZEZnFBbmRwVk9tSlBCYlh4V2piNWRVTDd4LU54RmNJcFpGMk5XbUxkNHMyZUJtcndRVTloekVacW1taE1BdTkwWmdsbXh0UHhkYWlQZFBZVjF3N3FVYVQxX0t6Z2l4cm5QYW1SdDV2NUJwczhvdURhS2c4X3FxQVplbFZ5SkdaemZLRzNXbDBBcWhFTnJhTkxyUWYxZ0tocUVlV1RaWmpsTXk1OFFKWUE3NU1wbEtuYTJ3UVd3VXJRREJn0gGLAkFVX3lxTE5Jb3owQmw2emZIV3J0Y0hCZHJVNTFaZnJybW9ZRzhSWHJIZkozbGY0U0RBQTB4bnQ5VkU4M28tR0ZiLTZnbEpodTViR0ZFZ0JPUUNBYTRCMXBVNS0yR21odURNR1hXcDJjVkRpRXRSemg1TVV6aDN2eWhyM1BkNDRUTllrMkpuNTB1MGc1dG1IT1A0dWJpUW1VZGxsYnUwbmwtRjZFd2NKYncycjdOR3lDVmQ5R3V5VWt6Y2x3ZTFCa3VxRy1rSDJrRTlGczlBbjd6eFFTNm12RWY0STY0WGtRd0d5Y1h0VXNKSS1vMjdtRFFBMy1sOXZSVm5VT1pLSVF0blJ6MVV4Tk9IUQ?oc=5",
+      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd2_SAWxBVV95cUxQWHdmQm0yMmZhVVF2TGRsYUloX2M4emZPTEVQT256blFrN202dHZkTTJXdGlPclV5WEstaC1kWWw4dmlEVkNTT05xTnBlT2hoM0tiYnlNSV9OLTJicUF5dTJ0aWtnQkE2MEpKNDk?oc=5",
       "source": "MarkTechPost",
-      "published": "2026-03-04T08:00:00+00:00",
-      "summary": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency&nbsp;&nbsp;MarkTechPost"
+      "published": "2026-07-08T07:00:00+00:00",
+      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     }
   ]
 }
