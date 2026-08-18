@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T01:24:42.831379+00:00",
+  "generated": "2026-08-18T06:49:41.108234+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -31,13 +31,6 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
-      "source": "NAI500",
-      "published": "2026-08-14T02:43:37+00:00",
-      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
-    },
-    {
       "title": "In December 2025, startup Starcloud trained the first large language model ever trained in orbit, using an NVIDIA H100 — the same class of GPU built for Earth's AI data centres, now running roughly 500 kilometres above the planet. - ScienceBlog.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazhmNTFmLURaVnpoLW5mc2ZxUVJCSDJnZ3QzRW5lVUlQWGEyWElxcHprVlFITVlJNURpaExVYVRzVno2TlZNZ2lCSXNRR1lZblh4SXBmVjVIcnZzaUZaNVlMMjkzU2QtUjFFRlo0ZkFjRDdqOWNxNF9GR2owZzFvSlJJcGMyQQ?oc=5",
       "source": "ScienceBlog.com",
@@ -45,32 +38,11 @@
       "summary": "In December 2025, startup Starcloud trained the first large language model ever trained in orbit, using an NVIDIA H100 — the same class of GPU built for Earth's AI data centres, now running roughly 500 kilometres above the planet.&nbsp;&nbsp;ScienceBlog.com"
     },
     {
-      "title": "Nvidia (NASDAQ:NVDA) Eyes Blowout Quarter As AI Chip Demand Stays Strong - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlRLNmtPMlY3eGFMUlRDNlhzSGx2MDlrY2Q3dkh2MFFDeFZaMVFmQUdnZDhDMzE3d19Eb21UM1dvamtGLTVQQkZTdk9pMG91MmxHbVZOTjU2X0hFa2tEUEZPVERKLVJ0WTJWNnBxek5zcUQ2d015NnJ0MlYtNWRUcjl5MVpZMlhFV3lTM2hFTFRMd05MYmVkUWRoUk1HbTRGQlBZMmNOOE13RGhuOGZlSDhFbnZidmpDQVpDanpzTURZUlJCMlhz?oc=5",
-      "source": "Kalkine Media",
-      "published": "2026-08-17T17:02:00+00:00",
-      "summary": "Nvidia (NASDAQ:NVDA) Eyes Blowout Quarter As AI Chip Demand Stays Strong&nbsp;&nbsp;Kalkine Media"
-    },
-    {
-      "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5",
-      "source": "The Next Web",
-      "published": "2026-08-10T15:17:32+00:00",
-      "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - nvidianews.nvidia.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "nvidianews.nvidia.com",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;nvidianews.nvidia.com"
-    },
-    {
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-08-07T07:00:00+00:00",
-      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
+      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
+      "source": "NAI500",
+      "published": "2026-08-14T02:43:37+00:00",
+      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
     },
     {
       "title": "AMD to Acquire Taalas for Model Specific AI Inference Chips - ServeTheHome",
@@ -80,6 +52,34 @@
       "summary": "AMD to Acquire Taalas for Model Specific AI Inference Chips&nbsp;&nbsp;ServeTheHome"
     },
     {
+      "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5",
+      "source": "The Next Web",
+      "published": "2026-08-10T15:17:32+00:00",
+      "summary": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia&nbsp;&nbsp;The Next Web"
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
+      "source": "The Next Platform",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
+    },
+    {
+      "title": "Nvidia (NASDAQ:NVDA) Eyes Blowout Quarter As AI Chip Demand Stays Strong - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlRLNmtPMlY3eGFMUlRDNlhzSGx2MDlrY2Q3dkh2MFFDeFZaMVFmQUdnZDhDMzE3d19Eb21UM1dvamtGLTVQQkZTdk9pMG91MmxHbVZOTjU2X0hFa2tEUEZPVERKLVJ0WTJWNnBxek5zcUQ2d015NnJ0MlYtNWRUcjl5MVpZMlhFV3lTM2hFTFRMd05MYmVkUWRoUk1HbTRGQlBZMmNOOE13RGhuOGZlSDhFbnZidmpDQVpDanpzTURZUlJCMlhz?oc=5",
+      "source": "Kalkine Media",
+      "published": "2026-08-17T17:02:00+00:00",
+      "summary": "Nvidia (NASDAQ:NVDA) Eyes Blowout Quarter As AI Chip Demand Stays Strong&nbsp;&nbsp;Kalkine Media"
+    },
+    {
       "title": "The Top Companies Building Custom AI Chips - Built In",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUnpkd1JIUWdRb19LaklsWFg3c0FkeXphaWZDbG0yQ3JtLThweGk0RVlWMUpYWHRrZlNXMUZKS0JFSC1tM3MxRzBkV2hTVUtJcHh3TUJsQ05mUkhSR3hNRnhDWnJjQjQ?oc=5",
       "source": "Built In",
@@ -87,11 +87,11 @@
       "summary": "The Top Companies Building Custom AI Chips&nbsp;&nbsp;Built In"
     },
     {
-      "title": "AMD says its newest AI server is in full production, will ship in months - Reuters",
+      "title": "AMD says its newest AI server is in full production, will ship in months - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published": "2026-07-23T07:00:00+00:00",
-      "summary": "AMD says its newest AI server is in full production, will ship in months&nbsp;&nbsp;Reuters"
+      "summary": "AMD says its newest AI server is in full production, will ship in months&nbsp;&nbsp;reuters.com"
     },
     {
       "title": "Nvidia Earnings August 2026: AI Chip Leader Investment Outlook & Analysis - Intellectia AI",
@@ -101,11 +101,11 @@
       "summary": "Nvidia Earnings August 2026: AI Chip Leader Investment Outlook & Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
-      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMExMVU1Ndm9iY3hNS0VCaWxpQzJaS28xenZlY21SSkNsTUhoY0FyUnZZUGlsNlFNVEZqYjFzMWJKNHR5cVZCNWNxalMwZWhMSjRUZ2RUYXZlcHA5aUs3Z2lOY2F5QVFYTmJZbnNicXplT2w2OUV4TmR3bS1rRjVWWFV0dEl0U1Z5cEdOVGhiMHVScVV2R0xaOFo2cWZhYlVleENGRlU4QldsVEh3Z1dNcGdrMlJxWjY1d0E5djJaRGpobWNyLXVRelU0bGJVbE5ZQk93MXh6T0tGR0RPQTV6dTBnOFotTTFrYmFDUjVwY3kyelF2UHVNaDV2OWpWZzVQVWN5MGpQRzhDblRJbmxFdjFQVC1DbnZ5ZGVCUTQ2OWpHMEI2ZExsYThqN2k5Rm0zNk5r?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-30T07:00:00+00:00",
-      "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;Tom's Hardware"
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "AMD (NASDAQ:AMD) Rides Record Data Center Revenue Despite Guidance Wobble - Kalkine Media",
@@ -113,13 +113,6 @@
       "source": "Kalkine Media",
       "published": "2026-08-17T17:10:00+00:00",
       "summary": "AMD (NASDAQ:AMD) Rides Record Data Center Revenue Despite Guidance Wobble&nbsp;&nbsp;Kalkine Media"
-    },
-    {
-      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - nvidianews.nvidia.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
-      "source": "nvidianews.nvidia.com",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst - Intellectia AI",
@@ -136,25 +129,18 @@
       "summary": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "Nvidia's $500 Billion Bet: How AI Chips Are Becoming Wall Street's Hottest New Asset Class - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXpmZUlPMVNYckdXOXhiNlhWVlJSQ2dMQWV5ZmdEU3ltNjNTVjk4U0NRRzFwTEdnVEZHcU91SS15ZVZNektEX0VKakpwV3M0RHc3NThwVXk1QVFSVDFsVVo3cExwM201c2stMHl4cko2cThiRlVtTGJuR0NaVnZLQ25B?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-15T12:11:34+00:00",
-      "summary": "Nvidia's $500 Billion Bet: How AI Chips Are Becoming Wall Street's Hottest New Asset Class&nbsp;&nbsp;Intellectia AI"
-    },
-    {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - nvidianews.nvidia.com",
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-01-05T08:00:00+00:00",
-      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
@@ -171,11 +157,25 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AMD's Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWVEVzM1REdpQ2d2YzhDY2EwZGdQWGZ2SWJBNWd6bnFremNkRFAxR3RucFFGUlZ1bnc0bTgwWW53enpfRmh1NGlkNk0wM2xGT252MTh5TE5RbkczMTNQazM3TkxJc1NmcnFmMWxPR2FGYUE4dWtDRkRCYWdoNndWSnlldm9ocU43MmxzMkdFT3JvX0hGWmNjU01WenRIdUU3VDU1R1NkckxqNkNRNXg4dTUwamxFTWFoeHhVUzZVVFZBcGtOa1Fac1Q4REV5dHlDNlFZ?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-08-14T12:29:45+00:00",
-      "summary": "AMD's Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month&nbsp;&nbsp;24/7 Wall St."
+      "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
+      "source": "Pulse 2.0",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
+    },
+    {
+      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
