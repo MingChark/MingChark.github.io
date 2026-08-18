@@ -1,55 +1,27 @@
 {
-  "generated": "2026-08-18T06:49:41.108234+00:00",
+  "generated": "2026-08-18T12:53:06.684021+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "OpenAI debuts ChatGPT for Teens - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSnA3dUZoZUR0dUllXzBYVjBpQkJEeWNJOTl0V09EaFBENHhaTThHVVVZQk42X2Fkb2JoQ1EtV3M2VnljNzR4TURRS1RPZnNTQkNDTjJZMzN4X1hjRGlpeWt2RHRvS3lz?oc=5",
+      "source": "Axios",
+      "published": "2026-08-18T11:03:42+00:00",
+      "summary": "OpenAI debuts ChatGPT for Teens&nbsp;&nbsp;AxiosOpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow&nbsp;&nbsp;The New York TimesOpenAI launches new ChatGPT experience with parental controls for teens&nbsp;&nbsp;Fox News"
+    },
     {
       "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
       "source": "CNBC",
       "published": "2026-08-17T14:10:16+00:00",
-      "summary": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio&nbsp;&nbsp;CNBCNvidia pledges $100bn backing for OpenAI data centre in Ohio&nbsp;&nbsp;ft.comNvidia inks $105 billion deal for OpenAI data center&nbsp;&nbsp;Yahoo Finance"
+      "summary": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio&nbsp;&nbsp;CNBCNvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center&nbsp;&nbsp;ReutersOpenAI announces massive data center in Ohio with Nvidia guarantee&nbsp;&nbsp;Axios"
     },
     {
-      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
-      "source": "The Guardian",
-      "published": "2026-08-16T08:00:00+00:00",
-      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iSnBXWEFaa1hJVXNlT3YxM3VJalNlaEhTMGtmeUVXMUotcTJ4bzVRbWJIcDVjS0xMZVpEY2hZdTJhZjdtcUd2RHpRazJvRGdPNGlfTFhUc29nZkV5aFk2VXVSclI4aDl5WlNKa2VyTEdISW1TLVdyQ0R3?oc=5",
-      "source": "Axios",
-      "published": "2026-08-17T21:35:50+00:00",
-      "summary": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "Will Anthropic and OpenAI Stop Selling Their Best AI to Businesses? - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWS1pQ01ldjR6WTlTVGJWYi10RU9jaUxsbWwyVmx6bTQ3NUtvX1phSTRoXzhRWl9WSE04OEpEVmt6M285QXdSSXhmdXVEVkJQVHVmOGVva0kzeWxWR2dJc0ZNVkxWbG5tbGhvOXA4WC1BaXlyWHlIUnRlUnUtSXB1Y1lqSFVncWZvZ2w4ZXl4Ry13TUY1cW9EYzE1dklHV2hDZnFJWE5hTWh0UQ?oc=5",
-      "source": "The Information",
-      "published": "2026-08-17T14:01:00+00:00",
-      "summary": "Will Anthropic and OpenAI Stop Selling Their Best AI to Businesses?&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "How did an Open AI model manage to hack another company? - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXFVV2E0aU92X0xHelFIUW9DWHd5S0xkZXRaQTJ4UDBVbEJ0YWlNWFZ5V3g4ZFRFbzJETVdFUkNOZ1ZhcHcyLWRMV1ZIeTcxZE0wd0ZvbzBOUFZrc1E1d1ZLYWJDMDM1TmJJWTZ3UHVzX2ZwRFQ2bzNTcXhXVGlsMDJ0c1pRRi1UOHE4R0tGclVERFBQMUE?oc=5",
-      "source": "Sky News",
-      "published": "2026-08-17T13:38:07+00:00",
-      "summary": "How did an Open AI model manage to hack another company?&nbsp;&nbsp;Sky News"
-    },
-    {
-      "title": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDVzUi1kemM4ZnBXTDY2b0ZFSlVIQzctZnBXWVZIU2FLRUw3d2tlYkM1b200OHNzUTc2dkxuamtYS0pRdmdfU1RwODQ3SnRYYVk1elc0aXBUZzhPR09aNERfZ2h0REdUM18ycEtJN2hHclBpbFJ4NC1UUjJWRWxZSmlfZlhkeHZYZk5DNU9lY3JWd1RIZHZJSW9KamR6QQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-17T18:00:00+00:00",
-      "summary": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated'&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Exclusive / OpenAI funds new think tank projects - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjhaMmZ0aG1yS3ktRVJLLTRIemNGb2lqRXdDZE84Y3RJaTdFTVNIamZvRHQwR1ZWT3RleEx3bjFEZ0RFWkhYUXk0X1ctU0lpNWNlV3JDOHltT0FmSGpyd1o0NE1DODljYUhMQ29MOWlaQ2FDdWswclhYbjFEcVoxUjdIVTV3UQ?oc=5",
-      "source": "Semafor",
-      "published": "2026-08-17T08:40:00+00:00",
-      "summary": "Exclusive / OpenAI funds new think tank projects&nbsp;&nbsp;Semafor"
+      "title": "OpenAI Exec: The Solution to AI Doing Bad Cybercrimes Is Even More AI - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGc3cnU3ZDNKb0dpZjVuTHQzTEpoeG1qN0FtaWNIanJQbDlIZ2tHeDFkU3ZQWFhxdmpHRnhjb2FidzRUOURpNHdnMFF4SkFiNXpsLWNwLXJrOVBjbWNTaDJUbFdpUW5rQnRuUWNGb2ZhRlJVVEVPX0kwM2dsMGFRdEtrd0Jlb3VGc1VvVzAxa2RSWFdZRjRsN0p3eC1JNk56?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-08-18T12:45:05+00:00",
+      "summary": "OpenAI Exec: The Solution to AI Doing Bad Cybercrimes Is Even More AI&nbsp;&nbsp;Gizmodo"
     },
     {
       "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
@@ -59,18 +31,102 @@
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "OpenAI president says companies should do 10 things ASAP to defend against AI cyber threats - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejJaaWFTMXdWVDBCUkQ3UWNsTzBZdGFVVzYzbGFjVHBCb2NNc1RqRnRFZ21JVkEzS2FDczJaUGNDSmF3MWhiamNJZkxVYWZ6eEZua1Z1NE51MFpxX3UyTEhXZS0wMTgyNVNZMkVwREtIS1I5cGttNEE2S3lwRGx3cWVMU0c3THNjOG1XaXJObkRSMmxIRGNrT3B2UmpxZk5MYWwyc0xvbw?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-17T16:55:00+00:00",
-      "summary": "OpenAI president says companies should do 10 things ASAP to defend against AI cyber threats&nbsp;&nbsp;Business Insider"
+      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-16T08:00:00+00:00",
+      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "OpenAI and Elon Musk’s xAI called this S.F. building home. Now another startup is moving in - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm12VTgwS3l2OF9Tclg0ek9KVnRld0lfZHVBb0lCUzVHeFJaWWxGMHQxdTZOUnI1TFd3bC01dUh4UGZEazBsR1JCa3JfdnpkQURRZ1hJYVluWTBKdF9OcjlVVzgwR2g3SzBKb2E0NE1WQkNXNUEyU3Jvc1ZFUGd6UnZmZ21IN202YXIzZEVhaDI3RjFFa3c?oc=5",
-      "source": "San Francisco Chronicle",
-      "published": "2026-08-17T23:56:58+00:00",
-      "summary": "OpenAI and Elon Musk’s xAI called this S.F. building home. Now another startup is moving in&nbsp;&nbsp;San Francisco Chronicle"
+      "title": "OpenAI funds research to try to stop AI from being used to make bioweapons - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlVvcHdTdVlha0VycWpKTnV1aGhwNkVXb1VpbEpFb0l6ekI1c01FWkNiT3JoSUw0VHNsVnJoTkRLNDEtZzJtb29sZi1nUXlPazJoN3BZZ0oxbi10NmVMcnhHSUlXZUJMc3RjR0lPOXc1MTFvNlQwVWVMX3k1LURSQzF0bmlyRGtXVGhVaFJPN05SYzNldkh3SlUzeTladmctWGx5dDJIWVdCR1dCckpXNUMzY3lieHh6Mjcw?oc=5",
+      "source": "Scientific American",
+      "published": "2026-08-17T19:58:32+00:00",
+      "summary": "OpenAI funds research to try to stop AI from being used to make bioweapons&nbsp;&nbsp;Scientific American"
+    },
+    {
+      "title": "How did an Open AI model manage to hack another company? - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXFVV2E0aU92X0xHelFIUW9DWHd5S0xkZXRaQTJ4UDBVbEJ0YWlNWFZ5V3g4ZFRFbzJETVdFUkNOZ1ZhcHcyLWRMV1ZIeTcxZE0wd0ZvbzBOUFZrc1E1d1ZLYWJDMDM1TmJJWTZ3UHVzX2ZwRFQ2bzNTcXhXVGlsMDJ0c1pRRi1UOHE4R0tGclVERFBQMUE?oc=5",
+      "source": "Sky News",
+      "published": "2026-08-17T13:38:07+00:00",
+      "summary": "How did an Open AI model manage to hack another company?&nbsp;&nbsp;Sky News"
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
+      "source": "The Verge",
+      "published": "2026-08-16T21:32:56+00:00",
+      "summary": "OpenAI reportedly disbanded its preparedness team&nbsp;&nbsp;The Verge"
+    },
+    {
+      "title": "IPOs for Open AI, Anthropic could unlock $430B for charity - nypost.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkVBQklqaTJPTEpWMVRzZGJ3SUphZVhRbmJhdlhmZEstWGs2SXNNdmgybHpUZkZmSnJiQXB1YTJ1RGdYTDlSdjNYaWRjX2FJZ3d1a2l2V3hNQ2ZyLVRGX3F2SkN4S254Z19GaHZRLTZadkl6UzdFWjdVbkdqVWNSWXpnYS0weFFxaWQtTDZkemRqbGVtSXhhdXA2MA?oc=5",
+      "source": "nypost.com",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "IPOs for Open AI, Anthropic could unlock $430B for charity&nbsp;&nbsp;nypost.com"
+    },
+    {
+      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-08-18T12:00:05+00:00",
+      "summary": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu&nbsp;&nbsp;South China Morning Post"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxUXRfSV9kTlJXUk02dl9WR0Q2MWtkSTVSb1FBcnN4Y2NmZEFOS2U1UGlCYnBlUTlEM0Z0Wk45c2MwQTZHYnFBWmI0UDRseVdlV2UyRkJoa19OaEFw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-18T11:04:30+00:00",
+      "summary": "Partnering with CodeAI to prepare the first AI generation&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tZjNrZDQwQUQ0U2UzMjVhb0NWaE0wZl85T0RYcmN5b0ZvNTlmY1lRU05ad29XdEplS1paSTFVVUVvWXdVZ1Jac1JHZEdPN21sODctbFY5WXNvT29WQkNxT0loX28yVmVuUFpXRVBXN1V6R0M2S0dqODhoRGc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI launches new ChatGPT model for teens - sacbee.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2QzVjc5bmQ4Y2VCcTJTN0hVUUV4ZHl4YkxHbHFpRUh3cU5kZjNqZlZ3RkY4WDlfWkV6X1FoX01aU3dsRUtCTEFTc081RmpZbHdETVRmWGhod1FCdW5yTnh2ZUhyeklVVUhpaXFKYWUyUkh2ZWtVLXcwM25JZmQ2MU9kSVFvTDhHb1hF0gGLAUFVX3lxTFB4Q1hSNjYyQ2tOd0ItS0xzNVpHd2Rka0FRbng4UUFVYU9QalM4TFQzWVFzUjJBMGhwVndoVDVRVVl1OTQzZERFR0pfWmpOVUdxRW9LY3BVdlZCeUFmMTNOVUFhS0MwdXJ3cE5pTTRaU2NZZHJ5emc2bjBySElfMUJCYkRaYjZmSm1VOGM?oc=5",
+      "source": "sacbee.com",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI launches new ChatGPT model for teens&nbsp;&nbsp;sacbee.com"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - Gulf Coast News and Weather",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0YzeWQ4dlZVUGRwZHhxejd4Vnh0aWU0ZTMyMlo3Uml2cFpYS3ZhQUFsWjdVVDRRenVLSHBQVlNfTXE1NDNpbkVpVXNFSFZKcFh5cDhYelQxRWhjUUFORV83Y25qNk1rc3IyNkxxRFFHTk9BWFVHbk5LNWtLMzhhOHNXUjhlSzdM?oc=5",
+      "source": "Gulf Coast News and Weather",
+      "published": "2026-08-18T12:39:00+00:00",
+      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot&nbsp;&nbsp;Gulf Coast News and Weather"
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-18T12:08:09+00:00",
+      "summary": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "‘Devil really is in the Details’ with AI. OpenAI, Jane Street & YouTube. ARD #143 - AI: Reset to Zero",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81b2NXbzVESkF4WkdjYlpodDlWRUd3T1E0WnBGal9OQjAybHVWVlNybTNQc3JCczdOUDZXc1FnZWYyZWlEMWVRUHdUaWExSEZUN3FMRl9kMDdZelZjWlNQQlYyUHJMQ3V2S0R1Qm1HR0FiRzJrRDJwZEdyejM?oc=5",
+      "source": "AI: Reset to Zero",
+      "published": "2026-08-18T08:37:20+00:00",
+      "summary": "‘Devil really is in the Details’ with AI. OpenAI, Jane Street & YouTube. ARD #143&nbsp;&nbsp;AI: Reset to Zero"
+    },
+    {
+      "title": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety - KRDO",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0F0QjFNd0J1V05iZUVIZTZRbmZRa3U5QmtqNXVkNUFReVdoRlBSQ1QydW4taDRkbHE3M2pBOFFlNUxPMWFMaXpLZG03UlM0cVlLUS1pMHpPa2ZZeGFFRTlvcWJLTjd4dDIwQm1PaFRad0hqa0RDNTc5SDY3OFA0d3c5RWRDbmRWVk9NQV9LaVBlUDFFMFR5WGM1aXh3SUxtZ01pcXJEREdfY2NVaFhvRC1ZVE5jNFRYQzhQOE92NzkwMzFKS0Y3M1pGZktLYjRt?oc=5",
+      "source": "KRDO",
+      "published": "2026-08-18T11:17:10+00:00",
+      "summary": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety&nbsp;&nbsp;KRDO"
+    },
+    {
+      "title": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnV3M294MnVTMGVUMHp4bGpwd1FGeHhsV1pnbWJKUU95NUtXUzEwTHY4THhKNDNuOUhoY21uTktkVWxmSngzZS1INTZkMnd5OFRzbExwRzlqNU41djk2UHJ1bmZNaFBaSmsxSURma2huRzFhR2RDY1g5S0MxQW9Rd0ZCczZIeUNHQnpFQVF6b1k1bUltZ280VTRWdnVnSlpkeHJPbHV0M0ROM0RsSDFfUlVRWGpJMTQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-17T18:40:41+00:00",
+      "summary": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "title": "OpenAI joins PORTS-Pike project - OpenAI",
@@ -80,81 +136,11 @@
       "summary": "OpenAI joins PORTS-Pike project&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-08-17T12:38:11+00:00",
-      "summary": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ?oc=5",
-      "source": "Axios",
-      "published": "2026-08-17T15:07:41+00:00",
-      "summary": "OpenAI announces massive data center in Ohio with Nvidia guarantee&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
-      "source": "reuters.com",
-      "published": "2026-08-17T19:36:14+00:00",
-      "summary": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center&nbsp;&nbsp;reuters.com"
-    },
-    {
-      "title": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTBKNEtxM1Y2QUJrZFFUZTZuempoMEtpM21jVjVjS0JNMVpHeUhSN1RxeER2YzY2Szh4NXpRRElWVHpmMVF3TmpFNHo4dFVGR1p0Y2VQQmtwS0JmN3JSR0NhUnk4LTJ3WDBmRWwxNVRhUGw0ekl3dklxNWxFdi03Z0t3dk1lTnB6YTM4OEJXeHNLc0pTZ3FXeVgwOXBOT3lZWVBONFFtREtPNGNpYjJNeGN6cw?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-17T12:48:00+00:00",
-      "summary": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ29VdHp3dVplUUxXejdmcUJ5RnFOdGVYOVcySUQyTUpfY3hKNVRHcGpVbW15Mll0MG1rbF9UakZGWWRVdE84SWxuMTZFQmUyX0pWclM0aFpWcWQ4VFJNSUNRdG1GRkZNSnpfd1dFZXdUTXJtUkJOTUlzRUl0MW9ZbkxjQnRXcFBNOGpOT2lsZ1NkVWN2ZjRMelhSa2JDQlFlVW9VRHVRUDNKSVRFWnc?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-08-17T21:12:00+00:00",
-      "summary": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy&nbsp;&nbsp;SiliconANGLE"
-    },
-    {
-      "title": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnV3M294MnVTMGVUMHp4bGpwd1FGeHhsV1pnbWJKUU95NUtXUzEwTHY4THhKNDNuOUhoY21uTktkVWxmSngzZS1INTZkMnd5OFRzbExwRzlqNU41djk2UHJ1bmZNaFBaSmsxSURma2huRzFhR2RDY1g5S0MxQW9Rd0ZCczZIeUNHQnpFQVF6b1k1bUltZ280VTRWdnVnSlpkeHJPbHV0M0ROM0RsSDFfUlVRWGpJMTQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-17T14:11:51+00:00",
-      "summary": "Nvidia Will Back First Phase of OpenAI Project With as Much as $105 Billion&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV21oUjRuVXdHME9CRklXR2RFM3Fad3ZYSnVLYzVVaFd4eGFJOHBFaTNmTkIxNDJ0Z1hSSW9LczZObEl5SFF0NnNKSmV5MDFSX1gwVC1GTzVXb1lJYVFoY2hCV0ZPNk9rWHpjYm5GdWxmVThaNW9lb1V1emlPTnlYV1I3dnU2OUhQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-17T21:13:00+00:00",
-      "summary": "Nvidia to Back Ohio Data Center With as Much as $105 Billion&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-17T10:23:04+00:00",
-      "summary": "New policy ideas for the Intelligence Age&nbsp;&nbsp;OpenAI"
-    },
-    {
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive - CNBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlWkxWTDU5RUw5STVsVHhYSTltRElCd3ZiUmFRLWFzM1preUZ0V3BBY3RXMVVHdU43WjNqNmFtS2pRbTVxMVIyc3VxcDV3VDJMeVpZeVI5T2k4OFFsbmRTdWVST0VIemdscy1QckhLMS1VWmhyS2RGNUZVVdIBgAFBVV95cUxPUExPRE4xdUpqRjE5UC1UcWNmVU1tSzMtSXN2cmlpd2hIN3ZZQkhlRjIyVlRWRTBjc2hnWnVUZkhjUnphR2VMcHIwaEJfQndWaE9YUkVnLU9PbHpjYzZqN1lKSDluVUpqTEJYWFl5OEwyYk9LSmZ3VlN3V3ZzdDNSRw?oc=5",
       "source": "CNBC",
       "published": "2026-08-17T12:46:19+00:00",
       "summary": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanVaTFluV255NlQ4WnZlWk0zdmNpT2VUUGlLM3hJVlVCdGRtQlcxZU9uUGx5NVBnN19qWl9VNEJLY0VBUWFoS3FCWW9CR29WSmN1bnEzc1hzSFFQX0w3NVNDSVBuQXJaTzVLTGpxZFkydG40MTNPb2VsTXFnYXg3QkxURUZ5QnZLRXZRRjVhRWRWUUZ4Vktr?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-17T11:45:17+00:00",
-      "summary": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Securing the Infrastructure of Intelligence - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSFBydWFKWkl3TU5YbTZnTF9WMTJCVUZldEY2VmNHMi1KM2s2Q0ZrSW9MZE1oU1N3ZFh6UjhZZDVlZkU0QUNub0NFR2VjSWNud1dYdjZ4bDRuR0JkSXR1SWJUWHd5NFk0ZExJQUhldXo4QUd5Y2lmaXJEM0RWX2c?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-08-17T12:43:05+00:00",
-      "summary": "Securing the Infrastructure of Intelligence&nbsp;&nbsp;NVIDIA Blog"
     },
     {
       "title": "The Defender’s Window - OpenAI",
@@ -176,6 +162,20 @@
       "source": "OpenAI",
       "published": "2026-08-13T16:02:30+00:00",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWVIZS1aZVE3Tm9nWVR6Sm9WczY5X2JsOFVyT1Y3MjE5QW1PQlgxQVVVX3RnVnhDU2g3cXpjZFc1cGJoRm03VW9CY1Flc1FKX04zTGdYQUVFcjljM1RlR1JJek9IUG92WTdFQTJ3cmxTUUhnUUFRQ2Y4MnJvdkhyNXlvU0k?oc=5",
+      "source": "Financial Times",
+      "published": "2026-08-18T11:00:04+00:00",
+      "summary": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGQ2RjQkRaeVhCMUVyTHh5RlBkYXowX1A2UTlUVGE4UF9fVFI3Y0RVSFhqV01scVB6eGphcVBhTmlyOUJrRmR6T0hSMDdYT1JjcDZGSFp2emRaZ012Ml9aYy1SVGdzeG9QS0pMU0ppVU92OFhxcEt5X0pabw?oc=5",
+      "source": "Tech Xplore",
+      "published": "2026-08-18T08:07:40+00:00",
+      "summary": "OpenAI to lease massive new AI data center in US, backed by Nvidia&nbsp;&nbsp;Tech Xplore"
     }
   ]
 }
