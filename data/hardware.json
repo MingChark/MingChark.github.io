@@ -1,14 +1,7 @@
 {
-  "generated": "2026-08-19T06:50:23.227968+00:00",
+  "generated": "2026-08-19T12:53:39.479767+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGkydTJ4aENBbDNUcFF3QnhJV0RPdlRMZThjTmhsWHFCdDF1WkxSUjQ5Vkd6Z2NMa0FlSFBZZUNSb25QQzQ2NUZnbXhBZVcxYnZ4Z0Q3YUNTRWJIc3JLYk56ZWRJVHZmMVl6S1J5SjhZTjd0Nndtbm1UbjRTbV9ER1VDZm5MQk1OUjBDUmRRYUxweEFuUVZV?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-18T18:01:00+00:00",
-      "summary": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.&nbsp;&nbsp;The Motley Fool"
-    },
     {
       "title": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZmYxLWxfa1RZVVhJb3Vyd2lSLXltZWYzVDZmVW53c3gxZm5DeXMyR1pZMC1HLWNac09iMDNJUWR6MFBkOGZoQWhvaDZET01wcVRVQjkzejU4LTFzTU80Y1hJS3NFWHRpSXFpelZFU2d6RndlWWpjZDRUUHJkN1NnNURqUVhmd1U1bTVZb2RYUWhOelNkWlY4alg1T0lheTBRaEhJd1lBZi1XdEpZcFVNMmMwT1FMS3hzYkh3QTM3YlFRczhSVXF4VzVRSG5oaXFRMFNMU1ZSOG96WnNoVWJBMEJRc1p6dnlkU1hvMEEySG1aZ0tzQ2FXSVhDV2toS0FWYTNNWVlpQzNrX2xNOFdjTnRzMGJjd2hvWVhwbndrem9kSThsMl9CZzEtbWlKT2liUk5fTW1BckRHdjBPV3RSVmNHYWVLWFc0bk52TGY2TGVyeENYNGNJZGtVaWVraVZ0YXZMSWhpakEtWkVYU184MVFHSzIyOWtFblVn?oc=5",
@@ -17,11 +10,18 @@
       "summary": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest — Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips - startupfortune.com",
+      "title": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGkydTJ4aENBbDNUcFF3QnhJV0RPdlRMZThjTmhsWHFCdDF1WkxSUjQ5Vkd6Z2NMa0FlSFBZZUNSb25QQzQ2NUZnbXhBZVcxYnZ4Z0Q3YUNTRWJIc3JLYk56ZWRJVHZmMVl6S1J5SjhZTjd0Nndtbm1UbjRTbV9ER1VDZm5MQk1OUjBDUmRRYUxweEFuUVZV?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-18T18:01:00+00:00",
+      "summary": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "title": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTVGTV9rSnl1UkR4NVRncmZhaTVsbDVISmJYLUJGVXZwRE5GQ253UE15ejBIYnRXTm1BV0JmZjJqVXpZY2NCSHZiR3RKWUtITGFlclNKcU1ZMnBhY1lqbnV1Tk9KazdwVUFxVGd1UmhlSDdJMHFGTjdGSXlvaWNCNUJ6R3lydnZGTm9Fcm9kcUk5Y2o0X05EOTdXME9xUQ?oc=5",
-      "source": "startupfortune.com",
+      "source": "Startup Fortune",
       "published": "2026-08-18T21:06:29+00:00",
-      "summary": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips&nbsp;&nbsp;startupfortune.com"
+      "summary": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips&nbsp;&nbsp;Startup Fortune"
     },
     {
       "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance - The Register",
@@ -29,13 +29,6 @@
       "source": "The Register",
       "published": "2026-08-19T00:00:00+00:00",
       "summary": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "Google Could Hand AMD a Bigger Role in Its AI Chips - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTFSM1VSVC0zcUNaaGZsZVFHbF9iVTZlQ2lKR181YksxcXM5UGZRZTdncFo0SW53YUVGcW10bDR2Yk82cGFIcW1lQnd2akRxUWpZaGJiNXhsOHNfVHpRT2dvR3J6THAzQ1NMQnAybm9UQXIzcGtJVy11c0ZlbXktWHZXVHdnclNOTWZIWU5UZE9fREtvb1BZVW92OUVnWVp5Y3dJVHN6Q2VpUExEYkZNYg?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-18T15:01:20+00:00",
-      "summary": "Google Could Hand AMD a Bigger Role in Its AI Chips&nbsp;&nbsp;TradingView"
     },
     {
       "title": "NVIDIA Q2 Earnings Preview: AI Chip Leader August 2026 Analysis - Intellectia AI",
@@ -52,6 +45,13 @@
       "summary": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.&nbsp;&nbsp;AOL.com"
     },
     {
+      "title": "Google Could Hand AMD a Bigger Role in Its AI Chips - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTFSM1VSVC0zcUNaaGZsZVFHbF9iVTZlQ2lKR181YksxcXM5UGZRZTdncFo0SW53YUVGcW10bDR2Yk82cGFIcW1lQnd2akRxUWpZaGJiNXhsOHNfVHpRT2dvR3J6THAzQ1NMQnAybm9UQXIzcGtJVy11c0ZlbXktWHZXVHdnclNOTWZIWU5UZE9fREtvb1BZVW92OUVnWVp5Y3dJVHN6Q2VpUExEYkZNYg?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-18T15:01:20+00:00",
+      "summary": "Google Could Hand AMD a Bigger Role in Its AI Chips&nbsp;&nbsp;TradingView"
+    },
+    {
       "title": "Seoul Hosts Global AI Hardware Forum Friday: NVIDIA, Cisco, AMD Join OCP Korea Tech Day - Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3BsSXMyTE10MlNPNTRnT3h6WTg2SW94Mmc5VElGaDFQaFdWYjZJR2h0dzItbnZxRThwQlQwR0NsV3lPVWlsdXBFMWpUQUV6MDBRTzZGa1lCaDYzSzJVSGZVLWtnTUhJM1R1VkRhUWhFWUlGbWFvOFFCT3IwZGRtU052UnhNcDlDcmk3NFp4ZEZDWFE3UENzRDdQQ0ZNb0dHNmZVMHlVVUJmZTBYNHVxWVZvQlZSOEExTnMxeDFmamhUQ1ktUlphSy1GWUl0LWVXOTAwRVN3?oc=5",
       "source": "Tech Times",
@@ -59,18 +59,11 @@
       "summary": "Seoul Hosts Global AI Hardware Forum Friday: NVIDIA, Cisco, AMD Join OCP Korea Tech Day&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "Nvidia Is Cutting Rubin Ultra’s Memory. Is Micron’s HBM Boom in Danger? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDhIakpwa2Z3NGQ3QlpFQ2hzTXdDYmRDdDdFOUctWTRDTlNHXzNGTjVaTGRPckdFU21Yci00VTkxRkptUHhJYV9DeXI4NzRiOGZGYWZsM1JrTWtJaFd1Tk94a1hTQUdtbXE4TUI5NkdCRDBlLWpsVnExd2F1dGtyRDBzczQ0TzdQVnkta1NfelFPOWtSak9nUjF2QV9tUnB4dVhURkc2NzMzUm41QXRGYg?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-08-18T14:40:37+00:00",
-      "summary": "Nvidia Is Cutting Rubin Ultra’s Memory. Is Micron’s HBM Boom in Danger?&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmtUbnBLeVBPWG5YN1dDZGJ6NjhHX25OeGhuWHFjcWluVDVBN0ZTc3pXdlFFR1oxeDdNdkRQTnpIMmxQSF9DSHlqbjljdWdhM3NvVGl6a1hNMGM2R2ZCVUJNaGFoZXFRY29VSHRVZUF2VVJ2RkE?oc=5",
+      "title": "AI Reshapes Taiwan-South Korea Rivalry: CNN Reveals a New Era of \"Brutal Symbiosis\" in Semiconductors - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVHFjOUE3M2VOZGZrbGEtaklNdERyWUg2M0hYOWk4TzE3Mk1QTzQ3R1RKRHo2T29kVERnaTVodXE3ajdxQUNLTUtCRHBRNGl0cFVYMmtsUnVqVTdObUt4T2w5RE5jeF9YZFMtSG01Q202TW9oN3c?oc=5",
       "source": "finance.biggo.com",
-      "published": "2026-08-18T18:52:14+00:00",
-      "summary": "Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored&nbsp;&nbsp;finance.biggo.com"
+      "published": "2026-08-19T03:29:22+00:00",
+      "summary": "AI Reshapes Taiwan-South Korea Rivalry: CNN Reveals a New Era of \"Brutal Symbiosis\" in Semiconductors&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
@@ -78,6 +71,13 @@
       "source": "IBM Newsroom",
       "published": "2026-08-11T12:04:14+00:00",
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
+    },
+    {
+      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
     },
     {
       "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
@@ -115,18 +115,11 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
-      "source": "NAI500",
-      "published": "2026-08-14T02:43:37+00:00",
-      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
-    },
-    {
-      "title": "Wedbush Has a Message for AMD Investors After Google Move - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkVnQUFPb1RuMURMV1ZsdGgwaE9FUUROZm9xRmwyeWp2U0M5VHIxWUVRRDhtY1RPNWtqd1RIRVhad2NtRTFFclVDTkZKbktpazJldkRyVW5jYTNuYXFMc2t0WERObkN4N0FNR011WTlzMVRCc0ZrQlhEYVI5cHNfeTA3UVBhanJfdUEtUXhjU2RkZmh1eG1GUElxQ1ZWM2pRVTZudDBnVXQ5UUtCV01lYktTa011N0dO?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-18T20:55:47+00:00",
-      "summary": "Wedbush Has a Message for AMD Investors After Google Move&nbsp;&nbsp;TradingView"
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
+      "source": "The Next Platform",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
     },
     {
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
@@ -136,25 +129,18 @@
       "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning&nbsp;&nbsp;Tom's Hardware"
     },
     {
+      "title": "Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmtUbnBLeVBPWG5YN1dDZGJ6NjhHX25OeGhuWHFjcWluVDVBN0ZTc3pXdlFFR1oxeDdNdkRQTnpIMmxQSF9DSHlqbjljdWdhM3NvVGl6a1hNMGM2R2ZCVUJNaGFoZXFRY29VSHRVZUF2VVJ2RkE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-08-18T18:52:14+00:00",
+      "summary": "Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored&nbsp;&nbsp;finance.biggo.com"
+    },
+    {
       "title": "Nvidia Earnings August 2026: AI Chip Leader Investment Outlook & Analysis - Intellectia AI",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OZjEzc19iT0dnTG4tSlpwTy1mc1VpcmJWeUE2RjFONEVYWDJoaFRJRjhuN0Q1RG5JNzM5TmFUSGlWemE4Y0oyY3E4ajRjVjgxOWYySWNlQmlEZnpmakNiX0JtYU9aZjZlRE9aenM5bEhyaHFXWmVhQXB2TQ?oc=5",
       "source": "Intellectia AI",
       "published": "2026-08-16T16:11:51+00:00",
       "summary": "Nvidia Earnings August 2026: AI Chip Leader Investment Outlook & Analysis&nbsp;&nbsp;Intellectia AI"
-    },
-    {
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-08-07T07:00:00+00:00",
-      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
-    },
-    {
-      "title": "AMD buys Taalas and a very different idea about AI inference - Jon Peddie Research",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtrMWpyTVh2VTdlX240X2FYWUFkenlfdENvNjF2SFhxN2k0eGNSdE9ZUUNEUTNMby16MURqT2dfeWw4UmJCalMxQ2FmUUFkRGlPUUJDNG9tZ1Vma2MtVWs0MG9aZEdESXZzOC1YdFZRUWV0OGo1S1BrVlZXYnBqbTU2Rm5obHlRLXdyYzh1czNpT04zdWFr?oc=5",
-      "source": "Jon Peddie Research",
-      "published": "2026-08-10T07:00:00+00:00",
-      "summary": "AMD buys Taalas and a very different idea about AI inference&nbsp;&nbsp;Jon Peddie Research"
     },
     {
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
@@ -164,6 +150,20 @@
       "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "AMD buys Taalas and a very different idea about AI inference - Jon Peddie Research",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtrMWpyTVh2VTdlX240X2FYWUFkenlfdENvNjF2SFhxN2k0eGNSdE9ZUUNEUTNMby16MURqT2dfeWw4UmJCalMxQ2FmUUFkRGlPUUJDNG9tZ1Vma2MtVWs0MG9aZEdESXZzOC1YdFZRUWV0OGo1S1BrVlZXYnBqbTU2Rm5obHlRLXdyYzh1czNpT04zdWFr?oc=5",
+      "source": "Jon Peddie Research",
+      "published": "2026-08-10T07:00:00+00:00",
+      "summary": "AMD buys Taalas and a very different idea about AI inference&nbsp;&nbsp;Jon Peddie Research"
+    },
+    {
+      "title": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeVkyYlZRMzd6YlhFc3I5UWdSZjRyNnMwLURkYTRhc0hUS1BxTFRKQTlnZXdudXdFV1lGWVJRZTRsQ1ZDMGhST2ZTdlJYNG5xdGZESE1mN0NtSldjQXBDODNCSGlFZjZPeWJvVXZGMFpfbzVjdjhoU2FFMHRhQzhtVGIydVlkU2liaUpUUl9uM2Fxem1LZG4tWl83RDNkcTRrQ015VDFoUGpDNjk2TGFlUkp4UEx3c3VyNXVReWZyR0tXdjB0?oc=5",
+      "source": "NAI500",
+      "published": "2026-08-14T02:43:37+00:00",
+      "summary": "AMD Raises Record $4.75 Billion in Bond Offering, Intensifying AI Chip Push to Challenge Nvidia&nbsp;&nbsp;NAI500"
+    },
+    {
       "title": "AMD to Acquire Taalas for Model Specific AI Inference Chips - ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEc1T3lDNWpuZk9lRC1vYWY1VkM5ZzdkbFcyWmI5SlM1WlJjczN1NGl3NWtGWVNrT2FON1VfZHp4MzZzSFB4R0FyeVFIN1NpS2pHS3VEM1NXbXFSVGJvbVg1R0RQLTVpRlNCRFhaLW1OeGtuMFQzNExuNkZULXMtMHdtdVBuS2lrNnNkSWFqaVZfUms?oc=5",
       "source": "ServeTheHome",
@@ -171,11 +171,11 @@
       "summary": "AMD to Acquire Taalas for Model Specific AI Inference Chips&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "AMD says its newest AI server is in full production, will ship in months - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "AMD says its newest AI server is in full production, will ship in months&nbsp;&nbsp;Reuters"
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-04-14T07:00:00+00:00",
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }

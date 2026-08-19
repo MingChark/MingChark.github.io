@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T06:50:23.227968+00:00",
+  "generated": "2026-08-19T12:53:39.479767+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - blogs.cisco.com",
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "blogs.cisco.com",
+      "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;blogs.cisco.com"
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -31,11 +31,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - venturebeat.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
+      "source": "venturebeat.com",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;venturebeat.com"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -52,11 +52,11 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -115,11 +115,11 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "Towards Data Science",
+      "source": "towardsdatascience.com",
       "published": "2026-03-18T07:00:00+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
     },
     {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
@@ -129,11 +129,11 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
+      "source": "nature.com",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -171,11 +171,11 @@
       "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUHVNTnhIMDhGdTBZdGJoSlhPeWduTGpjcjl3bEN2Vk91LUtmZEhsa3JXcExSa3poak1nTXRGMkJOSnBPTFdBS3pJMTJWcS1CSmdvOVlJSmltWmpJZThHODNxNXdDd2_SAWxBVV95cUxQWHdmQm0yMmZhVVF2TGRsYUloX2M4emZPTEVQT256blFrN202dHZkTTJXdGlPclV5WEstaC1kWWw4dmlEVkNTT05xTnBlT2hoM0tiYnlNSV9OLTJicUF5dTJ0aWtnQkE2MEpKNDk?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-08T07:00:00+00:00",
-      "summary": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation&nbsp;&nbsp;MarkTechPost"
+      "title": "A multimodal whole-slide foundation model for pathology - nature.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQVRiS1VfWUJoeWFHaEt3MlZQMm9YSVZhU1g5YU9ycVBfTFJzUGg1MGRObE1Tc3RrS183MGFmSkc5UUM4M3Qtd1hPeE9felJRa2FmMm5xQjNOQ2VVUG9J?oc=5",
+      "source": "nature.com",
+      "published": "2025-11-05T08:00:00+00:00",
+      "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;nature.com"
     }
   ]
 }
