@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T18:41:53.711869+00:00",
+  "generated": "2026-08-19T01:26:14.879815+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -38,13 +38,6 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
       "source": "IBM Research",
@@ -52,11 +45,18 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -80,18 +80,11 @@
       "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
+      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - fico.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "FICO",
+      "source": "fico.com",
       "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
-    },
-    {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;fico.com"
     },
     {
       "title": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention - PR Newswire",
@@ -99,6 +92,13 @@
       "source": "PR Newswire",
       "published": "2026-03-24T07:00:00+00:00",
       "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -115,11 +115,11 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "towardsdatascience.com",
+      "source": "Towards Data Science",
       "published": "2026-03-18T07:00:00+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
       "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
@@ -129,11 +129,11 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
