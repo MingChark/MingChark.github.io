@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T01:26:14.879815+00:00",
+  "generated": "2026-08-19T06:50:23.227968+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - blogs.cisco.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "Cisco Blogs",
+      "source": "blogs.cisco.com",
       "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;blogs.cisco.com"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -59,18 +59,18 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
-      "source": "NASA Science (.gov)",
-      "published": "2026-05-07T07:00:00+00:00",
-      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
+      "source": "NASA Science (.gov)",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
@@ -80,11 +80,11 @@
       "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - fico.com",
+      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "fico.com",
+      "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;fico.com"
+      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
       "title": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention - PR Newswire",
@@ -157,18 +157,18 @@
       "summary": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2025-12-01T08:00:00+00:00",
-      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
       "title": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE51djkxajdjeGFyWWpNQVFlaDZmU0RrcDhWYVBBd0poa3NvbTg3eDAzUkdsMWdJR1pUclpxZE5HM0lybDFUQUlZd3RDdUxhVVViVVUyaEh1VHZ0c2hsYnkxMEZITlphY3dQN1RPRmlyUU1zTm52X21MaldnRVdxcEVPSDV3akNGRnhpTXNwWWU3WndlRTFmZEFWUzZfUHNVQnZhLWZ4QmF2MTJCSl94Ql9LbVZiSkZMeW5NN3NMN1pycEIzZWVjS09zSDJoWXpvR213ZDQ4U1RvRVRNRGhrTk1Eam9IcnVrYWZ5dkpPTUJCSA?oc=5",
       "source": "MarkTechPost",
       "published": "2026-04-27T07:00:00+00:00",
       "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2025-12-01T08:00:00+00:00",
+      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
     },
     {
       "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation - MarkTechPost",
