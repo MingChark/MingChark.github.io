@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T18:39:37.048041+00:00",
+  "generated": "2026-08-20T01:25:06.963796+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,11 +45,11 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - nvidianews.nvidia.com",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -87,18 +87,11 @@
       "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends - Vinanet",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVdqZ0J6MzRDX1dVNW1LS2dxQktVWHp1dE4xWkhKQVNIOVNyNmxrR2ZYREFvd1ZQSFJNZDd5ZlhBMndOR0VncklGemFJdzFaa0FZZzN0ZWlPcVBpOW9MakRuZGQ4cUFHQWtRMl83ZGxhRHdZTWYzdmgyNG9sc0dBRVZqOVppTVRhNUJybERkUjBsUmZVTWI1cFdPd1VDSmIxUHRyNDU2RTVxeW5wc0NrTzVoaWY3VHpIQTdKMmtubHVydjZOcWc0YkV3?oc=5",
-      "source": "Vinanet",
-      "published": "2026-08-18T22:07:02+00:00",
-      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends&nbsp;&nbsp;Vinanet"
-    },
-    {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5mac.com",
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5mac.com",
+      "source": "9to5Mac",
       "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5mac.com"
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
@@ -115,6 +108,13 @@
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
+      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends - Vinanet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVdqZ0J6MzRDX1dVNW1LS2dxQktVWHp1dE4xWkhKQVNIOVNyNmxrR2ZYREFvd1ZQSFJNZDd5ZlhBMndOR0VncklGemFJdzFaa0FZZzN0ZWlPcVBpOW9MakRuZGQ4cUFHQWtRMl83ZGxhRHdZTWYzdmgyNG9sc0dBRVZqOVppTVRhNUJybERkUjBsUmZVTWI1cFdPd1VDSmIxUHRyNDU2RTVxeW5wc0NrTzVoaWY3VHpIQTdKMmtubHVydjZOcWc0YkV3?oc=5",
+      "source": "Vinanet",
+      "published": "2026-08-18T22:07:02+00:00",
+      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends&nbsp;&nbsp;Vinanet"
+    },
+    {
       "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
       "source": "Towards Data Science",
@@ -122,11 +122,11 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
-      "title": "How AI foundation models trained on DNA could transform plant biology - techradar.com",
+      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "techradar.com",
+      "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;techradar.com"
+      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -136,11 +136,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - nvidianews.nvidia.com",
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -171,11 +171,11 @@
       "summary": "OpenMOSS Releases MOSS-Audio: An Open-Source Foundation Model for Speech, Sound, Music, and Time-Aware Audio Reasoning&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
+      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - blogs.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
-      "source": "NVIDIA Blog",
+      "source": "blogs.nvidia.com",
       "published": "2025-12-01T08:00:00+00:00",
-      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
+      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;blogs.nvidia.com"
     }
   ]
 }
