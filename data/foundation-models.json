@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T12:55:43.364060+00:00",
+  "generated": "2026-08-20T18:44:22.029321+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,18 +45,18 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
-      "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -129,11 +129,11 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+      "published": "2026-06-09T07:00:00+00:00",
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -164,18 +164,18 @@
       "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
     },
     {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Quarterly Financial Update - Vinanet",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3piMEt2R2xQZUNkTXRPMF80TEk3MDRyMEFsSDdRd2NVS3Q4bktiTk9OaGU5dGwtN09zQVgxWGtzVkFRc0lkMWowTzVhbHR0amNvOU9tVGFPNXA0cC0zNmQxNTN3VzNXVHVvVFdEWnIwcjByNFZRZUp1MkhZRTU3VnAxT3JZaHl0eGNXYWVZUWxCZU50SmZ6dV9XSERraU1WMi1YdG00ZzJsS3ZQNTdDWUdYVXFzUlRFWEdPelplRnBLMWRzSk1QZm13?oc=5",
       "source": "Vinanet",
       "published": "2026-08-18T22:07:02+00:00",
       "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Quarterly Financial Update&nbsp;&nbsp;Vinanet"
-    },
-    {
-      "title": "A multimodal whole-slide foundation model for pathology - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQVRiS1VfWUJoeWFHaEt3MlZQMm9YSVZhU1g5YU9ycVBfTFJzUGg1MGRObE1Tc3RrS183MGFmSkc5UUM4M3Qtd1hPeE9felJRa2FmMm5xQjNOQ2VVUG9J?oc=5",
-      "source": "Nature",
-      "published": "2025-11-05T08:00:00+00:00",
-      "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
     }
   ]
 }
