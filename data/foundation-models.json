@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T18:44:22.029321+00:00",
+  "generated": "2026-08-21T01:35:46.680225+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,6 +45,13 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-04-02T07:00:00+00:00",
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
@@ -57,13 +64,6 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -115,11 +115,11 @@
       "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
-      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends - Vinanet",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVdqZ0J6MzRDX1dVNW1LS2dxQktVWHp1dE4xWkhKQVNIOVNyNmxrR2ZYREFvd1ZQSFJNZDd5ZlhBMndOR0VncklGemFJdzFaa0FZZzN0ZWlPcVBpOW9MakRuZGQ4cUFHQWtRMl83ZGxhRHdZTWYzdmgyNG9sc0dBRVZqOVppTVRhNUJybERkUjBsUmZVTWI1cFdPd1VDSmIxUHRyNDU2RTVxeW5wc0NrTzVoaWY3VHpIQTdKMmtubHVydjZOcWc0YkV3?oc=5",
-      "source": "Vinanet",
-      "published": "2026-08-18T22:07:02+00:00",
-      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends&nbsp;&nbsp;Vinanet"
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
+      "source": "Stanford HAI",
+      "published": "2025-12-16T08:00:00+00:00",
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -141,6 +141,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-03-16T07:00:00+00:00",
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends - Vinanet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVdqZ0J6MzRDX1dVNW1LS2dxQktVWHp1dE4xWkhKQVNIOVNyNmxrR2ZYREFvd1ZQSFJNZDd5ZlhBMndOR0VncklGemFJdzFaa0FZZzN0ZWlPcVBpOW9MakRuZGQ4cUFHQWtRMl83ZGxhRHdZTWYzdmgyNG9sc0dBRVZqOVppTVRhNUJybERkUjBsUmZVTWI1cFdPd1VDSmIxUHRyNDU2RTVxeW5wc0NrTzVoaWY3VHpIQTdKMmtubHVydjZOcWc0YkV3?oc=5",
+      "source": "Vinanet",
+      "published": "2026-08-18T22:07:02+00:00",
+      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends&nbsp;&nbsp;Vinanet"
     },
     {
       "title": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale - PR Newswire",
@@ -169,13 +176,6 @@
       "source": "24/7 Wall St.",
       "published": "2026-07-17T07:00:00+00:00",
       "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Quarterly Financial Update - Vinanet",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3piMEt2R2xQZUNkTXRPMF80TEk3MDRyMEFsSDdRd2NVS3Q4bktiTk9OaGU5dGwtN09zQVgxWGtzVkFRc0lkMWowTzVhbHR0amNvOU9tVGFPNXA0cC0zNmQxNTN3VzNXVHVvVFdEWnIwcjByNFZRZUp1MkhZRTU3VnAxT3JZaHl0eGNXYWVZUWxCZU50SmZ6dV9XSERraU1WMi1YdG00ZzJsS3ZQNTdDWUdYVXFzUlRFWEdPelplRnBLMWRzSk1QZm13?oc=5",
-      "source": "Vinanet",
-      "published": "2026-08-18T22:07:02+00:00",
-      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Quarterly Financial Update&nbsp;&nbsp;Vinanet"
     }
   ]
 }
