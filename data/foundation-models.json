@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T06:53:30.182182+00:00",
+  "generated": "2026-08-21T12:54:48.490109+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -31,11 +31,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "title": "A $1,500 foundation model that rivals larger LLMs - Venturebeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
+      "source": "Venturebeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;Venturebeat"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -150,13 +150,6 @@
       "summary": "DeepRoute.ai Presents 40B Vision-Language-Action Foundation Model at NVIDIA GTC 2026, Accelerating Autonomous Driving at Scale&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends - Vinanet",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVdqZ0J6MzRDX1dVNW1LS2dxQktVWHp1dE4xWkhKQVNIOVNyNmxrR2ZYREFvd1ZQSFJNZDd5ZlhBMndOR0VncklGemFJdzFaa0FZZzN0ZWlPcVBpOW9MakRuZGQ4cUFHQWtRMl83ZGxhRHdZTWYzdmgyNG9sc0dBRVZqOVppTVRhNUJybERkUjBsUmZVTWI1cFdPd1VDSmIxUHRyNDU2RTVxeW5wc0NrTzVoaWY3VHpIQTdKMmtubHVydjZOcWc0YkV3?oc=5",
-      "source": "Vinanet",
-      "published": "2026-08-18T22:07:02+00:00",
-      "summary": "M37Labs Unveils Saransh, First Sovereign Small Language Model in New Enterprise AI Family - Operating Income Trends&nbsp;&nbsp;Vinanet"
-    },
-    {
       "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
       "source": "NVIDIA Blog",
@@ -176,6 +169,13 @@
       "source": "Nature",
       "published": "2025-11-05T08:00:00+00:00",
       "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
     }
   ]
 }
