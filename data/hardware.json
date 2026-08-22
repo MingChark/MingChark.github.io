@@ -1,13 +1,27 @@
 {
-  "generated": "2026-08-22T01:24:27.329875+00:00",
+  "generated": "2026-08-22T06:46:00.388239+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape - semivision",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFZGMWNQSW1qOGpOY0tWci02eHU1dWIzSmVJWnJYazJhdlpnVkRKZExjLUVCNmwyRzlES0JOV3BXTHpQemc1cGllczlEWEhkaFBrMmJiUHpSOXNGTWRDNEhZVHNRbFl2NFRRZXRpeFZJYkx1MW9aa0dldnJWM21XUmZvdw?oc=5",
+      "source": "semivision",
+      "published": "2026-08-22T03:13:19+00:00",
+      "summary": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape&nbsp;&nbsp;semivision"
+    },
     {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lHQ3JycFVfOE8yYVB6VGF6YlNwckZjTTZ3Q2YtUlhWUDBndkVRZTlndEQ0WWJrT1lEaS1pM3FYMFg1UWVwekhmTEdtQ3lrVF9HRENmWGZfN0toaExhQ3lUSjQwNThtT2dlNnBwc01FMzVqSDF0dGs2cU14TDh1NE54ZUdGQVdFcVpqdXVPYjRqcE50OGlHMks0SQ?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-21T20:08:22+00:00",
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "In-house silicon accelerators are surging in the AI inference era! Anthropic recruits a Google TPU pioneer as the computing power empire shifts from a \"GPU solo\" to a \"heterogeneous computing symphony.\" - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlVqWl9JUVFocXZKRjRxY3gyMFIxVDJKRXMyOHZvMjNOYTB5dHdjZHlJeHBJd0Z5OU02YWY4RWhlX0pfN19ZdkxwMlBDVU8wcElQS0ZUWmd5UnNVZlV2UE02dGw1bkh1YVYwX2pQdFBpd00wWFg4aUptN3ZkN3pld0RhVVpIZ2hUaWY5Z2NDcENkYnhaQkFHRUVURXFqTDIzUmloN2FR?oc=5",
+      "source": "Moomoo",
+      "published": "2026-08-22T02:51:59+00:00",
+      "summary": "In-house silicon accelerators are surging in the AI inference era! Anthropic recruits a Google TPU pioneer as the computing power empire shifts from a \"GPU solo\" to a \"heterogeneous computing symphony.\"&nbsp;&nbsp;Moomoo"
     },
     {
       "title": "Latest News In AI Chips - Cloudera NVIDIA Partnership Boosts Apache Spark Performance - simplywall.st",
@@ -31,13 +45,6 @@
       "summary": "Google strikes $12bn AI chip deal with Marvell&nbsp;&nbsp;Financial Times"
     },
     {
-      "title": "Nvidia Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QWlVCSFdjczRYZFFaU0hMZWtkNTdUcm0wUHRsWXRYWWc3Z2RIQjJxeFBqdXh1TzR0MklxRERYQUlmcmNPNENtVDNCdjFEVTNTaEpGTmNhS3NsYmRTeFp2MGsxY1F0eE9zeGtQWFRIMEY?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-21T12:15:48+00:00",
-      "summary": "Nvidia Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook&nbsp;&nbsp;Intellectia AI"
-    },
-    {
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
       "source": "Tom's Hardware",
@@ -50,6 +57,13 @@
       "source": "TradingView",
       "published": "2026-08-20T20:04:19+00:00",
       "summary": "Alibaba Gives Nvidia's Older AI Chips an Unexpected Vote of Confidence&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Nvidia Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QWlVCSFdjczRYZFFaU0hMZWtkNTdUcm0wUHRsWXRYWWc3Z2RIQjJxeFBqdXh1TzR0MklxRERYQUlmcmNPNENtVDNCdjFEVTNTaEpGTmNhS3NsYmRTeFp2MGsxY1F0eE9zeGtQWFRIMEY?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-21T12:15:48+00:00",
+      "summary": "Nvidia Earnings August 2026: AI Chip Leader's Q2 Preview & Investment Outlook&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "Nvidia Rubin vs Google TPU 8: AI Chip Race Heats Up - tech-insider.org",
@@ -66,18 +80,25 @@
       "summary": "Google expands Marvell partnership for custom AI chips&nbsp;&nbsp;Tech Wire Asia"
     },
     {
-      "title": "Cloudera Partners with NVIDIA to Bring GPU Acceleration to Spark, Boosting Data Processing 4x and Cutting Cloud Costs - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nOXVMcE1XbVU0X2V2OGUwSEtMekVmU25naGJsQi1hWDJnQVFwVUpzWXBtNkVNZy1wc0pBMkI2TGt2VVkwQUdJQVRHYU9PYmFyVUxyQ0dMRXNYMWlPY2pTWjdVc25RbENjS2xIVkhpUFFPOG1Bcnc?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-08-21T18:56:00+00:00",
-      "summary": "Cloudera Partners with NVIDIA to Bring GPU Acceleration to Spark, Boosting Data Processing 4x and Cutting Cloud Costs&nbsp;&nbsp;finance.biggo.com"
-    },
-    {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczQ0bnRwU3FTN2NaN0wzbUVkbGxtYUZkcm5wa2F4R2E4T1VlYnJBTjVzR1VHWFJCelZ5ZHVSUFdyOU5YcjItRnd3aUQ3c2JsWjN2eFZSM0VHM1pONFdCYXRnNUc1cVpaVC1yOXdVR04yMDV5LW9oaGFjelJfclFTOG1EdkZ5LTQxb1RBbEl5Z2tmeklKUm5jdElUam1uN2ZZNmRlVGZjeW9QQ2tUY1R2RG9Kc09FNGg1b1Jid21NTFBheGdYTnNOdWZhVjhJVmJGWUF4bUI3VXV1eVVWa2ticXJsRFJoMl9qOHp4MTZPZw?oc=5",
       "source": "IBM Newsroom",
       "published": "2026-08-11T07:00:00+00:00",
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
+    },
+    {
+      "title": "Alibaba’s RISC-V Chip Runs 27B AI Model Without a GPU - Intelligent Living",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMWY2S3p4ZFEzN3lRQjN4WVJ6MEVXMkFTOFVCN2YybTFJVzk1M2hNWGJBd28yY2R0ZklicUc3cWlwSFNrWXZnNzNkWmlEdlV2dTRHWXFCTDJLT2kwZ3dLLTRMem0xRXcyaXNvMUFDR1dVWDFm?oc=5",
+      "source": "Intelligent Living",
+      "published": "2026-08-21T20:28:10+00:00",
+      "summary": "Alibaba’s RISC-V Chip Runs 27B AI Model Without a GPU&nbsp;&nbsp;Intelligent Living"
+    },
+    {
+      "title": "Cloudera Partners with NVIDIA to Bring GPU Acceleration to Spark, Boosting Data Processing 4x and Cutting Cloud Costs - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nOXVMcE1XbVU0X2V2OGUwSEtMekVmU25naGJsQi1hWDJnQVFwVUpzWXBtNkVNZy1wc0pBMkI2TGt2VVkwQUdJQVRHYU9PYmFyVUxyQ0dMRXNYMWlPY2pTWjdVc25RbENjS2xIVkhpUFFPOG1Bcnc?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-08-21T18:56:00+00:00",
+      "summary": "Cloudera Partners with NVIDIA to Bring GPU Acceleration to Spark, Boosting Data Processing 4x and Cutting Cloud Costs&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Cloudera and NVIDIA Partner to Lower Cloud Compute Spend and Accelerate Apache Spark Pipelines - HPCwire",
@@ -94,25 +115,11 @@
       "summary": "Seoul Hosts Global AI Hardware Forum Friday: NVIDIA, Cisco, AMD Join OCP Korea Tech Day&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
-      "source": "HP",
-      "published": "2026-07-28T02:46:34+00:00",
-      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
-    },
-    {
       "title": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkxPYmRMWmZMZjdkVC1tRW92NkFQQ1BlQ0JHSjFHdGdtdGxoVlZkTzJsaG5LTHVyQnByeDl0TVItZ19TbUJjQnhVVXYycFB4OXRVeExaTUNnSVRXbGU1MFFNQXdyTVVJZFhhM0pzZWtiamdVS1l6eUlYZTZaSS14ZUpDUE9KdmpIY056VVItcl9lQlZPc0E?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-19T17:35:26+00:00",
       "summary": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Nvidia Q2 FY27 Earnings Preview: AI Chip Leader's Next Catalyst (August 2026) - Intellectia AI",
@@ -136,6 +143,13 @@
       "summary": "Google to Acquire $12.2 Billion Stake in Marvell, Loosening Broadcom's Grip on AI Chips&nbsp;&nbsp;finance.biggo.com"
     },
     {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "source": "NVIDIA Developer",
@@ -150,13 +164,6 @@
       "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
     },
     {
-      "title": "Cerebras Claims 'Fastest AI Accelerator in the Industry' as Challenger Sets Sights on Nvidia - Earnings Expansion Phase - Vinanet",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3h4SVNMcnJ6dmIyNkxUaE5KWC1hTUgtN2k3UUNManhLZlZMdDdSUHBFd29xV0NHaFUySEd6Q1oxQ0NPVkVlbHhWSFo3QXhKM1NZemJhMFFJM3dzeU1FdGItMTB2Y0cwRWN0NUs4c1d4RjdoM244allnWjZ4cFJpajVEUGN3czJEOEZHTFdLTnRiZkJoaHJ3d0VsR0l6NWdPa19lRzJ0ajZQMFZqS0ZCV3EwNkJwZ3hob3BEVGN6elI2RzhtUjhDZWRGTTI?oc=5",
-      "source": "Vinanet",
-      "published": "2026-08-21T09:30:25+00:00",
-      "summary": "Cerebras Claims 'Fastest AI Accelerator in the Industry' as Challenger Sets Sights on Nvidia - Earnings Expansion Phase&nbsp;&nbsp;Vinanet"
-    },
-    {
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
       "source": "NVIDIA Newsroom",
@@ -169,13 +176,6 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-01-05T08:00:00+00:00",
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6U3BuSWNRa0psZDR5Q2dMa25OYUVHZEthSmtzd0FnMFZCa3VKMWlzYUxSVzBJWFpVZ0gtbkNiWEJ2dGd3bG9TcnhESGNFUnpBQjd0MGMwNWdTR2NnN1RrT0FWa0wxLWZCOVJFcTVR?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-06-23T07:00:00+00:00",
-      "summary": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale&nbsp;&nbsp;NVIDIA Blog"
     }
   ]
 }
