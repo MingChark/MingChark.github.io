@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T18:35:29.558049+00:00",
+  "generated": "2026-08-23T01:38:25.911384+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -157,6 +157,13 @@
       "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
     },
     {
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcXVHRW1fQlhaZHgyNG5vWDNXTkRnMEJvMFg3cXQ5MXRRbW5qMi1zLW84S3B6dy03Q3Uyd05kWF9qWHhkaHhTSkRIVGZuaV9CVHVTWjk2d2k4QUV4YzEwOGgzaGM2ZF9XTWc4QTMweUNoQ1hsQW9oT2dOM0x6N3ZRaVBiOEJ6ZzdNdVlGeDk4NHExTXlYM0o1ZDk2Q1E3bGp1eFBFMGV3bkJTT3J2VlZZbFA2RldkQzZoZWJZTU1vdXFLMFhZMHhsQzl6S0c2QXJ2NTJ4RmpISHo0VmFDYlNXdtIB5gFBVV95cUxNVGd1TmNwU2ZpZHVJS0JTVzhpeEhldFJ1SnZkLTBfZDJWekl4M3R3Qkh5enE1VnRrSS1FRUdaRUM5d19zbnVpOC03eWdPYjNQbm1RSGZGcVhOODhtV2VfZ1pNUUl1bkprRjVQdXd6a243emtaY2xVb0dad2RtcDJqellQc0h3OEdSSXNxTE90WlYyTzNQck9DUFNIUHNhLTNGVG5ma0pxNTN4TUhUcUdWOUFkdFhUU0VhUWZmUmxmdXdsSVlXd0ZlMHpWaEhjYVJ3N0U5NGU5QmJvdHMwdmFQWnBxalZGQQ?oc=5",
       "source": "MarkTechPost",
@@ -169,13 +176,6 @@
       "source": "Nature",
       "published": "2025-11-05T08:00:00+00:00",
       "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
-      "source": "Linux Foundation",
-      "published": "2025-12-09T08:00:00+00:00",
-      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     }
   ]
 }
