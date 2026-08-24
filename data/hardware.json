@@ -1,7 +1,21 @@
 {
-  "generated": "2026-08-23T18:34:11.278611+00:00",
+  "generated": "2026-08-24T01:36:26.158607+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Nvidia announces AI-related price hikes - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SElHdFIyZDRldjJHTEk1ZEZEM2pDbjR4OGViTFNOTDAwVnB2REJjaV8zbkpwYWNSdzZXbHZXWEJCeF9uWmxFTlpPa2lrMFNjcGwyeEdvUlhJZm5BdEdBcVZyOHFIaWhWYTNGU1F2UkNWZnBfNnc?oc=5",
+      "source": "Taipei Times",
+      "published": "2026-08-23T16:00:00+00:00",
+      "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
+    },
+    {
+      "title": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration - semivision",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHNUNnlpcUdmZno3MUEtUGY4eGVta2VFMXlTWnRJZmpiLVBNaGZkR1RnQXZBYzdJRjljdzdfTnNpOHE3U3J4a2JjVkt6SDBqQlFOSG02UXVXeDU1ZFctSWplVEw1YXYxUzQ0YkRJZ3lfMlVrLTNBN1E4OXI3QWx0eURn?oc=5",
+      "source": "semivision",
+      "published": "2026-08-23T23:59:00+00:00",
+      "summary": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration&nbsp;&nbsp;semivision"
+    },
     {
       "title": "Nvidia customers notified about AI-related price hikes above 15% - Fortune",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
@@ -17,6 +31,20 @@
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "NVIDIA Earnings August 2026: Q2 Preview & AI Chip Demand Analysis - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTFh4NGJURjJXLWF1NUFmYlZXb2ZyMTZvMmtqUzZzcDQ2b24zMGVvY2tQRW1rQVhjUXd3bExwQXNzYk9tQ3BDNzFxR2trSldzUXl0TGQ1dU9TY0syNERHQ2RGMFFOUnZGR2hOb19UbjZHUEtxSE44QWt2LVV0cFhKXw?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-24T00:10:52+00:00",
+      "summary": "NVIDIA Earnings August 2026: Q2 Preview & AI Chip Demand Analysis&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjFhN3pRQXBLaDF1aGh4OS0wVTR6UGhGUVg0cWUzaHdnVUJKOEZHZnJfVkdkVUtwOFVZaE1QSm1La0c4WEpqTlhtY0tzaFFlXzZaSFhKZlNlQ3o0c2g5dFlfeFhZZkZwRTR3QkNPVmpKSGh5d2Q0a2d2MXdxdDU1YzR1c0EwSmY3TTd3WlhDT2o1aUFHSGI4Rm5seUNNTWczY0cyREFsLTkzR1VVdHpLaHkxam56RWNpSUE?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-23T13:21:08+00:00",
+      "summary": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
       "title": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15% - Notebookcheck",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2NrMUJtYnlDTklCbjVDOUJnVzRubG54LXZNZ2Y3R2xUVnEzNEE0NUJFQjZyMjlKaWdjMlpjeTVlVnVhNHhmS1hLbjdfcnh1OXZVWG9VQnNuekJ0aFRLdUlheDBhOEk4c2hkeW53amgtWWtNSlRzcDllMEI1YWtjTXZIVkxzSDNVM19Tdk13V2ZYYkc0d09PVzZiODVSZGpfVzNWbklpSkpuZlE1bHd5aHZJcDVhZmUyaUx6UVJMcVo?oc=5",
       "source": "Notebookcheck",
@@ -24,25 +52,11 @@
       "summary": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15%&nbsp;&nbsp;Notebookcheck"
     },
     {
-      "title": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape - semivision",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFZGMWNQSW1qOGpOY0tWci02eHU1dWIzSmVJWnJYazJhdlpnVkRKZExjLUVCNmwyRzlES0JOV3BXTHpQemc1cGllczlEWEhkaFBrMmJiUHpSOXNGTWRDNEhZVHNRbFl2NFRRZXRpeFZJYkx1MW9aa0dldnJWM21XUmZvdw?oc=5",
-      "source": "semivision",
-      "published": "2026-08-22T03:13:19+00:00",
-      "summary": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape&nbsp;&nbsp;semivision"
-    },
-    {
       "title": "NVIDIA Raises AI Server Prices 15% Amid Memory Shortage - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTB6VXNURWRMZFJTaE9pSUVrREo3SlFQa3I0dHFsckh1bDZWQjZWU1MzR1VTUEpoZlk2NDE3N3BZSVZEdmdzSXUtQ21mUUpwRkJJX0d3eFcxMmN0Mkk1eUdta0hlSHU2ZWoyWEZCNkJETUJ1T3dBZ0RrZXF3TzdjVlpqR2ltOTRT?oc=5",
       "source": "조선일보",
       "published": "2026-08-23T08:34:22+00:00",
       "summary": "NVIDIA Raises AI Server Prices 15% Amid Memory Shortage&nbsp;&nbsp;조선일보"
-    },
-    {
-      "title": "Nvidia's AI server prices set to jump more than 15% - The News International",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGFfcjl6bVRhOTdLLTJCTkxnUkQ2RmxWOE92V3RfNk94dmJ6VWcySXZwX2xkOEV2MG1HaHdSbXhJb3ROOTN2ckxjOGhMenpEaWNiMTMtMVBlc24tdjQxRjBYVkZFZ2VVUnRMUzdKTF95N1Jsb1RxYTVPWkRYR0RKZUZ3b0h1aXI1a1ZFc29KUDFSWm15cFHSAZIBQVVfeXFMTkhxeDh0Y2xscWxtZ2loN2xDLXA4WXBfNkxFQnRTRzNzU2VwY1ZDSXh6WVhfQnpTdVI1cUhpX19WWkRtZEtITDgwaUJvVVBvX29ReHpUbjNoQXNJQnU5U2dnRmhrU0YtVjRzS0piYU0wQ3R3eWstcHVMU3R6M3hmMEwwZm5YTjBGaDFFTXpRVlNxMGc?oc=5",
-      "source": "The News International",
-      "published": "2026-08-23T06:57:56+00:00",
-      "summary": "Nvidia's AI server prices set to jump more than 15%&nbsp;&nbsp;The News International"
     },
     {
       "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence - Tom's Hardware",
@@ -73,11 +87,25 @@
       "summary": "Nvidia Rubin vs Google TPU 8: AI Chip Race Heats Up&nbsp;&nbsp;tech-insider.org"
     },
     {
+      "title": "Nvidia's AI server prices set to jump more than 15% - The News International",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGFfcjl6bVRhOTdLLTJCTkxnUkQ2RmxWOE92V3RfNk94dmJ6VWcySXZwX2xkOEV2MG1HaHdSbXhJb3ROOTN2ckxjOGhMenpEaWNiMTMtMVBlc24tdjQxRjBYVkZFZ2VVUnRMUzdKTF95N1Jsb1RxYTVPWkRYR0RKZUZ3b0h1aXI1a1ZFc29KUDFSWm15cFHSAZIBQVVfeXFMTkhxeDh0Y2xscWxtZ2loN2xDLXA4WXBfNkxFQnRTRzNzU2VwY1ZDSXh6WVhfQnpTdVI1cUhpX19WWkRtZEtITDgwaUJvVVBvX29ReHpUbjNoQXNJQnU5U2dnRmhrU0YtVjRzS0piYU0wQ3R3eWstcHVMU3R6M3hmMEwwZm5YTjBGaDFFTXpRVlNxMGc?oc=5",
+      "source": "The News International",
+      "published": "2026-08-23T06:57:56+00:00",
+      "summary": "Nvidia's AI server prices set to jump more than 15%&nbsp;&nbsp;The News International"
+    },
+    {
       "title": "Google expands Marvell partnership for custom AI chips - Tech Wire Asia",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jS0tMZWlEN3dnYXJ3WnpKTFpnY1IwS3pwaXNhUEVxS0NVVG1WTkVQWWxoa0FhS1AwQ2RaQlpXRVpCVm5qYm9yZlFLU3VMbVU4YjlrLVNSbmpveVlYVlVvNTV5eG90WXNISFktcmdMRWZYZw?oc=5",
       "source": "Tech Wire Asia",
       "published": "2026-08-20T04:02:00+00:00",
       "summary": "Google expands Marvell partnership for custom AI chips&nbsp;&nbsp;Tech Wire Asia"
+    },
+    {
+      "title": "Nvidia AI servers face 15 per cent price hike - Indian Television Dot Com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjl0VEpxamJFbDVPSDJPNXZUcDI2SXlsbkV6bjRLdFpIMGp4M0RmOVlmVlY1TXJRai10cEk3VHFwc1VmTjZMQzRYSnBYcGRiQ256MldtUm92WmFfQjRWenBqMFVEc3VvQ2R3WGxxX2h1YkFnNWE1aHNWOV9sa0FST01RNmwyQQ?oc=5",
+      "source": "Indian Television Dot Com",
+      "published": "2026-08-23T14:27:48+00:00",
+      "summary": "Nvidia AI servers face 15 per cent price hike&nbsp;&nbsp;Indian Television Dot Com"
     },
     {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
@@ -87,25 +115,11 @@
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
     },
     {
-      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
-      "source": "HP",
-      "published": "2026-07-28T02:46:34+00:00",
-      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape - semivision",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFZGMWNQSW1qOGpOY0tWci02eHU1dWIzSmVJWnJYazJhdlpnVkRKZExjLUVCNmwyRzlES0JOV3BXTHpQemc1cGllczlEWEhkaFBrMmJiUHpSOXNGTWRDNEhZVHNRbFl2NFRRZXRpeFZJYkx1MW9aa0dldnJWM21XUmZvdw?oc=5",
+      "source": "semivision",
+      "published": "2026-08-22T03:13:19+00:00",
+      "summary": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape&nbsp;&nbsp;semivision"
     },
     {
       "title": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground - Yahoo Finance",
@@ -122,6 +136,34 @@
       "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning&nbsp;&nbsp;Tom's Hardware"
     },
     {
+      "title": "Even Nvidia can't absorb memory costs — AI server prices to rise more than 15% - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yTU13Y3RHV1hmcWV1RzFCdEI0d0NfQUlTc3lDRGJ3LVhsRjNobFhkbjhzQkFCRDV0dTBseFdTekNpTEl1YjdZYzVkV1MtYzRkOXk0bUU5UQ?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-08-23T04:45:24+00:00",
+      "summary": "Even Nvidia can't absorb memory costs — AI server prices to rise more than 15%&nbsp;&nbsp;헤럴드경제"
+    },
+    {
+      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
+      "source": "HP",
+      "published": "2026-07-28T02:46:34+00:00",
+      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
+    },
+    {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "source": "NVIDIA Developer",
@@ -134,48 +176,6 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia Announces 15% AI Server Price Hike for Clients - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95dHhwOHh0U05ranZhZGNGbzhhaUcwNmJac0N5ZV9UMlp4Y2NKQ2hBZ180ZjJzeENXUFRhV2VoLVNyLWxBc0ZQZm9FZzYtc0Z5Q1Z0VUlkel9wZkhfYkJzMHBGckM?oc=5",
-      "source": "아시아경제",
-      "published": "2026-08-23T01:22:44+00:00",
-      "summary": "Nvidia Announces 15% AI Server Price Hike for Clients&nbsp;&nbsp;아시아경제"
-    },
-    {
-      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-07-28T07:00:00+00:00",
-      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVQ0STZxVFhaSml1cmk5S0JuVm9taDhaZzROYk1rLVg2bEZFTGFjMkZGMXVEbzNnWFByN1RNZlYwaldPRWdFVUh6U3lOSHRVMk50S1JEMDZld2FDcGpheGFxaHBoSlZsTWFqbE1IZzhzS1FiZC1QN1J0blJybVZadUtjXzlQa09Tck1CMWVWVjFQRG9pT19hSDNYMFE2b05MNzR6V0RrSWJvdG9Yc1ZnTTc4d2poRGlWR2FFSg?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-08-07T07:00:00+00:00",
-      "summary": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery&nbsp;&nbsp;The Next Platform"
-    },
-    {
-      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6U3BuSWNRa0psZDR5Q2dMa25OYUVHZEthSmtzd0FnMFZCa3VKMWlzYUxSVzBJWFpVZ0gtbkNiWEJ2dGd3bG9TcnhESGNFUnpBQjd0MGMwNWdTR2NnN1RrT0FWa0wxLWZCOVJFcTVR?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-06-23T07:00:00+00:00",
-      "summary": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlRXWklleGlZZ2d0RkU3UFhCLU5rMWFkMTk0dy1JRm1lQnpKUEEwZGN1dGNKOU9Od0VCRExUYWZObjZoMnVZc004c2htUXpJQ1djWWtaMUpTVHRrMjc3RW9mNVJtY0lPQ2szaUwzUlVKTjlKYlVwNm92OWRRWTZReDFpQTNkR2UwSEhyVDcwMmJKZ2dwUDlMcUpuTFNmclZ6eDZZaFRNSGxwLTVraW9EMUlrRdIBuAFBVV95cUxNNmdWekVDTnV3ZXBSRkdNQWQ0ejJfYUNGblNhdXZUNFdGeVNXLTZkcXl5dGdueVFYOEx5WmFBMGpLM1h4bkdPVWVsLVJfX3hMeHZCWEIya0M5UHZZekFBV0xLUE9aQUdkcXVzekVSUzlxNTdSZVRfQ0FoY00ySEZoNDFyeEd0ZkVmejFVWWthQzdoMlV1UjE3c3FpV05MR2o2UWZFSTUtSEFvdE94cFVwYlU0SG9Jamxx?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "Mirendil Selects Google Cloud AI Hypercomputer For TPU And NVIDIA GPU Training Infrastructure&nbsp;&nbsp;Pulse 2.0"
-    },
-    {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
