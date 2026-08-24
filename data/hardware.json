@@ -1,20 +1,27 @@
 {
-  "generated": "2026-08-24T12:56:56.328287+00:00",
+  "generated": "2026-08-24T18:45:43.131899+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXV4ZXF5UkdETHVnUnh3R2hMVTROWkRyYXVyWkNVNVZNdTJFVVR5YXBLSVVGY1ZscWJtMFktemFNWkJua21KU0wyUnItbzFXTS1VcEVNVU1OclFjMU9va3pZaFk2MG4ybmdKTGRKZk5qN0ctLU1FUnhWU0dYVVRjbzFyQ3k0dDBZSFpIeE5Ra3VrMWhpYTNzLWhFc1BXVzdVMGllbXNtdDdsUmIwUkppZHdOSVd3TndDTlF5MC1LQkd4OTE1TkZTMC0wcW00TG5N?oc=5",
+      "source": "SiliconANGLE",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents&nbsp;&nbsp;SiliconANGLE"
+    },
+    {
+      "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjBhOElNdTFfSXUtUldoQTNkXzNoWlRQNUdjMUg2MXlrR3pwYnBaNXdOTGI3SGdaTTRpeG1JZDZraGdyOEs4Njkwd0NZVmRlYVFKVUV0X2tfS1dXbHhFenQ0UFVmOXlaTktoWURSR1NEbzQ5VnE0Mmt5UWJ6UzV2eHpQSU1CLThQUmtUVEh1NjVmUThHMHZkT21MMGhiNFRUM2ZBRmtrR3DSAa4BQVVfeXFMT0diUlF6MTNmd19JN3kxS3AxS1pBa0FkekZyLU1IYnNtUEhYWlJFNlp3d29LZjNQa3BwWF9sQURWSG1aQ0gweDlpV0RvMjk0VEIxYlhqMzNmUE1aSnp3clpVZ2lvcGNfenRSNDVMTEVBTWFtMzM2TFVfV2FTcGJLSkVaRHZjMlRRMHdRUlFZLTVLSlh1NDM0Z3NCX1NZbmxyU1NfU1JCMjdVM2J0UDZn?oc=5",
+      "source": "Wccftech",
+      "published": "2026-08-24T15:00:03+00:00",
+      "summary": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded&nbsp;&nbsp;Wccftech"
+    },
     {
       "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWJhbHpIQ1k4UF96ZTgwQnR1dkpLelRhWWphRWQtMlhjNnFhamZ1aVhVOEo5SS0yNEgza2taMWhDZmVJbHJ5dWRuWk9ZVm1PS2JIRngzS29GWmJIbGxqeVM2VkpoUTBxZkdRQUUzaUdEd3ByOVlOUmVXbXZTOXRQb1ZYX0M0XzhMOVBxa0hfeHljbEduS0hxMA?oc=5",
       "source": "The Motley Fool",
       "published": "2026-08-24T10:15:00+00:00",
       "summary": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom&nbsp;&nbsp;The Motley Fool"
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15% - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
-      "source": "Fortune",
-      "published": "2026-08-22T20:27:00+00:00",
-      "summary": "Nvidia customers notified about AI-related price hikes above 15%&nbsp;&nbsp;Fortune"
     },
     {
       "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom - The Globe and Mail",
@@ -24,13 +31,6 @@
       "summary": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom&nbsp;&nbsp;The Globe and Mail"
     },
     {
-      "title": "Cerebras CS-4 Claims 30x Faster AI Inference Than GPUs [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55ZDVRZ0JQMVdiekNvUjhlUkZ6ZHRzelg3dzZvd3c3cFhRUk1lZkU2dndrNnQ3bnFycmVkWUhWcklLZFU1OF8zY0g0Mkh3OWZvSXFnaUdHNU9jTVp0TjNaOTdfOTVWa0JWcnlHYjJUQk9OSV9w?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-08-24T01:20:50+00:00",
-      "summary": "Cerebras CS-4 Claims 30x Faster AI Inference Than GPUs [2026]&nbsp;&nbsp;tech-insider.org"
-    },
-    {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lHQ3JycFVfOE8yYVB6VGF6YlNwckZjTTZ3Q2YtUlhWUDBndkVRZTlndEQ0WWJrT1lEaS1pM3FYMFg1UWVwekhmTEdtQ3lrVF9HRENmWGZfN0toaExhQ3lUSjQwNThtT2dlNnBwc01FMzVqSDF0dGs2cU14TDh1NE54ZUdGQVdFcVpqdXVPYjRqcE50OGlHMks0SQ?oc=5",
       "source": "Yahoo Finance",
@@ -38,11 +38,18 @@
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration - semivision",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHNUNnlpcUdmZno3MUEtUGY4eGVta2VFMXlTWnRJZmpiLVBNaGZkR1RnQXZBYzdJRjljdzdfTnNpOHE3U3J4a2JjVkt6SDBqQlFOSG02UXVXeDU1ZFctSWplVEw1YXYxUzQ0YkRJZ3lfMlVrLTNBN1E4OXI3QWx0eURn?oc=5",
-      "source": "semivision",
-      "published": "2026-08-23T23:59:00+00:00",
-      "summary": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration&nbsp;&nbsp;semivision"
+      "title": "Cerebras CS-4 Claims 30x Faster AI Inference Than GPUs [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55ZDVRZ0JQMVdiekNvUjhlUkZ6ZHRzelg3dzZvd3c3cFhRUk1lZkU2dndrNnQ3bnFycmVkWUhWcklLZFU1OF8zY0g0Mkh3OWZvSXFnaUdHNU9jTVp0TjNaOTdfOTVWa0JWcnlHYjJUQk9OSV9w?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-08-24T01:20:50+00:00",
+      "summary": "Cerebras CS-4 Claims 30x Faster AI Inference Than GPUs [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX Hits Production for Agentic AI Speed - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjJHNmE0RWtqZjlUSHA1dzc5NUNvTVl5WUViTDYzcUVtYXk1c3hZVmRESkdjaUNDeGlGQ0JmdVpGWkgyVDBWVzQyc25JMExZNXBXUXBVU3pZRjMwWkZ4alBaaURKd0RycWpYcnh0UEQ2bGFfZjlDbkhlRG5RbHBzU2pBVmFPUktkX0JIUUNkWFo?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-08-24T16:10:00+00:00",
+      "summary": "NVIDIA Groq 3 LPX Hits Production for Agentic AI Speed&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "Nvidia announces AI-related price hikes - Taipei Times",
@@ -52,18 +59,32 @@
       "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
     },
     {
-      "title": "NVIDIA Raises AI Server Prices by 15% Amid Memory Shortage - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTB6VXNURWRMZFJTaE9pSUVrREo3SlFQa3I0dHFsckh1bDZWQjZWU1MzR1VTUEpoZlk2NDE3N3BZSVZEdmdzSXUtQ21mUUpwRkJJX0d3eFcxMmN0Mkk1eUdta0hlSHU2ZWoyWEZCNkJETUJ1T3dBZ0RrZXF3TzdjVlpqR2ltOTRT?oc=5",
-      "source": "조선일보",
-      "published": "2026-08-23T19:50:20+00:00",
-      "summary": "NVIDIA Raises AI Server Prices by 15% Amid Memory Shortage&nbsp;&nbsp;조선일보"
-    },
-    {
       "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzc4WDJUOFNXN2VONms1LWNma01oVUMxUGtQQjlyMHAtYjRfUC11RjFjQ0VnTUpOQVhwQVNmNE95YmF3NzcyOE5KTWxNalY2Ty1QcXJWSklteHpGNUhWZ19vci1QbGFEcFhhRW5rWFRLRVJnUzBRa0NEVUsxcDlrVWVRckdzc3NuUFVDbHN5YVM1ay1LUUEwa3d1TVQ5czNLWU90OXNVTjA0OERS0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5",
       "source": "South China Morning Post",
       "published": "2026-08-22T21:54:25+00:00",
       "summary": "Nvidia customers notified of AI-related price rises above 15%&nbsp;&nbsp;South China Morning Post"
+    },
+    {
+      "title": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration - semivision",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHNUNnlpcUdmZno3MUEtUGY4eGVta2VFMXlTWnRJZmpiLVBNaGZkR1RnQXZBYzdJRjljdzdfTnNpOHE3U3J4a2JjVkt6SDBqQlFOSG02UXVXeDU1ZFctSWplVEw1YXYxUzQ0YkRJZ3lfMlVrLTNBN1E4OXI3QWx0eURn?oc=5",
+      "source": "semivision",
+      "published": "2026-08-23T23:59:00+00:00",
+      "summary": "AMD’s AI Architecture Evolution: From EPYC and Instinct to Helios and Heterogeneous Integration&nbsp;&nbsp;semivision"
+    },
+    {
+      "title": "NVIDIA Ahead of Hot Chips 2026: Vera Rubin, Groq 3 LPX, and Spectrum-X Multiplane for the Next AI Factory - igor´sLAB",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1hjczBUMS1FX19sbkVIZC1XaEduemtFX2xGbmVCSDVfRENrUkpMQjNPaHA3OERFUjB6Z2kwZjFPb2NIdk1Ta09odDVVZzM5NVBoRjJ5OEN5VU03VFB2a2tUOTV6eXhQUGp6OHdYbGUzaGw4OWlQbm16TzdqUmtVdEdXUjk3ajA4aHpGbm9qRXI2UEhZd0llemFWT2lnV3FSbm8xTTNsdw?oc=5",
+      "source": "igor´sLAB",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": "NVIDIA Ahead of Hot Chips 2026: Vera Rubin, Groq 3 LPX, and Spectrum-X Multiplane for the Next AI Factory&nbsp;&nbsp;igor´sLAB"
+    },
+    {
+      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-19T15:08:05+00:00",
+      "summary": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares&nbsp;&nbsp;CNBC"
     },
     {
       "title": "NVIDIA Earnings August 2026: Q2 Preview & AI Chip Demand Analysis - Intellectia AI",
@@ -73,6 +94,13 @@
       "summary": "NVIDIA Earnings August 2026: Q2 Preview & AI Chip Demand Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
+      "title": "NVIDIA Raises AI Server Prices by 15% Amid Memory Shortage - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTB6VXNURWRMZFJTaE9pSUVrREo3SlFQa3I0dHFsckh1bDZWQjZWU1MzR1VTUEpoZlk2NDE3N3BZSVZEdmdzSXUtQ21mUUpwRkJJX0d3eFcxMmN0Mkk1eUdta0hlSHU2ZWoyWEZCNkJETUJ1T3dBZ0RrZXF3TzdjVlpqR2ltOTRT?oc=5",
+      "source": "조선일보",
+      "published": "2026-08-23T19:50:20+00:00",
+      "summary": "NVIDIA Raises AI Server Prices by 15% Amid Memory Shortage&nbsp;&nbsp;조선일보"
+    },
+    {
       "title": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026 - ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmtveVVLQjctd3hxczRKSjcwek5ObEJxZmRSSzhKTmp4dkdKWGdiTDUyU0l1TEpLY3MweGtlUFBtUHAzRDBmVzIwLXZtYzNlT2ttb3dxdUphV0tkeXhtMTNiaE5VV1dENTBSTElDY1lxQTRORU8wYi1hX3QtNzJJYXBvZGpVeGw3aDlLSER3NUgycVJsbk9aWWtsWGtQNTBiOXM1Zl81d3ZRRmRf?oc=5",
       "source": "ServeTheHome",
@@ -80,39 +108,18 @@
       "summary": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Anthropic Hires Google Chip Veteran Amir Salek to Explore In-House AI Chips - digital terminal",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWNndDJHc1dqSTVQMUoxZVZUT0UzZjN5Q3Yya1N5Mk9aanRnSERVUG9GS3ByZzc3cE14TE5BZFlvbkx4VVVVS25Bb2tVTThOTlJBRldQY0JiVks3NFBhdXVUVE1tUDhkWFFsZk9YVjFtZ21uV1NzcU5PZ1h2cVVFMFV2dmZWMTdRSEl4R2xERXNpU0lfNnBhRkpPN0pwb0hlaGxscjdPamhFTVhkOTZPM2FkZHFGRGx00gHGAUFVX3lxTE5IaGs4cDNWSEI1Z3NBcy1ZTEw1NlQ5RldEekxGZS0wQ2hUdjVqaFNrMkRFTUxGYXpKV0NPQ2EyaExlSUd1azllTVNTZUVZLURPbm9XZEEwcDE4bjZuX1BZMFZ3MFBEeDZ0SlFIWlJfay1jZmNicDJwUXVucFBESjBUaEJTWFdXRGE4VWVvWkdpeDJueHJqdXJ6Q2xPSzVfS1IzRFBJLXZhQ1dBX3luNUpzcW1ZTnBqSFZla2w3cWdjRUtBdm1Tdw?oc=5",
-      "source": "digital terminal",
-      "published": "2026-08-24T11:34:06+00:00",
-      "summary": "Anthropic Hires Google Chip Veteran Amir Salek to Explore In-House AI Chips&nbsp;&nbsp;digital terminal"
-    },
-    {
       "title": "In-house silicon accelerators are surging in the AI inference era! Anthropic recruits a Google TPU pioneer as the computing power empire shifts from a \"GPU solo\" to a \"heterogeneous computing symphony.\" - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlVqWl9JUVFocXZKRjRxY3gyMFIxVDJKRXMyOHZvMjNOYTB5dHdjZHlJeHBJd0Z5OU02YWY4RWhlX0pfN19ZdkxwMlBDVU8wcElQS0ZUWmd5UnNVZlV2UE02dGw1bkh1YVYwX2pQdFBpd00wWFg4aUptN3ZkN3pld0RhVVpIZ2hUaWY5Z2NDcENkYnhaQkFHRUVURXFqTDIzUmloN2FR?oc=5",
       "source": "Moomoo",
-      "published": "2026-08-22T02:51:59+00:00",
+      "published": "2026-08-22T02:35:01+00:00",
       "summary": "In-house silicon accelerators are surging in the AI inference era! Anthropic recruits a Google TPU pioneer as the computing power empire shifts from a \"GPU solo\" to a \"heterogeneous computing symphony.\"&nbsp;&nbsp;Moomoo"
     },
     {
-      "title": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjFhN3pRQXBLaDF1aGh4OS0wVTR6UGhGUVg0cWUzaHdnVUJKOEZHZnJfVkdkVUtwOFVZaE1QSm1La0c4WEpqTlhtY0tzaFFlXzZaSFhKZlNlQ3o0c2g5dFlfeFhZZkZwRTR3QkNPVmpKSGh5d2Q0a2d2MXdxdDU1YzR1c0EwSmY3TTd3WlhDT2o1aUFHSGI4Rm5seUNNTWczY0cyREFsLTkzR1VVdHpLaHkxam56RWNpSUE?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-23T13:21:08+00:00",
-      "summary": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
-      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-08-16T12:40:00+00:00",
-      "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
-      "title": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15% - Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2NrMUJtYnlDTklCbjVDOUJnVzRubG54LXZNZ2Y3R2xUVnEzNEE0NUJFQjZyMjlKaWdjMlpjeTVlVnVhNHhmS1hLbjdfcnh1OXZVWG9VQnNuekJ0aFRLdUlheDBhOEk4c2hkeW53amgtWWtNSlRzcDllMEI1YWtjTXZIVkxzSDNVM19Tdk13V2ZYYkc0d09PVzZiODVSZGpfVzNWbklpSkpuZlE1bHd5aHZJcDVhZmUyaUx6UVJMcVo?oc=5",
-      "source": "Notebookcheck",
-      "published": "2026-08-23T09:43:00+00:00",
-      "summary": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15%&nbsp;&nbsp;Notebookcheck"
+      "title": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmladnJHRENLQzczR1Z4YTh6alZpRWR2QUtqRmFnUG9sUmNfLWxmQm9ab0V2Ym5UM2dSbnNZcEhsaC04em9Od3lOZUxZbDR0WmhUSl9MVDNScWRuamdFYWFqMEFlZV9tYWNPZDlyN2VSOWVGVFdvdFNPd3Vfa2NNX1daZElHWHJLOU5KT1hjS0FaVDFKRHVNOHU2SUZLbEdJTDZPamZraTNwT1pLOGNB0gG0AUFVX3lxTFB1a2E5ZFRvcGU0UW4zeG1zMngzSk9lVUFvZ29fMWhjaEx5NGVrSjhiZHlUMEcyTVNGQm5SUEdZczFPSnpXVjVxZF9vM09namRyb3VXTHpzWlBBeGxScFVQc2ljNVFVVDVob0pyWHVxWlFtaHRSeWFldjhjbG93Nk5DWlFJanNCakFwbE5PMC1xd1NFSjlQdk9hXzlSdVVwNFRTSGFGVF9VM1VFZGVHZnVpQ0EwWQ?oc=5",
+      "source": "Wccftech",
+      "published": "2026-08-24T15:05:45+00:00",
+      "summary": "SpaceXAI Will Use NVIDIA Vera CPUs To Power Its Next-Gen Agentic AI Workloads, Also Bringing Vera Rubin Acceleration To Grok & Starmind AI Satellite&nbsp;&nbsp;Wccftech"
     },
     {
       "title": "AMD Is No Longer Just a Chip Company: How Its Full-Stack AI Strategy Is Taking Shape - semivision",
@@ -129,6 +136,13 @@
       "summary": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "Arm Dissects Its AGI CPU Which Is Tailor-Made For AI: Dual Chiplets With >100B Transistors, 136 Neoverse V3 Cores, Driving A $2B Demand In 2027-2028 - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmtySTdiTFpURTR1a0JwZGRNeFYzSDh6YVN5RGdLb1FBTTQ4WXdjZDRnejhtRDFFalVmdHgybHNPTENDQUJOMDBBeTRfeWRLdXZMN0VjUU8yTWJENnQ0RUM0Ny1DdXFDTEIxeU1XT0NZZ0YwZzRwcTJMRDNjRHpCRVhhNVlhcWNva2FtTmRGZUJPY0Y0eWM0STVLOGFfS2xNYVY2REdLRTNieFUxN2NjRlp3Tjg?oc=5",
+      "source": "Wccftech",
+      "published": "2026-08-24T14:11:06+00:00",
+      "summary": "Arm Dissects Its AGI CPU Which Is Tailor-Made For AI: Dual Chiplets With >100B Transistors, 136 Neoverse V3 Cores, Driving A $2B Demand In 2027-2028&nbsp;&nbsp;Wccftech"
+    },
+    {
       "title": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGkydTJ4aENBbDNUcFF3QnhJV0RPdlRMZThjTmhsWHFCdDF1WkxSUjQ5Vkd6Z2NMa0FlSFBZZUNSb25QQzQ2NUZnbXhBZVcxYnZ4Z0Q3YUNTRWJIc3JLYk56ZWRJVHZmMVl6S1J5SjhZTjd0Nndtbm1UbjRTbV9ER1VDZm5MQk1OUjBDUmRRYUxweEFuUVZV?oc=5",
       "source": "The Motley Fool",
@@ -136,11 +150,18 @@
       "summary": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "Nvidia Rubin vs Google TPU 8: AI Chip Race Heats Up - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91UVNFZ2F6NkZCbmVoeDZyRjJsTlQ2bHE5V3pHSmJVVUo4d3pKYWVBajk5Z3ROdTZSN2NaRk0zWVBWdHpBZ0VLTV9vaWk3MzYwXzk1RE1jM0MzSGRDRUhxTk1iS09leWpEMVpaanpPRjdVSXUzNEQ0eEZHYmY?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-08-21T01:23:28+00:00",
-      "summary": "Nvidia Rubin vs Google TPU 8: AI Chip Race Heats Up&nbsp;&nbsp;tech-insider.org"
+      "title": "Anthropic Hires Google Chip Veteran Amir Salek to Explore In-House AI Chips - digital terminal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWNndDJHc1dqSTVQMUoxZVZUT0UzZjN5Q3Yya1N5Mk9aanRnSERVUG9GS3ByZzc3cE14TE5BZFlvbkx4VVVVS25Bb2tVTThOTlJBRldQY0JiVks3NFBhdXVUVE1tUDhkWFFsZk9YVjFtZ21uV1NzcU5PZ1h2cVVFMFV2dmZWMTdRSEl4R2xERXNpU0lfNnBhRkpPN0pwb0hlaGxscjdPamhFTVhkOTZPM2FkZHFGRGx00gHGAUFVX3lxTE5IaGs4cDNWSEI1Z3NBcy1ZTEw1NlQ5RldEekxGZS0wQ2hUdjVqaFNrMkRFTUxGYXpKV0NPQ2EyaExlSUd1azllTVNTZUVZLURPbm9XZEEwcDE4bjZuX1BZMFZ3MFBEeDZ0SlFIWlJfay1jZmNicDJwUXVucFBESjBUaEJTWFdXRGE4VWVvWkdpeDJueHJqdXJ6Q2xPSzVfS1IzRFBJLXZhQ1dBX3luNUpzcW1ZTnBqSFZla2w3cWdjRUtBdm1Tdw?oc=5",
+      "source": "digital terminal",
+      "published": "2026-08-24T11:34:06+00:00",
+      "summary": "Anthropic Hires Google Chip Veteran Amir Salek to Explore In-House AI Chips&nbsp;&nbsp;digital terminal"
+    },
+    {
+      "title": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15% - Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2NrMUJtYnlDTklCbjVDOUJnVzRubG54LXZNZ2Y3R2xUVnEzNEE0NUJFQjZyMjlKaWdjMlpjeTVlVnVhNHhmS1hLbjdfcnh1OXZVWG9VQnNuekJ0aFRLdUlheDBhOEk4c2hkeW53amgtWWtNSlRzcDllMEI1YWtjTXZIVkxzSDNVM19Tdk13V2ZYYkc0d09PVzZiODVSZGpfVzNWbklpSkpuZlE1bHd5aHZJcDVhZmUyaUx6UVJMcVo?oc=5",
+      "source": "Notebookcheck",
+      "published": "2026-08-23T09:43:00+00:00",
+      "summary": "The memory crisis hits Nvidia: AI server prices are set to rise by more than 15%&nbsp;&nbsp;Notebookcheck"
     },
     {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
@@ -150,32 +171,11 @@
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
     },
     {
-      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Nvidia's AI server prices set to jump more than 15% - The News International",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGFfcjl6bVRhOTdLLTJCTkxnUkQ2RmxWOE92V3RfNk94dmJ6VWcySXZwX2xkOEV2MG1HaHdSbXhJb3ROOTN2ckxjOGhMenpEaWNiMTMtMVBlc24tdjQxRjBYVkZFZ2VVUnRMUzdKTF95N1Jsb1RxYTVPWkRYR0RKZUZ3b0h1aXI1a1ZFc29KUDFSWm15cFHSAZIBQVVfeXFMTkhxeDh0Y2xscWxtZ2loN2xDLXA4WXBfNkxFQnRTRzNzU2VwY1ZDSXh6WVhfQnpTdVI1cUhpX19WWkRtZEtITDgwaUJvVVBvX29ReHpUbjNoQXNJQnU5U2dnRmhrU0YtVjRzS0piYU0wQ3R3eWstcHVMU3R6M3hmMEwwZm5YTjBGaDFFTXpRVlNxMGc?oc=5",
-      "source": "The News International",
-      "published": "2026-08-23T06:57:56+00:00",
-      "summary": "Nvidia's AI server prices set to jump more than 15%&nbsp;&nbsp;The News International"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjFhN3pRQXBLaDF1aGh4OS0wVTR6UGhGUVg0cWUzaHdnVUJKOEZHZnJfVkdkVUtwOFVZaE1QSm1La0c4WEpqTlhtY0tzaFFlXzZaSFhKZlNlQ3o0c2g5dFlfeFhZZkZwRTR3QkNPVmpKSGh5d2Q0a2d2MXdxdDU1YzR1c0EwSmY3TTd3WlhDT2o1aUFHSGI4Rm5seUNNTWczY0cyREFsLTkzR1VVdHpLaHkxam56RWNpSUE?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-23T13:21:08+00:00",
+      "summary": "AMD Vs. NVDA: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace&nbsp;&nbsp;Seeking Alpha"
     }
   ]
 }
