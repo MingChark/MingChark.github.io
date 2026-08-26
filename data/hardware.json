@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T12:59:24.930632+00:00",
+  "generated": "2026-08-26T19:51:55.692088+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,11 +10,32 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
-      "source": "NVIDIA Newsroom",
+      "title": "OpenAI's Jalapeño Chip Surpasses NVIDIA GPUs in Performance - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTVtU2hBQUZ1aUZNT2twSUlEZTNZLXhzUmxIaTBnQ3dfWWsyNGluX1U0ZVlkdERibC1yUFZ6SWtKc05QSEU2R25oVEhvRlF6U0x0ZXZOVUlNeGxhRXAwOGVCLS1hMEJvVGhkYWxqUDdrM1c1VUQxN0lpcHB5dTBWTmZUc1RwSk1S?oc=5",
+      "source": "조선일보",
+      "published": "2026-08-26T16:01:25+00:00",
+      "summary": "OpenAI's Jalapeño Chip Surpasses NVIDIA GPUs in Performance&nbsp;&nbsp;조선일보"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5",
+      "source": "SemiAnalysis",
+      "published": "2026-08-25T14:00:38+00:00",
+      "summary": "OpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
+    },
+    {
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZV9VLThJZ2xGWFc1U0JTOW1yTzZWVVhBUjc5TlU2ZC1CZE9xV09ldnlTTkxNS0NNVE9kaG13eUEwai0xalBjdUZ5Zy11WDg1a012c05JUzNMMUNsWXpQazhReDIxbGZ0NE9jZmJWVlJCNGRXeDlXU1N3?oc=5",
+      "source": "NVIDIA Blog",
       "published": "2026-08-24T15:07:30+00:00",
-      "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "Nvidia Earnings August 2026: AI Chip Demand Analysis & Stock Forecast - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnVnWlJYeGdyeURabDdEcm9fZjA3ekwtNm0yUm5WUlJmUzlid1hySmFrekZ2ZXduWnFaN3ZUWjZlVENleGd2bm5LbklBVG1yQlZkSUdfblp0eHpPZG5SMUMxU1BsVXhaOVYtY0JnYjdnSVNoQU8waVpoaHZpV3h5aw?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-26T16:17:24+00:00",
+      "summary": "Nvidia Earnings August 2026: AI Chip Demand Analysis & Stock Forecast&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute at Hot Chips 2026 - ServeTheHome",
@@ -31,39 +52,11 @@
       "summary": "Best AI chip stocks to watch: SMCI and AMD surge ahead of Nvidia earnings, August 25, 2026&nbsp;&nbsp;StartupHub.ai"
     },
     {
-      "title": "OpenAI's Jalapeño Chip Outperforms NVIDIA GPUs - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGlMWnhINTVBb2ptUFVvUXNzMFVrbXhKaDhaWlMzNXljcGo0X3N6WDdDVzdOWUh5MU1HN1F5emFHaVFtMlloWVVGRnpINURiSlFTc0RuV1VmSkg2QXhReEgzREdIcjR3b2o5bW80cjNpVkVqMTNQb0hCVVF2YzV3MkhhX3hWNExw?oc=5",
-      "source": "조선일보",
-      "published": "2026-08-26T08:44:13+00:00",
-      "summary": "OpenAI's Jalapeño Chip Outperforms NVIDIA GPUs&nbsp;&nbsp;조선일보"
-    },
-    {
-      "title": "Nvidia Earnings August 2026: Q2 Results & AI Chip Demand Analysis - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EYW95dzVSSGM5QVBnVGRvMFY3QU9iVXhIaS01TU5oWW84bG1TaXN2bVBNUmc0VHN3cVNxajRlMmZrOWlrS211ek5RMmI2aWp6Wk1RendaRWZ6WVJQNEJWZi1GaDNkNEZhbTBVb1lacWJRTUJPTUE?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-26T12:11:15+00:00",
-      "summary": "Nvidia Earnings August 2026: Q2 Results & AI Chip Demand Analysis&nbsp;&nbsp;Intellectia AI"
-    },
-    {
-      "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWd4Wjk1VDJDY202Mkw3b1pmZWY5ak1wY0ZMZ2dfR18wT0dfanRiTTl6cEI0b2thcmtuOHRNYmlWSXRwTHU5ZUhiZ0NCNjRHOUhqdlVIb3hZbU9fWVZUbExGZzNOa2M5dnhSYjBHOF91YlZzZ01OQm1wRkRBdk4xaWhNdzhEQ0RMbkl0QWFJMjY1SWU3RTFIa3RIODY5bGIyc3FUcURRNzM1RW5jaFJKdktvSHFpdzdoTGEtM2NTcDZQdldCcFhaNlRteUpwMHAtc0NV?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-08-25T18:05:23+00:00",
-      "summary": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
       "title": "Nvidia’s Groq chip ramp brings Samsung foundry closer to profit - theinvestor.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbWdvd2RydmJmbGZna2RybGgxRmx0Z1VEOWg5cGplQmpscGZ0NHEtSEFVNnRyOENpc2k4bFpEMGJacmx2V1FSNUNER09GbGU5akVCdmNva0VRZw?oc=5",
       "source": "theinvestor.co.kr",
       "published": "2026-08-26T07:42:59+00:00",
       "summary": "Nvidia’s Groq chip ramp brings Samsung foundry closer to profit&nbsp;&nbsp;theinvestor.co.kr"
-    },
-    {
-      "title": "NVIDIA earnings set for August 26 as Wall Street eyes AI demand - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CcEYwMzQ3MFowRC1uMXNQOVRCWnk4b0NaT3RZc1N4b2NRLURpNkJPQ0NPZjB2QXN1UzhZV2lXYUdja3JkQk93bTB2STlRNndjQk9UUzFMMkxjVG5tV3FVUQ?oc=5",
-      "source": "eciks.org",
-      "published": "2026-08-25T21:06:42+00:00",
-      "summary": "NVIDIA earnings set for August 26 as Wall Street eyes AI demand&nbsp;&nbsp;eciks.org"
     },
     {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
@@ -73,13 +66,6 @@
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Nvidia announces AI-related price hikes - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SElHdFIyZDRldjJHTEk1ZEZEM2pDbjR4OGViTFNOTDAwVnB2REJjaV8zbkpwYWNSdzZXbHZXWEJCeF9uWmxFTlpPa2lrMFNjcGwyeEdvUlhJZm5BdEdBcVZyOHFIaWhWYTNGU1F2UkNWZnBfNnc?oc=5",
-      "source": "Taipei Times",
-      "published": "2026-08-23T16:00:00+00:00",
-      "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
-    },
-    {
       "title": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents - SiliconANGLE",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXV4ZXF5UkdETHVnUnh3R2hMVTROWkRyYXVyWkNVNVZNdTJFVVR5YXBLSVVGY1ZscWJtMFktemFNWkJua21KU0wyUnItbzFXTS1VcEVNVU1OclFjMU9va3pZaFk2MG4ybmdKTGRKZk5qN0ctLU1FUnhWU0dYVVRjbzFyQ3k0dDBZSFpIeE5Ra3VrMWhpYTNzLWhFc1BXVzdVMGllbXNtdDdsUmIwUkppZHdOSVd3TndDTlF5MC1LQkd4OTE1TkZTMC0wcW00TG5N?oc=5",
       "source": "SiliconANGLE",
@@ -87,25 +73,39 @@
       "summary": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents&nbsp;&nbsp;SiliconANGLE"
     },
     {
-      "title": "Cerebras CS-4 Delivers A 30x Uplift In AI This Year, But Next-Gen Racks Already In Works With CS-5 Pumping Out 10K TPS Per User In 2027 & CS-6 Bringing 3D Wafer-Scale SRAM - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWk1R3BVTVZPdVcyTmVfSGFnZk9ZYzUtVVpNZmtwcFNNRG9qQ2U1MmlsODd3RWxDN1pjeVdWSGVuY0ZZUGtGSUwyTzVtRkU5bnZyWS1zWkZLc1g4Q3lhM2xoR1ZlN01UdmgyYXpPRG1odG8tNnpfcXI5eG1NMlRvcmc5Ymx5alNGYUJhRDJtOXZxd0JFNEVOMHNweFdKdm1vVWlYdzdjZGpPZFRjLWNtNTU3N3JjX1NzR01RLVdR0gHDAUFVX3lxTE9PSG5mTWZrODRnNm9kX1d4QjVUWC1nTlNqUWRqY1JnUnFxMmp0OGMtcHhkdVd1TUY4Ukh0UmdMc3laY1FLcWFCYjlNNC1EVkpxc2NkcXh1Z0tDQUhiUWdnWml1MFJ6d0JEYmJwR1RIOTFYejBMdV9CY2NNckp3SzVKc2huT0ozbEgzTjRTSk9WVW9oUlhzY1kwUUFxMFY1bXMwb0tFbkNDY0RJX20ybWRMVjFVUmJTb2FHbHc0LTljZ0RCTQ?oc=5",
+      "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjBhOElNdTFfSXUtUldoQTNkXzNoWlRQNUdjMUg2MXlrR3pwYnBaNXdOTGI3SGdaTTRpeG1JZDZraGdyOEs4Njkwd0NZVmRlYVFKVUV0X2tfS1dXbHhFenQ0UFVmOXlaTktoWURSR1NEbzQ5VnE0Mmt5UWJ6UzV2eHpQSU1CLThQUmtUVEh1NjVmUThHMHZkT21MMGhiNFRUM2ZBRmtrR3DSAa4BQVVfeXFMT0diUlF6MTNmd19JN3kxS3AxS1pBa0FkekZyLU1IYnNtUEhYWlJFNlp3d29LZjNQa3BwWF9sQURWSG1aQ0gweDlpV0RvMjk0VEIxYlhqMzNmUE1aSnp3clpVZ2lvcGNfenRSNDVMTEVBTWFtMzM2TFVfV2FTcGJLSkVaRHZjMlRRMHdRUlFZLTVLSlh1NDM0Z3NCX1NZbmxyU1NfU1JCMjdVM2J0UDZn?oc=5",
       "source": "Wccftech",
-      "published": "2026-08-25T21:40:05+00:00",
-      "summary": "Cerebras CS-4 Delivers A 30x Uplift In AI This Year, But Next-Gen Racks Already In Works With CS-5 Pumping Out 10K TPS Per User In 2027 & CS-6 Bringing 3D Wafer-Scale SRAM&nbsp;&nbsp;Wccftech"
+      "published": "2026-08-24T15:00:03+00:00",
+      "summary": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded&nbsp;&nbsp;Wccftech"
     },
     {
-      "title": "OpenAI's new AI chip outperforms Nvidia's lates... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ250QXBwV29tcElBS0laVlllVXdfZkFSZU9CMjllQ1ZLT2R0enZ1TjZFSFVLWndEYjQ2QmM0ajlWUXZPVTJqRTRRT2txbkJoYWprRkc2NzN6TzJNNzgxM3ltQ0NWQkRsZms3bnAxLUs3d1JBYTVPOGVuWUUzWENLOF8zRGJQUHphczhTZW5NVUEzQVhsWnVTNEo2RUpsd25oWjl3MGZXLUtsb2M?oc=5",
-      "source": "Pluang",
-      "published": "2026-08-26T10:49:30+00:00",
-      "summary": "OpenAI's new AI chip outperforms Nvidia's lates...&nbsp;&nbsp;Pluang"
+      "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWd4Wjk1VDJDY202Mkw3b1pmZWY5ak1wY0ZMZ2dfR18wT0dfanRiTTl6cEI0b2thcmtuOHRNYmlWSXRwTHU5ZUhiZ0NCNjRHOUhqdlVIb3hZbU9fWVZUbExGZzNOa2M5dnhSYjBHOF91YlZzZ01OQm1wRkRBdk4xaWhNdzhEQ0RMbkl0QWFJMjY1SWU3RTFIa3RIODY5bGIyc3FUcURRNzM1RW5jaFJKdktvSHFpdzdoTGEtM2NTcDZQdldCcFhaNlRteUpwMHAtc0NV?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-08-25T18:05:23+00:00",
+      "summary": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1ZV9VLThJZ2xGWFc1U0JTOW1yTzZWVVhBUjc5TlU2ZC1CZE9xV09ldnlTTkxNS0NNVE9kaG13eUEwai0xalBjdUZ5Zy11WDg1a012c05JUzNMMUNsWXpQazhReDIxbGZ0NE9jZmJWVlJCNGRXeDlXU1N3?oc=5",
-      "source": "NVIDIA Blog",
+      "title": "NVIDIA earnings set for August 26 as Wall Street eyes AI demand - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CcEYwMzQ3MFowRC1uMXNQOVRCWnk4b0NaT3RZc1N4b2NRLURpNkJPQ0NPZjB2QXN1UzhZV2lXYUdja3JkQk93bTB2STlRNndjQk9UUzFMMkxjVG5tV3FVUQ?oc=5",
+      "source": "eciks.org",
+      "published": "2026-08-25T21:06:42+00:00",
+      "summary": "NVIDIA earnings set for August 26 as Wall Street eyes AI demand&nbsp;&nbsp;eciks.org"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
+      "source": "NVIDIA Newsroom",
       "published": "2026-08-24T15:07:30+00:00",
-      "summary": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents&nbsp;&nbsp;NVIDIA Blog"
+      "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Nvidia Earnings August 2026: Q2 Results & AI Chip Demand Analysis - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EYW95dzVSSGM5QVBnVGRvMFY3QU9iVXhIaS01TU5oWW84bG1TaXN2bVBNUmc0VHN3cVNxajRlMmZrOWlrS211ek5RMmI2aWp6Wk1RendaRWZ6WVJQNEJWZi1GaDNkNEZhbTBVb1lacWJRTUJPTUE?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-26T12:11:18+00:00",
+      "summary": "Nvidia Earnings August 2026: Q2 Results & AI Chip Demand Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026 - ServeTheHome",
@@ -122,18 +122,18 @@
       "summary": "Hot Chips 2026: Intel dives deep on Crescent Island AI accelerator — larger caches and deeper XMX engines target maximum AI FLOPS per watt&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "Nvidia Q2 FY27 Earnings Preview: AI Chip Leader August 2026 Analysis - Intellectia AI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5leDRwT0Z0UXNlNk1XcGJrQVVqd2ZSZzRZd3ZqUnJKOGkxZEFpZldldjJWbm9WQmxTWnEzOVNmS0ppWk5LUHFYRGpLdVQ4QnFpMWlzMDVWMlJlbm13T1FBUWxlY0dOcERxUDRzaVJYaGF6cE5iNUotQWg2TQ?oc=5",
-      "source": "Intellectia AI",
-      "published": "2026-08-26T01:21:14+00:00",
-      "summary": "Nvidia Q2 FY27 Earnings Preview: AI Chip Leader August 2026 Analysis&nbsp;&nbsp;Intellectia AI"
+      "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVB1T1IwQkhETWJOME1oY0plZ0VKTDFoS3h0aXh6T1pCclpfTHpqX29jcE9CTzE0Mzd6QUlqLTh1U250anRkREJMUDFWZHdkU25UWnptc2JjdUQxclhBb3ZqdHdQM3Z2Y21TaERmNk5MbVFLNEx3dGlhVnJUeE5hUUxBdjdlNzhxZGxqaEM5cnBCSjc5R3hKYWJTVnV5cUprTkRvczE1bEhHZ2s4NVJQQnVrSS12WU8zLVl3amt2SlM5eDQ?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-08-24T15:06:16+00:00",
+      "summary": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjBhOElNdTFfSXUtUldoQTNkXzNoWlRQNUdjMUg2MXlrR3pwYnBaNXdOTGI3SGdaTTRpeG1JZDZraGdyOEs4Njkwd0NZVmRlYVFKVUV0X2tfS1dXbHhFenQ0UFVmOXlaTktoWURSR1NEbzQ5VnE0Mmt5UWJ6UzV2eHpQSU1CLThQUmtUVEh1NjVmUThHMHZkT21MMGhiNFRUM2ZBRmtrR3DSAa4BQVVfeXFMT0diUlF6MTNmd19JN3kxS3AxS1pBa0FkekZyLU1IYnNtUEhYWlJFNlp3d29LZjNQa3BwWF9sQURWSG1aQ0gweDlpV0RvMjk0VEIxYlhqMzNmUE1aSnp3clpVZ2lvcGNfenRSNDVMTEVBTWFtMzM2TFVfV2FTcGJLSkVaRHZjMlRRMHdRUlFZLTVLSlh1NDM0Z3NCX1NZbmxyU1NfU1JCMjdVM2J0UDZn?oc=5",
-      "source": "Wccftech",
-      "published": "2026-08-24T15:00:03+00:00",
-      "summary": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded&nbsp;&nbsp;Wccftech"
+      "title": "Google’s TPUv8s for Training and Inference at Hot Chips 2026 - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEFrNGJCbTllQTB0VHkzaEFuTHZQT2FGeHpyOE4xT2RYTzduMlhibFhtNUo4bjZudms5dzFyUU0tTUJQQ3U1Z0lTQllaSE5ndS0tdnotek04d1pXV3Q3aXdiMFc5eVhVeWxGWjNpZG9wT05yR19EYVpYNDdSMnB0RDJTWEVYM2FocE4xUEpFU0VXc2M?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-08-26T00:15:29+00:00",
+      "summary": "Google’s TPUv8s for Training and Inference at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
       "title": "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026 - ServeTheHome",
@@ -143,13 +143,6 @@
       "summary": "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzc4WDJUOFNXN2VONms1LWNma01oVUMxUGtQQjlyMHAtYjRfUC11RjFjQ0VnTUpOQVhwQVNmNE95YmF3NzcyOE5KTWxNalY2Ty1QcXJWSklteHpGNUhWZ19vci1QbGFEcFhhRW5rWFRLRVJnUzBRa0NEVUsxcDlrVWVRckdzc3NuUFVDbHN5YVM1ay1LUUEwa3d1TVQ5czNLWU90OXNVTjA0OERS0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-08-22T21:54:25+00:00",
-      "summary": "Nvidia customers notified of AI-related price rises above 15%&nbsp;&nbsp;South China Morning Post"
-    },
-    {
       "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026 - ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2xHTUF1aFZPSElsMHZWRDN1VDc0OFdxbEZEQTg1SDBIZC1IOFA4dEFEZGt2eFl3Q2gtamY3RnhiaG9YM1k4aWZpQjFQcV9HQVFTRkRkRVh6V1Vkb2FYR0VDU2xJSDNLdlNub0JBX3JPN3ZxOHg2Qzh5RFJ3MDYtQVRGWlhkdEg2TXNKcElfeXdSems5UUdrSHpnc2hmWVpiTUx0bVhyWjc?oc=5",
       "source": "ServeTheHome",
@@ -157,18 +150,25 @@
       "summary": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Intel Crescent Island GPUs Pack Up To 32 Xe3P Cores, Optimized For Agentic AI With Low-Cost LPDDR5X That Reaches Up To 480 GB Capacity - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVpza2JqTmk2VWxTZU01OXdwQ0lzWTRwYzc1N1ZtOWttU1lkUktmZXR2ZFRmWndleUJCTjB6cVJpWmlOaUJwbFdvMU9IMUtma0tIc2p3bWxiYnpNdkhGTDFOTU1ldmpwak4wVVZQSlJ3WkhndnlIUEZiRGxlaUNCQ09YUzVtZl9LcE5jdVpqZ3ZueG56S29DSGg4WjhhbEJraVFuZzBoWExuUFnSAbABQVVfeXFMTVY1WHRCMTQybGlYUkpCdFZUUXltSDBWUkpQdkdtVEdqUWZxblhjYzFGYlM3MEtzVGlUSUtrQnJ6MV9iZ1pvZlloNHdWXzhLU3RwaU5Sc0FrbmZuU2hLbDJYdWx6UndPQWwwYmplbm1nX1JKVmhlVlJSUzFIX2lUTTJCUEx0LVJmVktYN3BMdVNyR2FDbzVFY2tlT2laNVFSenVvUzdMaHdJbFdkQ3MzNjg?oc=5",
-      "source": "Wccftech",
-      "published": "2026-08-24T15:00:06+00:00",
-      "summary": "Intel Crescent Island GPUs Pack Up To 32 Xe3P Cores, Optimized For Agentic AI With Low-Cost LPDDR5X That Reaches Up To 480 GB Capacity&nbsp;&nbsp;Wccftech"
-    },
-    {
       "title": "Cerebras CS-4 AI Accelerator: 30x Faster Than GPUs? - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55ZDVRZ0JQMVdiekNvUjhlUkZ6ZHRzelg3dzZvd3c3cFhRUk1lZkU2dndrNnQ3bnFycmVkWUhWcklLZFU1OF8zY0g0Mkh3OWZvSXFnaUdHNU9jTVp0TjNaOTdfOTVWa0JWcnlHYjJUQk9OSV9w?oc=5",
       "source": "tech-insider.org",
       "published": "2026-08-24T01:20:50+00:00",
       "summary": "Cerebras CS-4 AI Accelerator: 30x Faster Than GPUs?&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "Nvidia Q2 FY27 Earnings Preview: AI Chip Leader August 2026 Analysis - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5leDRwT0Z0UXNlNk1XcGJrQVVqd2ZSZzRZd3ZqUnJKOGkxZEFpZldldjJWbm9WQmxTWnEzOVNmS0ppWk5LUHFYRGpLdVQ4QnFpMWlzMDVWMlJlbm13T1FBUWxlY0dOcERxUDRzaVJYaGF6cE5iNUotQWg2TQ?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-26T01:21:14+00:00",
+      "summary": "Nvidia Q2 FY27 Earnings Preview: AI Chip Leader August 2026 Analysis&nbsp;&nbsp;Intellectia AI"
+    },
+    {
+      "title": "OpenAI's new AI chip outperforms Nvidia's lates... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ250QXBwV29tcElBS0laVlllVXdfZkFSZU9CMjllQ1ZLT2R0enZ1TjZFSFVLWndEYjQ2QmM0ajlWUXZPVTJqRTRRT2txbkJoYWprRkc2NzN6TzJNNzgxM3ltQ0NWQkRsZms3bnAxLUs3d1JBYTVPOGVuWUUzWENLOF8zRGJQUHphczhTZW5NVUEzQVhsWnVTNEo2RUpsd25oWjl3MGZXLUtsb2M?oc=5",
+      "source": "Pluang",
+      "published": "2026-08-26T10:49:30+00:00",
+      "summary": "OpenAI's new AI chip outperforms Nvidia's lates...&nbsp;&nbsp;Pluang"
     },
     {
       "title": "In-house silicon accelerators are surging in the AI inference era! Anthropic recruits a Google TPU pioneer as the computing power empire shifts from a \"GPU solo\" to a \"heterogeneous computing symphony.\" - Moomoo",
