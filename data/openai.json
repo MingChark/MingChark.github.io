@@ -1,90 +1,48 @@
 {
-  "generated": "2026-08-25T18:43:39.866814+00:00",
+  "generated": "2026-08-26T01:36:42.750177+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTJ1aEVCYVNjNi1acmxQZVRHWmdRREE1SVFpNHRNUXlSaXU2bENwRmZWeTBPTTJVOW91N3VMU3B2NjBKRXc4WkE2SnN5NDJjVlZtMGcySFk2SEdPaEFZUmlJRi1xNGtHc3FiWnpnYzV5WUppSDRTZ2lWMUZaZUQ1Z05Xdm4wdUw5NlRVMzZ1SkUzNkRkZlQxX25VajVyck9WSnhN?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-25T14:00:01+00:00",
-      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Yahoo FinanceOpenAI says its Jalapeño chip bests Nvidia, others&nbsp;&nbsp;AxiosOpenAI’ Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
+      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-25T16:19:39+00:00",
+      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Bloomberg.comOpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?&nbsp;&nbsp;CNBCOpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
     },
     {
-      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-25T21:30:00+00:00",
+      "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHN6cUtXZ0UyUlhaQlBNUXVpc2F4YU9ETnhHeTZzWnlLN3FTR0ZMWE42d3FkQmZKNUJHT183ekcya2pYRGNOSGIwMkVwa2xuZkhueW01ck4wb1E4RFdKVkdaN3d0SzBQMy1lclAxNng0eDZiX0tmdGpnRUF2ZDRDSTMtQkdjQW96N2M4WlBEZmRKQnE5TGhHOVJDNDVqSEU3aDVmbzVOdUnSAa4BQVVfeXFMTWVLVW80ck9uenpyZmdaTF9wY3BxLVNxMHZfblBsZXpBVFpfQnQxcjU1cUdwLTJDUGlQajR0QXV5MWNWNTUwSllMMzktZkl5NEt1ckNjYUdKNEZFbDYzaWxJQ3BQNUJmSjhRY0c2V1FISXV4UVMxXzhjVm1FZ1didndMWVFsU3VPcTIxQWRMTVhGR3Vyc1pVbUduaW00UGx6dTN4TTB4Um4xQzhFNnZn?oc=5",
       "source": "CNBC",
-      "published": "2026-08-25T11:21:09+00:00",
-      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign&nbsp;&nbsp;CNBC"
+      "published": "2026-08-25T21:23:28+00:00",
+      "summary": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Slop factory bans Russians for using slop factory to create slop - The Register",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVlPMWEtSW96YjBHd3g4bzI2S3dCRW43YWh4em1Ra2pKNl9FWndIaWdpQVhpT0ZGOVdGRTdaSUJadDd3Zm5jWFM5UzNCam5rWGN3N2RtbkxUeXBDZkN1ZWdMZDFDa29fZHptQWRDcXl1cDdKYWVVX1I5ZlVNRTZRcTAzRk9SYmN1dG1aVXhuaW9PRHZlak5Vbl9WVnBBclk3TE5QQXZBMG03UWdfLWJvZHMybTZueUFiMGdLVFdR?oc=5",
-      "source": "The Register",
-      "published": "2026-08-25T15:15:00+00:00",
-      "summary": "Slop factory bans Russians for using slop factory to create slop&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "OpenAI bans Russian ChatGPT accounts in influence campaign - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEY4bzZaNkVfVkUwYm9SZGNyODlkOXR2aWxjVjZnM1ZCYW0tWVlxTmlkeWJqVXBvaTZHY2FaUVN6QklxSTZiMWFQOU1hRUp5Um5vM291M1ZHTUtqU2RlV2FJS0o3RWV2RjN6TnhuZC1xMnhqdVJaY1pieVFsVFI1UkdabjRmUQ?oc=5",
-      "source": "qz.com",
-      "published": "2026-08-25T12:19:45+00:00",
-      "summary": "OpenAI bans Russian ChatGPT accounts in influence campaign&nbsp;&nbsp;qz.com"
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnZDYTNQU016aGJnVUljb0VNRXQtd2ExUzBuSl9ZZE5XVWtwUG5kY2RpVmZqcGs5cHpTUjhuakFnVFRkRFhQaE5BRDhXbGdCSnRVbVhhYm4zNEJSLWpQR0lodzE2YzBUODkwUnNLd2FBSWZWYnozcDBYd1FxTG1GNlVCOFdjUnpKM0hvRnZNM1ljSkx1UThVWDg3dU45eE1BSGV2M0VjSk9tS2tIRW51VTF5TlBzOFJG?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-08-26T00:06:20+00:00",
+      "summary": "OpenAI loses a top data center exec, as stream of high-profile departures continues&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
       "source": "The New York Times",
-      "published": "2026-08-25T15:45:09+00:00",
+      "published": "2026-08-25T21:59:39+00:00",
       "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1ZJaW9jOG1DZG1tZ1VxTmkxbVRxemhiNHN1alVzZXU2ZGpSNzEwYnl3ajBobWpoMEpXOHByQXVxa0NsWkd4cDhzWktmY3p4WTJlcjhFanAwQ3B1WEhoNVU0T2xBQkhtSnh6ZmJOTkt6LURqYnZNWk5BNTRHR2F1WGVENktNZ3dXYmYzTGF3dEM3UmNQdGVOWEdrRVV2bW5GRDRFblNIZHF6dw?oc=5",
-      "source": "Variety",
-      "published": "2026-08-25T16:01:00+00:00",
-      "summary": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’&nbsp;&nbsp;Variety"
-    },
-    {
-      "title": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkVLRzlkNzc4SjRaM25IM29fWG1DdDAtVVFXUkxwWV9BUXVtU2NOX0lvTk96TkpUb0w1ay02elBwaVJPeE41d01qTDZocnVFWVFBOEYzQ3lERUtfblhKQjU5RktqMU1LNXFGMTFUQW1EUnNnTkZhemxvTGQ2ZFZiaEZn?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-25T09:30:00+00:00",
-      "summary": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Sam Altman says the economy is adapting to AI slower than he expected - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXcWp5ODJSNWRrRnpvb1NvN1pCbk1VYWE1cHptaTVVem1KcXdJNkl2a285dEpvNXVyYUhwaFFwZzFIczFJSUt5U0dNa0JkUVpiU3JMV1pWZDBkaUdud0tJNkJjeW42ejkwQWFGdkdxSG5BN0UtYnVZcWNkaTQySEk?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-25T15:09:00+00:00",
-      "summary": "Sam Altman says the economy is adapting to AI slower than he expected&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkRSQ1lnRGxrZWVfODFJTktXUEFjWU4wcDc0NzNxZzJFdHZsRkwwQkpUM2QzQk84TGdaY0trVHZXR2VkNGtmX1NCWjFlUDVSWjhtdUVfTEx3OXdMZHFCWTVNT01qeXhQbWpickJjbFk1c1FUcWhKTmU2aGVxWGxiNnBLaGNGZ1Z4OW1SMGx2alZYMkxwaG9Nbk5kbjVPRjdDMEtxOC1YeXloSnJaNEFMaHNTVE5JLS1zOVRkeXhn?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-25T12:00:00+00:00",
-      "summary": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-25T00:47:00+00:00",
-      "summary": "Alabama launches probe into OpenAI after Hugging Face breach&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5",
-      "source": "CNN",
-      "published": "2026-08-24T17:57:33+00:00",
-      "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-24T14:04:33+00:00",
-      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities&nbsp;&nbsp;The New York Times"
+      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
+      "source": "Axios",
+      "published": "2026-08-24T10:06:10+00:00",
+      "summary": "Meta hires OpenAI veteran Luke Metz&nbsp;&nbsp;Axios"
     },
     {
       "title": "Who is Dali Rajic, OpenAI’s new chief revenue officer? - Fortune",
@@ -94,18 +52,25 @@
       "summary": "Who is Dali Rajic, OpenAI’s new chief revenue officer?&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "OpenAI to build world's biggest AI data center in Ohio. What we know - Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejQ4b3Q2ZUY0OFRLYmR6QzlSeWFGcXFibk5hWW52RVljbU1LRnctNmpNOFhYdl9mY3FoaVBGeVAwcU9xWTNnR19wMWd4SjBPTlRiSnNNb0FhT0I0cFRaRUxXR1NhMUdYZFJQNEp4LWJiN1B2c2RpMGlKb0FybVlYblFLQ3VKYlRZU1ExY3NDYTV5OTdsX0psQ2NGeHV0N0o2WlE?oc=5",
-      "source": "Cincinnati Enquirer",
-      "published": "2026-08-25T01:30:00+00:00",
-      "summary": "OpenAI to build world's biggest AI data center in Ohio. What we know&nbsp;&nbsp;Cincinnati Enquirer"
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-25T00:47:00+00:00",
+      "summary": "Alabama launches probe into OpenAI after Hugging Face breach&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "There’s Only One Way to Make AI Safe For Kids - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-08-25T10:30:02+00:00",
-      "summary": "There’s Only One Way to Make AI Safe For Kids&nbsp;&nbsp;Bloomberg"
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmRubHJOT3Y5akdJRlhsQkVTZjNmSEp1czMyOXVQeTczTzloV0dQODBzbW1nb0plZkEyRW1LMXRBWDlLVTJHMzJ0UWgwU2dtSEp6dk1zRnhkWnR0Q3pVT3JlbUU5b3ZBOFJ0Q3hIYy1LZFduMkpnc0dyYU9FQ3ZEb0VrN0NxTUtZLU9La1dmR3c2X3FsWUU4V1ptU3ZDOUE2cGZIS180UE56Y1dlX2tzczdOd29vOTBp?oc=5",
+      "source": "The Verge",
+      "published": "2026-08-25T09:15:03+00:00",
+      "summary": "OpenAI subpoenaed by Alabama AG over Hugging Face hack&nbsp;&nbsp;The Verge"
+    },
+    {
+      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-24T14:04:33+00:00",
+      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities&nbsp;&nbsp;The New York Times"
     },
     {
       "title": "ClickHouse’s Recurring Revenue Passes $350 Million as OpenAI, Agent Use Jumps - The Information",
@@ -115,46 +80,11 @@
       "summary": "ClickHouse’s Recurring Revenue Passes $350 Million as OpenAI, Agent Use Jumps&nbsp;&nbsp;The Information"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T14:28:01+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-25T14:22:04+00:00",
-      "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblg0eTdnZjh6alA3MnZ1clJ1VGxyNlppOVBtbWJCOWU1RWRmVE9QTnNudWhFWUVyNXlpWjdFWVVjQTlDdkpNWjJxWVpma090SjgzV01idWtfMHhXYzhka2RfNGJDMVVGRE5oU3UxTmtMWWN0Z1hncDIxRTBtYlRqT00zWkpYbnNUYzczSXdydGFDdXRwMVRuUFJzWlhWZw?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-25T16:00:00+00:00",
-      "summary": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "AG Steve Marshall subpoenas OpenAI in hack investigation - Alabama Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGxEOFVBNzVja3psZkNBQks1NjViTmV0ZTg1Wnh0TDVOQmpBRTVlQ0h4SE4yc1VUYTZRemxTU05jZTJPSDlDcDEwRjBFOTlWNmxhWE41aGF4SDZSOHdDU25mOWxlekdONm9pN2ZnWG8xQmc5M0RBVHBPcEd4ZVNCbDdxTHVLR0Rx?oc=5",
-      "source": "Alabama Daily News",
-      "published": "2026-08-25T14:49:05+00:00",
-      "summary": "AG Steve Marshall subpoenas OpenAI in hack investigation&nbsp;&nbsp;Alabama Daily News"
-    },
-    {
-      "title": "Alabama AG investigates OpenAI after AI hacks Hugging Face - Montgomery Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2Q4VmNRR2JFQU10cmMwNEs3SzhLTDF4TWU1ejBzWmFDbm5PTmVDWFZQTmNqWXpoLWYwTENuWnREd1YzVEVmaHJRUFRzZnNJTW1NajJnaUpXRHFmMzBFdGhIM3E0OW9Sa3JIVkQ0aTVibzM0emNsWU9WUHVMdkE1d3dNVkVVc2ZyajktSlFrSDdTSnZxV25ITGNMUUhJUVdGb3lCNWRzYW1BTUlFVWt0NV9UZG0tUk9vRm9GekdTdnpKQV9kOGp6RXlR?oc=5",
-      "source": "Montgomery Advertiser",
-      "published": "2026-08-25T14:16:00+00:00",
-      "summary": "Alabama AG investigates OpenAI after AI hacks Hugging Face&nbsp;&nbsp;Montgomery Advertiser"
-    },
-    {
-      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-08-25T16:19:39+00:00",
-      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Bloomberg"
+      "title": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1ZJaW9jOG1DZG1tZ1VxTmkxbVRxemhiNHN1alVzZXU2ZGpSNzEwYnl3ajBobWpoMEpXOHByQXVxa0NsWkd4cDhzWktmY3p4WTJlcjhFanAwQ3B1WEhoNVU0T2xBQkhtSnh6ZmJOTkt6LURqYnZNWk5BNTRHR2F1WGVENktNZ3dXYmYzTGF3dEM3UmNQdGVOWEdrRVV2bW5GRDRFblNIZHF6dw?oc=5",
+      "source": "Variety",
+      "published": "2026-08-25T16:01:00+00:00",
+      "summary": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’&nbsp;&nbsp;Variety"
     },
     {
       "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users - 9to5Mac",
@@ -164,18 +94,88 @@
       "summary": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T08:07:55+00:00",
-      "summary": "Disrupting a new covert influence campaign from Russia&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI adds teen safety tools to ChatGPT - Channel 3000",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGxTeEh0U0Q3Vko2X0xnQ1FYYUhMMEpKUW5YaWplSlBoWkF6cVZPbXhWb0tKSmFwZVgzOHZJdTh6emM3eXVpaGRhOGExRWw5N25qQlNIX3BjczBZeUhBLURXRTBmZXN3UzROQllfN3JKNERoWjFEbzM5dG5oNU1HdEw1b0NncVk5ckduUGpySEI0eEo2UTlwUkczUlBfTGduZEdqVEZJbnNaMkdZUzVEYkpUbkx6QkhlRXlidV9pSjY?oc=5",
+      "source": "Channel 3000",
+      "published": "2026-08-25T21:53:00+00:00",
+      "summary": "OpenAI adds teen safety tools to ChatGPT&nbsp;&nbsp;Channel 3000"
     },
     {
-      "title": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-24T22:00:45+00:00",
-      "summary": "WikiHow sues OpenAI for copyright infringement over AI training&nbsp;&nbsp;Reuters"
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T14:28:01+00:00",
+      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTJ1aEVCYVNjNi1acmxQZVRHWmdRREE1SVFpNHRNUXlSaXU2bENwRmZWeTBPTTJVOW91N3VMU3B2NjBKRXc4WkE2SnN5NDJjVlZtMGcySFk2SEdPaEFZUmlJRi1xNGtHc3FiWnpnYzV5WUppSDRTZ2lWMUZaZUQ1Z05Xdm4wdUw5NlRVMzZ1SkUzNkRkZlQxX25VajVyck9WSnhN?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-25T14:00:01+00:00",
+      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-08-25T14:22:04+00:00",
+      "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWd4Wjk1VDJDY202Mkw3b1pmZWY5ak1wY0ZMZ2dfR18wT0dfanRiTTl6cEI0b2thcmtuOHRNYmlWSXRwTHU5ZUhiZ0NCNjRHOUhqdlVIb3hZbU9fWVZUbExGZzNOa2M5dnhSYjBHOF91YlZzZ01OQm1wRkRBdk4xaWhNdzhEQ0RMbkl0QWFJMjY1SWU3RTFIa3RIODY5bGIyc3FUcURRNzM1RW5jaFJKdktvSHFpdzdoTGEtM2NTcDZQdldCcFhaNlRteUpwMHAtc0NV?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-08-25T18:05:23+00:00",
+      "summary": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom&nbsp;&nbsp;Tom's Hardware"
+    },
+    {
+      "title": "WikiHow Files Lawsuit Against OpenAI Over ChatGPT’s Use of Its How-To Library - IPWatchdog.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEJXcDlJNktZYXdRUkNUemNVREp4SFlvV3cxcHVldWp3OE4tdU40TE1mZzI4QlBtTmpvZ3h3OXNQT00zcUpQdF84MDB6SjNZc3YzZmhJY21nTFFSbWJCRndkSWVZbUtnbHBLOHRIeHpWTXM4Y3kzVEJ4RE9TQlhyTTA3aUE0SXN0SnNHYTFDdjhTRGR0b19pQVpmVVlaY3ZhZWJFUlFIU3FYV0FVVzgwUg?oc=5",
+      "source": "IPWatchdog.com",
+      "published": "2026-08-25T18:27:58+00:00",
+      "summary": "WikiHow Files Lawsuit Against OpenAI Over ChatGPT’s Use of Its How-To Library&nbsp;&nbsp;IPWatchdog.com"
+    },
+    {
+      "title": "OpenAI says its Jalapeño chip bests Nvidia, others - Axios",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTNRWmU0SFJMTGoxY0pKdEtJQVlJdUN2bXJZWm5NT18zOTN3dTlkaUVQLXdQZlFUaVc2c1k4d3JrQ1gtbENsNU5rcDJfR1ZxYWh0ZXVsalRmWXIxcVJmN2ZVcENBbXFuckdsZG9qZFkzQ0lNRVg4emxKY0tEMGhqb0djMDNoTjFPME0zWGJDRUw?oc=5",
+      "source": "Axios",
+      "published": "2026-08-25T14:51:25+00:00",
+      "summary": "OpenAI says its Jalapeño chip bests Nvidia, others&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "AG Steve Marshall subpoenas OpenAI in hack investigation - Alabama Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGxEOFVBNzVja3psZkNBQks1NjViTmV0ZTg1Wnh0TDVOQmpBRTVlQ0h4SE4yc1VUYTZRemxTU05jZTJPSDlDcDEwRjBFOTlWNmxhWE41aGF4SDZSOHdDU25mOWxlekdONm9pN2ZnWG8xQmc5M0RBVHBPcEd4ZVNCbDdxTHVLR0Rx?oc=5",
+      "source": "Alabama Daily News",
+      "published": "2026-08-25T14:49:05+00:00",
+      "summary": "AG Steve Marshall subpoenas OpenAI in hack investigation&nbsp;&nbsp;Alabama Daily News"
+    },
+    {
+      "title": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3hEdUhxOE9RQk5LaEJtcjlRbU1FSXJ6RnRvSUZmd3o3TFBxYVAzRzVwZTJVZUdRM29tOVhDWmc4UkJONFQwb1FENlJxM2Nvc2dQajdzdHNCZXlheld1cXVQTHluV3pyNEhydDRrRVF2bVlWdk9vV3NCVHNOZ2VWb0lvUWhOZkdrbHBSS3M0YTQzdGFTMjlEN1ZKdm5PeVhaaGVRNVU2UW1OWHFaRVdtZ0NRejIwNzBWeVFzaERnSDF3RWlrcm1JZ0lZdUt1cHNjcXdNVXhB?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-25T18:53:00+00:00",
+      "summary": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "The full stack behind abundant intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T14:58:12+00:00",
+      "summary": "The full stack behind abundant intelligence&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjV5VGt3UVNHRkFNV05tWmZuTmVOSnRiN0FDbWpnME94azFZQjktdC03QjBYMUJpeU16cmJMZm1aSkhrbDRSZEF0NWE2ZXBlTm1hOEpEZ2lMYTctVXowam52aEFWeGp0SEtvelpOM3hYLXhHRVJiYVFoWUgzamZGU1FhalR5ZGVCb1hqWjhRdGM2ZjQ0anhNV2xOM3FzcWc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-25T19:43:42+00:00",
+      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-25T11:21:09+00:00",
+      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign&nbsp;&nbsp;CNBC"
     }
   ]
 }
