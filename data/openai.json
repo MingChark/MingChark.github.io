@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-26T06:55:01.413170+00:00",
+  "generated": "2026-08-26T12:59:24.930632+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTJ1aEVCYVNjNi1acmxQZVRHWmdRREE1SVFpNHRNUXlSaXU2bENwRmZWeTBPTTJVOW91N3VMU3B2NjBKRXc4WkE2SnN5NDJjVlZtMGcySFk2SEdPaEFZUmlJRi1xNGtHc3FiWnpnYzV5WUppSDRTZ2lWMUZaZUQ1Z05Xdm4wdUw5NlRVMzZ1SkUzNkRkZlQxX25VajVyck9WSnhN?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-25T14:00:01+00:00",
-      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Yahoo FinanceOpenAI Says Its Jalapeño AI Chip Is Better Than Nvidia’s Blackwell&nbsp;&nbsp;The InformationOpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
+      "title": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia? - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjBLWkdFMzJKR2ZpdDRBSzBHT3FmS3N1OVlkTno4OVBKbnVLQm9kRk1ZZXNSZlVkVXkxQ0ZVSEdQOWZuRnVySFNpdXFqb3FqTGN4aW1HNi10SFdqTENBMFNieTQtbG9URzZ2cUVSS3JiLUp0WHU5UjJVMFNMVW45aFVrUm4xOENUS2FTSzJFMTFFWTEzNmZ6S0tWSG5XcHJUX05J?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-25T19:00:02+00:00",
+      "summary": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?&nbsp;&nbsp;CNBCOpenAI Jalapeño chip beats Nvidia GB300 in benchmark tests&nbsp;&nbsp;qz.comOpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
     },
     {
       "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
@@ -17,25 +17,46 @@
       "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHN6cUtXZ0UyUlhaQlBNUXVpc2F4YU9ETnhHeTZzWnlLN3FTR0ZMWE42d3FkQmZKNUJHT183ekcya2pYRGNOSGIwMkVwa2xuZkhueW01ck4wb1E4RFdKVkdaN3d0SzBQMy1lclAxNng0eDZiX0tmdGpnRUF2ZDRDSTMtQkdjQW96N2M4WlBEZmRKQnE5TGhHOVJDNDVqSEU3aDVmbzVOdUnSAa4BQVVfeXFMTWVLVW80ck9uenpyZmdaTF9wY3BxLVNxMHZfblBsZXpBVFpfQnQxcjU1cUdwLTJDUGlQajR0QXV5MWNWNTUwSllMMzktZkl5NEt1ckNjYUdKNEZFbDYzaWxJQ3BQNUJmSjhRY0c2V1FISXV4UVMxXzhjVm1FZ1didndMWVFsU3VPcTIxQWRMTVhGR3Vyc1pVbUduaW00UGx6dTN4TTB4Um4xQzhFNnZn?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-25T21:23:28+00:00",
-      "summary": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues - TechCrunch",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnZDYTNQU016aGJnVUljb0VNRXQtd2ExUzBuSl9ZZE5XVWtwUG5kY2RpVmZqcGs5cHpTUjhuakFnVFRkRFhQaE5BRDhXbGdCSnRVbVhhYm4zNEJSLWpQR0lodzE2YzBUODkwUnNLd2FBSWZWYnozcDBYd1FxTG1GNlVCOFdjUnpKM0hvRnZNM1ljSkx1UThVWDg3dU45eE1BSGV2M0VjSk9tS2tIRW51VTF5TlBzOFJG?oc=5",
       "source": "TechCrunch",
       "published": "2026-08-26T00:06:20+00:00",
-      "summary": "OpenAI loses a top data center exec, as stream of high-profile departures continues&nbsp;&nbsp;TechCrunch"
+      "summary": "OpenAI loses a top data center exec as stream of high-profile departures continues&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGNBOThiTEdqZHNsZURvWVhrZjM0d2NhZXNEYnRIdzJTbTJ5cW1FM2FPaEJJTWRTWldpMFhpYXFKcjljNWVsdDhwNVJ3Q2YzWkZMT05NOExHejhPRERlcllCRnRqQkxSdV83RHdBWHlLdGhDS05BTW5RU2x0aXY1VHlTZ2RkaFY4eXpxN1IyLV8zTEpYYWloTFNfZ3JqbWlsb3JvYkcxNjZTUGlLakdFQkxPQQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-26T04:55:00+00:00",
-      "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing&nbsp;&nbsp;Bloomberg.com"
+      "title": "OpenAI head of data centers Chris Malone exits amid departures - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EcExTVldPSFVISE80NXBGd0I1YTc4UFNVYy0xTlY5WGdKZWZRUzZmRExsbHl0Tm1iYVlEVFBZZ0JKZFBhYW9nU0tXUm9FZ29ZM0Nhbm9RNEdaZFZXOGd5Qjg2QjRnSE1HVDc2VkpzOGUwTUZXa0NBUQ?oc=5",
+      "source": "qz.com",
+      "published": "2026-08-26T12:24:39+00:00",
+      "summary": "OpenAI head of data centers Chris Malone exits amid departures&nbsp;&nbsp;qz.com"
+    },
+    {
+      "title": "Inside OpenAI’s Reboot - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-08-26T11:00:04+00:00",
+      "summary": "Inside OpenAI’s Reboot&nbsp;&nbsp;Time Magazine"
+    },
+    {
+      "title": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkVLRzlkNzc4SjRaM25IM29fWG1DdDAtVVFXUkxwWV9BUXVtU2NOX0lvTk96TkpUb0w1ay02elBwaVJPeE41d01qTDZocnVFWVFBOEYzQ3lERUtfblhKQjU5RktqMU1LNXFGMTFUQW1EUnNnTkZhemxvTGQ2ZFZiaEZn?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-25T09:30:00+00:00",
+      "summary": "Silicon Valley’s Newest Status Symbol Is a Super-Rare Sam Altman Swiss Watch&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Sam Altman's love of watches is getting memed 'Lord of the Rings' style - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3haTUlBTG5ZUnBKcEZ3aE5QS0h5MmZkamMxcEhaUERlQ2JkX1FMNWVPRTJ5eDNzVWNDUFBSSnJ4RFlkNmlrVWd2Qm5WTGJ4djBwUUszRGVwR21iSjYwUHlidms0RTdKR3pUbThJOVo5ZmN2UGZ0MGd0RUYxSXdIWTRlTFpaazRHZDNmSWtzVzNkSWVnTWViTnA4VQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-26T10:57:40+00:00",
+      "summary": "Sam Altman's love of watches is getting memed 'Lord of the Rings' style&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTNBeFdqQ085U3BWVV93bFl2aDV4MG84QktBSlBKa3NETGc3dGFPRUozd0lhcE9UMF81Zk5sQkQxYThpQ2tGMVpmODJQZHlhSHlCTUVYbXdUTkVpNm5VQXZONWt0TVdTSzZhVHRsZjZOYVVOVUFJSjBtUGxoZmh1dw?oc=5",
+      "source": "The Hacker News",
+      "published": "2026-08-26T09:38:00+00:00",
+      "summary": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation&nbsp;&nbsp;The Hacker News"
     },
     {
       "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
@@ -45,74 +66,11 @@
       "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
-      "source": "Axios",
-      "published": "2026-08-24T10:06:10+00:00",
-      "summary": "Meta hires OpenAI veteran Luke Metz&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkRSQ1lnRGxrZWVfODFJTktXUEFjWU4wcDc0NzNxZzJFdHZsRkwwQkpUM2QzQk84TGdaY0trVHZXR2VkNGtmX1NCWjFlUDVSWjhtdUVfTEx3OXdMZHFCWTVNT01qeXhQbWpickJjbFk1c1FUcWhKTmU2aGVxWGxiNnBLaGNGZ1Z4OW1SMGx2alZYMkxwaG9Nbk5kbjVPRjdDMEtxOC1YeXloSnJaNEFMaHNTVE5JLS1zOVRkeXhn?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-25T12:00:00+00:00",
-      "summary": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-24T14:04:33+00:00",
-      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmRubHJOT3Y5akdJRlhsQkVTZjNmSEp1czMyOXVQeTczTzloV0dQODBzbW1nb0plZkEyRW1LMXRBWDlLVTJHMzJ0UWgwU2dtSEp6dk1zRnhkWnR0Q3pVT3JlbUU5b3ZBOFJ0Q3hIYy1LZFduMkpnc0dyYU9FQ3ZEb0VrN0NxTUtZLU9La1dmR3c2X3FsWUU4V1ptU3ZDOUE2cGZIS180UE56Y1dlX2tzczdOd29vOTBp?oc=5",
-      "source": "The Verge",
-      "published": "2026-08-25T09:15:03+00:00",
-      "summary": "OpenAI subpoenaed by Alabama AG over Hugging Face hack&nbsp;&nbsp;The Verge"
-    },
-    {
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlJMVFN0ZmZTc3A2ZUMybzdGZDdMN0dveXpYbXIyU25qLVRWdU1NSF9UV1NoM19jUmZPUjBoVE1wbTEwV2NYaEpydFNOYUxia0ZCZXJqOEVydmpuQ1E5a09vaWVIczM2YTlxMW01WHVmR2lfX3RULXBqZjR5QjRaRG5LSlVVUG9weWM0Rjg1c1ltQmRVY2YzN1ItUDh1bHVQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-24T19:58:17+00:00",
-      "summary": "Alabama launches investigation into OpenAI’s hack of Hugging Face&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1ZJaW9jOG1DZG1tZ1VxTmkxbVRxemhiNHN1alVzZXU2ZGpSNzEwYnl3ajBobWpoMEpXOHByQXVxa0NsWkd4cDhzWktmY3p4WTJlcjhFanAwQ3B1WEhoNVU0T2xBQkhtSnh6ZmJOTkt6LURqYnZNWk5BNTRHR2F1WGVENktNZ3dXYmYzTGF3dEM3UmNQdGVOWEdrRVV2bW5GRDRFblNIZHF6dw?oc=5",
-      "source": "Variety",
-      "published": "2026-08-25T16:01:00+00:00",
-      "summary": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’&nbsp;&nbsp;Variety"
-    },
-    {
-      "title": "NIQ and The OpenAI Deployment Company Collaborate to Bring Consumer Intelligence into Enterprise Workflows - NIQ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0ZlejJJZTBmU1JOcmlDcTVEaUpBMHU2UUhfNUJJSTZEc0RTanN3S2R3QnVVWkw2TUkzb1BMWUJSZ0hFQ2cyS3pldGp2WFdadVNMTjhOaXUwVTA2WlhITzd2bENMbnVwVW5HOUdyS0pZSjc2RE5HTlNDTVItY29yRGNNUEFEdmt1RTVyNy04RElXbTNpTXkxVzNaeVhIcVJmMnB0a0YyNV8?oc=5",
-      "source": "NIQ",
-      "published": "2026-08-25T11:14:47+00:00",
-      "summary": "NIQ and The OpenAI Deployment Company Collaborate to Bring Consumer Intelligence into Enterprise Workflows&nbsp;&nbsp;NIQ"
-    },
-    {
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDJGQkN6bDdDT3hpWm1NTXd1N2VLYUYwcmRyWEFrNHVCWFBYV3JBUk1kU2I0UmZOV25DVXBRZWNKU2VWYkxkdDFsWWE4QXNuQnVhSm05bWJLZ3pwa3BiNUxuZUVWWFRod1hiWXY2ZUtMYkpGY1NZeUZUdVlBZzlBMlY4NVB0Ti01ZHVSMmhpMkVLQmpMWFpycGhIdThaS24x?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-08-25T01:47:00+00:00",
-      "summary": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users&nbsp;&nbsp;9to5Mac"
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T14:28:01+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSGhkZ3l5ZkJpdklTaHFuVlBCcElvcWxaME9wc1ZNeU5XRzVxU3JueGI2dnhYU3llYm9MZlN0S1pLekhSMHhjTXlqSk5oZ2dEXy11Nk1qR2lhWXIzazFyUlY0OFR0aXQ2RzRObjR3T0xGbEpISVE0?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-26T00:45:45+00:00",
-      "summary": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
+      "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGNBOThiTEdqZHNsZURvWVhrZjM0d2NhZXNEYnRIdzJTbTJ5cW1FM2FPaEJJTWRTWldpMFhpYXFKcjljNWVsdDhwNVJ3Q2YzWkZMT05NOExHejhPRERlcllCRnRqQkxSdV83RHdBWHlLdGhDS05BTW5RU2x0aXY1VHlTZ2RkaFY4eXpxN1IyLV8zTEpYYWloTFNfZ3JqbWlsb3JvYkcxNjZTUGlLakdFQkxPQQ?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-08-26T07:10:52+00:00",
+      "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing&nbsp;&nbsp;Bloomberg"
     },
     {
       "title": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce - The Information",
@@ -122,39 +80,53 @@
       "summary": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce&nbsp;&nbsp;The Information"
     },
     {
-      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-25T16:19:39+00:00",
-      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests&nbsp;&nbsp;Bloomberg.com"
+      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
+      "source": "Axios",
+      "published": "2026-08-24T10:06:10+00:00",
+      "summary": "Meta hires OpenAI veteran Luke Metz&nbsp;&nbsp;Axios"
     },
     {
-      "title": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWd4Wjk1VDJDY202Mkw3b1pmZWY5ak1wY0ZMZ2dfR18wT0dfanRiTTl6cEI0b2thcmtuOHRNYmlWSXRwTHU5ZUhiZ0NCNjRHOUhqdlVIb3hZbU9fWVZUbExGZzNOa2M5dnhSYjBHOF91YlZzZ01OQm1wRkRBdk4xaWhNdzhEQ0RMbkl0QWFJMjY1SWU3RTFIa3RIODY5bGIyc3FUcURRNzM1RW5jaFJKdktvSHFpdzdoTGEtM2NTcDZQdldCcFhaNlRteUpwMHAtc0NV?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-08-25T18:05:23+00:00",
-      "summary": "OpenAI’s 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU — claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom&nbsp;&nbsp;Tom's Hardware"
+      "title": "Andrew Garfield Admits He Didn't Love Playing OpenAI CEO Sam Altman: ‘Thank God That’s Over’ - TheWrap",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU29fNklxYTZHWU9DVGRCa0tLVHFpUlhBWlBSTlpJRHJVS0xxNzVPLTZyRHJMVlpxNDE4QVc3T2puSmFHbWlfQzA1d2dyLS1YUnRCcjJ1Mjk1bGFOZXh1el9ZTHF5YXd0c19ONEJtZGNFNm9nSlpOcXBkYTNaVnpRTFpsZ2F4SS0wZXU5ZXpyVmJqMFJ4SDA2X3g3MU15VGRmbnhBbnlmWUM?oc=5",
+      "source": "TheWrap",
+      "published": "2026-08-25T20:40:00+00:00",
+      "summary": "Andrew Garfield Admits He Didn't Love Playing OpenAI CEO Sam Altman: ‘Thank God That’s Over’&nbsp;&nbsp;TheWrap"
     },
     {
-      "title": "WikiHow Files Lawsuit Against OpenAI Over ChatGPT’s Use of Its How-To Library - IPWatchdog.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEJXcDlJNktZYXdRUkNUemNVREp4SFlvV3cxcHVldWp3OE4tdU40TE1mZzI4QlBtTmpvZ3h3OXNQT00zcUpQdF84MDB6SjNZc3YzZmhJY21nTFFSbWJCRndkSWVZbUtnbHBLOHRIeHpWTXM4Y3kzVEJ4RE9TQlhyTTA3aUE0SXN0SnNHYTFDdjhTRGR0b19pQVpmVVlaY3ZhZWJFUlFIU3FYV0FVVzgwUg?oc=5",
-      "source": "IPWatchdog.com",
-      "published": "2026-08-25T18:24:48+00:00",
-      "summary": "WikiHow Files Lawsuit Against OpenAI Over ChatGPT’s Use of Its How-To Library&nbsp;&nbsp;IPWatchdog.com"
+      "title": "NIQ and The OpenAI Deployment Company Collaborate to Bring Consumer Intelligence into Enterprise Workflows - NIQ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0ZlejJJZTBmU1JOcmlDcTVEaUpBMHU2UUhfNUJJSTZEc0RTanN3S2R3QnVVWkw2TUkzb1BMWUJSZ0hFQ2cyS3pldGp2WFdadVNMTjhOaXUwVTA2WlhITzd2bENMbnVwVW5HOUdyS0pZSjc2RE5HTlNDTVItY29yRGNNUEFEdmt1RTVyNy04RElXbTNpTXkxVzNaeVhIcVJmMnB0a0YyNV8?oc=5",
+      "source": "NIQ",
+      "published": "2026-08-25T11:14:47+00:00",
+      "summary": "NIQ and The OpenAI Deployment Company Collaborate to Bring Consumer Intelligence into Enterprise Workflows&nbsp;&nbsp;NIQ"
     },
     {
-      "title": "The full stack behind abundant intelligence - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
       "source": "OpenAI",
-      "published": "2026-08-25T14:58:12+00:00",
-      "summary": "The full stack behind abundant intelligence&nbsp;&nbsp;OpenAI"
+      "published": "2026-08-25T14:28:01+00:00",
+      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-25T14:22:04+00:00",
-      "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHN6cUtXZ0UyUlhaQlBNUXVpc2F4YU9ETnhHeTZzWnlLN3FTR0ZMWE42d3FkQmZKNUJHT183ekcya2pYRGNOSGIwMkVwa2xuZkhueW01ck4wb1E4RFdKVkdaN3d0SzBQMy1lclAxNng0eDZiX0tmdGpnRUF2ZDRDSTMtQkdjQW96N2M4WlBEZmRKQnE5TGhHOVJDNDVqSEU3aDVmbzVOdUnSAa4BQVVfeXFMTWVLVW80ck9uenpyZmdaTF9wY3BxLVNxMHZfblBsZXpBVFpfQnQxcjU1cUdwLTJDUGlQajR0QXV5MWNWNTUwSllMMzktZkl5NEt1ckNjYUdKNEZFbDYzaWxJQ3BQNUJmSjhRY0c2V1FISXV4UVMxXzhjVm1FZ1didndMWVFsU3VPcTIxQWRMTVhGR3Vyc1pVbUduaW00UGx6dTN4TTB4Um4xQzhFNnZn?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-25T21:23:28+00:00",
+      "summary": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026 - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSGhkZ3l5ZkJpdklTaHFuVlBCcElvcWxaME9wc1ZNeU5XRzVxU3JueGI2dnhYU3llYm9MZlN0S1pLekhSMHhjTXlqSk5oZ2dEXy11Nk1qR2lhWXIzazFyUlY0OFR0aXQ2RzRObjR3T0xGbEpISVE0?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-08-26T00:45:45+00:00",
+      "summary": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
+    },
+    {
+      "title": "OpenAI's lawsuit delays cause more harm every day, says Apple - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFlrMmVoelRWYVZFcDRSLVltVktmekpRY1o4MWdPQ0RQOXo0cENwMHZYWFlPYnVienh5MHB0LUtNUG9DeHlONXFmNFRocXM2MU1XbzhodmlRbTJ0RWRWWGVEVHJ4WTlYeEZ1aWxJRDlzOXFodkZ1TWN4YWw5a3o3UGQ3ekh0SElVUXBkdWJBRHJ6N3pKZWJPTkdlMFYwR0NiU3JBOA?oc=5",
+      "source": "AppleInsider",
+      "published": "2026-08-26T11:19:00+00:00",
+      "summary": "OpenAI's lawsuit delays cause more harm every day, says Apple&nbsp;&nbsp;AppleInsider"
     },
     {
       "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Yahoo Finance",
@@ -164,18 +136,46 @@
       "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T17:15:33+00:00",
+      "summary": "Introducing the Admin plugin for ChatGPT Work and Codex&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblg0eTdnZjh6alA3MnZ1clJ1VGxyNlppOVBtbWJCOWU1RWRmVE9QTnNudWhFWUVyNXlpWjdFWVVjQTlDdkpNWjJxWVpma090SjgzV01idWtfMHhXYzhka2RfNGJDMVVGRE5oU3UxTmtMWWN0Z1hncDIxRTBtYlRqT00zWkpYbnNUYzczSXdydGFDdXRwMVRuUFJzWlhWZw?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-25T16:00:00+00:00",
+      "summary": "Brain Drain Hits OpenAI and Google, But the Impact Isn’t Equal&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTlGekdBY0h3c1Q3SE9lRzFhUUpFX2N6WEl5dFFQZVUyRXRrdWpSZm9ZbDJuWmh1NUt0TU41c0dVNlVlZkdzWWZfSU9OZ3pLT2lqN21FNjJCdWtRWkxGMjF4c0laMzBTZUlMdXBLbm9seGFNemlDSDd6dnM5T1pSMldPa19SNE1uamsyYm5ULVZPc3BDZ1BoWnFSZk04b21DWkpCVjYtWHMxVlVSc0FDMU9iUC0wZw?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-08-25T22:04:51+00:00",
+      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup&nbsp;&nbsp;Bloomberg"
+    },
+    {
+      "title": "The full stack behind abundant intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T14:58:12+00:00",
+      "summary": "The full stack behind abundant intelligence&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "Disrupting a new covert influence campaign from Russia - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5",
       "source": "OpenAI",
       "published": "2026-08-25T08:07:55+00:00",
       "summary": "Disrupting a new covert influence campaign from Russia&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-24T15:00:00+00:00",
-      "summary": "OpenAI is building AI agents for everything. Will everyone use them?&nbsp;&nbsp;TechCrunch"
     }
   ]
 }
