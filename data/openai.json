@@ -1,97 +1,20 @@
 {
-  "generated": "2026-08-26T19:51:55.692088+00:00",
+  "generated": "2026-08-27T08:24:29.326405+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-26T19:00:01+00:00",
-      "summary": "OpenAI releases sweeping report on Hugging Face AI agent hack&nbsp;&nbsp;CNBCOpenAI says it took a week to detect its AI models had hacked Hugging Face&nbsp;&nbsp;Financial TimesOpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers&nbsp;&nbsp;WIRED"
+      "title": "Unexpected chat between OpenAI bots led to Hugging Face hack - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SaXBsdXNSdEFDQWNJQkpGdlYzVG1RalZrOEd0TmlzZmgtSVRERHZGYkNFUGQ3NFVjX2dvaG5uNHJLLWo5VDNYMmFrU1RlYjhobnk4QW1seDhGUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-08-26T22:03:45+00:00",
+      "summary": "Unexpected chat between OpenAI bots led to Hugging Face hack&nbsp;&nbsp;BBCOpenAI releases sweeping report on Hugging Face AI agent hack&nbsp;&nbsp;CNBCOpenAI says it detected malign activity months before Hugging Face attack&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "title": "Inside OpenAI’s Reboot - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-08-26T11:00:04+00:00",
-      "summary": "Inside OpenAI’s Reboot&nbsp;&nbsp;Time Magazine"
-    },
-    {
-      "title": "Andrew Garfield Admits He Didn’t Love Playing OpenAI CEO Sam Altman: ‘Thank God That’s Over’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0RQUzhBRk5CeXVYOF9GeHhWQ0MxVV83S2hYMk02TWJzeE1VaW5feVVtSm5iSFgzTEVUUW9QellieDRFbWloY3lzbERjcnJXU3RDcTZVbldoRHRmVDZ6LUx0V2NENXZPRW8zN1Y4LW4wbjhjeUREeHF6QjV0NnJFZzRUdTZ3a2lJanhhM2UxdHJFbDRvd2hsN2NIY2E?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-25T20:40:00+00:00",
-      "summary": "Andrew Garfield Admits He Didn’t Love Playing OpenAI CEO Sam Altman: ‘Thank God That’s Over’&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "Sam Altman's love of watches is getting memed 'Lord of the Rings' style - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3haTUlBTG5ZUnBKcEZ3aE5QS0h5MmZkamMxcEhaUERlQ2JkX1FMNWVPRTJ5eDNzVWNDUFBSSnJ4RFlkNmlrVWd2Qm5WTGJ4djBwUUszRGVwR21iSjYwUHlidms0RTdKR3pUbThJOVo5ZmN2UGZ0MGd0RUYxSXdIWTRlTFpaazRHZDNmSWtzVzNkSWVnTWViTnA4VQ?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-26T10:56:07+00:00",
-      "summary": "Sam Altman's love of watches is getting memed 'Lord of the Rings' style&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdHlNWkdYQUJBdVV5c1luMDFlQVYyZnNzRFV3X3kweGY0ZG5IMVpfTE5Qd2JIdkMyaDZOOUJHZm0xU2FUcGdDT3Fzd0lITzd3NjRSbTJGYWNXWnVLV08yXzRUNUtSVGI0WFBlMHZMUk9FNFZCOXfSAXtBVV95cUxPREVoZVc1MjZnZzRDZ1diQ19ET2RQRURoYWtNUmNUUE1sSkgwZWJWZFl5M09MeHgyZjVYVTM2ZmdPdnV2NlgzdmJ3U2MzN09GYmQ0aUxtbFFGS0NvanpNbVY2NmxuV1R1ZnM0ZnZLS2dUUXR3XzF0amphbUU?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-26T13:27:35+00:00",
-      "summary": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground&nbsp;&nbsp;CNBCOpenAI’s Custom Chip Embarrasses Nvidia, While Company Vows to Keep Buying From It&nbsp;&nbsp;24/7 Wall St.OpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
-    },
-    {
-      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-25T09:02:40+00:00",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
+      "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
       "source": "WSJ",
-      "published": "2026-08-25T21:30:00+00:00",
-      "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHN6cUtXZ0UyUlhaQlBNUXVpc2F4YU9ETnhHeTZzWnlLN3FTR0ZMWE42d3FkQmZKNUJHT183ekcya2pYRGNOSGIwMkVwa2xuZkhueW01ck4wb1E4RFdKVkdaN3d0SzBQMy1lclAxNng0eDZiX0tmdGpnRUF2ZDRDSTMtQkdjQW96N2M4WlBEZmRKQnE5TGhHOVJDNDVqSEU3aDVmbzVOdUnSAa4BQVVfeXFMTWVLVW80ck9uenpyZmdaTF9wY3BxLVNxMHZfblBsZXpBVFpfQnQxcjU1cUdwLTJDUGlQajR0QXV5MWNWNTUwSllMMzktZkl5NEt1ckNjYUdKNEZFbDYzaWxJQ3BQNUJmSjhRY0c2V1FISXV4UVMxXzhjVm1FZ1didndMWVFsU3VPcTIxQWRMTVhGR3Vyc1pVbUduaW00UGx6dTN4TTB4Um4xQzhFNnZn?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-25T21:23:28+00:00",
-      "summary": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTlGekdBY0h3c1Q3SE9lRzFhUUpFX2N6WEl5dFFQZVUyRXRrdWpSZm9ZbDJuWmh1NUt0TU41c0dVNlVlZkdzWWZfSU9OZ3pLT2lqN21FNjJCdWtRWkxGMjF4c0laMzBTZUlMdXBLbm9seGFNemlDSDd6dnM5T1pSMldPa19SNE1uamsyYm5ULVZPc3BDZ1BoWnFSZk04b21DWkpCVjYtWHMxVlVSc0FDMU9iUC0wZw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-25T22:04:51+00:00",
-      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI partners with Kamehameha Schools to expand AI access for educators - Honolulu Star-Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTBvcTZqdHdTVjR3ZFRiZ3JDbmNEWk95bkhaVFk0X0Y4cm94Y0pDSUE2V2hIc0dqQjVDdUFzZkRNM2hVS2dobFZzejFpRHNBd05rYzFrYUJSbFQzRFJUQUc4ZTlibXpFc0lqUEpmVEZqUDdTODBqT2plcXJUYVl1Y3l3VTlqdjJDWGNtTnE3aHNjLXF3VERnNm14cHhFamFVcFlFaWdyd2pCLWpJZGh1QWxOWWcydHZWb3UteEs1bHhXLW40X3d3?oc=5",
-      "source": "Honolulu Star-Advertiser",
-      "published": "2026-08-26T10:13:38+00:00",
-      "summary": "OpenAI partners with Kamehameha Schools to expand AI access for educators&nbsp;&nbsp;Honolulu Star-Advertiser"
-    },
-    {
-      "title": "ChatGPT is headed back to school with an adults-only version - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTF2SWpsclZ1amxWTjVmTjg3ak9oR2dCTDRFakxCRzRROUppWTh0Tkk0WXEtcl9FaWhoZ2NOdmxXV0wwOXRhUUU4RFdPc2ZLU3NKTEItcDJWZ25teTBzbGU3VHJDa2xsS21RZ3FlbHJVY193R0RaYzBDdzh4dDZZMjNqdw?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-26T17:02:03+00:00",
-      "summary": "ChatGPT is headed back to school with an adults-only version&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "Florida moves to regulate AI in public colleges and K-12 schools as state lawsuit targets OpenAI over violence - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlNTnFtSWhoZHVXbENXcXg5UGlVZF84eUhKdnp1ZVgtY0o0eEUyS1hFMF9ERi1GRGRPUWRta00xVldmanFpVUxjYThicEhTU0pnNk8yTXBvQmViVXpsdlg5SG5TRHhwck1MUVVHTnVTZVNsSXd4bFZiaVc1cE9MLW84YVdLMHpqckQyamhB?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-26T19:31:00+00:00",
-      "summary": "Florida moves to regulate AI in public colleges and K-12 schools as state lawsuit targets OpenAI over violence&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjBBTlNlcTVTZ0h0ZU82dzNDZ2JDY29uZ0VlNk9uWVU3d2VYMUVUaVZBbTNKdFVwTExrVVptLWdVWkEzV3lvcUR3MGYyeVdXUTZhZU1yeE9kT2FBWElKUjhXV1VfS19FSWNubDNMSFYyWklRUjFlOFdQS0kwbG1zMWF6V0VpT3RINkRUblRDYlQ5ZWdwc0h2cA?oc=5",
-      "source": "The Information",
-      "published": "2026-08-26T00:25:10+00:00",
-      "summary": "Exclusive: Second OpenAI Sales Exec to Return to Salesforce&nbsp;&nbsp;The Information"
+      "published": "2026-08-26T23:41:00+00:00",
+      "summary": "OpenAI Is the Sole Investor in Its Latest Venture Fund&nbsp;&nbsp;WSJ"
     },
     {
       "title": "How do we explain OpenAI’s executive exodus? - TechCrunch",
@@ -101,11 +24,60 @@
       "summary": "How do we explain OpenAI’s executive exodus?&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGNBOThiTEdqZHNsZURvWVhrZjM0d2NhZXNEYnRIdzJTbTJ5cW1FM2FPaEJJTWRTWldpMFhpYXFKcjljNWVsdDhwNVJ3Q2YzWkZMT05NOExHejhPRERlcllCRnRqQkxSdV83RHdBWHlLdGhDS05BTW5RU2x0aXY1VHlTZ2RkaFY4eXpxN1IyLV8zTEpYYWloTFNfZ3JqbWlsb3JvYkcxNjZTUGlLakdFQkxPQQ?oc=5",
+      "title": "Watch Z.AI Claims New Model Taking on Anthropic, OpenAI | The China Show | 8/27/2026 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGdaTmkwUlpiWlBqeWY2SnJ1SmtRelVPYUNzaS0xVW0yU05LakJsRXp4a25jTlkySi1lQ0JkMDVSUnNDRTJGamZRdmxzbWVPWTljd3dNOFBvaGZXTTh2NlpoT0xnUk91bkRrS0VqYjJibDlNaU9TSjN5NlRPX1hCLVhyci1fQQ?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-08-26T07:10:52+00:00",
-      "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing&nbsp;&nbsp;Bloomberg.com"
+      "published": "2026-08-27T00:00:00+00:00",
+      "summary": "Watch Z.AI Claims New Model Taking on Anthropic, OpenAI | The China Show | 8/27/2026&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Inside OpenAI’s Reboot - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-08-26T11:00:04+00:00",
+      "summary": "Inside OpenAI’s Reboot&nbsp;&nbsp;Time Magazine"
+    },
+    {
+      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdHlNWkdYQUJBdVV5c1luMDFlQVYyZnNzRFV3X3kweGY0ZG5IMVpfTE5Qd2JIdkMyaDZOOUJHZm0xU2FUcGdDT3Fzd0lITzd3NjRSbTJGYWNXWnVLV08yXzRUNUtSVGI0WFBlMHZMUk9FNFZCOXfSAXtBVV95cUxPREVoZVc1MjZnZzRDZ1diQ19ET2RQRURoYWtNUmNUUE1sSkgwZWJWZFl5M09MeHgyZjVYVTM2ZmdPdnV2NlgzdmJ3U2MzN09GYmQ0aUxtbFFGS0NvanpNbVY2NmxuV1R1ZnM0ZnZLS2dUUXR3XzF0amphbUU?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-26T13:27:35+00:00",
+      "summary": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Says Its New Chip Outperforms Nvidia’s Blackwell As Nvidia Prepares Earnings Release - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTN2QldxUnZOSnExZEpfTXB1QnRUOFFkdzdiY1BleHRLa2J4M2JWTzZvTnp6XzEtamVNNTAzUGpULU9xX2piZkNZNVlPZUlUQnFnNTVUMjhlaHdPcXFjNHJpd3FRNnBwY0xaRHNhVEpNcERiN2FmYkhqa3J2a25PcmF3NDZVWlJBY3dTR0RSdE1qS0Z4R05ZdHU5bEJidFE0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-26T10:17:53+00:00",
+      "summary": "OpenAI Says Its New Chip Outperforms Nvidia’s Blackwell As Nvidia Prepares Earnings Release&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5",
+      "source": "SemiAnalysis",
+      "published": "2026-08-25T14:00:38+00:00",
+      "summary": "OpenAI Jalapeño: Better Than Nvidia Blackwell&nbsp;&nbsp;SemiAnalysis"
+    },
+    {
+      "title": "Virginia Beach Schools enters partnership with OpenAI to bring ChatGPT to educators - WHRO",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdHEwbC1ac2xueDVfWjlhZzEzQXUwNWVEYlNYMXhPcUwxMW5OLWtRdWRON3h2dVh4X2RmUlV6QnR5dnB0RnRCSzZfbEg0Uzc2X0dhdmVoSU9VMGdySDlSemxiT1dQVWlXUmZOS2NJUjdBRjFMXzByTkVBempOci1NdGJVOU9GdmtTTS1lcEVnek5jOHJlM0dxVEIyRUNYTmgzaFBEYkRWUE15ZDJteGdhTkVjM01FdHRuQXFCeEZweUlQODloZVQ3ODRB?oc=5",
+      "source": "WHRO",
+      "published": "2026-08-26T17:00:00+00:00",
+      "summary": "Virginia Beach Schools enters partnership with OpenAI to bring ChatGPT to educators&nbsp;&nbsp;WHRO"
+    },
+    {
+      "title": "ChatGPT is headed back to school with an adults-only version - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTF2SWpsclZ1amxWTjVmTjg3ak9oR2dCTDRFakxCRzRROUppWTh0Tkk0WXEtcl9FaWhoZ2NOdmxXV0wwOXRhUUU4RFdPc2ZLU3NKTEItcDJWZ25teTBzbGU3VHJDa2xsS21RZ3FlbHJVY193R0RaYzBDdzh4dDZZMjNqdw?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-26T17:01:00+00:00",
+      "summary": "ChatGPT is headed back to school with an adults-only version&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI partners with Kamehameha Schools to expand AI access for educators - Honolulu Star-Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZTBvcTZqdHdTVjR3ZFRiZ3JDbmNEWk95bkhaVFk0X0Y4cm94Y0pDSUE2V2hIc0dqQjVDdUFzZkRNM2hVS2dobFZzejFpRHNBd05rYzFrYUJSbFQzRFJUQUc4ZTlibXpFc0lqUEpmVEZqUDdTODBqT2plcXJUYVl1Y3l3VTlqdjJDWGNtTnE3aHNjLXF3VERnNm14cHhFamFVcFlFaWdyd2pCLWpJZGh1QWxOWWcydHZWb3UteEs1bHhXLW40X3d3?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "published": "2026-08-26T10:13:38+00:00",
+      "summary": "OpenAI partners with Kamehameha Schools to expand AI access for educators&nbsp;&nbsp;Honolulu Star-Advertiser"
     },
     {
       "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation - The Hacker News",
@@ -115,25 +87,81 @@
       "summary": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation&nbsp;&nbsp;The Hacker News"
     },
     {
-      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-25T11:21:09+00:00",
-      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign&nbsp;&nbsp;CNBC"
+      "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpwR0k2R2pKUEJGV2RZNGlob0tfaHhGTXBSTFYwWEJHRU9Scm1ubUZMTXJRZ2I5WGt3SWhKMndHQ0lmS18wOVJHSnhHUFF2OXU2QUk5MTlWWUdnckt6bHlMeEx2a0MxWmFfNFVRNGhNRzFXeG50QlZuZGdJNUxueE1CQVU4QzRYUWRn?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-08-26T14:16:00+00:00",
+      "summary": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "title": "OpenAI exposes Russian influence campaign built around Israel-based think tank - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BV1NkSTBhN2lvRlJCSk9HN3NrSnRCM2kxeUFlYzBvek45MkctSk5IQl9IbU5Zb2tyMmNRYkFWNWdFZEZaQlVJWDBaLUZzREQ1Y2VKeUY3a3ZDUkVXWnhEZlhlVjNJNWhJUTFsZw?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-08-26T08:09:57+00:00",
-      "summary": "OpenAI exposes Russian influence campaign built around Israel-based think tank&nbsp;&nbsp;Ynetnews"
+      "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGpkTWxYOVJSUFdRRk9yT3E5aHlScjNvalBueG8yQk1hZVFBV2NkTldZblExMmNRYU52VGJENmZjUGZQTzlXNVpvVUMwelY0eDRpZTBFc1pja2xpZnJvemFaNGUyN2h3dTVmZlc2YVBfVU91UmtJa3RfcjFvdWx0bDZfd1ZFMkFuSnBUOG9qMnY3OWRCaGVkalJ3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-26T04:55:00+00:00",
+      "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "13 executives who left OpenAI in 2026 - Business Insider",
+      "title": "Over 1,000 AI agents worked together in OpenAI hack, report reveals - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDMxcDRPVWc5N0xFU2dYQTBVQV9DSFppY2NXekRpTzd3OEN5TGhEVUNSV2JTbmZyVUVPV3V1X0NZTXFWNEtOOTVfUlVPbG9zRTlnajI0LVBVdlRPczl5dS13REdqNWhiYmQwaHFsZG9FT3ZrY04ydTRic2YybkROYVJtZ0ZGeHR6MWZ6Ynl5VnV3WGg2bnhKZl9DX0hGUQ?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-08-27T05:22:43+00:00",
+      "summary": "Over 1,000 AI agents worked together in OpenAI hack, report reveals&nbsp;&nbsp;The Washington Post"
+    },
+    {
+      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
+      "source": "Politico",
+      "published": "2026-08-27T02:00:00+00:00",
+      "summary": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-26T17:05:26+00:00",
+      "summary": "Learning never stops: How AI makes learning continuous&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "14 executives who left OpenAI in 2026 - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iNHVEVUk4Q252by00eEctNWhFWGFfX1NEbUwyeXZuWGNua2xRcUlmc1BvaTFBU2dadmNxOWpCUFhEWWJiMVIwYzVQV2wxc3dJTTl2RXhmV0p1T0tGVWZIQllIVnpEdWhxQlBEbTFSV2N2M1RZSzM4?oc=5",
       "source": "Business Insider",
-      "published": "2026-08-26T15:42:38+00:00",
-      "summary": "13 executives who left OpenAI in 2026&nbsp;&nbsp;Business Insider"
+      "published": "2026-08-27T04:36:16+00:00",
+      "summary": "14 executives who left OpenAI in 2026&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI had warnings before its agents broke out - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5",
+      "source": "Axios",
+      "published": "2026-08-26T18:30:12+00:00",
+      "summary": "OpenAI had warnings before its agents broke out&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-26T22:07:43+00:00",
+      "summary": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI report says its network was hacked by its own rogue AI agents - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
+      "source": "NBC News",
+      "published": "2026-08-26T20:44:07+00:00",
+      "summary": "OpenAI report says its network was hacked by its own rogue AI agents&nbsp;&nbsp;NBC News"
+    },
+    {
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5",
+      "source": "WIRED",
+      "published": "2026-08-26T19:16:00+00:00",
+      "summary": "What We Still Don’t Know About OpenAI’s Hugging Face Hack&nbsp;&nbsp;WIRED"
+    },
+    {
+      "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-26T19:00:00+00:00",
+      "summary": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm&nbsp;&nbsp;The Guardian"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
@@ -143,39 +171,11 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
-      "source": "Fortune",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI had warnings before its agents broke out - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5",
-      "source": "Axios",
-      "published": "2026-08-26T19:03:14+00:00",
-      "summary": "OpenAI had warnings before its agents broke out&nbsp;&nbsp;Axios"
-    },
-    {
       "title": "OpenAI releases its official report on the Hugging Face breach - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkFydW9NRDN6MGdpelgtTXlVMWVDRmR2cWh1YjZ1VTZHWi11bjR5X2hUSWhJbDdlQnhlclVYcHN0aTloTVE5QkNPM1FyRXpOXy03UG9STHB0M0ZqOFUxN2stcmZCbjlSd1liV3lTSzdjTW15NktSai1ibnpOU0taM1E4LTZ2dF9aUHhKV0JReE5JUlhuNlpseGdsdHBKdw?oc=5",
       "source": "TechCrunch",
       "published": "2026-08-26T19:05:22+00:00",
       "summary": "OpenAI releases its official report on the Hugging Face breach&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Northside ISD plans to use ChatGPT for Teachers - San Antonio Report",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFWTWFTSDdYVWlsLW0tdlpUZjMyVUZ0b0NsYVd3alM1TlJJenRxcE0zdGt3bXRSSkE1aWZSRDFyMFpRY085SE5Tc1JOdW1nNENyQlNBbkFuS3NLYnN5QUxvV0M3ZFpzekZ4QmlMTEVQdE1jVkFkdkZnRVd2WU56ZnoyLVR2cEVDNUQ0?oc=5",
-      "source": "San Antonio Report",
-      "published": "2026-08-26T17:00:00+00:00",
-      "summary": "Northside ISD plans to use ChatGPT for Teachers&nbsp;&nbsp;San Antonio Report"
-    },
-    {
-      "title": "New OpenAI chip promises faster, cheaper AI than Nvidia’s - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1Y3WlFBRFV1NC1nOTZRMzd4SVJJbDVTR2VsNFp6MXo2OVJqd0I1WTI1NWRScHM2TE1pczRlcW5WcDk5TURIdGZDVGtEUk9SUlBvSmw2TzFhQlI4TlhScHFlMWdmUk9TbG82WERjUmhZcl9oeUNZOGcweGV3Z1FyOUtxNUhlWmM3RXNVUmZfYXhYLVVMTEN1RDFkTVo1cHVMYWxQdE05MWo?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-08-26T16:54:22+00:00",
-      "summary": "New OpenAI chip promises faster, cheaper AI than Nvidia’s&nbsp;&nbsp;Los Angeles Times"
     }
   ]
 }
