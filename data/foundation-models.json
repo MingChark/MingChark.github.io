@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T10:25:22.316833+00:00",
+  "generated": "2026-08-28T21:57:06.978381+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -52,18 +52,18 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
-      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
-      "source": "Mastercard",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
+      "source": "Mastercard",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
