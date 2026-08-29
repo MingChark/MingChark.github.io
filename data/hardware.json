@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-29T06:25:41.959714+00:00",
+  "generated": "2026-08-29T16:28:19.543721+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T14:28:01+00:00",
+      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
+    },
     {
       "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEEwcE9ISjdxZmlzWXJiaXFEWTNmeEVCX3R0NU1Qa2ZONThvZ21DTDAwVmIyOUVJRHBLd1ZHeE5lWmROekVqTUdMQ2ExS0JpRVhwQmxSTWpFMGFTTW5yZ3g3NFRjTEc5U1AzU1Bmc01SemFlVHRzNFhOTzlRbDBnMWNpal91ZXNNT3RHYkNkVE9oZC1qOHRZcFpqbWVmbDIyMjdjMGI5MWc?oc=5",
@@ -10,11 +17,18 @@
       "summary": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T14:28:01+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
+      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-08-26T07:00:00+00:00",
+      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "Nvidia Q2 Earnings August 2026: Record $96.2B Revenue & AI Analysis - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV1JBS0NPT3hFRXZvdmJpLVZYVGZqdV9kbVE2WGl5b1Y1XzBoRDJOWTlOR3U5MTF1b1o3MGFVSDBBSlp1NktDNm0xM2lFZkdEd0UxVEZ4TWdZR2w3cHQxcDNITTVxY3BhbE5JTHRR?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-29T08:12:57+00:00",
+      "summary": "Nvidia Q2 Earnings August 2026: Record $96.2B Revenue & AI Analysis&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "Hot Chips 2026: OpenAI's Jalapeño AI ASIC unpacked — accelerator developed using AI achieves efficiency and throughput gains against power-hungry Blackwell - Tom's Hardware",
@@ -24,20 +38,6 @@
       "summary": "Hot Chips 2026: OpenAI's Jalapeño AI ASIC unpacked — accelerator developed using AI achieves efficiency and throughput gains against power-hungry Blackwell&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute at Hot Chips 2026 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWVHa0xpNkFWYzRSeGRlM2g2M3VHb2ZlVE1OQkdSZ00tRGFlbG95cHJaSnpEdUd2RG9sWERCbUhSM21ueDhtSFpNNjNjT1lKU01DR3J6cWFGbEVLcEVKcFYwLVZfM2hNWWZGdXFHV21CaUthdjVBSURFNTFaaFhlNEZ2SzVwQVFvakcxQnVJWUZxc3JYTjZJT2Y0WnF3V2RvNWJ3UExBSmN6M3NR?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-25T21:45:31+00:00",
-      "summary": "NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
-    },
-    {
-      "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDlILUlhTUxQNEI5bXQ5QUFheUkxbnVaYjN5d1J3ZUtkMzlIUUFDNlRHcTNKUGZhN1pFY0Y5Zy1uOU9seFI4amU4VGdyN2dYUUlQcWVWVWktbVZUdno2Rjh4Q1lJTFR3V2J5aEh6TjRoWUJscDBkTkVyZlZQWW5YNDNxNlM2OGF1RldodHh1RVdZRnl3Wjg2Y003cDdkMnY2RjZVYnEySmJTOTRCTE05RWFPbjZadnNU?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-28T18:30:00+00:00",
-      "summary": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype&nbsp;&nbsp;TradingView"
-    },
-    {
       "title": "Amazon's $25B Custom Chip Run Rate: Is Nvidia in Trouble? - MarketWise",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGQ4M3J1ckdrWGh6SmIwOHZ6dmZ6LVB3NlA3bnlPZ1dNZ2Fqb19FZnRhSllDZVZCRzUzVHF0RjBjMzZzdDZxOHNEaHN0STNKRGRpcC02VDl4dzVoZVhvOGV3MUNfaVhJSFVIMzJTNm9EZjgxTlltU3daaGpBbHJvejc2LU5NRFVp?oc=5",
       "source": "MarketWise",
@@ -45,18 +45,18 @@
       "summary": "Amazon's $25B Custom Chip Run Rate: Is Nvidia in Trouble?&nbsp;&nbsp;MarketWise"
     },
     {
-      "title": "Best AI chip stocks to watch: SMCI and AMD surge ahead of Nvidia earnings, August 25, 2026 - StartupHub.ai",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVURkc2dGQnI5SHpmVXdUdU9vYUpOeXRTVEwwU0ZZdHhla1hYQTNrU0VTcXhOVnlPYnowWHE0eTFJU3VGUVJCUUxGV0c4dWdUOHhKUTJaNjhhWjRTWTNOOUZUNGQxOFRpd01wWC1xN3pseUppbnVQeUNvVmpHNS1fZA?oc=5",
-      "source": "StartupHub.ai",
-      "published": "2026-08-25T22:48:00+00:00",
-      "summary": "Best AI chip stocks to watch: SMCI and AMD surge ahead of Nvidia earnings, August 25, 2026&nbsp;&nbsp;StartupHub.ai"
-    },
-    {
       "title": "NVIDIA Nemotron 3.5: Free 30B Model, $89B GPU Bet [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11LWJVczJsM0hQX2F1X291WE9WS01aMG4zNmhCaG5tRENfWUJwTFFPaUJ3b28xSjJyTDYwQUFPZE4tVXRQaWJhTmsyOUNXRDRMZkRxMmxVeW5tekpLWkZWZ184Qml4eWU5czl3TmpTakFGMUhVY1NkSWpoRQ?oc=5",
       "source": "tech-insider.org",
       "published": "2026-08-27T15:48:21+00:00",
       "summary": "NVIDIA Nemotron 3.5: Free 30B Model, $89B GPU Bet [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDlILUlhTUxQNEI5bXQ5QUFheUkxbnVaYjN5d1J3ZUtkMzlIUUFDNlRHcTNKUGZhN1pFY0Y5Zy1uOU9seFI4amU4VGdyN2dYUUlQcWVWVWktbVZUdno2Rjh4Q1lJTFR3V2J5aEh6TjRoWUJscDBkTkVyZlZQWW5YNDNxNlM2OGF1RldodHh1RVdZRnl3Wjg2Y003cDdkMnY2RjZVYnEySmJTOTRCTE05RWFPbjZadnNU?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-28T18:30:00+00:00",
+      "summary": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype&nbsp;&nbsp;TradingView"
     },
     {
       "title": "Nvidia posts another record quarter, predicts explosive AI-driven growth will last through 2028 - TechSpot",
@@ -87,10 +87,17 @@
       "summary": "NVIDIA earnings set for August 26 as Wall Street eyes AI demand&nbsp;&nbsp;eciks.org"
     },
     {
+      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares&nbsp;&nbsp;CNBC"
+    },
+    {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lHQ3JycFVfOE8yYVB6VGF6YlNwckZjTTZ3Q2YtUlhWUDBndkVRZTlndEQ0WWJrT1lEaS1pM3FYMFg1UWVwekhmTEdtQ3lrVF9HRENmWGZfN0toaExhQ3lUSjQwNThtT2dlNnBwc01FMzVqSDF0dGs2cU14TDh1NE54ZUdGQVdFcVpqdXVPYjRqcE50OGlHMks0SQ?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-08-21T20:08:22+00:00",
+      "published": "2026-08-21T07:00:00+00:00",
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
@@ -101,13 +108,6 @@
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
     },
     {
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-19T07:00:00+00:00",
-      "summary": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares&nbsp;&nbsp;CNBC"
-    },
-    {
       "title": "NVIDIA NVHBM: Up to 30 percent more bandwidth and 25 percent more compute area for custom AI chips - igor´sLAB",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDZtX09ONGRUSktmamtFZzJVOGlfOHFMLWNnOERkTG16UWVPcWVnRjNTUy0wTktzbmVkRlIzVWpockRYdGpXUkxxTzJHbFZ6dUl0bmQ3Ym14OFhJalVNNHlXLXpDaGFhQ1RNeGlTZV9DaldsVENfQkxySWExeUh4aGF3bXhqMUhFWGhnMw?oc=5",
       "source": "igor´sLAB",
@@ -115,25 +115,11 @@
       "summary": "NVIDIA NVHBM: Up to 30 percent more bandwidth and 25 percent more compute area for custom AI chips&nbsp;&nbsp;igor´sLAB"
     },
     {
-      "title": "AMD stock trades around $476 as Q2 2026 AI revenue surge anchors rich valuation - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek9sWHRaemJTTGRvVXdET21vamRHLTRoaUdUenE3UmN6WVUzME5aZjRkb3lhamowTG8ybDJzWDZNbE14MHJIb2NhV3hydS1PcnpGV2dvV2JRTzdvUlF3R0VPNmt6RnlReU1WU05hSFV6ZjF0SkxiYzVoLWQ0LVpuSWNEUlIxSzRTNHVSLWVQZGlNV1lVRmhqTm1YVkhJWFNFTFBZWjZXSU9iUmRfOWZqSHNVTWZRMloyUGh0Wm85TjVGWlBxai03WENBWQ?oc=5",
-      "source": "Ad-hoc-news.de",
-      "published": "2026-08-28T16:46:31+00:00",
-      "summary": "AMD stock trades around $476 as Q2 2026 AI revenue surge anchors rich valuation&nbsp;&nbsp;Ad-hoc-news.de"
-    },
-    {
-      "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVB1T1IwQkhETWJOME1oY0plZ0VKTDFoS3h0aXh6T1pCclpfTHpqX29jcE9CTzE0Mzd6QUlqLTh1U250anRkREJMUDFWZHdkU25UWnptc2JjdUQxclhBb3ZqdHdQM3Z2Y21TaERmNk5MbVFLNEx3dGlhVnJUeE5hUUxBdjdlNzhxZGxqaEM5cnBCSjc5R3hKYWJTVnV5cUprTkRvczE1bEhHZ2s4NVJQQnVrSS12WU8zLVl3amt2SlM5eDQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-08-24T15:06:16+00:00",
-      "summary": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Google’s TPUv8s for Training and Inference at Hot Chips 2026 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEFrNGJCbTllQTB0VHkzaEFuTHZQT2FGeHpyOE4xT2RYTzduMlhibFhtNUo4bjZudms5dzFyUU0tTUJQQ3U1Z0lTQllaSE5ndS0tdnotek04d1pXV3Q3aXdiMFc5eVhVeWxGWjNpZG9wT05yR19EYVpYNDdSMnB0RDJTWEVYM2FocE4xUEpFU0VXc2M?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-26T00:15:29+00:00",
-      "summary": "Google’s TPUv8s for Training and Inference at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
+      "title": "Nvidia Q2 Earnings 2026: AI Chip Demand Drives Record $96.2B Revenue - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVp1NW4tRktteFVDMXNycEhpS19KZUl1TEZoLXRyNTZrQW9xNXVhWGZrWG5MdVptZURDSmtxUkV6RDIwa1FFalZMSTZxS2RaWW1TZWVrNGFQVkY0UjFwc2g1TENINVlOM3NLS2I3ajhQM0Npei1Namdzc01MX1JORA?oc=5",
+      "source": "Intellectia AI",
+      "published": "2026-08-29T04:14:54+00:00",
+      "summary": "Nvidia Q2 Earnings 2026: AI Chip Demand Drives Record $96.2B Revenue&nbsp;&nbsp;Intellectia AI"
     },
     {
       "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
@@ -150,6 +136,13 @@
       "summary": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
       "source": "CNBC",
@@ -157,11 +150,18 @@
       "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-07-07T07:00:00+00:00",
+      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout. - The Motley Fool",
@@ -171,11 +171,11 @@
       "summary": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "OpenAI’s Jalapeno Chip Beats Nvidia Blackwell on Speed and Efficiency in First Tests - Intelligent Living",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wMTI0TE90ODdYTkFXYzZieDM1MThQTzJmZVhvUEVKbm83djF6MnV0bjVwemVjSlFEenBDajBZLWtOdUxhWkZSOE5sVWlWdFF5bnpUSGp1MFphY25Oa3pPSUYzQmZjMFZBYkZVam5iZURNT3d3aFE?oc=5",
+      "source": "Intelligent Living",
+      "published": "2026-08-27T02:50:01+00:00",
+      "summary": "OpenAI’s Jalapeno Chip Beats Nvidia Blackwell on Speed and Efficiency in First Tests&nbsp;&nbsp;Intelligent Living"
     }
   ]
 }
