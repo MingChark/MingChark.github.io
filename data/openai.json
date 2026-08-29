@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-28T21:57:06.978381+00:00",
+  "generated": "2026-08-29T06:25:41.959714+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "OpenAI says it's ending its deal with Cursor because of Elon Musk's companies violating contracts - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJrSTF4N1dNX0paYUVuMmE4dnBQSWlxU0U4bzdJSF9FSG44VExZdktHRDA5RW1BeXE5YmFtQXBxa1ozSVh5aTUydk1xaGFtZkp0ZkQtZk1Bb0VMMDh4SnFqN0V1QmlSUEdwaWZYMWtSTDIyZ2JPOHpBakhJS1I4RlZNdGUycGhnb1JxX1RlQnNULVdha3JTaUJ0ZEdBTFNx?oc=5",
+      "source": "Business Insider",
+      "published": "2026-08-29T03:41:42+00:00",
+      "summary": "OpenAI says it's ending its deal with Cursor because of Elon Musk's companies violating contracts&nbsp;&nbsp;Business Insider"
+    },
     {
       "title": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5",
@@ -10,67 +17,46 @@
       "summary": "OpenAI and Anthropic are ruining San Francisco&nbsp;&nbsp;SFGATE"
     },
     {
+      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - METR",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5",
+      "source": "METR",
+      "published": "2026-08-26T07:00:00+00:00",
+      "summary": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident&nbsp;&nbsp;METR"
+    },
+    {
       "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
       "source": "NBC News",
       "published": "2026-08-27T12:02:00+00:00",
-      "summary": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find&nbsp;&nbsp;NBC NewsWhat We Still Don’t Know About OpenAI’s Hugging Face Hack&nbsp;&nbsp;WIREDBrief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face"
+      "summary": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find&nbsp;&nbsp;NBC News"
     },
     {
-      "title": "Sam Altman: OpenAI may reach AGI this year - Sources | Alex Heath",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zUXhiTkVQRjJTNnB2SDYzRWE5YTBfNjR3UmdIektnNENkZ3RYazFLR2o5Mi1LOWMyQkxnOEYyeW41blpUbFFIdVlPeFo1VEVpZWtzVXNRQQ?oc=5",
-      "source": "Sources | Alex Heath",
-      "published": "2026-08-28T01:49:39+00:00",
-      "summary": "Sam Altman: OpenAI may reach AGI this year&nbsp;&nbsp;Sources | Alex Heath"
+      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-29T02:01:00+00:00",
+      "summary": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Inside OpenAI’s Reboot - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-08-26T11:00:04+00:00",
-      "summary": "Inside OpenAI’s Reboot&nbsp;&nbsp;Time Magazine"
+      "title": "Tech giants warn time is running out to prepare for AI threats - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5",
+      "source": "Axios",
+      "published": "2026-08-27T17:03:56+00:00",
+      "summary": "Tech giants warn time is running out to prepare for AI threats&nbsp;&nbsp;AxiosGoogle, Microsoft and OpenAI among 100 firms calling for better cyber defences&nbsp;&nbsp;BBCOpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats&nbsp;&nbsp;CBS News"
     },
     {
-      "title": "Gwyneth Paltrow Postpones Dinner for Billionaire Sam Altman at Her Hamptons Home After Backlash: Source - People.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3pyQjRwSVVVQmRGaWpCVmNfaUlCaHBhdFR1Q2VWNGlFaXRGWTZLcktjS3hBaGNqQU9ka291WjdFNlY2V3FnNmFlLWp0N2VYekJURTdCSk5VOFNJN0JzOUlqSXFFXzlBdlNxdnplWlpTTjBvd2ZabGZieFlsOUM4ZHdNNjlGbXFpeTRuSWczbw?oc=5",
-      "source": "People.com",
-      "published": "2026-08-28T19:53:25+00:00",
-      "summary": "Gwyneth Paltrow Postpones Dinner for Billionaire Sam Altman at Her Hamptons Home After Backlash: Source&nbsp;&nbsp;People.com"
+      "title": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1ZJaW9jOG1DZG1tZ1VxTmkxbVRxemhiNHN1alVzZXU2ZGpSNzEwYnl3ajBobWpoMEpXOHByQXVxa0NsWkd4cDhzWktmY3p4WTJlcjhFanAwQ3B1WEhoNVU0T2xBQkhtSnh6ZmJOTkt6LURqYnZNWk5BNTRHR2F1WGVENktNZ3dXYmYzTGF3dEM3UmNQdGVOWEdrRVV2bW5GRDRFblNIZHF6dw?oc=5",
+      "source": "Variety",
+      "published": "2026-08-25T16:01:00+00:00",
+      "summary": "Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing ‘Damage to the Soul of Humanity’&nbsp;&nbsp;Variety"
     },
     {
-      "title": "Andrew Garfield on OpenAI, “Artificial,” and the Film Amazon Quietly Dropped - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFFNMkEtS3kwazZUdWR5bzVEaVB0aUhwWjBiRHBkMDQ3aXNSZmRBSy1HUXpyWGlhTnJlV3JNVzJ2dm5HY1QwRWVoalJyWURFTjRBbzBUVC1xLU03UmJrUlgyZEtOUk9CcEVBU0N0T241OHJscjNER0Fxc1hieXZCQlh5cDdCdG9MbGw4MWgzc0dfNk1GM0FxZWRDcEttLV9uaXV5QW5RR18?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-28T19:14:31+00:00",
-      "summary": "Andrew Garfield on OpenAI, “Artificial,” and the Film Amazon Quietly Dropped&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZW5yWlE0YV9EU2xVM0NmOG1sQzlOUVFQTXY1Z19iTmpNTFBEZkN4NzVqTVJNdWRUeHl5d3hfT2QwLXpqTjJpTkNaMHFwOUFlRmNmUVYzSExCWmctVGZiUDRTa2VNVk5oS0x2M2M2SVRFdmtqdmQ0ZmRn?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-27T19:58:09+00:00",
-      "summary": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats&nbsp;&nbsp;CBS NewsTech giants warn time is running out to prepare for AI threats&nbsp;&nbsp;AxiosGoogle, Microsoft and OpenAI among 100 firms calling for better cyber defences&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU3BSTUhWQXkxRjEwZHMxbmN0WEkzX1VEY3AwZUtHbzB1eVpzTVljOUlMV1pzd3ZVTkNqN0FVTEtpajRPcnhKZEhsaUxhd0Vac2NhR19NNDRxQWQ5bjVmWlVzV3NBbld0OHNxZjRlY2J2bmxDMGZxYTZLazfSAYIBQVVfeXFMUEM0VGlsR0dXUUxCZDdfWW9iQmhDS1NocUNFSWVQcWdrLTFzaGxzdkFxcW1pSEx2dFdJQ21TLWUtbDJvWkdNOVQ1R3Y3aDBZTS1CNDEzcmhfUkgyN1JfemdxSDhXVXpSN3NvQTRLeWU3RHJ6Q3RQMUl2ZjVGM21lZjNDdw?oc=5",
+      "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2Ria0RCX0MxUjdwSEFyZnlGLXViUy1HbHE0b1pKYlJIaDRfUkhTRXRfRGdiTDVqWWJBY2J1TWpXZzlGOENTRjE1ZHpjVl9JRnZWaXVHZ0VybVZIaEh1MlFRaUp0UzYzYy1ERnd6ZTcyZ3hYZ2lMdThvbFNUZGR4ZHNBdnFQSTVPWTA2MG9XZGY4MEI4dWlpcGhaN0J6YWxZTGZleUUxdVY1UdIBrwFBVV95cUxPYnhKYVFxbEcwT0IwQWlDSklxa20yZHFwVXdUSzJIRWNTaGJwNk42N0pfaXY2MGdyay1PbDB4eWZnZVVsZjF6YnhxOVE1MUFPVTdLRzkwbTNqVjgtaTdkT2hnbVVJaVlYbUFSU0lQTFBXNkhHLWhMZ0ZKTEFkd1VGYTctanZGMVJ3QW94cmtxYkplM0NibHU4TzFsa3hHY2ItcUtoa19JM19LSHo2WGNN?oc=5",
       "source": "CNBC",
-      "published": "2026-08-28T03:26:00+00:00",
-      "summary": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGFlbllQaEF3RWFFV0lxRzZOQ0M2VXBHekRuSGpDcnJvYUdtdkJIZE1heDM2TFowQWtJRUNtM21LVkhCa2VVbzNlUUROQjh0dlRORnRTNjQ4Q191bTA2a1dXSzhlTDl0SUI3QUs0TTBrcTB4WkpjY0lZUFRwWU0wVGZObW8wUUlFVW1CamJPZGd3VHVFV0VGaW9PMXh4eFBvTnFB?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-27T11:35:59+00:00",
-      "summary": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI is bringing ChatGPT ads to India as it ramps up revenue ahead of IPO - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wb1FzNnlESWt2UzliLXExSHhNMEdlZUJKeWh6SjZ3ZHFMb2xVQlFTbkFaY1RPSkxWQnlpU0RrZU9mZDhMdEl3SnczVFVYY1NVcW5QUWI2Q2J4T2VRdGY3MW5sVUZURjhkTVE?oc=5",
-      "source": "qz.com",
-      "published": "2026-08-28T13:17:04+00:00",
-      "summary": "OpenAI is bringing ChatGPT ads to India as it ramps up revenue ahead of IPO&nbsp;&nbsp;qz.com"
+      "published": "2026-08-28T11:00:01+00:00",
+      "summary": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics&nbsp;&nbsp;CNBC"
     },
     {
       "title": "OpenAI Is Developing a ‘Persistent’ AI Agent - WIRED",
@@ -80,60 +66,32 @@
       "summary": "OpenAI Is Developing a ‘Persistent’ AI Agent&nbsp;&nbsp;WIRED"
     },
     {
-      "title": "A researcher joked that working at OpenAI ages you. Now colleagues are posting their before-and-after photos. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXpnckJ4bDZuWmtvTzlXTmVWMkhwekRHVUo3REg2b3NKSXdYUkprUmc2dGktMlZWS1JDX1RXZXpFY3BGTi1FMjFXWXdlRmpGLXFmMHhlWGdzYUk5a2o3UlhYR0t3QUsyY1N0NWROVm8zNVQ4Y2xhWUdwUEdpdXVWbTJFNHNmbGVIQ0xYbkkwaGVhcU0?oc=5",
-      "source": "Business Insider",
-      "published": "2026-08-28T12:08:11+00:00",
-      "summary": "A researcher joked that working at OpenAI ages you. Now colleagues are posting their before-and-after photos.&nbsp;&nbsp;Business Insider"
+      "title": "Inside OpenAI’s Reboot - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-08-26T11:00:04+00:00",
+      "summary": "Inside OpenAI’s Reboot&nbsp;&nbsp;Time Magazine"
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWZQMTdzeTVaQmsybE5jSWQzZ2F3NE9Dc3o1NmNvMmZWTnNnb0ZCMlNQaWw2U0NXVzA1S1JzcDF0dWVmSTZGajlzaUVyNUdvTndoeVI2UnRxRnZ4Uk5fdW4tMHI0VU5pbnB5c1h6cnBCQXlaR2RtN09Id05xbXVaSk1haHhQZks3UjJ1LVMyeFIzVHptbHZ0OHpHU3dUYTlkb3BVTGhHWEJTWWs?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-27T23:16:45+00:00",
-      "summary": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXk1WVQ3djZGQ243VGxaaUExTzJQZUVfanBONDVRV19EM054dGJ0ZW1Kdk04ZktkaUp4b2ZLSFRNZEtYaEJGSG91MzduREhxeldXdjJibWJJUlNNMFJ1TlUyc2ZvMUUtWGVKMFdndk1OUFZEUDVQXzhjZE9iSDZYaGozOG5wWGYzRkE3ZXlKZ1djczhIVExfUGZPYzZKcjJVSDRlT19kV01ud1FQdHJabA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-08-28T07:58:25+00:00",
-      "summary": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+      "title": "Our decision on Cursor following its acquisition by SpaceX - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
       "source": "OpenAI",
-      "published": "2026-08-26T07:00:00+00:00",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+      "published": "2026-08-29T01:46:12+00:00",
+      "summary": "Our decision on Cursor following its acquisition by SpaceX&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0diekFyb2NtR2cxZm41T2JwNEVJMEppbk5mN09yREt0RXY2RXZ1alBReWowVVFUXzA2dXVWRkFMZTB3LUNZZ3REc0owMXRIMXhpajJrTzVraDFGSFRCMlE0UzQzaTV6Ml9aTmIwT0poQlNHSWRaUWNPR1BhdnZZMUkzR2ViMGIwelNZckdCNUtOS0JvQjVyblJZR3A0cnM0MlhvbmtYMktLdEtjcElDcFdpblJKc1JrYzJDa3VSTE1hTDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-08-28T12:21:06+00:00",
-      "summary": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India&nbsp;&nbsp;TechCrunch"
+      "title": "OpenAI partners with FWISD on ChatGPT for teachers. Questions remain - Fort Worth Report",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlIxMXhvWWtxSnJJZHBlWnhramh0V1M2N2ltakV3aVNkbVNOeHJTb3plc1kyeWVweXBVUHhNV3U3cmVwVTVlMmZ1NG5KR0hPNUxqQ0NEaEFwbkhuS2FIcXN3Z2ZkVVNxWGVhNmpPb0MyMU1EdDQ3VEs1cjZGem5BVEhXYTU2NU5uRlJ6Mi0xeU1qTVpLUjQwcGRvc2Ixeml2SjZTdlN5X1M5VVk?oc=5",
+      "source": "Fort Worth Report",
+      "published": "2026-08-28T22:00:00+00:00",
+      "summary": "OpenAI partners with FWISD on ChatGPT for teachers. Questions remain&nbsp;&nbsp;Fort Worth Report"
     },
     {
-      "title": "5 lessons from the OpenAI / Hugging Face incident - Marcus on AI | Substack",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91RUxIS0FfbVh4UGV4bXl4clBXZUNoWWNfX3pwUjdqa0dwRklOcGN5ZzQzaHJTNkdrWGo2UHNEZ2ZMbzZOMmhiN3A5OElTUzl6a3VHaWFRRWx2TjdLWjdXMU9Lai1BblVNS2RLZFZYUFdJMU5yYnc?oc=5",
-      "source": "Marcus on AI | Substack",
-      "published": "2026-08-28T18:24:05+00:00",
-      "summary": "5 lessons from the OpenAI / Hugging Face incident&nbsp;&nbsp;Marcus on AI | Substack"
-    },
-    {
-      "title": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History. - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2loTDRiU0lmWmF0cXhPeTN0bXU3ajF1QUZyS3QwZmp6NmFES0wtNWYzRHV0ZmM5Z2E1UVdQbG05Nm5rcHJ4S2xCNHpIRmVDWW5qTWpFXzF2V2ljVkhWSi0xQnFONERZWV9wVFk2UkhmWklhNUNqWjFSdGh3MG1mMzJndlNlTnBpb3JuZHN4RWlrVUJfOWtKLVprZURPbF92ZWJKTVlwdXdDLVlKbUJTMk5rOE5nRi1yelBsU3N1T3h4bGU4VFdDOFBKeG1JVjJmUkFvV1AzRDdxYmhraGtyVg?oc=5",
-      "source": "Forbes",
-      "published": "2026-08-28T06:37:45+00:00",
-      "summary": "OpenAI Says AGI Is Coming By Year-End. It Also Just Had The Worst Safety Crisis In Its History.&nbsp;&nbsp;Forbes"
-    },
-    {
-      "title": "Warnock Visits Future OpenAI Data Center Site, Calls for Statewide Moratorium - U.S. Senate (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXJYUUdMNEQ1SmZyRW5hRjNyN2ZmR2lQUlpjd1BkdlNpQVhCb3BEV2dmWF9OYU5QVHNySnlUcHd0VkJ2UXpZY20wV2Eza1E3SC1ncmJiRU9WU2MyQldWVU8wc056cDd2YXEtX3NLTkJpMVRHM19NNmE0Mm15MkJVSVVrbG1oM1pjdEZGVzdCdXpiOGJXWHZYRUx2bWFzaDNKbVl2TDMySlc3c2dBNE9qNDkyZjZMNlR6c0JYdXVZUGhBaG9mOTRITjFYYjc?oc=5",
-      "source": "U.S. Senate (.gov)",
-      "published": "2026-08-28T21:38:43+00:00",
-      "summary": "Warnock Visits Future OpenAI Data Center Site, Calls for Statewide Moratorium&nbsp;&nbsp;U.S. Senate (.gov)"
+      "title": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left - thecurrentga.org",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXh2bkRudWJqdzY3UUJpU1A2RFVmWGcyVjAxRkstdHF5cGo4SlJNSERvUENWeG1xNTE1MmtxX1hYdHVSOUEtTkp0Mzg4X2J5Q2llMkFsVnJtR292WmxkLVJyMWJraFdETHVnVTFfZmE5VjlFRHF1aGtvQ2JQemdlUG9udV93ZURyeTRyX0hMdE0zdmFlbGJyNmVvSHlGeVI4THdYVHE0a1EwdE5sYm5wVl9Wd3JrM3FBZEw4c0dGMGc5Z01PRXRVOXdB?oc=5",
+      "source": "thecurrentga.org",
+      "published": "2026-08-28T22:03:03+00:00",
+      "summary": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left&nbsp;&nbsp;thecurrentga.org"
     },
     {
       "title": "OpenAI had warnings before its agents broke out - Axios",
@@ -143,11 +101,25 @@
       "summary": "OpenAI had warnings before its agents broke out&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Supporting Thailand’s next generation of AI startups - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
+      "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-27T17:03:32+00:00",
+      "summary": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
       "source": "OpenAI",
-      "published": "2026-08-28T09:05:06+00:00",
-      "summary": "Supporting Thailand’s next generation of AI startups&nbsp;&nbsp;OpenAI"
+      "published": "2026-08-26T07:00:00+00:00",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-26T17:05:26+00:00",
+      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
@@ -157,13 +129,6 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T23:14:07+00:00",
-      "summary": "Bringing ChatGPT for Teachers to more U.S. school districts&nbsp;&nbsp;OpenAI"
-    },
-    {
       "title": "Expanding OpenAI’s presence in Brazil - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRHQyTzhvUjBiV3NKUFFYczdEZUZRcnlodTd1U00tSEFTcFh1cjZ0ZjJVT3BHVmI3S0pQZEFWbUFXeVdYUG5EMTBZT0ZrTDZ2V2toWEVqRkp1NUg4M2M1V1lPdTFUS185VVE?oc=5",
       "source": "OpenAI",
@@ -171,11 +136,46 @@
       "summary": "Expanding OpenAI’s presence in Brazil&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "Disrupting a new covert influence campaign from Russia - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T08:07:55+00:00",
+      "summary": "Disrupting a new covert influence campaign from Russia&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tRm9iT0h5ZzlndHdoZGxMSGNhX2RtanVQd3ZVS045V19fQ3d6NThoNzNxdGt1d3VqYU40VmtCTktiU3FTMnJ5TWN3NHVhRnczcW0tSGQ2cUNIVlpSN0QwQVd0Q1JpNUUtTE9hZVVqVE9XUjlOdzVjT3FMYkF2dw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-28T09:05:06+00:00",
+      "summary": "Supporting Thailand’s next generation of AI startups&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-27T16:03:46+00:00",
+      "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "The full stack behind abundant intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY2JkdWZHbUw1eXI2WkdPdXVPcWI4cENMZU5NZTRGQXN5em1WczBjTml5LWs5UXRCdXpBc1JyMEF0RXNjS0hlYkhIeWhDUzM4ZjNXRjZNQ09xN1FRX3czS3JRTUFOSFNyQ2lOU0FCaTNMcnl2Y2Z5OA?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-25T14:58:12+00:00",
+      "summary": "The full stack behind abundant intelligence&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
       "source": "OpenAI",
-      "published": "2026-08-25T17:15:33+00:00",
+      "published": "2026-08-24T19:46:20+00:00",
       "summary": "Introducing the Admin plugin for ChatGPT Work and Codex&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-24T19:05:56+00:00",
+      "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro&nbsp;&nbsp;OpenAI"
     }
   ]
 }
