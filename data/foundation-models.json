@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T03:44:22.496848+00:00",
+  "generated": "2026-09-02T10:56:17.605581+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -22,13 +22,6 @@
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
-    },
-    {
-      "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
-      "source": "Esri",
-      "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -80,6 +73,13 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+    },
+    {
       "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
       "source": "Medium",
@@ -108,11 +108,18 @@
       "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
     },
     {
-      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
-      "source": "Linux Foundation",
-      "published": "2025-12-09T08:00:00+00:00",
-      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity - Neuroscience News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydG9YR3lTV2xrb0ZpMmRYb0stakZmUVBqX21BdERnQi0xSjFmY2FEWXhmbHNnODNsam1YQ1JWWFBPZUZLNy12dkZUaEc4MkR0SGVPMDNOdVFTQ1FKQmpNTGNvN0dkMFZ1RWJZckdRWWJNZw?oc=5",
+      "source": "Neuroscience News",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -129,32 +136,11 @@
       "summary": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - marktechpost.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTE1pYjZfZnJoRzhYbUloS0hnNlNONTFONjlLTkN1ejFFUmFOMUFwMDlXNFJrY1pqbVR3NXZqeFlEaTBzXy03NUx1MEMxT1R3dlNXUktZTnlTcFZQakFxZVl3Wlh5UUxsUy1STlhmOHc2R3hCakQ5SVROVmNWN0V2NklMV19oNGc5alVNZnNnTkVFTURVdUZuVDI0VTU0dGFpTHVuZ3VCMUUxSGZWeURyVGlKX1dxNUpfZDBrbTVPYjVXV1hpeW0wbF9oUGZZd05kdGlyY1N0alNyaVE1ZE5EVUgyeF9wZnhVMjZ2cjE4TEpWbA?oc=5",
-      "source": "marktechpost.com",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;marktechpost.com"
-    },
-    {
-      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2025-12-01T08:00:00+00:00",
-      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity - Neuroscience News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydG9YR3lTV2xrb0ZpMmRYb0stakZmUVBqX21BdERnQi0xSjFmY2FEWXhmbHNnODNsam1YQ1JWWFBPZUZLNy12dkZUaEc4MkR0SGVPMDNOdVFTQ1FKQmpNTGNvN0dkMFZ1RWJZckdRWWJNZw?oc=5",
-      "source": "Neuroscience News",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
+      "title": "Lunai Bioworks (NASDAQ: LNAI) Launches Sentinel, an AI Safeguard to Block Large Language Models from Generating Novel Chemical Weapons - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTlJHUXlzcWlVdWtYWjFNTmVPaUg5LXF0TGdxRy1VZDREc0JPd2FIbGFGUjJHejdBQlg5cW1Sc2oxU19odVI0WUR1cTVjRkRNLVZNdm5XVmxWdHhIaVhQM1dsZlF1M2x2S1dmaG5YZDg2bmdfQVloa1lnOXVNd1U4c3FwVFFnSFhkVnptdHM3ZEdndzRmNVBYUHVNdTFtZTJtQmtNc19ZRlJMelVjYV9SMDFGOGRSak9vd2JpS3BCSjJjcHBnUGtyT2ZlYXliYlVGdG54Y0g0bW1nXzY2S29HaTJ0M2RWcU1XN19CQWJVQTl4M2RiWElWWHNiTkpPMmdQeEJVUDBmTmhMbU0yNjZfM1VIRHY?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-01-27T08:00:00+00:00",
+      "summary": "Lunai Bioworks (NASDAQ: LNAI) Launches Sentinel, an AI Safeguard to Block Large Language Models from Generating Novel Chemical Weapons&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "The Best AI Models: A Comparison - Built In",
@@ -171,11 +157,25 @@
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     },
     {
-      "title": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation - marktechpost.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcXVHRW1fQlhaZHgyNG5vWDNXTkRnMEJvMFg3cXQ5MXRRbW5qMi1zLW84S3B6dy03Q3Uyd05kWF9qWHhkaHhTSkRIVGZuaV9CVHVTWjk2d2k4QUV4YzEwOGgzaGM2ZF9XTWc4QTMweUNoQ1hsQW9oT2dOM0x6N3ZRaVBiOEJ6ZzdNdVlGeDk4NHExTXlYM0o1ZDk2Q1E3bGp1eFBFMGV3bkJTT3J2VlZZbFA2RldkQzZoZWJZTU1vdXFLMFhZMHhsQzl6S0c2QXJ2NTJ4RmpISHo0VmFDYlNXdtIB5gFBVV95cUxNVGd1TmNwU2ZpZHVJS0JTVzhpeEhldFJ1SnZkLTBfZDJWekl4M3R3Qkh5enE1VnRrSS1FRUdaRUM5d19zbnVpOC03eWdPYjNQbm1RSGZGcVhOODhtV2VfZ1pNUUl1bkprRjVQdXd6a243emtaY2xVb0dad2RtcDJqellQc0h3OEdSSXNxTE90WlYyTzNQck9DUFNIUHNhLTNGVG5ma0pxNTN4TUhUcUdWOUFkdFhUU0VhUWZmUmxmdXdsSVlXd0ZlMHpWaEhjYVJ3N0U5NGU5QmJvdHMwdmFQWnBxalZGQQ?oc=5",
-      "source": "marktechpost.com",
-      "published": "2026-01-29T08:00:00+00:00",
-      "summary": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation&nbsp;&nbsp;marktechpost.com"
+      "title": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVJpN2xXVGp1VUtyWDJWTnNnTkx3VzhSbTVxUXgzTFdBWW5KMjFnSHg1ZlcwNC1QVFVfUjYyQTd4UmlxQmxLWnI3ejcxdHlhdjhqUjVNc0o3VnFrZG0yVW1ueVlJLXRNWjByU2tRS1RiSmJXMHB1ZnJOdFNNY0Q0aVhXZ25KZmQyVjEtTUtSaE4ybTRwTGhmYzNfc0lBUjZJOE1aci1YeEZmOGsyczZEOHRYTHFpSHZqMUttdVlaQUfSAcABQVVfeXFMTzNmbS1Qa3NUSDhRU0dlMUJzcEQ5em16M1N4ZTZRcEFSREJrbkhyeXg0T3FQYVktdjhtYnRneDFBejlLeUFXMG9CYzF1S1ZyeG9hZ2Y2a1piOUJtck1IVTRiV3J3cElSYVdvbzVvYWdEWGttVXpRM0dSVU9aTDFmV1ZDRGtucGoyVzVZME96b0Y0T1l3Zll3YkNHb3paS19IMHZjZTE2RGZneW1nLVdxZ3hVbFR2bEVNV2NHNHpNa2Zt?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-05-20T07:00:00+00:00",
+      "summary": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory&nbsp;&nbsp;South China Morning Post"
+    },
+    {
+      "title": "A multimodal whole-slide foundation model for pathology - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CQVRiS1VfWUJoeWFHaEt3MlZQMm9YSVZhU1g5YU9ycVBfTFJzUGg1MGRObE1Tc3RrS183MGFmSkc5UUM4M3Qtd1hPeE9felJRa2FmMm5xQjNOQ2VVUG9J?oc=5",
+      "source": "Nature",
+      "published": "2025-11-05T08:00:00+00:00",
+      "summary": "A multimodal whole-slide foundation model for pathology&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Launch of the First Open Large Language Model for Latin America & the Caribbean: LATAM-GPT. - Access Partnership",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaV9zUVVTdTY2TmhjY0JOQmd5SEs0d25BcjRwRjFvdGN1a2NWMjVPS21WcmVuQ3ZCLVQ5SVhWTHZQVXlVVHR1QzVpUExNcUZaRmtvWFNuMVUtWDFyclBhRi05d2wzZEc0NUVkZy16Uy1GQzBiQzJ6VnhQTVJhZC1uYU5xTl9pQWlOcmhGWVk1ZzhvMmpZS1dCOGJGVm9iX3FyQ0ZBZ2JORzAxRTlvelZHX1ZWRjVmR215S0ZYaTdscURLdWFU?oc=5",
+      "source": "Access Partnership",
+      "published": "2026-02-12T08:00:00+00:00",
+      "summary": "Launch of the First Open Large Language Model for Latin America & the Caribbean: LATAM-GPT.&nbsp;&nbsp;Access Partnership"
     }
   ]
 }

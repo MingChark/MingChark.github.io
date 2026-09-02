@@ -1,139 +1,48 @@
 {
-  "generated": "2026-09-02T03:44:22.496848+00:00",
+  "generated": "2026-09-02T10:56:17.605581+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-09-01T20:10:05+00:00",
-      "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability&nbsp;&nbsp;cnbc.comSecret Technique Behind OpenAI’s ‘Astra’ Model Sparks Security Concerns&nbsp;&nbsp;The InformationOpenAI says upcoming model is so capable it requires stronger guardrails&nbsp;&nbsp;Reuters"
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFRfenVBWmZXMms3bmQtSzFWc3RqQjBCUFBjODBxcEVIOFdVUUtPd29SX1pqWVhDVzl1cGV3Y2kwNVdjNmRhbzdXdjdwRWRXU3BzOEdqTVJTa2VKb2t0QlRRUm41RVJmZXhjUTh0bVUzVEZkR0VPUGlOMzlONFRpZTZVWWgya3NxdFV2SnFTZ3BTZkhBOFdjMm12WE4wYXhMSlhMblk3Z3JiUGZZdFVVZVFBWEt1bms3?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems&nbsp;&nbsp;TechCrunchOpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities&nbsp;&nbsp;WIREDOpenAI says upcoming model is so capable it requires stronger guardrails&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI - cnbc.com",
+      "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-09-01T15:32:36+00:00",
-      "summary": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI&nbsp;&nbsp;cnbc.com"
+      "summary": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-02T00:39:09+00:00",
-      "summary": "Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics&nbsp;&nbsp;The New York Times"
+      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - metr.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5",
+      "source": "metr.org",
+      "published": "2026-08-26T07:00:00+00:00",
+      "summary": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident&nbsp;&nbsp;metr.org"
     },
     {
-      "title": "Sam Altman contacted Gavin Newsom over kids’ chatbot safety bill - Politico",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0FCd0tLLTI5SGI0WXV3NVprTmkxZXd4NDR4Y19aMDVkcXZYeWFUSkdkRUJYd0xxaVBxQ2Z4cDFNb2FDOXBhU2NzVXRYLTRMQk5vVkFqdEQtcG4zdjdLTEhweG9SaGZlTVJ4bzdpR2l4bHg4RmFUS1h1anR2VnNlSDEwak02ODZIREF5X3M3NDVhc0xUWlQ3VXV0alRqNXBzQ0lvalpMVV8xZG1oeXc4?oc=5",
-      "source": "Politico",
-      "published": "2026-09-01T19:24:00+00:00",
-      "summary": "Sam Altman contacted Gavin Newsom over kids’ chatbot safety bill&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "Sam Altman on OpenAI’s next model and the AI backlash - Sources | Alex Heath",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xR1pWR1NIRkFGb2dmUnRJRFRmYXJGdlQxV2FPeDI5dFAxd3Vmdi02ZHlqT1VObEc0cVJfUnpjdTYzd0NNbThsV3RtRHZ5TDFmRVpYcTdTNlllNGNKTC1VaEVKQXdNQQ?oc=5",
-      "source": "Sources | Alex Heath",
-      "published": "2026-09-01T17:02:27+00:00",
-      "summary": "Sam Altman on OpenAI’s next model and the AI backlash&nbsp;&nbsp;Sources | Alex Heath"
-    },
-    {
-      "title": "Sam Altman says fears that AI data centers guzzle water are overblown — but hard to dispel - businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0JGN095aFZmakFCRTZ0MGVTeUljWHlkY1NuMk10MGJLS1RYS0xVZlNtT0tnSTN2cmw0TEpnOVlDN21pd0huQUlEVVA5ODd0bG13LWMxYzU2X2U3RmJuZHM5RlBKSThBbTRaVmhHREk0QmVDcnEyNlRWcWRiOFE2WVBTajF1dGJ2VlV4MlNkbk1YWVl0ek1kVUlmcw?oc=5",
-      "source": "businessinsider.com",
-      "published": "2026-09-02T00:20:00+00:00",
-      "summary": "Sam Altman says fears that AI data centers guzzle water are overblown — but hard to dispel&nbsp;&nbsp;businessinsider.com"
+      "title": "Meet The Ex-OpenAI Guys Building A Cheaper Open Source Alternative - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTEtTQy14dmJ3b0NUSkV3Mk5YYk5LdmNjQXZkSzdoNVhJbWNCcWpyTlYxZnpvNVBHbGFkYng5REtGcGNMaUlPbVMtODdmc0NmRFgzNEpsd19OQVRPeHBkYnFhS042VkVkN2VDRk1ZZTd6SjhHY3RzbVBqa3dTLUhYSXhlcWF6bkZMOHFHUENQYmplc0FqVUwyRGN3UWcwbzRxamNLdm44ZzFUel9HaV92QXhtbHFJSTJZYXlVUEJwbFRUWFI5dVpMNjA3NzZWcU9HbUE?oc=5",
+      "source": "Forbes",
+      "published": "2026-09-02T10:30:00+00:00",
+      "summary": "Meet The Ex-OpenAI Guys Building A Cheaper Open Source Alternative&nbsp;&nbsp;Forbes"
     },
     {
       "title": "OpenAI says Apple has only itself to blame in trade-secret fight - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5",
       "source": "Reuters",
       "published": "2026-09-01T05:32:00+00:00",
-      "summary": "OpenAI says Apple has only itself to blame in trade-secret fight&nbsp;&nbsp;ReutersApple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI&nbsp;&nbsp;TechCrunchOpenAI Purchases Tens of Thousands of Mac minis, Mac Studios&nbsp;&nbsp;TechRepublic"
+      "summary": "OpenAI says Apple has only itself to blame in trade-secret fight&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - war.gov",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2FtbEFMblFrZFZ3bnBXbGhZZnNCUzBXd2Ytejl6QmZhak1RZjBjQU5XQmxTck5ac3J2NkN5bUZwSzEtUVl3aXRsb2ZBMmtSMHdwZXFRRk9MMFQ1OWFtNkFOVjBvcWRZU2NtOEpvemhNUkpfMThMaTdSemJhbWNFR1dhMW5jVkNXZnhCLTVraGpJSFVDaEkzZFJMeVhwekpRQS14bDB0TTgwcUVMNmgzaF9zMUY2TmFD?oc=5",
-      "source": "war.gov",
-      "published": "2026-08-31T14:01:43+00:00",
-      "summary": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil&nbsp;&nbsp;war.gov"
-    },
-    {
-      "title": "Meta just beat OpenAI and Google at real-time transcription - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BMXNsNzZ0MzdfaHRsbTNIZXBhOW96QlNqcWFEeUgzUkdYZGxKai1HX0ZOaHJzbXZ1UmhfM3d0cVNtWDVzdE9NQUd4ZFJRakM3dUlLTFZsZ1lPdmsydFo4?oc=5",
-      "source": "The New Stack",
-      "published": "2026-09-01T20:34:02+00:00",
-      "summary": "Meta just beat OpenAI and Google at real-time transcription&nbsp;&nbsp;The New Stack"
-    },
-    {
-      "title": "Big Short Legend Steve Eisman Warns OpenAI Failure Could Trigger 'Immediate Recession' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVZrcTA3b2tCa05naDc2dFZfUllIU1F6MDRvUTdCZHEyeHVJSEl6ZjF0Y0EwdnR1UU9JS3otUlNTN0VMczdfNlNyRXBTal93WkxlYUdsejBTb1MtY0xCQ09HMlpwM29WWjczSEIyd0hxT1FWb2l5c0wxVU9wRk9sVXhiS2UtU0ItZ1pwVDIyWVk?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-31T23:31:18+00:00",
-      "summary": "Big Short Legend Steve Eisman Warns OpenAI Failure Could Trigger 'Immediate Recession'&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI says ad biz reached $1B revenue run rate in less than a year - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lTmRKWjB5WTR3R0YxQkhxaGg5SFVIVnZsc1hVd09KMlhqOFBSVW4weGJkZUxhbHpDb3QzbUFSYkFoSUVJdTJDLUxWb3NZYXZWLW1EaDBaN3FtRTBwb2h2cHVXTjZHX1ZNT3FEeEZDZGlIcEVkTE1ZTHIzTQ?oc=5",
-      "source": "Axios",
-      "published": "2026-08-31T21:13:13+00:00",
-      "summary": "OpenAI says ad biz reached $1B revenue run rate in less than a year&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TTNSWnpWUm4yMnJ5Wkk5aHg1clFxY1A1OHkxcVRiZ25SY01oWk1rN1QtMlVFQ2NpTWZMejVzS2dfaldqcEFiSEhIVUhESHJUZnNZQXRRaUZzUFBWenZVRlFrcnQzV0JwTE94Mm1KckIyQdIBd0FVX3lxTE5QU1lUNWNXX0FrZFFxSnVycUZMSjFVM1pkbWJQMmloVk5PRVE0bWp5a3BzSm1HaVJ1ZFV3MlNBU3pKaFl4WE9DZUhWLWVBTkZvTUlPVU80SXBEWk4wUHFZQmVUanpXTHpfMU80bWtXdHJUMTVJQVBN?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-08-31T13:00:01+00:00",
-      "summary": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate&nbsp;&nbsp;cnbc.com"
-    },
-    {
-      "title": "OpenAI's ad business hits $1 billion annualized revenue run rate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0hKQjN1ekFIRWlQcEVJazFubmJLMXlnTHZ6T1drTTFQcldkUTJsV0FMVXJMX2YwYThaaXQxYnNiTGhYQTlIcF9VdWZrd1lSWXExdkZGU1I3NXZ2ZVNPUk5ySHd3d0VJUTNieDA5S0NwY0l0eG84NVdGelkzT2tqNjd3RE1EdHpSWlNuU1RlSUJmZW1HNVU3M3FYTU9zSm1uS1B5OExKUkxZY2k5OURHdFczblVhQm9pd0NjZnVR?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-31T16:12:44+00:00",
-      "summary": "OpenAI's ad business hits $1 billion annualized revenue run rate&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "The viral leftist teens of Campaign 2020 work for OpenAI now - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuOXljekJkMGRCUWVVaG96bFFaUWlqQ19JTmVaLW5hOThLQjFxbHk5TFBtdk12U0ZiUWloaVFDckNQVmZERGVEZWEyTk9HcnRJNGxSTnhfRlhUdjlrbWJyTlBueGhFODUw?oc=5",
-      "source": "CNN",
-      "published": "2026-08-29T16:00:29+00:00",
-      "summary": "The viral leftist teens of Campaign 2020 work for OpenAI now&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-01T20:11:54+00:00",
-      "summary": "Path to Astra: critical capabilities and frontier safeguards&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFE3NkFwdlQ2WktBelBib0paY3NRUVhCZkRuZF9laks5ZVd5MFhCd0JHWjlqYjF5a1F0WC1GbE5NalgyVEh4REhiRG91TVZFZWs4cUVsWkZBM1hKbnlXRXV1c05NSHVIaGlJUTg4eHpLRTN5QlpXVnpUM2tXY2Z1SWhLSWVzOTROWldMUHdzQQ?oc=5",
-      "source": "WIRED",
-      "published": "2026-09-01T20:00:00+00:00",
-      "summary": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities&nbsp;&nbsp;WIRED"
-    },
-    {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFRfenVBWmZXMms3bmQtSzFWc3RqQjBCUFBjODBxcEVIOFdVUUtPd29SX1pqWVhDVzl1cGV3Y2kwNVdjNmRhbzdXdjdwRWRXU3BzOEdqTVJTa2VKb2t0QlRRUm41RVJmZXhjUTh0bVUzVEZkR0VPUGlOMzlONFRpZTZVWWgya3NxdFV2SnFTZ3BTZkhBOFdjMm12WE4wYXhMSlhMblk3Z3JiUGZZdFVVZVFBWEt1bms3?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-01T21:06:24+00:00",
-      "summary": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI to limit access to Astra's most powerful cyber tools - Axios",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vUDJSa3pzaldMSHhFdWNtYTE4MW1aSHdlRjlfTjJsZXFvdUZyYmVRNGpWdGY2cTlaY0F0RDQwTmtKeTN3MkVFQ2N5eEQ5T2VPRHUybjlUWG9LUXZvbmIzbVl1eTZFekpyOF9qN3F3?oc=5",
-      "source": "Axios",
-      "published": "2026-09-01T20:28:43+00:00",
-      "summary": "OpenAI to limit access to Astra's most powerful cyber tools&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns - fortune.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDd4bFMzMm1oeFc0Slp0S1ZKMVZEd2Z6azJMTFRqTFl0S056WE51dWk5OTRUYWFsWE5nZVVORXprR2pub3JiRmRUQ3hlc1l2SFVpVlprdGFDX2JpV1RBZGJlLTZ4NEhITTJIU1M1bTJubWhYVV8wWURteG5sejU3OXkzYkVjLUs0aEFwR1NUbFZHbjhhN3FrcF9UbE5Gb3hCRkNLek96NWE?oc=5",
-      "source": "fortune.com",
-      "published": "2026-09-01T20:00:00+00:00",
-      "summary": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns&nbsp;&nbsp;fortune.com"
+      "title": "Hey Chat, can you unlearn that trade secret? - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnZCbkMxcEJlczlXbGtOME9RRjdibWRueGs1dnhRbkpqcU1TM1RkSEFVb1FoUVFlYzZKQnBrYVJRbVRYaUVWRDRiY0pYTjhYakxVS2RFU3ZFcU9ZOTM0SU9RQ3lUMXI0QmtaWkQ4RUdFbGdrU1JJZ2pYVjdoWkFRSTdjd2w1dVk4UFE2cjZ1UQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-02T09:01:25+00:00",
+      "summary": "Hey Chat, can you unlearn that trade secret?&nbsp;&nbsp;Business Insider"
     },
     {
       "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case - Bloomberg.com",
@@ -143,32 +52,109 @@
       "summary": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "Inside OpenAI’s experiment with AI coding in finance - CFO Dive",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRm5qem55Y2tYWmJIRERYVGNjT2VDT3VkeEJVSnlEQzJ0WjJzQlpOeGJQcHE1Ny1yRml2ZzEwa3pXa2tJc1F5UFdDcW5QWURlbExsUEYyR0N4b2NVSjc5T2RsZG1oczNMYnlTNVVWdE8ydVREUndNd2NzcHlRa0g2dGtNT1pOZw?oc=5",
-      "source": "CFO Dive",
-      "published": "2026-09-01T15:01:54+00:00",
-      "summary": "Inside OpenAI’s experiment with AI coding in finance&nbsp;&nbsp;CFO Dive"
+      "title": "September is when the tech industry launches everything it has. Apple goes first on September 9, with a new CEO and its first ever foldable iPhone. Qualcomm, Meta and OpenAI follow. But the question this year is not what is new. It is what it will cost. CNBC-T - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlVSaUI5ckdyQWZiREhRV2J4MUVNMDVfVzBNc2FSd3NuZ0RFaXNVYVI4MmRTNnBkNFRLSEJTS1NPQjZGdjZCc1pnbnJYSnh2Y1ZZSmdtV2NfeWs2OE1RcUpkTXlOc3puWVB1Yjd3YnRNWjVvNElXOXJUSENXczNnNUkyTEM5cjlQOUU1UkdrQ3dvcWpBYUZiN0wxX2ZlelRuX1V1TUc2N2tvdw?oc=5",
+      "source": "LinkedIn",
+      "published": "2026-09-02T09:07:35+00:00",
+      "summary": "September is when the tech industry launches everything it has. Apple goes first on September 9, with a new CEO and its first ever foldable iPhone. Qualcomm, Meta and OpenAI follow. But the question this year is not what is new. It is what it will cost. CNBC-T&nbsp;&nbsp;LinkedIn"
     },
     {
-      "title": "OpenAI Hits Back at Apple Lawsuit Claiming It Stole Trade Secrets - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnlicEZtSGZNeVNGYkNDb09mYlJ4WWNjcktnb29tRk96YTJLeHpMT0RvWHItaUJ0OXYzcDgwM0t3MFlZVXo2OWdRbWlVSmJvNWhRS2tYemJOQjkwUEliUVhqN0VBQVVkNG1VUU9FTVRaTGViZHNYMTlQWXN0d3NDeWcxeEVVdHlzNmRrckpjTVJYUDF2eGhTOUoxbE95cVd5?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-01T15:36:24+00:00",
-      "summary": "OpenAI Hits Back at Apple Lawsuit Claiming It Stole Trade Secrets&nbsp;&nbsp;WSJ"
+      "title": "At Katzenberg’s Bash, OpenAI, Meta Execs Rub Elbows With Hollywood - The Information",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXlsZ2N3NXJTNXpJdC1BZEtGNnRPdlEwU0VfYkVJeEUxaG91d1hCZ3FCd21NUHZpc09PbmpraklMYTI0ZHRaYUl5dGdGTlg2MzNadVBUNWdKS1Y0ZEhOQkgwXzV5ZFV5azlJNGxuVENmZExSMnV1WjF2ekpwNmZjbE84R2xNX01yZGVYa0lMZU0tNnd2TVFrVWoxa0hoZk5nUFZWdzd0UEVybmYt?oc=5",
+      "source": "The Information",
+      "published": "2026-09-01T22:00:00+00:00",
+      "summary": "At Katzenberg’s Bash, OpenAI, Meta Execs Rub Elbows With Hollywood&nbsp;&nbsp;The Information"
     },
     {
-      "title": "A milestone in expanding access to AI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
+      "title": "OpenAI Is An Ad Business Now - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMU82UHFGd1Bka051YjFBNm5acUZwaUY3bDBNMkxJZUdsai1ya2VLc3VsZ0VWT0Z3T1RyelVwaDdEZ0ZxRnpqTngtVkF1SFVocURVMDdvNTdGcEgyQi1DZElseFNjUFNFODBpOUdzRjN5N1JFQ1ZzS0RGSm5MNmsybDlPQkl2eG4wZ2pwZVpRUVJfWHNG?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-01T15:17:37+00:00",
+      "summary": "OpenAI Is An Ad Business Now&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHViNDlHOXE4a3NsVkJTc1MwSUdfcDdsWmFiSWhnQW93bHVINGJ2ZzM2bUZLT1dwV1Z6WmF2bjlwTjQ3ZnpOR055dm5sYUpwT1dwOFp0TmdHN2Rfd3lXemktZXo4RzdfdXJfY2xSQkpHbEl6b2htXzF3azRMNVZzRGxfdWRYTXpmZm1vUEpmczBJbEZNdXc2X3BLa2NBS2F5?oc=5",
+      "source": "theverge.com",
+      "published": "2026-09-01T19:02:54+00:00",
+      "summary": "The rise of AI ‘civilizations’ and the fall of corporate responsibility&nbsp;&nbsp;theverge.com"
+    },
+    {
+      "title": "How Rogue AI Could Act Like an Invasive Species - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORk01aTkzSTh1ZDhRNGkzR21Id1VlRUVqM3RrNno2cnAzRVIwbGZuYjlUeFVqbnI2bDcwc19hRmtOTjU1Y1pVX2t3T2h6Z000dm9kVVdTZ3c1XzliYjA0UEtPWVExN2g1OU9mWVNDLTZqSTAyS1dMOUNUc1Y1b0tQWWFUVzViWjBlUVFV?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-09-01T14:54:05+00:00",
+      "summary": "How Rogue AI Could Act Like an Invasive Species&nbsp;&nbsp;Time Magazine"
+    },
+    {
+      "title": "Dwarkesh Patels’s wildly popular but dangerously misleading account of the OpenAI Hugging Face incident - Marcus on AI | Substack",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Vlp5TVZ1ZndWcTZVTGFEZUlBRGVNT3JEODlBR2ljbk5lOUYzOHV0NkUtNUF1dmZiOGprUG1wVWNJUDQ0RF8tTmFkbG5Xak5IMlB3OV9waDUzTEtjbm56emVKeWJZOEpPT3ZPU3R0RmhrZmx3VFNVcg?oc=5",
+      "source": "Marcus on AI | Substack",
+      "published": "2026-08-31T15:24:14+00:00",
+      "summary": "Dwarkesh Patels’s wildly popular but dangerously misleading account of the OpenAI Hugging Face incident&nbsp;&nbsp;Marcus on AI | Substack"
+    },
+    {
+      "title": "Sam Altman on OpenAI’s next model and the AI backlash - Sources | Alex Heath",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xR1pWR1NIRkFGb2dmUnRJRFRmYXJGdlQxV2FPeDI5dFAxd3Vmdi02ZHlqT1VObEc0cVJfUnpjdTYzd0NNbThsV3RtRHZ5TDFmRVpYcTdTNlllNGNKTC1VaEVKQXdNQQ?oc=5",
+      "source": "Sources | Alex Heath",
+      "published": "2026-09-01T17:02:27+00:00",
+      "summary": "Sam Altman on OpenAI’s next model and the AI backlash&nbsp;&nbsp;Sources | Alex Heath"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
       "source": "OpenAI",
-      "published": "2026-08-31T13:05:10+00:00",
-      "summary": "A milestone in expanding access to AI&nbsp;&nbsp;OpenAI"
+      "published": "2026-09-01T20:11:54+00:00",
+      "summary": "Path to Astra: critical capabilities and frontier safeguards&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Apple, OpenAI legal fight keeps escalating. How we got here - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MSHRfVl9FdUZ5VEJDM3V1VzlrX3kxRzNUUUdwbUI2VnJteTJWNFFLbjlUMVVjdGZrZ1JDNkx1UlRMMk5zOVlsaGJqZktZdmx6MWh1aTZhNmdUbDBXazlIaFk0LUplUjlPUVFNS2FrNGtpa1kyZjZz?oc=5",
-      "source": "Axios",
-      "published": "2026-09-01T11:02:08+00:00",
-      "summary": "Apple, OpenAI legal fight keeps escalating. How we got here&nbsp;&nbsp;Axios"
+      "title": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAwSUdZUG94Mk5nbE5nODgtYlBITDNKQ3NuYmlHeUg1ZGJreGxZSWtndjMwdDlmZkNyYzN4akNaY1hXQ0RvYjdHbklvblFKRW82QnFqcVZuMDg2VmhLLVdiQXpJTEpfMDdKdE43YkhZUkpRTmlLNm1ib1lBeHZHMnNSeEdUMEJFWUtnU01yWUs2QUJQaTZtSktPU0lGZkJEcWMzLWlUOGlPeGJNRmFF?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-02T10:40:31+00:00",
+      "summary": "Exclusive | The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns - fortune.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDd4bFMzMm1oeFc0Slp0S1ZKMVZEd2Z6azJMTFRqTFl0S056WE51dWk5OTRUYWFsWE5nZVVORXprR2pub3JiRmRUQ3hlc1l2SFVpVlprdGFDX2JpV1RBZGJlLTZ4NEhITTJIU1M1bTJubWhYVV8wWURteG5sejU3OXkzYkVjLUs0aEFwR1NUbFZHbjhhN3FrcF9UbE5Gb3hCRkNLek96NWE?oc=5",
+      "source": "fortune.com",
+      "published": "2026-09-01T20:00:00+00:00",
+      "summary": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns&nbsp;&nbsp;fortune.com"
+    },
+    {
+      "title": "Transcript: The OpenAI–Hugging Face Incident – Black Hat USA 2026 - The Singju Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnFWaHZPUk5FQkpzSnlxaEhVdVpiNUhlR1pEWWo4RGdxUUJ0UmRKUTdLcm9WRWZuU0ZEMk1oMzRwUXlRQ0R0LUllblNQMmRXZzk5cU9rWHYyVlJ1ekZ6NEl1aXAtV3pFOUttNHpkbmNwVnNud3llUFFsemdCVEltVWxRS0RFZUpRV1J0NXRRaw?oc=5",
+      "source": "The Singju Post",
+      "published": "2026-09-02T10:21:39+00:00",
+      "summary": "Transcript: The OpenAI–Hugging Face Incident – Black Hat USA 2026&nbsp;&nbsp;The Singju Post"
+    },
+    {
+      "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2FtbEFMblFrZFZ3bnBXbGhZZnNCUzBXd2Ytejl6QmZhak1RZjBjQU5XQmxTck5ac3J2NkN5bUZwSzEtUVl3aXRsb2ZBMmtSMHdwZXFRRk9MMFQ1OWFtNkFOVjBvcWRZU2NtOEpvemhNUkpfMThMaTdSemJhbWNFR1dhMW5jVkNXZnhCLTVraGpJSFVDaEkzZFJMeVhwekpRQS14bDB0TTgwcUVMNmgzaF9zMUY2TmFD?oc=5",
+      "source": "U.S. Department of War (.gov)",
+      "published": "2026-08-31T14:01:43+00:00",
+      "summary": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil&nbsp;&nbsp;U.S. Department of War (.gov)"
+    },
+    {
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TTNSWnpWUm4yMnJ5Wkk5aHg1clFxY1A1OHkxcVRiZ25SY01oWk1rN1QtMlVFQ2NpTWZMejVzS2dfaldqcEFiSEhIVUhESHJUZnNZQXRRaUZzUFBWenZVRlFrcnQzV0JwTE94Mm1KckIyQdIBd0FVX3lxTE5QU1lUNWNXX0FrZFFxSnVycUZMSjFVM1pkbWJQMmloVk5PRVE0bWp5a3BzSm1HaVJ1ZFV3MlNBU3pKaFl4WE9DZUhWLWVBTkZvTUlPVU80SXBEWk4wUHFZQmVUanpXTHpfMU80bWtXdHJUMTVJQVBN?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-31T13:00:01+00:00",
+      "summary": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI says its new 'Astra' AI can build attacks without human help - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZV82cGRRV1Vpd09XOXdlcTI5TDZrU2RJai12ODc0NHNkaUhZU0YzMlJ3dnVxbGVXX1REYzhkcEhyLXA3NkxMMWtUTWhvLVhmSUVfdTZONjRackxwVDd6ZDlmeHRBRzBNUWJRSFFBZ1pQNEtkMUx6OE9tLUFZcC1xT05rZ2NIWTUtSWV0NkN6cXJEODU3LUxTcUNqX09MRERrbXJvUkJac0NIUQ?oc=5",
+      "source": "CoinDesk",
+      "published": "2026-09-02T05:33:57+00:00",
+      "summary": "OpenAI says its new 'Astra' AI can build attacks without human help&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFZLUDY4VnlYRGpwSVJOUk9LNVI5T29GeE1hdzBNLUxXZTBVbmNXYjRPWWlNWERvSDFwMC1pc2dNaXhXcGtFZ3IyVFlYNy1CLXpWQ3d1cXBDczI2Zm5iajQ5X0JLOUFlbVNqdFRHajN6MUFzYnF2S1lnUEhtbndaVXpuU2d0UVU?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-01T13:53:50+00:00",
+      "summary": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company - fortune.com",
@@ -176,6 +162,20 @@
       "source": "fortune.com",
       "published": "2026-09-01T18:49:00+00:00",
       "summary": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company&nbsp;&nbsp;fortune.com"
+    },
+    {
+      "title": "Apple alleges OpenAI employee accessed circuit plans after joining startup - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHdpVmJ4Nm00em5UN2ZOQ0NxcGNpZnlWRHlIc01VSU5VZlI2bE00ZHRrZlhra0dqLUx2c1oxMG1SZ1dtUS15YVQ1cHNUS2FUUGFTdVA3bWoxWC1MWmVBSUNRNmJWVEg4UzUxcEIwQ2V2bVlpaW1VSkU0RHpEdk8tUzZvbWxaY3NOblJubGYwb3NlUTZUNGxNUnV5NTV1dkFEQ2VEVTNhcDlUSzI4SHBybUN3MzAxbUE4TVJMWXh5WlVQVDJCb1E?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-31T20:40:00+00:00",
+      "summary": "Apple alleges OpenAI employee accessed circuit plans after joining startup&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "A milestone in expanding access to AI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
+      "source": "OpenAI",
+      "published": "2026-08-31T13:05:10+00:00",
+      "summary": "A milestone in expanding access to AI&nbsp;&nbsp;OpenAI"
     }
   ]
 }
