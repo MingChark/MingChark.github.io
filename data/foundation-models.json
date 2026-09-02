@@ -1,13 +1,20 @@
 {
-  "generated": "2026-09-02T10:56:17.605581+00:00",
+  "generated": "2026-09-02T16:15:59.352620+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting - marktechpost.com",
+      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWUtVRTRMV29wSS1ieldNdW9fakhyWjJsTTJEeDBHWmhRQm5aSk5QOG5TYnFJMy1JSlo4TkhjVDMyQUVNZW1BWFozUlBRZUdNVVVIMjFfbURhUUxpNHhWeXNadl9WMVQtdGZyckdDU0pnZGpiYmRNcU5aRG9QdWNwZFo2TGlNcWNqc0NYajNaVnR5Yk1iRmZaSXdrMmVMZDJKR05PS1ZWSklVY19HOUZzcEJ6aWpuX2FZVWlzNVRrMVhYSHd6eVVlRGVrRGdDQ3BWMS1fYWlrcWY2b1paZ05TV2pqX01Oek1GUHYzVXBaZ9IB7wFBVV95cUxQWUtVRTRMV29wSS1ieldNdW9fakhyWjJsTTJEeDBHWmhRQm5aSk5QOG5TYnFJMy1JSlo4TkhjVDMyQUVNZW1BWFozUlBRZUdNVVVIMjFfbURhUUxpNHhWeXNadl9WMVQtdGZyckdDU0pnZGpiYmRNcU5aRG9QdWNwZFo2TGlNcWNqc0NYajNaVnR5Yk1iRmZaSXdrMmVMZDJKR05PS1ZWSklVY19HOUZzcEJ6aWpuX2FZVWlzNVRrMVhYSHd6eVVlRGVrRGdDQ3BWMS1fYWlrcWY2b1paZ05TV2pqX01Oek1GUHYzVXBaZw?oc=5",
-      "source": "marktechpost.com",
+      "source": "MarkTechPost",
       "published": "2026-08-31T21:20:16+00:00",
-      "summary": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting&nbsp;&nbsp;marktechpost.com"
+      "summary": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
+      "source": "Google Research",
+      "published": "2026-06-30T07:00:00+00:00",
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -45,11 +52,11 @@
       "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
     },
     {
-      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
-      "source": "NASA Science (.gov)",
-      "published": "2026-05-07T07:00:00+00:00",
-      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+      "title": "Thomson Reuters launches its own AI model for legal document reviews - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkd6RzgwRVFHcW96WWphT19DQ1FzeUtqVldBa05NTm5pbXhNREVDeDFicWtDTjdmQWxZTGNZekdNekpCUzZYaTB5T3NmcmVJRWZlbm9rN3BtXzk2bnN3bkNTbXRtWGFyLXNsQTV5SUVycWd5QlhIbkZ3Mno2M0hUNzNhQzlWSXMwcTVFdTMzSFhxZ05od3lhQTdEeXNGS1psdW9yUVlKbGF1cUotRFpxcW9NMkh0VWFxbjJMT253?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;Stock Titan"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
@@ -101,11 +108,11 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - hai.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
-      "source": "Stanford HAI",
+      "source": "hai.stanford.edu",
       "published": "2025-12-16T08:00:00+00:00",
-      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;hai.stanford.edu"
     },
     {
       "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
@@ -113,13 +120,6 @@
       "source": "24/7 Wall St.",
       "published": "2026-07-17T07:00:00+00:00",
       "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity - Neuroscience News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydG9YR3lTV2xrb0ZpMmRYb0stakZmUVBqX21BdERnQi0xSjFmY2FEWXhmbHNnODNsam1YQ1JWWFBPZUZLNy12dkZUaEc4MkR0SGVPMDNOdVFTQ1FKQmpNTGNvN0dkMFZ1RWJZckdRWWJNZw?oc=5",
-      "source": "Neuroscience News",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -143,11 +143,11 @@
       "summary": "Lunai Bioworks (NASDAQ: LNAI) Launches Sentinel, an AI Safeguard to Block Large Language Models from Generating Novel Chemical Weapons&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "The Best AI Models: A Comparison - Built In",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02ems3SWVHdy0tQjlDS0RnbHZIb0dTcFJEb1NaRGZyczhNVENPRkd5dFVRRG1BVFItSGFMd2MtbkxlYWFrUGJpc005RjQ1X2NpUGdRUHFhUWowT3ZVYm0zMmt2VWQ3b3JvM1E?oc=5",
-      "source": "Built In",
-      "published": "2026-03-06T08:00:00+00:00",
-      "summary": "The Best AI Models: A Comparison&nbsp;&nbsp;Built In"
+      "title": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity - Neuroscience News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydG9YR3lTV2xrb0ZpMmRYb0stakZmUVBqX21BdERnQi0xSjFmY2FEWXhmbHNnODNsam1YQ1JWWFBPZUZLNy12dkZUaEc4MkR0SGVPMDNOdVFTQ1FKQmpNTGNvN0dkMFZ1RWJZckdRWWJNZw?oc=5",
+      "source": "Neuroscience News",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
     },
     {
       "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
@@ -155,13 +155,6 @@
       "source": "The Robot Report",
       "published": "2026-05-11T07:00:00+00:00",
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
-    },
-    {
-      "title": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVJpN2xXVGp1VUtyWDJWTnNnTkx3VzhSbTVxUXgzTFdBWW5KMjFnSHg1ZlcwNC1QVFVfUjYyQTd4UmlxQmxLWnI3ejcxdHlhdjhqUjVNc0o3VnFrZG0yVW1ueVlJLXRNWjByU2tRS1RiSmJXMHB1ZnJOdFNNY0Q0aVhXZ25KZmQyVjEtTUtSaE4ybTRwTGhmYzNfc0lBUjZJOE1aci1YeEZmOGsyczZEOHRYTHFpSHZqMUttdVlaQUfSAcABQVVfeXFMTzNmbS1Qa3NUSDhRU0dlMUJzcEQ5em16M1N4ZTZRcEFSREJrbkhyeXg0T3FQYVktdjhtYnRneDFBejlLeUFXMG9CYzF1S1ZyeG9hZ2Y2a1piOUJtck1IVTRiV3J3cElSYVdvbzVvYWdEWGttVXpRM0dSVU9aTDFmV1ZDRGtucGoyVzVZME96b0Y0T1l3Zll3YkNHb3paS19IMHZjZTE2RGZneW1nLVdxZ3hVbFR2bEVNV2NHNHpNa2Zt?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-05-20T07:00:00+00:00",
-      "summary": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory&nbsp;&nbsp;South China Morning Post"
     },
     {
       "title": "A multimodal whole-slide foundation model for pathology - Nature",
@@ -176,6 +169,13 @@
       "source": "Access Partnership",
       "published": "2026-02-12T08:00:00+00:00",
       "summary": "Launch of the First Open Large Language Model for Latin America & the Caribbean: LATAM-GPT.&nbsp;&nbsp;Access Partnership"
+    },
+    {
+      "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXpQTUdTR1NEelppenIwR0tUVmpkSUIxSmN3ZUxmY0l4OV8zVTlRaHhMcm9tcmlSLUNLMWhmekV4bkExVFJ0QktRcTVRRnZERlFWZ2Q2RW43eDZkblAwYnJFdFRLczFpRml2eVozYTNqdkZ5YUZCdDJSbk9HTFQ2R1JubUpaOUVLQmhQV3FMdnltRDhoLUVSRXUtV2c0VjJ2M3VydG1OMlZUaGJhSzRUTTBvOWJKbGZ3MC1ZaXgwZw?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
