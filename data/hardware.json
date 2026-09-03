@@ -1,27 +1,27 @@
 {
-  "generated": "2026-09-02T20:47:25.857453+00:00",
+  "generated": "2026-09-03T03:42:46.033963+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHFNMjYzQzg1WXZTZHA1NXpkdGt6TmlSY3B2Zm9zblJSTWJTVzBJRmlpaHdBdUZuVG12eVd1UTJUQkg0THBaV2JsZ2wtejAzYWZWV1VBVXVkbndjaGN6cUtBSjNURHB1SkowSlZtX0Fidl9hcE1mNkxLU1JXZy1zcFpzRENLSWRuMHFzanpHRU5hYV9tRjY1YWZuQVJCb1M3X1VmYk9xQWlFX0ZfMEIzR2JMbEhwalB1bUVKREQ2c2tXLTRvbnhV?oc=5",
+      "source": "VentureBeat",
+      "published": "2026-09-02T21:05:59+00:00",
+      "summary": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "Nvidia Turns $3.5 Billion MediaTek Deal Into A Toll On Custom AI Chips - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1FteDNPZUpockZZZ3hFaS15cHg2SzhLWXNMRXN6bjBxNHUwZGJ5SmJLaGdsLTA5RXpyWTdKaEdleTREZXEtUVBZZ0laWllxNGZhcmxSNjZEYk5haWtfaWhPOUZpQzZGU1l4WVE3b24yNTUwNVNFcTBzVmdCbkN6c2FBLUR2YXh3dWk1SnhGdTFxeWFFb0VqaHFYUzlqR1lYdWFjZUtESTI3Z1daazJiZnotekRzRVNRMWpB?oc=5",
+      "source": "Forbes",
+      "published": "2026-08-31T16:39:15+00:00",
+      "summary": "Nvidia Turns $3.5 Billion MediaTek Deal Into A Toll On Custom AI Chips&nbsp;&nbsp;Forbes"
+    },
     {
       "title": "Nvidia invests $3.5 billion in MediaTek for custom AI chip support - Techzine Global",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOW9VY2ZudmdBYm5pS3ZNSzFkQnBkS2lLMnhCNjhPbGlUcmg5MVBnN2pWejBVYlVUREVxTGtIaUpTMC1SOWl5NFNxSENCV3I5Y1FpY0RTQkFhalBOR0Y0MDljMVBSN2tiWUd5eFFUTzFnTU9POVNOS1pzdUNLLVkxb1FTdDg0aDFVSEhhWVZldW5iYWg5djJCampGZFRITUp3d056Yk9OYUYzOHloTzNSNkstWjBKZGpq?oc=5",
       "source": "Techzine Global",
       "published": "2026-09-01T06:43:00+00:00",
       "summary": "Nvidia invests $3.5 billion in MediaTek for custom AI chip support&nbsp;&nbsp;Techzine Global"
-    },
-    {
-      "title": "NVIDIA’s $3.5B MediaTek Deal Supercharges NVLink Fusion For Custom AI Chips - HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnlVZUdsa1I4VFNXTHFwd1R2ZFdwNjh4aUR0U0E3SzFOVHdnUWZXMkxSWW10QS1laThIVG5JRkZRZkxjNGpYU04tMF9TX0U4aUxxejdsMk5MeE9LcEcxaC1jYVZGU0F6eWhGZHRqNV8yWlI1dW5ORURwZXd3REVQSw?oc=5",
-      "source": "HotHardware",
-      "published": "2026-08-31T15:03:00+00:00",
-      "summary": "NVIDIA’s $3.5B MediaTek Deal Supercharges NVLink Fusion For Custom AI Chips&nbsp;&nbsp;HotHardware"
-    },
-    {
-      "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3p3MXZFM0pOQjNYbHdrNWxYejNCWVFrX011YmlENzdmRjl1ZDhnSlB1bV9YQThPMzc1OFkzdGRJcEpRc3otMGZ2ZjJwcUF0bXpMQmVvWXlGTktLZWRGa0tsaFRwNnZlT1JNbE1kRFZwVlJkbE5mVXRjV1NwTl9BRkxBUTc1UWFVSjRVNmNXVDZ2cm56?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-30T13:20:00+00:00",
-      "summary": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks.&nbsp;&nbsp;The Motley Fool"
     },
     {
       "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership - qz.com",
@@ -31,32 +31,32 @@
       "summary": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership&nbsp;&nbsp;qz.com"
     },
     {
-      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators - tomshardware.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZnZjZEFtSTNKWlcwdVl1M2VVRjBySURTSlFmaUFlbkVHRGgwZHBOcXBpUDYxTVRrLXBlb2s0WUdNSFFNc3pPOWVWSDEyNWNaMDdiYlNWWFFvb2FHZEltUE1SYW8yajFLeFB1Mm5kYThrRV96U2Zlem96NXZIN0owTzdPeFJoNmV4OGxmeTQ1T0drQnVDRGIwZUxzbHNYLWRPOTV2dVlyTzhuMWhuWFd1ZUNVOUtxck1JLTJpYW1QOWxhd1dpeTh3clo2MjFESG1RNVB4M1BvZkRadE9PY29GcVVzSzI5SkloMDVkU1VmajFFaEVPTUp6ZTY2YUY5MllWX2c?oc=5",
-      "source": "tomshardware.com",
-      "published": "2026-09-01T14:42:22+00:00",
-      "summary": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators&nbsp;&nbsp;tomshardware.com"
+      "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3p3MXZFM0pOQjNYbHdrNWxYejNCWVFrX011YmlENzdmRjl1ZDhnSlB1bV9YQThPMzc1OFkzdGRJcEpRc3otMGZ2ZjJwcUF0bXpMQmVvWXlGTktLZWRGa0tsaFRwNnZlT1JNbE1kRFZwVlJkbE5mVXRjV1NwTl9BRkxBUTc1UWFVSjRVNmNXVDZ2cm56?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-30T13:20:00+00:00",
+      "summary": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks.&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says - TradingView",
+      "title": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcjZ6NjloSXV6OHk4V0dQZ0lDdGt1cHNBeVdJeUNWeGVYcjcwNEF1VWVubWxDODlvNkNLYXdJQjBUWEZPZXBGQTJQTDhZYV9PNjRWY0ZTdFZUR1BoY2pFOEJrWXI0ZnBfZ2kyOC04bFE5bkxaWVFwbXFYckEtZWhjRmpiNHdqNzNUUVVKZ3pZaHctRjgtTTRqVlJoUjFscTJYTzB4OUNENkZIY1RJUlZqWVlXeldUYjdTdXZrbWgtRUYxOHF4czZlLWQ2NHVhV3lxbW1SQ1h6T2d6eTI2UjQwdTFKTV9RRFJ6bHNPTk9jd3JKY2M?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published": "2026-09-01T09:09:41+00:00",
-      "summary": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says&nbsp;&nbsp;TradingView"
+      "summary": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says&nbsp;&nbsp;tradingview.com"
     },
     {
-      "title": "NVIDIA Invests $3.5 Billion In MediaTek As Partnership Expands Across AI Infrastructure, PCs And Automotive - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVMyMkRFSTl5amhwYmJGY1lfdDVaODVaMlFIU1Y1ZnkzZ2NucnRJdGtRc0RuYlRwaFBTTGs1c0h0M0N6ak81UmJzSDNsTFM1c2k2ZjBlNW9XamNWeWlsMDNoZHZZOFktLURYN3pYY1JjS3U1NGxaVjNETThvbHhiSjVlWS1yNmxjbk1CUmx3QnVtMHIwZFIxX3RCT1FaRU5JVTJXNVh5QU9GcmpmeFFkcFNCMVNNcG56SXlSeW11Y1JzRTjSAcgBQVVfeXFMTklGWWFSR1o0Wk94U0Z4ZkRWNWcxU1FrS2E4NFZFdEVxMEJBdGZrMTJJSUR2WVVEX2pNNE5XVU5vOFItVUxYUk1aTGFrLURjNFlBYXgzQTNNQU9tM0JLRjBRM05vb1hNd0ZfNEQ1ZHlWZTlXQ1B5SS0yOWNDazRFRml3QkNTRjZWSHYxVEJEbl9pN3AxV3pfTGxjM0NxQW1yUkNORU9tbTdjZk1ROVAwdHB2WHR3QVBVTmg5WkJJekF0eUQ5UUVNQ1U?oc=5",
-      "source": "Pulse 2.0",
-      "published": "2026-08-31T13:55:53+00:00",
-      "summary": "NVIDIA Invests $3.5 Billion In MediaTek As Partnership Expands Across AI Infrastructure, PCs And Automotive&nbsp;&nbsp;Pulse 2.0"
+      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - proactiveinvestors.ca",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON0hVdngweWNnczBVZVU2MmpHa0xtSDg5ZjB0U0tlZGpHVFdMSHdzM3NpVDA5VzBVa25aMGdiRmdYdjFFbDliWWJET015dkppTHE5bUxVcmZ6Uk1WT0YwM0tDMGl4RExWQ3NvM2Z2U2Z6R1lRTjhZSzdrTmNJaUFkTGZVVjJpeE5udG1zYlo3WVRmVUxyVzIwWk5NNVdNS2xVaEZBbXdFMkR5ME1xOXBxMUlSWjYyRHNyUVVBWndkYmRMQkZDWXZJU0NKZUlNTUN6NFZmb0RRQTZHS0xURXZ2N2MwaFY5TVZjeTJBR2Rva3o2VFpuVHNzLXRobDk?oc=5",
+      "source": "proactiveinvestors.ca",
+      "published": "2026-09-01T05:50:59+00:00",
+      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;proactiveinvestors.ca"
     },
     {
-      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNUVfX0dNdW5OdVVjc0NhQ0l5cFotVURtb0xBXzNUNnV3SmlSM3d3dXYzb1IwZ21RUkdKRXNkemZqWjNUT2hoOVNtdEJJakZ0TjhaN3g4NFltV19RS1kxZjNTZksyeUtRb3gtUUc2cURfQ2Q2NTM1Ukh0N1JHVmsyaG5WUDlKSlBoXzl0LTJRTnNXSjVrT3ZXdE5SeXlDeXp3aGFIWWJpVlhScXdqbTRybVY4WFY1clY4RkxJREkzbGVsQi1NczhSWHh5U3lCQ3BwbFprMV9ZeDA4RDNwZXhtTzdwajF0VW9vcm1ONmx4azJUTnlC?oc=5",
-      "source": "Proactive financial news",
-      "published": "2026-09-01T01:25:00+00:00",
-      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;Proactive financial news"
+      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZnZjZEFtSTNKWlcwdVl1M2VVRjBySURTSlFmaUFlbkVHRGgwZHBOcXBpUDYxTVRrLXBlb2s0WUdNSFFNc3pPOWVWSDEyNWNaMDdiYlNWWFFvb2FHZEltUE1SYW8yajFLeFB1Mm5kYThrRV96U2Zlem96NXZIN0owTzdPeFJoNmV4OGxmeTQ1T0drQnVDRGIwZUxzbHNYLWRPOTV2dVlyTzhuMWhuWFd1ZUNVOUtxck1JLTJpYW1QOWxhd1dpeTh3clo2MjFESG1RNVB4M1BvZkRadE9PY29GcVVzSzI5SkloMDVkU1VmajFFaEVPTUp6ZTY2YUY5MllWX2c?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-09-01T14:42:22+00:00",
+      "summary": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators&nbsp;&nbsp;Tom's Hardware"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -87,13 +87,6 @@
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "AMD Helios Top Platform Cuts AI Data Center Costs by 30% - Techgenyz",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xaUYxbTRiYWtTLVlyenl1cVNTVmJaZ0l6ODRvVUNrV3JZS2g2dXRYVkJqYTdUN1JTdC1YSjZxWjRpX1c1TFJhLWtfWjl5TWpIOXVseDc1RnJGZlU?oc=5",
-      "source": "Techgenyz",
-      "published": "2026-09-02T16:43:12+00:00",
-      "summary": "AMD Helios Top Platform Cuts AI Data Center Costs by 30%&nbsp;&nbsp;Techgenyz"
-    },
-    {
       "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
       "source": "KBRA",
@@ -101,18 +94,11 @@
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
-      "title": "Nvidia announces AI-related price hikes - taipeitimes.com",
+      "title": "Nvidia announces AI-related price hikes - Taipei Times",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SElHdFIyZDRldjJHTEk1ZEZEM2pDbjR4OGViTFNOTDAwVnB2REJjaV8zbkpwYWNSdzZXbHZXWEJCeF9uWmxFTlpPa2lrMFNjcGwyeEdvUlhJZm5BdEdBcVZyOHFIaWhWYTNGU1F2UkNWZnBfNnc?oc=5",
-      "source": "taipeitimes.com",
+      "source": "Taipei Times",
       "published": "2026-08-23T16:00:00+00:00",
-      "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;taipeitimes.com"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
     },
     {
       "title": "Reports: Google partnering with AMD for next-gen hybrid TPU - Network World",
@@ -122,32 +108,32 @@
       "summary": "Reports: Google partnering with AMD for next-gen hybrid TPU&nbsp;&nbsp;Network World"
     },
     {
-      "title": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy? - TradingKey",
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy? - tradingkey.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlZoUHd0cVRKTWxPWVE2NHlfM0dRQXJ4R29iVW5HT0JLV0Y5T2owNk5DaHRISTFKSWZhTHh6V21ZYlRXX3ZSYnBCQmxhdzc3ZUxvZEs3ZlE4MmhjbFNyM1FLSmtWZ0VkSHdjNmxaQ2ptSWdGYzB4Nkk2NkpqVTdRdURRNVhvUk5wQVk0SzFGWmVqSXZPQUFtSGJJTmdEbFZXb0c5ZUV4MG1CR19Td0I4bHVfR1JzWGl1eEhwbUhUZXEzQQ?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published": "2026-09-01T09:18:09+00:00",
-      "summary": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy?&nbsp;&nbsp;TradingKey"
+      "summary": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy?&nbsp;&nbsp;tradingkey.com"
     },
     {
-      "title": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC - TradingView",
+      "title": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNE9TZ3hTNzd4UXAwc1p6WW51WXFiRDY0aURXMXZyZzlmXy1ySWR3eFJEUURKc1R3Q0lZazNzWUtMbnVfUzhhNGJRQjF0ellGQ25YcVhZSFlMMGpvM1JzVmhlZTlOaEtIaFZILTVtNk12NnhoUjl6WWx5eTJndEROdXBRZUJxajl3OWpVaUlLdnF6RF81N01MVm9hemJNVWVXcEtuU0FjT2tybUI0YWkxTnd3eUVrbEVsUUw0anQtVVBQaHMweDVsV0pKWVRKYkhPMlh1cUdkSzJneDBvWDd3VmlOZjlXb2RycHY3eTJELXFlN3I1dE5KeHhzWjBsaEJFcjJ2Zmd3?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published": "2026-08-31T16:47:41+00:00",
-      "summary": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC&nbsp;&nbsp;TradingView"
+      "summary": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC&nbsp;&nbsp;tradingview.com"
     },
     {
-      "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? - TradingView",
+      "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUZMNEMzRjd4cVZmSXRyUmZUSEZNeU83V3JVNzQwTHQ4Um1iX18yRmcyQ3Z1YjQ4MDd3enpQdGZ3Z0ktV3Z1NjRGSGZTVmFkZC1POXhRQ2djVE1ubFRNNEg4eUVad2J0RFlWWFR6MUlodkVEQUZvWksyOUlEQk9mamdxQ1h5eDZTY2tqNWFoeWc1dlRFTFVTNC1rSnA1WTNMRGxWRFYzVi1DR28?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published": "2026-08-31T20:39:00+00:00",
-      "summary": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDA4NlE0RmRTb3BlNm5XVVFibDB4RlJCSDZEUFhpbURseU9aRjl1T3lDcFliX1o3SUFZU1dDRUZ0Q0l3OUo5cWo1ckl2XzBYdzA2QXFmVElhdFJQSGNjSTBlV2tsenBXeHo3ZGtMVWROWEVPRUtoNGR5ek5la2ZZLUdsbXhOR2VaWWdfWnVwUXd5aHl5WjBBajFZY05OWWlGSWpEakFwNDdDQ0RPUXAxNmdkUGhHbTJGWERNWHhDdXZXaVRLS0tVbGVDaGRldzNWcElsZmR4Xzl4V3M?oc=5",
-      "source": "Tech Times",
-      "published": "2026-09-01T16:10:05+00:00",
-      "summary": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers&nbsp;&nbsp;Tech Times"
+      "summary": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?&nbsp;&nbsp;tradingview.com"
     },
     {
       "title": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground - Yahoo Finance",
@@ -157,25 +143,39 @@
       "summary": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Nvidia Revives Rubin CPX Chip, Targeting AI Inference Prefill Cost Bottleneck - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXWFdFSHpscm9tV045Y2p6clNFQkJfbWg3SGNGVnhObDI0MnB3aGtZNEQwNlYzWGt5eEhDOXM3eURPb0ZnSm5taXYzOS1XU2tTV1ZWOXU3MnFrWEplcnB1R2VnS2dYeFE3N0NlX3NFaGVEVS1PVnc?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-01T11:05:00+00:00",
-      "summary": "Nvidia Revives Rubin CPX Chip, Targeting AI Inference Prefill Cost Bottleneck&nbsp;&nbsp;finance.biggo.com"
+      "title": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDA4NlE0RmRTb3BlNm5XVVFibDB4RlJCSDZEUFhpbURseU9aRjl1T3lDcFliX1o3SUFZU1dDRUZ0Q0l3OUo5cWo1ckl2XzBYdzA2QXFmVElhdFJQSGNjSTBlV2tsenBXeHo3ZGtMVWROWEVPRUtoNGR5ek5la2ZZLUdsbXhOR2VaWWdfWnVwUXd5aHl5WjBBajFZY05OWWlGSWpEakFwNDdDQ0RPUXAxNmdkUGhHbTJGWERNWHhDdXZXaVRLS0tVbGVDaGRldzNWcElsZmR4Xzl4V3M?oc=5",
+      "source": "Tech Times",
+      "published": "2026-09-01T16:10:05+00:00",
+      "summary": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers&nbsp;&nbsp;Tech Times"
     },
     {
-      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndJQ3ltQ19yRWw3RHhQaldJYmVfN0RhSEhyUlZDQVhJeDFIalFQR0QwSWxYTnEtY1V1dWtlUFMzei0tSmVlMUNBYnRtVlJCMHBraFhBVTZ4YVdtbXpsakRMdDZiOUZjMHlFbUV4RFVuZTBiMy1Lc3RzanpyRk9DYk1Ta0JDUFZ1QmEzNWlPTWpETlZFWnRhSXkzTDNUWjRmYlJaZmVB?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial&nbsp;&nbsp;NVIDIA Developer"
+      "title": "Google expands Marvell partnership for custom AI chips - Tech Wire Asia",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jS0tMZWlEN3dnYXJ3WnpKTFpnY1IwS3pwaXNhUEVxS0NVVG1WTkVQWWxoa0FhS1AwQ2RaQlpXRVpCVm5qYm9yZlFLU3VMbVU4YjlrLVNSbmpveVlYVlVvNTV5eG90WXNISFktcmdMRWZYZw?oc=5",
+      "source": "Tech Wire Asia",
+      "published": "2026-08-20T04:02:19+00:00",
+      "summary": "Google expands Marvell partnership for custom AI chips&nbsp;&nbsp;Tech Wire Asia"
     },
     {
-      "title": "Nvidia Makes First Direct Investment in Taiwanese IC Design with $3.5 Billion Convertible Bond Purchase from MediaTek - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZm5KdWJzVml4bVNnUERVLWRUUjNZaXBjZXB0bnExTzJrX2dob29qQXRLODZkQnpnX25CLXRmX1BBcFo3X3p3MDNvbkN5aTFSQ19WcUZZZ3A5ZkFGZW9DX3B2UmVYV284cWVJZG40Yk9xT3Nia0E?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-08-31T13:25:00+00:00",
-      "summary": "Nvidia Makes First Direct Investment in Taiwanese IC Design with $3.5 Billion Convertible Bond Purchase from MediaTek&nbsp;&nbsp;finance.biggo.com"
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-04-14T07:00:00+00:00",
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "AMD Helios Top Platform Cuts AI Data Center Costs by 30% - Techgenyz",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xaUYxbTRiYWtTLVlyenl1cVNTVmJaZ0l6ODRvVUNrV3JZS2g2dXRYVkJqYTdUN1JTdC1YSjZxWjRpX1c1TFJhLWtfWjl5TWpIOXVseDc1RnJGZlU?oc=5",
+      "source": "Techgenyz",
+      "published": "2026-09-02T16:43:12+00:00",
+      "summary": "AMD Helios Top Platform Cuts AI Data Center Costs by 30%&nbsp;&nbsp;Techgenyz"
+    },
+    {
+      "title": "NVIDIA Invests $3.5 Billion in MediaTek – NVLink Fusion to Bring Custom AI Chips into the NVIDIA Ecosystem - igor´sLAB",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX09mUE9vUEMtS2ZDWjFJNXZBSWdDcm5mMUh0bU9ubWZ2TS1GTVpEVTk2RUl4cVZYOVg2WmEtTHdVLWh0QnU2Z2RrMk9KVnFUUWRScFdqR0s2bzN2Z0JGZE9ZUUZ0X3hrVjBCVW5KMGF1Qms0Z0N2Z1U0S0RpUXZtMHFSVXFZY2lCdExTNUZmSUc0bHhGZnFPa25mSFRaWG9lTmR5TTNwWE9GZTFRWnIzbTE1d1ltODRPVzhtLWtB?oc=5",
+      "source": "igor´sLAB",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "NVIDIA Invests $3.5 Billion in MediaTek – NVLink Fusion to Bring Custom AI Chips into the NVIDIA Ecosystem&nbsp;&nbsp;igor´sLAB"
     }
   ]
 }
