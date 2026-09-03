@@ -1,13 +1,27 @@
 {
-  "generated": "2026-09-03T16:06:11.477616+00:00",
+  "generated": "2026-09-03T20:44:37.193032+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
+      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2026-06-08T07:00:00+00:00",
+      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
+      "source": "Google Research",
+      "published": "2026-06-30T07:00:00+00:00",
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+    },
+    {
+      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "Cloudflare Blog",
+      "source": "blog.cloudflare.com",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -24,6 +38,13 @@
       "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
+      "title": "Thomson Reuters launches its own AI model for legal document reviews - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkd6RzgwRVFHcW96WWphT19DQ1FzeUtqVldBa05NTm5pbXhNREVDeDFicWtDTjdmQWxZTGNZekdNekpCUzZYaTB5T3NmcmVJRWZlbm9rN3BtXzk2bnN3bkNTbXRtWGFyLXNsQTV5SUVycWd5QlhIbkZ3Mno2M0hUNzNhQzlWSXMwcTVFdTMzSFhxZ05od3lhQTdEeXNGS1psdW9yUVlKbGF1cUotRFpxcW9NMkh0VWFxbjJMT253?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;Stock Titan"
+    },
+    {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
       "source": "FICO",
@@ -38,32 +59,18 @@
       "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejFWb3Ruai1idzc3QUxBSDU4cjNvRGJRZkVJS204QWNxV1hkeXRfZl9Nc1plTk9PQ3hjU09uU3NwMXgzdHZUelJic2haajhzLVkwU3d1SjduOFltTXFoMEREWmNHMG9mOGI4STlZU1dTcUtua2Q1X1doWEMxMllsOU9hSHpoNTRqWTJuNUtfTk1ZVlFKWjkyODRqMTJaVjZVUm5BQjNsUFlaZw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert!",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
-    },
-    {
-      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - medium.com",
+      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "medium.com",
+      "source": "Medium",
       "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;medium.com"
-    },
-    {
-      "title": "How AI foundation models trained on DNA could transform plant biology - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnRmUmc1d1pmNW9Oak5GUmNKM0dLUXNGZzBMRmNNR1VpVVVGb21XYU5BT0ZEQWo4cHVnTVBrazRTQmtnNWVQZi1CMjBVd2hicFphcEdmZ3NOR09vUV8wbFRFY0g4QnBvSHI5ZmhXU2pfWjJFanJxWGxkS256ZmZEOVRUbFQ5cFBHUkhsdGswSWRibFFPTndGUjMwb0c3Qi1xQzczZUdxTWJSSlp3TDJwS0NQbzZfaXI3WkNfZkNXdnlRc0I1dTJTUF9UNmxVZ3NCY0hRZHRlRmVYc3hkRW5UOWozZncyQUljQXFDNDJCQTNOOEwyVzQtZQ?oc=5",
-      "source": "TechRadar",
-      "published": "2026-03-29T07:00:00+00:00",
-      "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -80,11 +87,18 @@
       "summary": "Biohub Releases Protein Biology World Model to Address Disease&nbsp;&nbsp;Genetic Engineering and Biotechnology News"
     },
     {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
+    },
+    {
+      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - therobotreport.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
-      "source": "The Robot Report",
+      "source": "therobotreport.com",
       "published": "2026-05-11T07:00:00+00:00",
-      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
+      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;therobotreport.com"
     },
     {
       "title": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation - Engineering at Meta Blog",
@@ -94,18 +108,46 @@
       "summary": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation&nbsp;&nbsp;Engineering at Meta Blog"
     },
     {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVDNESEw2SWxnSHdMN0Y4UUhhUjc3d3lFSWhVNExJQWRoTGlVdTF3cl9HM19ZTDNKVlAycDROTXFNZmdtdFU1UWpyTUU3azBKcjJCT1lsTGgxSkdxOWdqcTRjSWVmb1RlU2c3MzRaRlJIQVJYbVFQQ0RqRDN1TVhoTkVuVWJJaXVZNjhYYTNieWs0ZDIzSHhYcFVhamRLOHBrSzUwS1BwVnBEMURLN2ZMTHI2TWRSa0drbGdMV3JJd05wa25aOG9LcW41ZjlSUkZXZENMZzVpRU9Id2hoeEVxdQ?oc=5",
+      "source": "GlobeNewswire",
+      "published": "2026-06-01T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;GlobeNewswire"
+    },
+    {
+      "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog - developer.nvidia.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejFWb3Ruai1idzc3QUxBSDU4cjNvRGJRZkVJS204QWNxV1hkeXRfZl9Nc1plTk9PQ3hjU09uU3NwMXgzdHZUelJic2haajhzLVkwU3d1SjduOFltTXFoMEREWmNHMG9mOGI4STlZU1dTcUtua2Q1X1doWEMxMllsOU9hSHpoNTRqWTJuNUtfTk1ZVlFKWjkyODRqMTJaVjZVUm5BQjNsUFlaZw?oc=5",
+      "source": "developer.nvidia.com",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog&nbsp;&nbsp;developer.nvidia.com"
+    },
+    {
+      "title": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSUtnb1JnSjg1VG5QSVAzOHhFQi1USmluei1YRDBRV0JYM0dYV3lGWHlSN1pkSlNHMVdBTl9Zc2xES2VCazdxNi1BWHZEZnFBbmRwVk9tSlBCYlh4V2piNWRVTDd4LU54RmNJcFpGMk5XbUxkNHMyZUJtcndRVTloekVacW1taE1BdTkwWmdsbXh0UHhkYWlQZFBZVjF3N3FVYVQxX0t6Z2l4cm5QYW1SdDV2NUJwczhvdURhS2c4X3FxQVplbFZ5SkdaemZLRzNXbDBBcWhFTnJhTkxyUWYxZ0tocUVlV1RaWmpsTXk1OFFKWUE3NU1wbEtuYTJ3UVd3VXJRREJn0gGLAkFVX3lxTE5Jb3owQmw2emZIV3J0Y0hCZHJVNTFaZnJybW9ZRzhSWHJIZkozbGY0U0RBQTB4bnQ5VkU4M28tR0ZiLTZnbEpodTViR0ZFZ0JPUUNBYTRCMXBVNS0yR21odURNR1hXcDJjVkRpRXRSemg1TVV6aDN2eWhyM1BkNDRUTllrMkpuNTB1MGc1dG1IT1A0dWJpUW1VZGxsYnUwbmwtRjZFd2NKYncycjdOR3lDVmQ5R3V5VWt6Y2x3ZTFCa3VxRy1rSDJrRTlGczlBbjd6eFFTNm12RWY0STY0WGtRd0d5Y1h0VXNKSS1vMjdtRFFBMy1sOXZSVm5VT1pLSVF0blJ6MVV4Tk9IUQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-03-04T08:00:00+00:00",
+      "summary": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVVBZR0I4cGsyaHg1WVpTMVlzRUpoZW15TXd0c2JjNG5hSkJ4Rmdyakk0YmpReWo4Z01KRzliaU9PMnNRODU3Z05iQ3JzNVB5WUhaeDNyenZJZTh4dkMweVlwQUFLcHBGS2RwR3JNN3Z5TjlPM09nVl9n?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2025-12-01T08:00:00+00:00",
+      "summary": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXpQTUdTR1NEelppenIwR0tUVmpkSUIxSmN3ZUxmY0l4OV8zVTlRaHhMcm9tcmlSLUNLMWhmekV4bkExVFJ0QktRcTVRRnZERlFWZ2Q2RW43eDZkblAwYnJFdFRLczFpRml2eVozYTNqdkZ5YUZCdDJSbk9HTFQ2R1JubUpaOUVLQmhQV3FMdnltRDhoLUVSRXUtV2c0VjJ2M3VydG1OMlZUaGJhSzRUTTBvOWJKbGZ3MC1ZaXgwZw?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence - Apple",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTkyUG02RzM1YlBLZlBFTjFHRFgxODNZelROUThucmtxek9KbFJQUm8zSVROTnBjZXFhcmY1bjNrcDN4dDlfbzdDLS1aYUhKYTJzckpSMWFIZklZS0R3bnBrTG83R1llYWVnVEZtSmt3Rk5IdFQtSTNaLUdwQWNuZXRYeHZsRktWT3lPN0ktSTgwNVQ5R1dZNUZteFM3Y2I3MTJDYzMwUlIzWTBNekdRbFY1bkY?oc=5",
       "source": "Apple",
       "published": "2025-09-29T07:00:00+00:00",
       "summary": "Apple’s Foundation Models framework unlocks new app experiences powered by Apple Intelligence&nbsp;&nbsp;Apple"
-    },
-    {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - globenewswire.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVDNESEw2SWxnSHdMN0Y4UUhhUjc3d3lFSWhVNExJQWRoTGlVdTF3cl9HM19ZTDNKVlAycDROTXFNZmdtdFU1UWpyTUU3azBKcjJCT1lsTGgxSkdxOWdqcTRjSWVmb1RlU2c3MzRaRlJIQVJYbVFQQ0RqRDN1TVhoTkVuVWJJaXVZNjhYYTNieWs0ZDIzSHhYcFVhamRLOHBrSzUwS1BwVnBEMURLN2ZMTHI2TWRSa0drbGdMV3JJd05wa25aOG9LcW41ZjlSUkZXZENMZzVpRU9Id2hoeEVxdQ?oc=5",
-      "source": "globenewswire.com",
-      "published": "2026-06-01T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;globenewswire.com"
     },
     {
       "title": "UniSound Joins Top Tier of Chinese LLMs with Token-Efficient U2 Foundation Model - Pandaily",
@@ -122,20 +164,6 @@
       "summary": "WAIC 2026 Deep Dive: Large Language Models Retreat Behind the Scenes as AI Agents and Embodied Intelligence Take Center Stage&nbsp;&nbsp;finance.biggo.com"
     },
     {
-      "title": "Lunai Bioworks (NASDAQ: LNAI) Launches Sentinel, an AI Safeguard to Block Large Language Models from Generating Novel Chemical Weapons - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTlJHUXlzcWlVdWtYWjFNTmVPaUg5LXF0TGdxRy1VZDREc0JPd2FIbGFGUjJHejdBQlg5cW1Sc2oxU19odVI0WUR1cTVjRkRNLVZNdm5XVmxWdHhIaVhQM1dsZlF1M2x2S1dmaG5YZDg2bmdfQVloa1lnOXVNd1U4c3FwVFFnSFhkVnptdHM3ZEdndzRmNVBYUHVNdTFtZTJtQmtNc19ZRlJMelVjYV9SMDFGOGRSak9vd2JpS3BCSjJjcHBnUGtyT2ZlYXliYlVGdG54Y0g0bW1nXzY2S29HaTJ0M2RWcU1XN19CQWJVQTl4M2RiWElWWHNiTkpPMmdQeEJVUDBmTmhMbU0yNjZfM1VIRHY?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-01-27T08:00:00+00:00",
-      "summary": "Lunai Bioworks (NASDAQ: LNAI) Launches Sentinel, an AI Safeguard to Block Large Language Models from Generating Novel Chemical Weapons&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSUtnb1JnSjg1VG5QSVAzOHhFQi1USmluei1YRDBRV0JYM0dYV3lGWHlSN1pkSlNHMVdBTl9Zc2xES2VCazdxNi1BWHZEZnFBbmRwVk9tSlBCYlh4V2piNWRVTDd4LU54RmNJcFpGMk5XbUxkNHMyZUJtcndRVTloekVacW1taE1BdTkwWmdsbXh0UHhkYWlQZFBZVjF3N3FVYVQxX0t6Z2l4cm5QYW1SdDV2NUJwczhvdURhS2c4X3FxQVplbFZ5SkdaemZLRzNXbDBBcWhFTnJhTkxyUWYxZ0tocUVlV1RaWmpsTXk1OFFKWUE3NU1wbEtuYTJ3UVd3VXJRREJn0gGLAkFVX3lxTE5Jb3owQmw2emZIV3J0Y0hCZHJVNTFaZnJybW9ZRzhSWHJIZkozbGY0U0RBQTB4bnQ5VkU4M28tR0ZiLTZnbEpodTViR0ZFZ0JPUUNBYTRCMXBVNS0yR21odURNR1hXcDJjVkRpRXRSemg1TVV6aDN2eWhyM1BkNDRUTllrMkpuNTB1MGc1dG1IT1A0dWJpUW1VZGxsYnUwbmwtRjZFd2NKYncycjdOR3lDVmQ5R3V5VWt6Y2x3ZTFCa3VxRy1rSDJrRTlGczlBbjd6eFFTNm12RWY0STY0WGtRd0d5Y1h0VXNKSS1vMjdtRFFBMy1sOXZSVm5VT1pLSVF0blJ6MVV4Tk9IUQ?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-03-04T08:00:00+00:00",
-      "summary": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "A multimodal cell-free RNA language model for liquid biopsy applications - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sOG9QaGVlam5ZaHJOSUozMWx6cU5oWldORnFKRXpjaTRJTVVsalVBbTZUVzMwLXFzV2M3NEU1TV95ZHlIdUlqYl9WUFpXc1VfYmFLRENPRm1ZaUg2cl9J?oc=5",
       "source": "Nature",
@@ -143,39 +171,11 @@
       "summary": "A multimodal cell-free RNA language model for liquid biopsy applications&nbsp;&nbsp;Nature"
     },
     {
-      "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ0o3Q3BTS2YzSFIxT3VZQ0xUX0NxcXdYWHllNEFqYlpKYlo1M1NZbnpuQXZaek9XTFJmNjc0aHVIMUgtUmU3WTloRVROZzdRTXNQYm9BV0V3WXlYMUo3Z3g2RzVjcklrSXc2VHhjODdNbV9rZW5YNkNZSDBSZ0JQUEk3azdTaUFkdkZVa0Q5SEdxZ3JjTzc4b2F5M1NrMEVucHQ2bVQwLTRhbEEtRERLU0Z1NXVteHNGMko3WDBOSEJ5LXptSm95alNPVEFMTW9fX1huWl9qeHFZSE5YYWZoemowS0hCOUg4N1FERGk4eVpHejF3V1B4SGc3eVVtYk5oRHMzMHlnTFA4eUNRak9GVWg0VdIBmAJBVV95cUxQNHlYS3Jib2Z1SmFwZi0zSS1sVVYwTjBHdTlzbXRqWUJiNWl5OV9xMld0cHJzYkR5OGVLR1lLcEYxazBtM0FVYmJhdTZaTDk3T3YwUWlkd1F0YWhTay1maTRQRVJsemVua0ozVEI4a3VoUzZXcjZCa2tFOGw4eGZWel9JcmRGQzNMM3pyclJLRHZZZXBjWjdUQ1pKd0JXMXowSmdmUGdzMlVGU0RVLW8zamR2ZHJWTmVZMDRjR1NpV25OWGdmRGlYYXI3dE1fSlNNWjkwa0FEcDF5RGFhd01NVjZpV3BnZk9vd1VRLS0zZXQyY1FrZjlud0JyWVUzYTlTbG10V2Q2eUl2MzdmMkMwMXBvTHF0SHo1?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-06-03T07:00:00+00:00",
-      "summary": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "Top 10 Physical AI Models Powering Real-World Robots in 2026 - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZy04cW9RVFdMT1ladUNwcXRzUFN1WVFIRFEwQjVzNGhvQkVvYndzeFA1eTlLalBfUnVRcS1abGl2ZXdLdThlcTQwc3FUR3FrNzM0NENZZ2J2V0dBR0NaLWo2VUNvRkl2OWtCR202NHppeDB3ZVBrYVJkUkZVN2RRdFk0WmwzejdRMzNTcEJSUU1xa3I0cF9IczNyVTl1R3dWUGl3?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-04-28T07:00:00+00:00",
-      "summary": "Top 10 Physical AI Models Powering Real-World Robots in 2026&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications - SK텔레콤 뉴스룸",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52NUNIcVlCanRNVG1TTE5Da2kzWU93UmRkbmlteHBNRmd0SkJhN3Z1RzhpYjBIWXNqd2ozSnZtM2YtOXJPWXdlZy13?oc=5",
-      "source": "SK텔레콤 뉴스룸",
-      "published": "2026-05-14T07:00:00+00:00",
-      "summary": "SK Telecom and Ministry of National Defense Sign MOU to Leverage Sovereign AI Foundation Models in Defense Applications&nbsp;&nbsp;SK텔레콤 뉴스룸"
-    },
-    {
-      "title": "Taimoor Hassan: Developer of Qalb, the world's largest Urdu large language model - theplainsman.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Wa0tWM0lLRWZ3R1pKVzlEOTBNSFdEZ2ExWEczSThEUC1EUW5kVWtlX1k2b1NBU1JtQ1E5R0dUcHdSSHdLY2JiR2Y4NFM2ckhJRVJ5OWlzcGZqaktCQWoxM1YwQUIyUmVUWUN0ZFU0REVXSFFGQU52MndBdGw3dw?oc=5",
-      "source": "theplainsman.com",
-      "published": "2026-02-23T08:00:00+00:00",
-      "summary": "Taimoor Hassan: Developer of Qalb, the world's largest Urdu large language model&nbsp;&nbsp;theplainsman.com"
-    },
-    {
-      "title": "SecureBERT 2.0: Cisco’s next-gen AI model powering cybersecurity applications - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1NfX1ZqRVJmRDVKUEozZndvUkl4Q2RsOW80WDVkOEJGckx5SzdEV3dHbEcyT29uU2M1aTFuVEh1YVpVVThOQnAzd0RBdWJtVl9lVldKdlFma1AwdGpmQTc0QmpjbDFsZjVXNGt2WkxucElNbGRpYVNoc1ZrUGp3WENCNmhfcVVFRUo1NEhiV1kyUVBLdm0wMmZmcDlLSU0yR25yWQ?oc=5",
-      "source": "Cisco Blogs",
-      "published": "2025-10-31T07:00:00+00:00",
-      "summary": "SecureBERT 2.0: Cisco’s next-gen AI model powering cybersecurity applications&nbsp;&nbsp;Cisco Blogs"
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFVDZXJCa1dqaHRBdWNjanZHY01PZUhJY1BPcXc5SFNuS0RBczFoMkJ3LWlYUXNGOEhvZlVyZTBTTGdfQmJvYmZ3bDFrdmFxblRycTNPSEs2dkNtSHRKUFBBMmNCZldpV0daUXdVT3JPUTFYUUJYc2tMLTdrdXBfZ1VyUEJvZHhLdmZ5UDMxSjBjdkY2UDZwU1pQeGlIN0FnelIzYnVhUXZ5VGpGNU1sVnR4QTMxUEdlRjJReVZB?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-07-15T07:00:00+00:00",
+      "summary": "Applied Computing wants to give oil and gas operators an AI model for the entire plant&nbsp;&nbsp;TechCrunch"
     }
   ]
 }
