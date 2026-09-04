@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-04T03:44:42.237614+00:00",
+  "generated": "2026-09-04T10:55:18.377052+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge - ASUS Pressroom",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnNEM2w1N096QkxFRjMtWDEwRXUySVFqNWsxSHZjaGtkQ25JY0JBOXhvRnFxejNzYmNWOEMwc0VqRnhuOU5tQ0hXS1I2ZzU4LTNMakpvR0FNRkdLMXF0SVhvdWNqRWQ2X21SZEFzZ2RfX3FlZTlZR2RMbEtOdkUyNy1ycGotNWNGRzRxc1N3?oc=5",
+      "source": "ASUS Pressroom",
+      "published": "2026-09-04T07:24:13+00:00",
+      "summary": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge&nbsp;&nbsp;ASUS Pressroom"
+    },
     {
       "title": "Intel Crescent Island AI GPU Slips, Nvidia Holds 80% [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DeGRIUUtpYTRWdHJyNkkwLWhXQ3JsQVNwQXAtdTBKdVdUSWZxS2hFYVJURU9KMDJqN0I5bzdjZlg3VHQ2Uk9hYkpLY004V3JyRUJMc202ZFFpYXotOEtXS0ZNa2NxbUxfb3EwMHpfbnJ0RlU?oc=5",
@@ -22,13 +29,6 @@
       "source": "Jon Peddie Research",
       "published": "2026-09-03T16:05:31+00:00",
       "summary": "AMD builds physical AI around balanced compute&nbsp;&nbsp;Jon Peddie Research"
-    },
-    {
-      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHFNMjYzQzg1WXZTZHA1NXpkdGt6TmlSY3B2Zm9zblJSTWJTVzBJRmlpaHdBdUZuVG12eVd1UTJUQkg0THBaV2JsZ2wtejAzYWZWV1VBVXVkbndjaGN6cUtBSjNURHB1SkowSlZtX0Fidl9hcE1mNkxLU1JXZy1zcFpzRENLSWRuMHFzanpHRU5hYV9tRjY1YWZuQVJCb1M3X1VmYk9xQWlFX0ZfMEIzR2JMbEhwalB1bUVKREQ2c2tXLTRvbnhV?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-09-02T21:05:59+00:00",
-      "summary": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership - qz.com",
@@ -52,18 +52,32 @@
       "summary": "Nvidia’s MediaTek Partnership Could Push Its Rack-Scale AI Empire Into Custom Chips, Top Analyst Says&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. - fool.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3p3MXZFM0pOQjNYbHdrNWxYejNCWVFrX011YmlENzdmRjl1ZDhnSlB1bV9YQThPMzc1OFkzdGRJcEpRc3otMGZ2ZjJwcUF0bXpMQmVvWXlGTktLZWRGa0tsaFRwNnZlT1JNbE1kRFZwVlJkbE5mVXRjV1NwTl9BRkxBUTc1UWFVSjRVNmNXVDZ2cm56?oc=5",
-      "source": "fool.com",
-      "published": "2026-08-30T13:20:00+00:00",
-      "summary": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks.&nbsp;&nbsp;fool.com"
-    },
-    {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
       "source": "OpenAI",
       "published": "2026-08-25T07:00:00+00:00",
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWHBtdlYtVXZKVnR6OENsOWNhMks4R2U2a1VWOGtROTVCN25aNXpER3ljZ01NSzQydU1GbDM3TVVWOVg5NVFDVTJLNFBWOEtLZDBCT2tEaEVUOW0wQjZ0cjhiQmZnT2MxcndKR2NCelVfMVNnVGpBeENVeTZmNnM0bzRoYjlJeEhIM3pRVzBrbFgzY1Z0VHI4ZjBBaHVJUDJsNkx5bV83RFYtNktScU9qeTRuRXVNRmt2c3ZhT1BfMFNIN29XX3h1cC1HSEhWQ1ctX3FWRXdiX0gxM3pTTXRheFFzdjZsY2JWYjFoalo2U20?oc=5",
+      "source": "Proactive financial news",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;Proactive financial news"
+    },
+    {
+      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-08-26T07:00:00+00:00",
+      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "Nvidia customers notified about AI-related price hikes above 15% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-22T07:00:00+00:00",
+      "summary": "Nvidia customers notified about AI-related price hikes above 15%&nbsp;&nbsp;Fortune"
     },
     {
       "title": "What's The Difference Between TPU Vs. GPU? - Engadget",
@@ -73,25 +87,11 @@
       "summary": "What's The Difference Between TPU Vs. GPU?&nbsp;&nbsp;Engadget"
     },
     {
-      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNUVfX0dNdW5OdVVjc0NhQ0l5cFotVURtb0xBXzNUNnV3SmlSM3d3dXYzb1IwZ21RUkdKRXNkemZqWjNUT2hoOVNtdEJJakZ0TjhaN3g4NFltV19RS1kxZjNTZksyeUtRb3gtUUc2cURfQ2Q2NTM1Ukh0N1JHVmsyaG5WUDlKSlBoXzl0LTJRTnNXSjVrT3ZXdE5SeXlDeXp3aGFIWWJpVlhScXdqbTRybVY4WFY1clY4RkxJREkzbGVsQi1NczhSWHh5U3lCQ3BwbFprMV9ZeDA4RDNwZXhtTzdwajF0VW9vcm1ONmx4azJUTnlC?oc=5",
-      "source": "Proactive financial news",
-      "published": "2026-09-01T01:25:00+00:00",
-      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;Proactive financial news"
-    },
-    {
-      "title": "NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute at Hot Chips 2026 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWVHa0xpNkFWYzRSeGRlM2g2M3VHb2ZlVE1OQkdSZ00tRGFlbG95cHJaSnpEdUd2RG9sWERCbUhSM21ueDhtSFpNNjNjT1lKU01DR3J6cWFGbEVLcEVKcFYwLVZfM2hNWWZGdXFHV21CaUthdjVBSURFNTFaaFhlNEZ2SzVwQVFvakcxQnVJWUZxc3JYTjZJT2Y0WnF3V2RvNWJ3UExBSmN6M3NR?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-25T21:45:31+00:00",
-      "summary": "NVIDIA’s Groq 3 LPU Accelerators for Heterogeneous AI Compute at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
-    },
-    {
-      "title": "Google’s expanded Marvell deal turns custom chips into a whole data center build - MarketScale",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOG9uUllfYngyb1FhN2N0SG92RHVNUmdZMmxGN3JISC1Kb0loWEJ2QURncEg0eGJjRzZacFBteVZMUDZSY3RJZ1pTZ0hCRjhKdXVaX2phQXJwRjNjRTRPanFSTHNEdWEzUzUtS3ZPaVJBV3BjWVR6a2F2NV9qckhwdV9vQ284UGFnNlFFeVI4S1ZTVG52YTRQM2VBaXVJREozSmVUSzVncVI0Qm9uM2V0RFFlMnVtMU9NV0xBMXF6MnpDWFp3dU02UGRMTm5pcXlxSnY1c19vT3U0QQ?oc=5",
-      "source": "MarketScale",
-      "published": "2026-08-29T12:59:09+00:00",
-      "summary": "Google’s expanded Marvell deal turns custom chips into a whole data center build&nbsp;&nbsp;MarketScale"
+      "title": "DeepSeek plans big Huawei AI chip order to power new data centre — Bloomberg - KLSE Screener",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FZS01mcWx3ZDBCYndMYzlWMlhyY0pveVZ2Q1NRUVlDUGxnN0NPYWZnY1RRQ2J3TVBEanRaXzlVV1lvbUpIUzlLZWt0eGg1UmJWYUc2VFFWalU4czdVUTZYNFg5WW1PdHNaVEIwWEs5TllEQ1Fid0pZVXdGOF9KM0pONG9xQzBNRzVIb2Z3bEZxQnZxai1MMkNwczVzQndiUkMtZkYxRVU1eWduSEk3eGM1VVpyREE2c29jWnJQOFJQQQ?oc=5",
+      "source": "KLSE Screener",
+      "published": "2026-09-04T10:03:49+00:00",
+      "summary": "DeepSeek plans big Huawei AI chip order to power new data centre — Bloomberg&nbsp;&nbsp;KLSE Screener"
     },
     {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
@@ -101,18 +101,11 @@
       "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
-      "source": "KBRA",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
-    },
-    {
-      "title": "Reports: Google partnering with AMD for next-gen hybrid TPU - Network World",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREJOb3BBMldGNzRldllNdll6cHZWMGMzajhUMUttUU1obHFjNV9FUV9RVU4yQnYwTWpFamMtUDVZeGZNanV3Sk9WbGVrSGlUeTNiNzVpU2Nkd1phOFRZQU5UOUFmd2dQRUFkUTVUaUxKODJvU2Rna3FxR0gzdXdWa29HV19pQ095Z3psdUptYkNjX1RtU0J0bjRxX0ZfMnhFLTB3dlllbkxKUUVj?oc=5",
-      "source": "Network World",
-      "published": "2026-08-18T07:00:00+00:00",
-      "summary": "Reports: Google partnering with AMD for next-gen hybrid TPU&nbsp;&nbsp;Network World"
+      "title": "Google’s expanded Marvell deal turns custom chips into a whole data center build - MarketScale",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOG9uUllfYngyb1FhN2N0SG92RHVNUmdZMmxGN3JISC1Kb0loWEJ2QURncEg0eGJjRzZacFBteVZMUDZSY3RJZ1pTZ0hCRjhKdXVaX2phQXJwRjNjRTRPanFSTHNEdWEzUzUtS3ZPaVJBV3BjWVR6a2F2NV9qckhwdV9vQ284UGFnNlFFeVI4S1ZTVG52YTRQM2VBaXVJREozSmVUSzVncVI0Qm9uM2V0RFFlMnVtMU9NV0xBMXF6MnpDWFp3dU02UGRMTm5pcXlxSnY1c19vT3U0QQ?oc=5",
+      "source": "MarketScale",
+      "published": "2026-08-29T12:59:09+00:00",
+      "summary": "Google’s expanded Marvell deal turns custom chips into a whole data center build&nbsp;&nbsp;MarketScale"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -122,18 +115,25 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
+    {
+      "title": "AMD is Quietly Eating Intel’s Lunch - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2RkOTV3eTkzNkk3d0dHeHQ2T1ltQXh4T1NMaWVoZGRKMU16OXJ2eU9ua2pZRmxnYW5DNVpILWtRU3NDdGdBRmJQN08xUWUwZ0hTdENsd01zd0VWZC1nZ1lFV1JnRUFkWkl5VDVYREgxOHBiNXBOUzJrS01Gbnk5WWlQekk?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-03T12:24:00+00:00",
+      "summary": "AMD is Quietly Eating Intel’s Lunch&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC - TradingView",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNE9TZ3hTNzd4UXAwc1p6WW51WXFiRDY0aURXMXZyZzlmXy1ySWR3eFJEUURKc1R3Q0lZazNzWUtMbnVfUzhhNGJRQjF0ellGQ25YcVhZSFlMMGpvM1JzVmhlZTlOaEtIaFZILTVtNk12NnhoUjl6WWx5eTJndEROdXBRZUJxajl3OWpVaUlLdnF6RF81N01MVm9hemJNVWVXcEtuU0FjT2tybUI0YWkxTnd3eUVrbEVsUUw0anQtVVBQaHMweDVsV0pKWVRKYkhPMlh1cUdkSzJneDBvWDd3VmlOZjlXb2RycHY3eTJELXFlN3I1dE5KeHhzWjBsaEJFcjJ2Zmd3?oc=5",
       "source": "TradingView",
       "published": "2026-08-31T16:47:41+00:00",
       "summary": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3VtVWhoQ1NoaEx6V3FEbUdHYXZIVTVWVDFtX3ZxV253LWtuMHVBa1NCRTB5dFlYa1c5RnJWQW1hY3hxaXU3QXRrTXd1cmlVQVpSM01salRnOHVUZDdteW1VNEVBOEktOFZ3R2FQUy1WdlNpaHQtV3VoQjM2d01jU2N0VUpacUJ4ellDOWhjOWF1VjM1MlpiV25fQ0xZc09H?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
       "title": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips - 24/7 Wall St.",
@@ -143,11 +143,11 @@
       "summary": "NVIDIA CEO Warns of 'Horrible Outcome' If China Optimizes AI Models for Huawei Hardware Instead of American Chips&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge - themalaysianreserve.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVhwdmR3TzhoR1JaSTB5N3Jpb09lVTRnSHU2Y2g1LVNJc1M4QmZ4SDIzR3NPZEdjam9fNEhrdExHSHZiSUVsaDY2VGIzNHhJR1pFQlltSkFiVWNTd09KR1J3WERscG1Ec0RvQ3owck9qd0RTV3NzV21pTHhjQXptLU12eXlzb0VPTkxiWEpjWnYzRmxLYnBTaTJGWGhaRUoxWHkyZVZn?oc=5",
-      "source": "themalaysianreserve.com",
-      "published": "2026-09-03T18:00:31+00:00",
-      "summary": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge&nbsp;&nbsp;themalaysianreserve.com"
+      "title": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXV4ZXF5UkdETHVnUnh3R2hMVTROWkRyYXVyWkNVNVZNdTJFVVR5YXBLSVVGY1ZscWJtMFktemFNWkJua21KU0wyUnItbzFXTS1VcEVNVU1OclFjMU9va3pZaFk2MG4ybmdKTGRKZk5qN0ctLU1FUnhWU0dYVVRjbzFyQ3k0dDBZSFpIeE5Ra3VrMWhpYTNzLWhFc1BXVzdVMGllbXNtdDdsUmIwUkppZHdOSVd3TndDTlF5MC1LQkd4OTE1TkZTMC0wcW00TG5N?oc=5",
+      "source": "SiliconANGLE",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents&nbsp;&nbsp;SiliconANGLE"
     },
     {
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
@@ -164,18 +164,18 @@
       "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
     },
     {
+      "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzc4WDJUOFNXN2VONms1LWNma01oVUMxUGtQQjlyMHAtYjRfUC11RjFjQ0VnTUpOQVhwQVNmNE95YmF3NzcyOE5KTWxNalY2Ty1QcXJWSklteHpGNUhWZ19vci1QbGFEcFhhRW5rWFRLRVJnUzBRa0NEVUsxcDlrVWVRckdzc3NuUFVDbHN5YVM1ay1LUUEwa3d1TVQ5czNLWU90OXNVTjA0OERS0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-08-23T07:00:00+00:00",
+      "summary": "Nvidia customers notified of AI-related price rises above 15%&nbsp;&nbsp;South China Morning Post"
+    },
+    {
       "title": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy? - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlZoUHd0cVRKTWxPWVE2NHlfM0dRQXJ4R29iVW5HT0JLV0Y5T2owNk5DaHRISTFKSWZhTHh6V21ZYlRXX3ZSYnBCQmxhdzc3ZUxvZEs3ZlE4MmhjbFNyM1FLSmtWZ0VkSHdjNmxaQ2ptSWdGYzB4Nkk2NkpqVTdRdURRNVhvUk5wQVk0SzFGWmVqSXZPQUFtSGJJTmdEbFZXb0c5ZUV4MG1CR19Td0I4bHVfR1JzWGl1eEhwbUhUZXEzQQ?oc=5",
       "source": "TradingKey",
       "published": "2026-09-01T09:18:09+00:00",
       "summary": "Broadcom vs. Marvell: Which AI Chip Stock Is the Better Buy?&nbsp;&nbsp;TradingKey"
-    },
-    {
-      "title": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDA4NlE0RmRTb3BlNm5XVVFibDB4RlJCSDZEUFhpbURseU9aRjl1T3lDcFliX1o3SUFZU1dDRUZ0Q0l3OUo5cWo1ckl2XzBYdzA2QXFmVElhdFJQSGNjSTBlV2tsenBXeHo3ZGtMVWROWEVPRUtoNGR5ek5la2ZZLUdsbXhOR2VaWWdfWnVwUXd5aHl5WjBBajFZY05OWWlGSWpEakFwNDdDQ0RPUXAxNmdkUGhHbTJGWERNWHhDdXZXaVRLS0tVbGVDaGRldzNWcElsZmR4Xzl4V3M?oc=5",
-      "source": "Tech Times",
-      "published": "2026-09-01T16:10:05+00:00",
-      "summary": "Samsung Reveals HBM5 Targets Server AI; zNAND-O Flash Targets Smartphones, Not GPU Servers&nbsp;&nbsp;Tech Times"
     }
   ]
 }
