@@ -1,14 +1,7 @@
 {
-  "generated": "2026-09-04T20:31:42.818288+00:00",
+  "generated": "2026-09-05T03:43:53.813739+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
-    {
-      "title": "Saudi Sovereign AI Milestone: HUMAIN Partners with MiniMax to Launch Arabic Large Language Model - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVkFhc2N3UGc2VmJmdUxLS2c1WVVTWEI5T2tSRy14M0JBSWxtUm1ta3RxMWE2c2J4S1BudFNqcmlaWGhPQzkxeDZEZE9rWWR4cnl3WGM0SElfcUFaM3NBRlZPSktKRmZ2cUJZdTkwMmRTeWQ1OUE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-04T01:59:39+00:00",
-      "summary": "Saudi Sovereign AI Milestone: HUMAIN Partners with MiniMax to Launch Arabic Large Language Model&nbsp;&nbsp;finance.biggo.com"
-    },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
@@ -17,11 +10,18 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "title": "Saudi Sovereign AI Milestone: HUMAIN Partners with MiniMax to Launch Arabic Large Language Model - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVkFhc2N3UGc2VmJmdUxLS2c1WVVTWEI5T2tSRy14M0JBSWxtUm1ta3RxMWE2c2J4S1BudFNqcmlaWGhPQzkxeDZEZE9rWWR4cnl3WGM0SElfcUFaM3NBRlZPSktKRmZ2cUJZdTkwMmRTeWQ1OUE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-09-04T01:56:00+00:00",
+      "summary": "Saudi Sovereign AI Milestone: HUMAIN Partners with MiniMax to Launch Arabic Large Language Model&nbsp;&nbsp;finance.biggo.com"
+    },
+    {
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - research.google",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
+      "source": "research.google",
       "published": "2026-06-30T07:00:00+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;research.google"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -52,11 +52,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Introducing the IBM Granite 4.1 family of models - IBM",
+      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "source": "IBM",
+      "source": "IBM Research",
       "published": "2026-04-29T07:00:00+00:00",
-      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM"
+      "summary": "Introducing the IBM Granite 4.1 family of models&nbsp;&nbsp;IBM Research"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -73,25 +73,18 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - science.nasa.gov",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
-      "source": "NASA Science (.gov)",
+      "source": "science.nasa.gov",
       "published": "2026-05-07T07:00:00+00:00",
-      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;science.nasa.gov"
     },
     {
-      "title": "Thomson Reuters launches its own AI model for legal document reviews - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkd6RzgwRVFHcW96WWphT19DQ1FzeUtqVldBa05NTm5pbXhNREVDeDFicWtDTjdmQWxZTGNZekdNekpCUzZYaTB5T3NmcmVJRWZlbm9rN3BtXzk2bnN3bkNTbXRtWGFyLXNsQTV5SUVycWd5QlhIbkZ3Mno2M0hUNzNhQzlWSXMwcTVFdTMzSFhxZ05od3lhQTdEeXNGS1psdW9yUVlKbGF1cUotRFpxcW9NMkh0VWFxbjJMT253?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;Stock Titan"
-    },
-    {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - fico.com",
+      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "fico.com",
+      "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;fico.com"
+      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     },
     {
       "title": "The Future of Large Language Models - AIMultiple",
@@ -127,6 +120,13 @@
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
+    },
+    {
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
+      "source": "Stanford HAI",
+      "published": "2025-12-16T08:00:00+00:00",
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
