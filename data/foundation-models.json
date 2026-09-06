@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T15:11:59.698113+00:00",
+  "generated": "2026-09-06T20:11:53.278035+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -31,11 +31,11 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Large Multimodal Models (LMMs) vs LLMs - aimultiple.com",
+      "title": "Large Multimodal Models (LMMs) vs LLMs - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;aimultiple.com"
+      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -59,18 +59,18 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
+      "title": "Inside Mastercard’s new gen AI engine - mastercard.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
-      "source": "Mastercard",
+      "source": "mastercard.com",
       "published": "2026-03-17T07:00:00+00:00",
-      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
+      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;mastercard.com"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -94,11 +94,11 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
+      "source": "nvidianews.nvidia.com",
       "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
@@ -115,25 +115,25 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "The Future of Large Language Models - aimultiple.com",
+      "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;aimultiple.com"
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
+      "source": "nvidianews.nvidia.com",
       "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog - NVIDIA Developer",
@@ -143,11 +143,11 @@
       "summary": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - medium.com",
+      "title": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026 - Medium",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "medium.com",
+      "source": "Medium",
       "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;medium.com"
+      "summary": "TabFM and the Rise of Tabular Foundation Models | by Adnan Masood, PhD. | Jul, 2026&nbsp;&nbsp;Medium"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -171,11 +171,11 @@
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
     },
     {
-      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - hai.stanford.edu",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
-      "source": "Stanford HAI",
+      "source": "hai.stanford.edu",
       "published": "2025-12-16T08:00:00+00:00",
-      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;hai.stanford.edu"
     }
   ]
 }
