@@ -1,13 +1,48 @@
 {
-  "generated": "2026-09-07T12:00:35.152963+00:00",
+  "generated": "2026-09-07T21:19:48.905964+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
+      "source": "BBC",
+      "published": "2026-09-07T12:22:07+00:00",
+      "summary": "OpenAI chief scientist warns no-one is prepared for consequences of AI&nbsp;&nbsp;BBC"
+    },
+    {
+      "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-07T16:52:16+00:00",
+      "summary": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3RiRnp5ZDBKeENGMDdlMUNIVjVxNmVSOGZ4NnoxZy1zVzFQS2E0V2RZQkFwVGN4U0dINndLR0xXb2VmUVM2cUthVmZKUWtqMF9RRzZaeXhDQkozb3V5T3d1WGd0a3J1UEpRSElpOVNRZ3Rzb2xreTl0NHBJbUwxOGVJY0Q2OGpFbGNtT0VtenVJOHJYUmxrVTlia3dmOTg1Q2V3bHRZeHBYcjAxVUE1RndTdHlDdjdzZGQxSzlkaGI?oc=5",
+      "source": "SMH.com.au",
+      "published": "2026-09-07T20:24:47+00:00",
+      "summary": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning&nbsp;&nbsp;SMH.com.au"
+    },
     {
       "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5",
       "source": "Business Insider",
-      "published": "2026-09-06T22:59:00+00:00",
-      "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI&nbsp;&nbsp;Business InsiderNvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra&nbsp;&nbsp;Yahoo FinanceWhy the launch of OpenAI’s latest Astra model reignited the memory chip trade&nbsp;&nbsp;MarketWatch"
+      "published": "2026-09-06T22:59:41+00:00",
+      "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI&nbsp;&nbsp;Business InsiderNvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra&nbsp;&nbsp;Yahoo FinanceOpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens&nbsp;&n"
+    },
+    {
+      "title": "Axios interview: Altman sees revenge of \"idea guy\" - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRExVd2JCVW9YRXNNTnlSY3ZNSDNGTDVYamlZenlNaWxBTXhlbnBFMWg4TUhTQ0dGYjZLNkRaZl9YTkRHMEFPNEc3OUllT205LWxERFVUZkItN2FKR0Q5cEczdGJBc0ZncDlCRk13b1RfbkZfTjJGOWR0eGEwajlzMDZqSmZUMExSNVE?oc=5",
+      "source": "Axios",
+      "published": "2026-09-07T10:49:44+00:00",
+      "summary": "Axios interview: Altman sees revenge of \"idea guy\"&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-09-04T22:17:36+00:00",
+      "summary": "OpenAI agents discussed ways to escape their sandbox on public wiki&nbsp;&nbsp;Ars TechnicaOpenAI has sent EU incident report on hijacked German website, Commission says&nbsp;&nbsp;ReutersWhy the Hugging Face Hack Should Make You Worry More About A.I.&nbsp;&nbsp;nytimes.com"
     },
     {
       "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
@@ -17,46 +52,18 @@
       "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Axios interview: Altman sees revenge of \"idea guy\" - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRExVd2JCVW9YRXNNTnlSY3ZNSDNGTDVYamlZenlNaWxBTXhlbnBFMWg4TUhTQ0dGYjZLNkRaZl9YTkRHMEFPNEc3OUllT205LWxERFVUZkItN2FKR0Q5cEczdGJBc0ZncDlCRk13b1RfbkZfTjJGOWR0eGEwajlzMDZqSmZUMExSNVE?oc=5",
-      "source": "Axios",
-      "published": "2026-09-07T10:46:14+00:00",
-      "summary": "Axios interview: Altman sees revenge of \"idea guy\"&nbsp;&nbsp;Axios"
+      "title": "OpenAI hires Chuck Schumer’s daughter as Big Tech cozies up to Democrats ahead of midterms: report - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVC11aVZBNlJZQ3hQSFliWWhjQ21hVjJZRTFJWWE5OHpPdnI3ZjJtTEE2XzFOd3A4OXFFdHNPMXdNQ1UxQmJQRHdNYUQzeDB3X3c4cVpRTUxmTlJ0ZFJGN3k0Q2hPOWdPRGRxNGFjR0hTaTdmemdrcVpMY3BSbzZmVVplU2VXM3A4d0djS0pqVzBYNkxzSG1iX2pXTQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-07T16:27:54+00:00",
+      "summary": "OpenAI hires Chuck Schumer’s daughter as Big Tech cozies up to Democrats ahead of midterms: report&nbsp;&nbsp;Yahoo"
     },
     {
-      "title": "Security News This Week: OpenAI Agents Hacked Another Website - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnFfaE5rZ1Bnc2V0b3lyaGZaRjRkRURVSFZsOE9tMk9iQXN0M3hlU1JrNkVQd2Fld1NXbjh4eXUzSnpaR0FRZHMzUU9hWEV1Um1YelE4V2dhUHJqNFVDOHpnRHZfRnVDbWlCTjdidXRHdDNjWXhGWkRFbjFqUHJra3ZleXd6RGFWSkROaXdEOHA4MlU?oc=5",
-      "source": "WIRED",
-      "published": "2026-09-05T10:30:00+00:00",
-      "summary": "Security News This Week: OpenAI Agents Hacked Another Website&nbsp;&nbsp;WIREDOpenAI agents discussed ways to escape their sandbox on public wiki&nbsp;&nbsp;Ars TechnicaOpenAI has sent EU incident report on hijacked German website, Commission says&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzlpWUlBLWpqMGlQNkE1UzRNcU9XVlh1WmtkeFk4ZjZMTnZWNlhSdDk4ODVZRlZlR3p5Vk4xNW80SkFWY3RYOU4yX0g2Y2lQemM5SllwSHRqbkRFcVl3QmdaWTlZQ2ZhNGhfOWVYWnNCUUp0c2FrT1EzVkUzMHdnc3psbERDcElSQjMtdXhlZDh1T1F2a3JhWkRQZXVVM1U?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-07T00:29:00+00:00",
-      "summary": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-05T03:00:00+00:00",
-      "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVkwYjgtNngweEhDWU1QcVBGVncyZ2U3WXByUzJpTVFrM3J4R0hoWWxsMW0xNEpnNzdBVVZIWGh6dTJ6dWNOQmNCY2U1X21weW5DamdZN0d0bGttdzFVV24xS1VCOG82ckpMQ3JJRjl6VWlERzdDSk55T2dLWTkxWjZnV3pubExXcUxqVkg4VzdYYmxROHpsbi1QZ216WnpYd2RZbVdtZkg?oc=5",
-      "source": "The Verge",
-      "published": "2026-09-06T23:36:04+00:00",
-      "summary": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement&nbsp;&nbsp;The Verge"
-    },
-    {
-      "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemxEa2EtS0tsRlZBa1dDY21WZ25QTEt4b1dUNjhEVFMtOTAzSnRIUms0eUhIOGJCSU9sOU9SR2hoeXZ5UWhrVnVFcng2U1Y5TEdlSDlpaVBzZjEzOUFydXoydXE2S1ZZcW5zVXF6RWY2azhuWEJMR1BLYy1ZRW1yeFNIcTdBRnplUUREQk1zZjE0ZVB2dWc?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-04T17:19:30+00:00",
-      "summary": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63-acre Moon Camp shoreline at Big Bear Lake, stopping a planned 50-home marina near the Jackie and Shadow bald eagle nest - Space Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFB0amlDOUZ3Q3RLN01OcTVHbnV5d1J3T0syZUxBRy1Bc18tMnFYN1RCd2Y2Y3E0dW5GMG9veXozMjBzSEhSYXpVeTMzNnIxdUg0TGwzWUt4YmVaa3FGQjIyTlFBenFoUFRCblVaa1A2TVNvZF9RWnpITnZyVnY5V2ZjQzhOVWVjb1hseXRRMkNRdElubzJUaU0xNjFFc3FJMXh2aV95V2dkUQ?oc=5",
+      "source": "Space Daily",
+      "published": "2026-09-06T10:56:44+00:00",
+      "summary": "OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63-acre Moon Camp shoreline at Big Bear Lake, stopping a planned 50-home marina near the Jackie and Shadow bald eagle nest&nbsp;&nbsp;Space Daily"
     },
     {
       "title": "OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern - Engadget",
@@ -66,53 +73,67 @@
       "summary": "OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern&nbsp;&nbsp;Engadget"
     },
     {
-      "title": "OpenAI is back in the lead but China won’t let it win - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlpBcmtMRzJIWER4VHRReUNoU0pfdE1mNjZKSklldEFoaFB1RUlKMGxRZmVCNnBnY3g5N3VyeWhhVi1tbUd1THFsVW8zYTZESXJaWFV1T19zVzl4NHhQcXlWdXZ4UE52TTVPLXM4TWhmaTg5N0U2bExvNWo0a1JORUc1TkgzYXFsRDVaQ1BUYjg1UjdVMlA5LWllbGV4a1hCZURZ?oc=5",
-      "source": "The Telegraph",
-      "published": "2026-09-06T12:00:00+00:00",
-      "summary": "OpenAI is back in the lead but China won’t let it win&nbsp;&nbsp;The Telegraph"
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVkwYjgtNngweEhDWU1QcVBGVncyZ2U3WXByUzJpTVFrM3J4R0hoWWxsMW0xNEpnNzdBVVZIWGh6dTJ6dWNOQmNCY2U1X21weW5DamdZN0d0bGttdzFVV24xS1VCOG82ckpMQ3JJRjl6VWlERzdDSk55T2dLWTkxWjZnV3pubExXcUxqVkg4VzdYYmxROHpsbi1QZ216WnpYd2RZbVdtZkg?oc=5",
+      "source": "theverge.com",
+      "published": "2026-09-06T23:36:04+00:00",
+      "summary": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement&nbsp;&nbsp;theverge.com"
     },
     {
-      "title": "OpenAI has filed an EU incident report on the hijacked German wiki, the Commission says - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xQW9SbmpsYWgzVVFqM2NMdy1BZW1DMGluVjJmay1kRkRMMm5ZMl9HMkZzVC1jWXV2SWd1MlI3UFhWcmpoQWlHWVlNV3ByUkdfM3hZUWRhdDVuQzBoX3g0RHlKeTRlM3dPTE5RZzFwal9Bc2s?oc=5",
-      "source": "The Next Web",
-      "published": "2026-09-07T11:50:40+00:00",
-      "summary": "OpenAI has filed an EU incident report on the hijacked German wiki, the Commission says&nbsp;&nbsp;The Next Web"
-    },
-    {
-      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOE9kRW14eFQzZlgxaHRSSU1kTkFhUzV2RG9LT2VQZVZFa3ZXdnllY0JuTFp3Zm5aQ1hEZi1HWDlfU3NGbDB1bGpibWMzbE0teHkzUXZiX3JfZFNKc0VjR0JiMnRfaU1KWmJ1MTdvZkZOVG9DOWlsaTRXNVVVMmE0S1FiWFVJNE9ONGl4Z0Y1UFNGOThBektGMjU1M0dQbF82T2VLUVBWVUplUUpORjUw?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-09-06T22:33:00+00:00",
-      "summary": "OpenAI to set misalignment disclosure rules after agents took over a wiki&nbsp;&nbsp;SiliconANGLE"
+      "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemxEa2EtS0tsRlZBa1dDY21WZ25QTEt4b1dUNjhEVFMtOTAzSnRIUms0eUhIOGJCSU9sOU9SR2hoeXZ5UWhrVnVFcng2U1Y5TEdlSDlpaVBzZjEzOUFydXoydXE2S1ZZcW5zVXF6RWY2azhuWEJMR1BLYy1ZRW1yeFNIcTdBRnplUUREQk1zZjE0ZVB2dWc?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-09-04T17:19:30+00:00",
+      "summary": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI&nbsp;&nbsp;nytimes.com"
     },
     {
       "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "OpenAI",
-      "published": "2026-09-07T11:53:44+00:00",
+      "published": "2026-09-07T21:14:13+00:00",
       "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5ZbFRhcWxwSG1FMUN1VnFPalBuTkRBOUVfdWxiSl96eHlXb2ExY28tWW0wbXk2Vk8zb2toM1ZQNk9qbG8zbmZwdlNnWFpTcWFFLVpPVGFvOUlBQ2RNMnhBTnczVWpMTkx3STlNcXJsSGczcTlTOHdDV3hiLUIwVEl4NzNYT0d2SUtIWkxFbHE2RHpEUGVXWThSaUVmUjJianp1QW9Yc2ZEem1PMHJhb2Nn?oc=5",
-      "source": "Business Insider",
-      "published": "2026-09-06T19:26:00+00:00",
-      "summary": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks. - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5",
+      "source": "Fortune",
+      "published": "2026-09-07T18:55:00+00:00",
+      "summary": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamtIZG1uM0JkOXFCM3loZ3g0Q3Q0YmRCQTEwbzdQdjZROUZqOFM3Sy13VExQRlV1RmlJYVFGQWtKa3NvdENRX3FhdVhpQnJDeU8xM0tfQjRQRmgyVGQ1U2gtV3RHeTd0N2tFeHg0U2dVeFFUSXN1eW9kY18zbU9nbExXOFhXNjB5Szh3RzRvTUNpQzByS1dtcE1vd2pXcGNrZ0dNc2FCOE12cDVseV9FRWY5d2dWMGxZRGxiZjd6eHc?oc=5",
-      "source": "Investing.com",
-      "published": "2026-09-07T04:27:22+00:00",
-      "summary": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch&nbsp;&nbsp;Investing.com"
+      "title": "OpenAI hires Chuck Schumer's daughter as Big Tech cozies up to Democrats ahead of midterms: report - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1BXbFdTeE9JSHpDR0tNM251RkI0MXpnbUk5c3JDY1BRWkpoVVJXOURVNm4xS0o1SVl1TFhrRk1OV2J6U1BnaVRtODd2WDg4eDRNZEJXcVJORWdMOW1XeHRyaHZTaUYzckM3cS1ZM3cwRVlsdVh1bWFpZ1RYZ0tOUndQUHliUGx0NUFFZVpjYVJUOWd6MVJ4NGlSbEFndkJlYURnWVRLaHBuSDNWOTRRbnByWlpLTktKU2tEOWpkMWsyYkNGMW02NU5pT3pGcjRDbUE?oc=5",
+      "source": "New York Post",
+      "published": "2026-09-07T16:27:00+00:00",
+      "summary": "OpenAI hires Chuck Schumer's daughter as Big Tech cozies up to Democrats ahead of midterms: report&nbsp;&nbsp;New York Post"
     },
     {
-      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
-      "source": "Artificial Lawyer",
-      "published": "2026-09-07T07:24:29+00:00",
-      "summary": "Harvey + Legora on OpenAI’s GPT-6 Astra&nbsp;&nbsp;Artificial Lawyer"
+      "title": "OpenAI working on 'framework' for sharing rogue-agent incidents - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczFqVTRxTUJxOU1xV1NNaXo3Q2MxV1E5QTNLWW90ejd2d1ZrV2dVVjhnWlF6em5sZkdDWVVTWVlqSWNwLUhaYXVkLUVtcm1BdldUVzZWZDFjdDlpcW0xSWY5RS1VMFEwOG9TZFpZYmhURzdIdF95MXZQV0RZSzgxcVR5bUh6SGJHeGRkMU1R?oc=5",
+      "source": "Mashable",
+      "published": "2026-09-07T20:15:00+00:00",
+      "summary": "OpenAI working on 'framework' for sharing rogue-agent incidents&nbsp;&nbsp;Mashable"
+    },
+    {
+      "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw?oc=5",
+      "source": "Forbes",
+      "published": "2026-09-07T19:30:28+00:00",
+      "summary": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "OpenAI commits $1 billion to expand frontier AI cybersecurity for critical infrastructure, essential services - Industrial Cyber",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXVTYU8ta0RZVEJfb0tIcmppdVVRbkxGNHVwU2pMLXdpQXZ3bDNjT2s3Vl83ZDlkeGF3UGQ3eDNXR0hxNTBIR1pJa0tJSl9xei1rM2syM080YzhneW1ucXVVNlowaHZQMmhfNVYtdmZCVnFwSGtqeTQxS3NlY1ltNHRMaTNBLV9WV0NYNGQ1MTFyVk92VG5iRkkyVGc2Mk5reGY4X3hWNkUyUVE3b0xNcVFIZGp6OFNySzA1V1ZRVlRZdmhBQ3dGU3Q4VG9wVWh0RlVPc0ZKWlp1ZEpSaThxR2tVeTJBVUpKTy1YM09Oa04?oc=5",
+      "source": "Industrial Cyber",
+      "published": "2026-09-07T15:57:26+00:00",
+      "summary": "OpenAI commits $1 billion to expand frontier AI cybersecurity for critical infrastructure, essential services&nbsp;&nbsp;Industrial Cyber"
+    },
+    {
+      "title": "EU probes OpenAI agents' takeover of German site - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDYnJUWVotb3k3SDBETS05OXByQjNCc1c0Z1MzMWYxLUY2N1VHN3JiT0RCazliQVlxaW1IUkZGMXl2ZjJYSC0ySEZfZnAwMTFyV1ROd3JjNWgwSjk2MTA2T0tLaDdoRTgyQVhYWFV1elptX1BuWThTWXkzSzV1QQ?oc=5",
+      "source": "Tech Xplore",
+      "published": "2026-09-07T18:20:10+00:00",
+      "summary": "EU probes OpenAI agents' takeover of German site&nbsp;&nbsp;Tech Xplore"
     },
     {
       "title": "OpenAI just hit a milestone on the road to self-improving AI - Help Net Security",
@@ -122,25 +143,18 @@
       "summary": "OpenAI just hit a milestone on the road to self-improving AI&nbsp;&nbsp;Help Net Security"
     },
     {
-      "title": "Red Alert: OpenAI is poised to cross an AI safety redline. - Marcus on AI | Substack",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMVdwV1NoSTBFUVBRekhPVS1MakJVb09aZ0lucGdIbTdDaW9ZTHFiNmx5dzhxOXZ6ZEdyeVN1aEp1enNqZWtVUDctS2FNTllqeEJHNG9fQmltSjZsMWlwcFl5aW15MWVUSjVheEpvWEt0eUcxdm5TVg?oc=5",
-      "source": "Marcus on AI | Substack",
-      "published": "2026-09-02T03:22:41+00:00",
-      "summary": "Red Alert: OpenAI is poised to cross an AI safety redline.&nbsp;&nbsp;Marcus on AI | Substack"
+      "title": "OpenAI Agents Hijack Another Victim Website - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUc3JpeERvOG9nYnZkelpIUU5SbGtkVEV4T1ZqQ3pnTzRGMGtDbEVQOEc3dFZFUnpYbEJVcWtTLU1rN2xITzVPc2d6Q1piZWV5Z3dmaXBSWTdXOHpnejBBbWNLTV9Vamx1U1otd1VubFNrbkZkZGhYbnpaU2F2QdIBgwFBVV95cUxOVEh0em01YjhCdG9iM1RzYV9KMEtKdU1TQ1l0UVVpbjgwMkt4SHVVOU5aUk93VGI4UlFSYUdQeFhGcktjYjVLSUFCelI0OFMxWkVwN1NhYkpNVTZjS2FTT2hTT3hjU0FxMDA1XzdaQXpaODV3YUUycHJ6RjFOckUwTzZuUQ?oc=5",
+      "source": "SecurityWeek",
+      "published": "2026-09-07T12:03:04+00:00",
+      "summary": "OpenAI Agents Hijack Another Victim Website&nbsp;&nbsp;SecurityWeek"
     },
     {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-05T18:05:27+00:00",
-      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-06T15:02:26+00:00",
-      "summary": "Research acceleration: The view inside OpenAI&nbsp;&nbsp;OpenAI"
+      "title": "AI agents are creating more work, not less — and OpenAI’s own numbers back it up - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GSEZHRjlNeVp6YWo1YkdYWjgyVnQ1WmJTM1lIY3JEYzNyYndvRXk2Y25yZTg2blNZV0cyVTRBSzZhd1JoMGpJdGpOeEZIQVZOay10YTQyTUtoN3ZHbDUzbmlOTDIzdDA?oc=5",
+      "source": "The New Stack",
+      "published": "2026-09-07T19:07:07+00:00",
+      "summary": "AI agents are creating more work, not less — and OpenAI’s own numbers back it up&nbsp;&nbsp;The New Stack"
     },
     {
       "title": "An Alien Mind - OpenAI",
@@ -150,32 +164,18 @@
       "summary": "An Alien Mind&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI Reveals How Much Its Researchers Are Spending on AI Coding - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONklsblp1S1hKNnYzRDBQdmI0T0wxRWxrTEtReUR3TGNWa1M2SlZDOTRUbXJCYWo0VHBRejg4ODh5QmRhQ2l5TlZIUlE1RU15VENZTlJGN3YtV1RVU2E5cEl2Qk8xMk02UWZoQUhVX3B4bXJZVElXU3Juc2RoN1FWbFJma1Fndw?oc=5",
-      "source": "Business Insider",
-      "published": "2026-09-07T11:32:46+00:00",
-      "summary": "OpenAI Reveals How Much Its Researchers Are Spending on AI Coding&nbsp;&nbsp;Business Insider"
+      "title": "Supporting independent journalism in Ukraine - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed3RKR3hpRXRwNEdzXzZ4ZkQ4WjZzWTRVT05aSzE4U2lpb2JhXzJ4MkRhVUU2ZVYteUpydTRhMFdyZTM3bUxQeE5HQVFPazJBVGsxQzZrX2FVQ19HcmNEa2RXOU1uWGtYQ1lhamJ1U2RjTVJFSGU3Rk53?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-07T07:27:48+00:00",
+      "summary": "Supporting independent journalism in Ukraine&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NWRBNVBBdWQwaldNTmRJUTVJN0FqNUVRM0ZqVzZKT21ocjlaOUFmUENRRG1PWFIyV003aEdtYW04WUx6VDQ0TzZKMGMzT0RvWFIxSlYtZWhJVkVRdGxrdkc5aVZMcHBsX0E?oc=5",
+      "title": "Research acceleration: The view inside OpenAI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
       "source": "OpenAI",
-      "published": "2026-09-03T23:36:10+00:00",
-      "summary": "Daybreak for Frontline Defenders: $1B to protect essential services&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96LWRUcTNTOGszRVdVcDMxel8yNUFJajFqLUxxWklNZDZ1a0FKcW9pMXo5X29iS0ZQcFVGLW5KaTVGczUxRi1iUzZYcm1XcDVBZGlUZ0Jfc2xrSGhNN29QbXVRcw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-03T20:07:43+00:00",
-      "summary": "Safety overview: GPT-6 Astra&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-03T07:00:00+00:00",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model&nbsp;&nbsp;OpenAI"
+      "published": "2026-09-06T15:02:26+00:00",
+      "summary": "Research acceleration: The view inside OpenAI&nbsp;&nbsp;OpenAI"
     }
   ]
 }
