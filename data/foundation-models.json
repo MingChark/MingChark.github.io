@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-08T10:54:57.410955+00:00",
+  "generated": "2026-09-08T16:19:15.695016+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
+    {
+      "title": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12alJnZy1VRy12YTFVd3U3aTFFWUJqT09FMmd2aTFVWmlPb3hBT3l0WElXNmpiMUVKTkRjV0VZME9nWTFrMXROU3RjVDN5SS1PWWV5bmlobUo4Z3BnazlWOFZIellUTmp4NVY5bDhIa1ZaTkVZM2c?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-09-08T03:06:00+00:00",
+      "summary": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights&nbsp;&nbsp;finance.biggo.com"
+    },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
@@ -24,25 +31,25 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
+      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "Cloudflare Blog",
+      "source": "blog.cloudflare.com",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
     },
     {
-      "title": "Large Multimodal Models (LMMs) vs LLMs - aimultiple.com",
+      "title": "Large Multimodal Models (LMMs) vs LLMs - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;aimultiple.com"
+      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
+      "title": "Introducing Geospatial Foundation Models in ArcGIS - esri.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
-      "source": "Esri",
+      "source": "esri.com",
       "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;esri.com"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -59,18 +66,18 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "Thomson Reuters launches its own AI model for legal document reviews - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkd6RzgwRVFHcW96WWphT19DQ1FzeUtqVldBa05NTm5pbXhNREVDeDFicWtDTjdmQWxZTGNZekdNekpCUzZYaTB5T3NmcmVJRWZlbm9rN3BtXzk2bnN3bkNTbXRtWGFyLXNsQTV5SUVycWd5QlhIbkZ3Mno2M0hUNzNhQzlWSXMwcTVFdTMzSFhxZ05od3lhQTdEeXNGS1psdW9yUVlKbGF1cUotRFpxcW9NMkh0VWFxbjJMT253?oc=5",
       "source": "Stock Titan",
       "published": "2026-08-24T07:00:00+00:00",
       "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;Stock Titan"
-    },
-    {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - nature.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "nature.com",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;nature.com"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -108,25 +115,18 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTE1pYjZfZnJoRzhYbUloS0hnNlNONTFONjlLTkN1ejFFUmFOMUFwMDlXNFJrY1pqbVR3NXZqeFlEaTBzXy03NUx1MEMxT1R3dlNXUktZTnlTcFZQakFxZVl3Wlh5UUxsUy1STlhmOHc2R3hCakQ5SVROVmNWN0V2NklMV19oNGc5alVNZnNnTkVFTURVdUZuVDI0VTU0dGFpTHVuZ3VCMUUxSGZWeURyVGlKX1dxNUpfZDBrbTVPYjVXV1hpeW0wbF9oUGZZd05kdGlyY1N0alNyaVE1ZE5EVUgyeF9wZnhVMjZ2cjE4TEpWbA?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
-    },
-    {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - nature.com",
+      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "nature.com",
+      "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;nature.com"
+      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "The Future of Large Language Models - aimultiple.com",
+      "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;aimultiple.com"
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
@@ -136,11 +136,18 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "10+ Large Language Model Examples - aimultiple.com",
+      "title": "10+ Large Language Model Examples - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5UjFVQl9GY2ZXUUZRVlVZX1BJY2VXcEVWRy1XOExCY2VCU3BaclgtTzNscGhzY0paOU8xSEl0aXZFRmRyb1RhSUdjcEgwS1VLcW9ybUV0bHZ2VG93eThNYThVQQ?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-22T07:00:00+00:00",
-      "summary": "10+ Large Language Model Examples&nbsp;&nbsp;aimultiple.com"
+      "summary": "10+ Large Language Model Examples&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTE1pYjZfZnJoRzhYbUloS0hnNlNONTFONjlLTkN1ejFFUmFOMUFwMDlXNFJrY1pqbVR3NXZqeFlEaTBzXy03NUx1MEMxT1R3dlNXUktZTnlTcFZQakFxZVl3Wlh5UUxsUy1STlhmOHc2R3hCakQ5SVROVmNWN0V2NklMV19oNGc5alVNZnNnTkVFTURVdUZuVDI0VTU0dGFpTHVuZ3VCMUUxSGZWeURyVGlKX1dxNUpfZDBrbTVPYjVXV1hpeW0wbF9oUGZZd05kdGlyY1N0alNyaVE1ZE5EVUgyeF9wZnhVMjZ2cjE4TEpWbA?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
@@ -169,13 +176,6 @@
       "source": "Stanford HAI",
       "published": "2025-12-16T08:00:00+00:00",
       "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
-    },
-    {
-      "title": "Densing law of LLMs - nature.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96R0lFbEo2ZWVhMEdKTmhZVEJnNDNpSlpQVGdDX0c3SmxjUmE5VmM3VFVIS2RodHJUMGdMMF9yN3Y1V0wtTUI0cU5GcmlNMktKcGFQdjdzZkJ4RkxHaDU4?oc=5",
-      "source": "nature.com",
-      "published": "2025-11-06T08:00:00+00:00",
-      "summary": "Densing law of LLMs&nbsp;&nbsp;nature.com"
     }
   ]
 }
