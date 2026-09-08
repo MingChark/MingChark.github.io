@@ -1,13 +1,20 @@
 {
-  "generated": "2026-09-07T21:19:48.905964+00:00",
+  "generated": "2026-09-08T03:50:34.886548+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI - 24/7 Wall St.",
+      "title": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI - 247wallst.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2VGdi0wdUNlSDFDbFlrdXhiQUM2ZXZhRVB1Z0lzbG1sVHNNMTR2VU1kb003WF9MY3N3UWQyWFdoQngtRGs2TUc1WGNDMnZvS3U4VEJHR3F1X01Xb0RuRnYtTVZTNFJoTnZOcnJ5cE5SWUhQcFVwbUFXN0w5Nzd6c1FhMlZEV2s5N1NLRUpCUVVBQ3Z0NlpkcFh1ZHBOSnVKQmdaM1FOVWZ0LXdockViNDBHaDlld1AxZXduZFRicHpBblVyd01UYw?oc=5",
-      "source": "24/7 Wall St.",
+      "source": "247wallst.com",
       "published": "2026-09-07T16:50:00+00:00",
-      "summary": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI&nbsp;&nbsp;24/7 Wall St."
+      "summary": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI&nbsp;&nbsp;247wallst.com"
+    },
+    {
+      "title": "Malaysia weighs Huawei AI chips despite a US warning - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUJnTEl3THpwVHNXdHZlT2ppUUZMYlRVQWQ4bU9vRDN2ZHR3YVVHU193dTYzRlNock9jdXpSZkl2WG5LUDhSaE5ZSkFrbTg1aUVGQTFkYVVJRU4zelFSelJ2X1FaVnR1Ujh5d1N3cHVkVWY5c3JLRjU1NnFzaC1CT1pJZ0RZajY4V3NF?oc=5",
+      "source": "The Next Web",
+      "published": "2026-09-08T00:13:07+00:00",
+      "summary": "Malaysia weighs Huawei AI chips despite a US warning&nbsp;&nbsp;The Next Web"
     },
     {
       "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center - Bloomberg.com",
@@ -24,25 +31,11 @@
       "summary": "Intel Crescent Island AI GPU Slips, Nvidia Holds 80% [2026]&nbsp;&nbsp;tech-insider.org"
     },
     {
-      "title": "Broadcom's custom AI chips threaten AMD's growi... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbEVlRG9fZ2NnWHphUGRnMHhvT0d3YVM0WmpSRW5fNDdUUVhqT2F5UDBabXY0MXBsdDJlZU1RTzUyZVRvYkd3NEVsaXRGSlNRSFZCbUtfMW9zUlZWYlVDT3Zwd04xdHJiZ0luYkZJM2dSbHR1bDZ1RGhkb3I1d3M?oc=5",
-      "source": "Pluang",
-      "published": "2026-09-07T13:04:19+00:00",
-      "summary": "Broadcom's custom AI chips threaten AMD's growi...&nbsp;&nbsp;Pluang"
-    },
-    {
       "title": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge - ASUS Pressroom",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnNEM2w1N096QkxFRjMtWDEwRXUySVFqNWsxSHZjaGtkQ25JY0JBOXhvRnFxejNzYmNWOEMwc0VqRnhuOU5tQ0hXS1I2ZzU4LTNMakpvR0FNRkdLMXF0SVhvdWNqRWQ2X21SZEFzZ2RfX3FlZTlZR2RMbEtOdkUyNy1ycGotNWNGRzRxc1N3?oc=5",
       "source": "ASUS Pressroom",
       "published": "2026-09-04T07:43:53+00:00",
       "summary": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge&nbsp;&nbsp;ASUS Pressroom"
-    },
-    {
-      "title": "Nvidia acquires Hugging Face after Stripe nabs OpenRouter: here's what open source AI builders should do - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGRPTm84eHVDLVRzQWllNjgzLXJEWjlLN3VGUng1Wi1FdWJTdER4WTR0WmZjeGI1XzQ4S3ZTUGNLYzQ2T1lDTEhfX0Z1Rmx1b3NPekZ2d1FBcHVCWlV4ekNncGt2V0ZRekk5SW5ucjhMMTVmZDRuMVlUM2J4cEQzNVBWS1RIQUdXUGx3dlNFamJQdDdUUmlUVU1YODhNMnNSXzZzdkhZTFpwTVJOejVxeE41ZzExd2FtVXZTeVNqMUNXa0dWVGJNUzJ2Qkp0VlRpakFpWlUzb0w?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-09-04T20:43:31+00:00",
-      "summary": "Nvidia acquires Hugging Face after Stripe nabs OpenRouter: here's what open source AI builders should do&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026] - shattered.io",
@@ -52,13 +45,6 @@
       "summary": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "AMD’s Whole AI Story Has One Threat It Cannot Ignore: Broadcom - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlU4NUZpX3RUeGJwMnlnRkx5bkF4TEJkYjBBdGtIMnIxZDlYX1R1bEVDd19ZN01fUG96VFdZbnlDck90Y0VBN3RLbTRCUkpZUmFqVTlkekpYcF9tdWc5bkkzZnJVRTlGRzZiMFhxZDFxMVFiQ0x2bVRveTZUU0xoSF83bl9XUVd5YlZWN2VrSmJKbUgxejA1Y3o5cmdDR0RnZUd1bG1Kbw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-07T12:47:00+00:00",
-      "summary": "AMD’s Whole AI Story Has One Threat It Cannot Ignore: Broadcom&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "source": "AIMultiple",
@@ -66,11 +52,11 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Nvidia has developed new NVHBM memory for future AI accelerators. - en.gamegpu.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0t2QWR0aFNadDVEZHJkMkoyOE5TNHRmVFVraDdrTzFkb205MTVON0FFUzJFRklwZEdlVkFLNUk0YXd3MWdVeTVGT2VDd2RjMGdnZEJBaGRTaFBrbXNtMTNQaTl2cktua3JzOWhMeVlOUVNWb18yOUw0dnE2OE04YkVOZUJyX09vTW1YZEo3UmtKNFZpQjZSVkY0Mzl1NzFNTmtubnR3VFRyQQ?oc=5",
-      "source": "en.gamegpu.com",
-      "published": "2026-09-05T20:21:54+00:00",
-      "summary": "Nvidia has developed new NVHBM memory for future AI accelerators.&nbsp;&nbsp;en.gamegpu.com"
+      "title": "Broadcom's custom AI chips threaten AMD's growi... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbEVlRG9fZ2NnWHphUGRnMHhvT0d3YVM0WmpSRW5fNDdUUVhqT2F5UDBabXY0MXBsdDJlZU1RTzUyZVRvYkd3NEVsaXRGSlNRSFZCbUtfMW9zUlZWYlVDT3Zwd04xdHJiZ0luYkZJM2dSbHR1bDZ1RGhkb3I1d3M?oc=5",
+      "source": "Pluang",
+      "published": "2026-09-07T13:04:19+00:00",
+      "summary": "Broadcom's custom AI chips threaten AMD's growi...&nbsp;&nbsp;Pluang"
     },
     {
       "title": "Nvidia customers notified about AI-related price hikes above 15% - Fortune",
@@ -80,18 +66,18 @@
       "summary": "Nvidia customers notified about AI-related price hikes above 15%&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD - tomshardware.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZ3E5MzBteVZka1NZV1FLQVJud0hzTENyY0Y0MGpkVGZ2OGkyd3J1Z2V0dlk1cE1EQWI4TFc2cGpGT0E1Q1VneThVY21CeHpYYi1PSkhnbnVHQW8ybjMwWFdGZDVoWTZNMTM5T1NkOGY3RXRfbW8zY2ZWVHc5OFdaTS1ka2lNdzhPUDZwMF9ycXdkZVdXanZVQ09yaVFYRHBmMEs5SVB1cW4xYTBUQmptbHRxSzlqcGtlVW04ZzlCbGV6WW5JOGdUZmRoQ2hrYlppaGVWQ3d0OElvdkI4Qk9TRHlFNnNKcVd3Q2tsYkx5SG9oLTR3MGtLSTdEXzlCd3ZmVWZyaDMxNFF1QmZBLUE2YXdsZ2J0MWNqN2dLZnBzcFBaZTBrNHVnOTV2SXREM2xNNG9fRnVuV2YtNEtNNjd6NFZheUJJVXlJem92V0pPajZjSFRpNGdwcENUZE8tYmRfTnJjOE9jaTE?oc=5",
-      "source": "tomshardware.com",
-      "published": "2026-09-04T12:58:37+00:00",
-      "summary": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD&nbsp;&nbsp;tomshardware.com"
+      "title": "AMD’s Whole AI Story Has One Threat It Cannot Ignore: Broadcom - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlU4NUZpX3RUeGJwMnlnRkx5bkF4TEJkYjBBdGtIMnIxZDlYX1R1bEVDd19ZN01fUG96VFdZbnlDck90Y0VBN3RLbTRCUkpZUmFqVTlkekpYcF9tdWc5bkkzZnJVRTlGRzZiMFhxZDFxMVFiQ0x2bVRveTZUU0xoSF83bl9XUVd5YlZWN2VrSmJKbUgxejA1Y3o5cmdDR0RnZUd1bG1Kbw?oc=5",
+      "source": "247wallst.com",
+      "published": "2026-09-07T12:47:00+00:00",
+      "summary": "AMD’s Whole AI Story Has One Threat It Cannot Ignore: Broadcom&nbsp;&nbsp;247wallst.com"
     },
     {
-      "title": "AMD's new workstation pairs a 96-core Threadripper with 576GB of GPU memory - TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak5XRXE3R2tUOGFUdGZRdGNDaVBoQ3cxejFta0dvX1M5YUVyeTEyMUNRbElrTFFKREZiUnVaNWRzRVVrQ2ozWjJEekxLbVc1RUM5OTRmX2E2X3RUOUUtWVFXeFVFMzc2TnBCbEsxZGpMLVFwZ0NqTWQ1LWlxYXRpY0M2XzN4cGE1OTY4VGtvanNLSVlRNXlFYlpR?oc=5",
-      "source": "TechSpot",
-      "published": "2026-09-06T15:51:00+00:00",
-      "summary": "AMD's new workstation pairs a 96-core Threadripper with 576GB of GPU memory&nbsp;&nbsp;TechSpot"
+      "title": "Nvidia has developed new NVHBM memory for future AI accelerators. - GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0t2QWR0aFNadDVEZHJkMkoyOE5TNHRmVFVraDdrTzFkb205MTVON0FFUzJFRklwZEdlVkFLNUk0YXd3MWdVeTVGT2VDd2RjMGdnZEJBaGRTaFBrbXNtMTNQaTl2cktua3JzOWhMeVlOUVNWb18yOUw0dnE2OE04YkVOZUJyX09vTW1YZEo3UmtKNFZpQjZSVkY0Mzl1NzFNTmtubnR3VFRyQQ?oc=5",
+      "source": "GameGPU",
+      "published": "2026-09-05T20:21:54+00:00",
+      "summary": "Nvidia has developed new NVHBM memory for future AI accelerators.&nbsp;&nbsp;GameGPU"
     },
     {
       "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership - qz.com",
@@ -101,25 +87,11 @@
       "summary": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership&nbsp;&nbsp;qz.com"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - nvidianews.nvidia.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "nvidianews.nvidia.com",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;nvidianews.nvidia.com"
-    },
-    {
-      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
-      "source": "KBRA",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
-    },
-    {
-      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lHQ3JycFVfOE8yYVB6VGF6YlNwckZjTTZ3Q2YtUlhWUDBndkVRZTlndEQ0WWJrT1lEaS1pM3FYMFg1UWVwekhmTEdtQ3lrVF9HRENmWGZfN0toaExhQ3lUSjQwNThtT2dlNnBwc01FMzVqSDF0dGs2cU14TDh1NE54ZUdGQVdFcVpqdXVPYjRqcE50OGlHMks0SQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-21T07:00:00+00:00",
-      "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
+      "title": "AMD's new workstation pairs a 96-core Threadripper with 576GB of GPU memory - TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak5XRXE3R2tUOGFUdGZRdGNDaVBoQ3cxejFta0dvX1M5YUVyeTEyMUNRbElrTFFKREZiUnVaNWRzRVVrQ2ozWjJEekxLbVc1RUM5OTRmX2E2X3RUOUUtWVFXeFVFMzc2TnBCbEsxZGpMLVFwZ0NqTWQ1LWlxYXRpY0M2XzN4cGE1OTY4VGtvanNLSVlRNXlFYlpR?oc=5",
+      "source": "TechSpot",
+      "published": "2026-09-06T15:51:00+00:00",
+      "summary": "AMD's new workstation pairs a 96-core Threadripper with 576GB of GPU memory&nbsp;&nbsp;TechSpot"
     },
     {
       "title": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground - Yahoo Finance",
@@ -129,18 +101,18 @@
       "summary": "AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - nvidianews.nvidia.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - kbra.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "kbra.com",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;kbra.com"
     },
     {
       "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026 - ServeTheHome",
@@ -150,18 +122,32 @@
       "summary": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026&nbsp;&nbsp;ServeTheHome"
     },
     {
+      "title": "Malaysia eyes Huawei chips for AI project despite US warning - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTJDa2lxSlpXR25QUWpDT0FIVzlCLXo0bUhmMVlhVGcxWGcxZzBTeTUxVUNTQlZBMGlOTzhnUkFxVFRVejNBV1FRWmNKdHF5NURRTk1jc29ubkZvTzh2SlZMZXZ6RlRSNnh0SXpXZEJyMTc1UUZkOVllcG9nZ1pzWjBPblRVWk1ZY1pjRUZVUEtjSlJ4VGJUOVE3WXEtRVp5T196WlJB?oc=5",
+      "source": "The Business Times",
+      "published": "2026-09-07T08:46:00+00:00",
+      "summary": "Malaysia eyes Huawei chips for AI project despite US warning&nbsp;&nbsp;The Business Times"
+    },
+    {
+      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc2lHQ3JycFVfOE8yYVB6VGF6YlNwckZjTTZ3Q2YtUlhWUDBndkVRZTlndEQ0WWJrT1lEaS1pM3FYMFg1UWVwekhmTEdtQ3lrVF9HRENmWGZfN0toaExhQ3lUSjQwNThtT2dlNnBwc01FMzVqSDF0dGs2cU14TDh1NE54ZUdGQVdFcVpqdXVPYjRqcE50OGlHMks0SQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-21T07:00:00+00:00",
+      "summary": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-07-07T07:00:00+00:00",
+      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
       "title": "What's The Difference Between TPU Vs. GPU? - Engadget",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU5uX2ktZTFkU2RuSDc4eUxjQ2xFS0FObXN4TU1hQV9lWERCc2dvQVNmZ1MzV3BZeEo0Z1V3WU9oRjJaeW95Mm92TjR2eUZjXy1qN1VwVmtYa3l0RWVoUjFEZ213Y2YzcG5SeGlsQUo2MXJicGtVc3hYUHhOWk1WUw?oc=5",
       "source": "Engadget",
       "published": "2026-08-29T07:00:00+00:00",
       "summary": "What's The Difference Between TPU Vs. GPU?&nbsp;&nbsp;Engadget"
-    },
-    {
-      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWHBtdlYtVXZKVnR6OENsOWNhMks4R2U2a1VWOGtROTVCN25aNXpER3ljZ01NSzQydU1GbDM3TVVWOVg5NVFDVTJLNFBWOEtLZDBCT2tEaEVUOW0wQjZ0cjhiQmZnT2MxcndKR2NCelVfMVNnVGpBeENVeTZmNnM0bzRoYjlJeEhIM3pRVzBrbFgzY1Z0VHI4ZjBBaHVJUDJsNkx5bV83RFYtNktScU9qeTRuRXVNRmt2c3ZhT1BfMFNIN29XX3h1cC1HSEhWQ1ctX3FWRXdiX0gxM3pTTXRheFFzdjZsY2JWYjFoalo2U20?oc=5",
-      "source": "Proactive financial news",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;Proactive financial news"
     },
     {
       "title": "Nvidia announces AI-related price hikes - Taipei Times",
@@ -171,11 +157,25 @@
       "summary": "Nvidia announces AI-related price hikes&nbsp;&nbsp;Taipei Times"
     },
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
+      "title": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWHBtdlYtVXZKVnR6OENsOWNhMks4R2U2a1VWOGtROTVCN25aNXpER3ljZ01NSzQydU1GbDM3TVVWOVg5NVFDVTJLNFBWOEtLZDBCT2tEaEVUOW0wQjZ0cjhiQmZnT2MxcndKR2NCelVfMVNnVGpBeENVeTZmNnM0bzRoYjlJeEhIM3pRVzBrbFgzY1Z0VHI4ZjBBaHVJUDJsNkx5bV83RFYtNktScU9qeTRuRXVNRmt2c3ZhT1BfMFNIN29XX3h1cC1HSEhWQ1ctX3FWRXdiX0gxM3pTTXRheFFzdjZsY2JWYjFoalo2U20?oc=5",
+      "source": "Proactive financial news",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "Tech Bytes: Nvidia’s US$3.5 billion MediaTek bet reveals its next move in the AI chip war&nbsp;&nbsp;Proactive financial news"
+    },
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;nvidianews.nvidia.com"
+      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Apple Going All-In on AI Chips - spyglass.org",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kSlhTWl9IcTdrYVFXWjBpWTNyVExEcXRZZGY4anNpMEpVYmgwMUpCak16Z2lXQlFoTXN5OTlqODdmUTZWWDJVMVZUTUs?oc=5",
+      "source": "spyglass.org",
+      "published": "2026-07-14T07:00:00+00:00",
+      "summary": "Apple Going All-In on AI Chips&nbsp;&nbsp;spyglass.org"
     }
   ]
 }
