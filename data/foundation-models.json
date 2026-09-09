@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-09T03:55:29.934909+00:00",
+  "generated": "2026-09-09T10:59:15.168400+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Inception Launches Mercury 2.5: 1,100 Tokens/Sec [2026] - shattered.io",
+      "title": "Mercury 2.5: Inception's Diffusion LLM Hits 1,100 Tokens/Sec - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XczR2ZzdXQkpuNjFHVkJ0NmpXZTVabk13aHZhVFVZcTVOdnI3SzZYbWVrYnZQemM2M1Jkc1djYzR2RWw1WHdQMDBZZGNDWUQyZE43dEtGenNxRmdQbGpXQ01WMmxjMS1mSTJnY05lMA?oc=5",
       "source": "shattered.io",
       "published": "2026-09-08T20:55:30+00:00",
-      "summary": "Inception Launches Mercury 2.5: 1,100 Tokens/Sec [2026]&nbsp;&nbsp;shattered.io"
+      "summary": "Mercury 2.5: Inception's Diffusion LLM Hits 1,100 Tokens/Sec&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
@@ -24,18 +24,18 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12alJnZy1VRy12YTFVd3U3aTFFWUJqT09FMmd2aTFVWmlPb3hBT3l0WElXNmpiMUVKTkRjV0VZME9nWTFrMXROU3RjVDN5SS1PWWV5bmlobUo4Z3BnazlWOFZIellUTmp4NVY5bDhIa1ZaTkVZM2c?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-08T03:06:00+00:00",
-      "summary": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights&nbsp;&nbsp;finance.biggo.com"
-    },
-    {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
       "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12alJnZy1VRy12YTFVd3U3aTFFWUJqT09FMmd2aTFVWmlPb3hBT3l0WElXNmpiMUVKTkRjV0VZME9nWTFrMXROU3RjVDN5SS1PWWV5bmlobUo4Z3BnazlWOFZIellUTmp4NVY5bDhIa1ZaTkVZM2c?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-09-08T03:06:00+00:00",
+      "summary": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -45,11 +45,11 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "Introducing Geospatial Foundation Models in ArcGIS - esri.com",
+      "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
-      "source": "esri.com",
+      "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;esri.com"
+      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -73,32 +73,25 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - venturebeat.com",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "venturebeat.com",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;venturebeat.com"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "Thomson Reuters launches its own AI model for legal document reviews - stocktitan.net",
+      "title": "Thomson Reuters launches its own AI model for legal document reviews - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkd6RzgwRVFHcW96WWphT19DQ1FzeUtqVldBa05NTm5pbXhNREVDeDFicWtDTjdmQWxZTGNZekdNekpCUzZYaTB5T3NmcmVJRWZlbm9rN3BtXzk2bnN3bkNTbXRtWGFyLXNsQTV5SUVycWd5QlhIbkZ3Mno2M0hUNzNhQzlWSXMwcTVFdTMzSFhxZ05od3lhQTdEeXNGS1psdW9yUVlKbGF1cUotRFpxcW9NMkh0VWFxbjJMT253?oc=5",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;stocktitan.net"
+      "summary": "Thomson Reuters launches its own AI model for legal document reviews&nbsp;&nbsp;Stock Titan"
     },
     {
-      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
-      "source": "NASA Science (.gov)",
-      "published": "2026-05-07T07:00:00+00:00",
-      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
-    },
-    {
-      "title": "Large Multimodal Models (LMMs) vs LLMs - aimultiple.com",
+      "title": "Large Multimodal Models (LMMs) vs LLMs - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;aimultiple.com"
+      "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -108,11 +101,25 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
+      "source": "NASA Science (.gov)",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+    },
+    {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
       "source": "FICO",
       "published": "2025-11-20T08:00:00+00:00",
       "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
+    },
+    {
+      "title": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG5odDJBSG5RaHI4YmZJc0NzdkZCdklaQkMxeDcyR0NuczZqSnNaOFM2a0xmMjlLTzhzLUktV0VSeXVDVE1ZVnpLTmNpYm9wREc1VF8yenVwU3JXVnV0cExtdldvaDJobkhkMXpjS1lIS21kSkNLWm5DSU0wdnZveHVtV0N5RlpTUVhhaFduaS1hWTZFU210d21wRUFXOC01WkRpSW5OQUR6dzJPYmZjYzNJVmx2bDFQdHRpekl1elpLTUJkWTRndw?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-03-24T07:00:00+00:00",
+      "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -122,25 +129,18 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "The Future of Large Language Models - aimultiple.com",
+      "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;aimultiple.com"
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "10+ Large Language Model Examples - aimultiple.com",
+      "title": "10+ Large Language Model Examples - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5UjFVQl9GY2ZXUUZRVlVZX1BJY2VXcEVWRy1XOExCY2VCU3BaclgtTzNscGhzY0paOU8xSEl0aXZFRmRyb1RhSUdjcEgwS1VLcW9ybUV0bHZ2VG93eThNYThVQQ?oc=5",
-      "source": "aimultiple.com",
+      "source": "AIMultiple",
       "published": "2026-06-22T07:00:00+00:00",
-      "summary": "10+ Large Language Model Examples&nbsp;&nbsp;aimultiple.com"
+      "summary": "10+ Large Language Model Examples&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
@@ -148,6 +148,13 @@
       "source": "9to5Mac",
       "published": "2026-06-11T07:00:00+00:00",
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+    },
+    {
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models - medium.com",
@@ -169,13 +176,6 @@
       "source": "TechRadar",
       "published": "2026-03-29T07:00:00+00:00",
       "summary": "How AI foundation models trained on DNA could transform plant biology&nbsp;&nbsp;TechRadar"
-    },
-    {
-      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
-      "source": "Stanford HAI",
-      "published": "2025-12-16T08:00:00+00:00",
-      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
     }
   ]
 }
