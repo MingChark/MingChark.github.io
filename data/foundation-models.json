@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T10:56:21.092498+00:00",
+  "generated": "2026-09-10T16:05:45.175974+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -24,11 +24,11 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - blogs.cisco.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "Cisco Blogs",
+      "source": "blogs.cisco.com",
       "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;blogs.cisco.com"
     },
     {
       "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
@@ -36,13 +36,6 @@
       "source": "PR Newswire",
       "published": "2026-08-24T07:00:00+00:00",
       "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12alJnZy1VRy12YTFVd3U3aTFFWUJqT09FMmd2aTFVWmlPb3hBT3l0WElXNmpiMUVKTkRjV0VZME9nWTFrMXROU3RjVDN5SS1PWWV5bmlobUo4Z3BnazlWOFZIellUTmp4NVY5bDhIa1ZaTkVZM2c?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-08T03:06:00+00:00",
-      "summary": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -57,6 +50,13 @@
       "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+    },
+    {
+      "title": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12alJnZy1VRy12YTFVd3U3aTFFWUJqT09FMmd2aTFVWmlPb3hBT3l0WElXNmpiMUVKTkRjV0VZME9nWTFrMXROU3RjVDN5SS1PWWV5bmlobUo4Z3BnazlWOFZIellUTmp4NVY5bDhIa1ZaTkVZM2c?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-09-08T03:06:00+00:00",
+      "summary": "Autonomous Driving Data Curation Enters the Semantic Era: Chinese Automakers Rush to Publish Foundation Model Papers in a Battle for Technical Definition Rights&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -87,18 +87,18 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - nvidianews.nvidia.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "nvidianews.nvidia.com",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;nvidianews.nvidia.com"
+    },
+    {
       "title": "Large Multimodal Models (LMMs) vs LLMs - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5",
       "source": "AIMultiple",
       "published": "2026-08-17T07:00:00+00:00",
       "summary": "Large Multimodal Models (LMMs) vs LLMs&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -136,11 +136,11 @@
       "summary": "10+ Large Language Model Examples&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
+      "source": "nvidianews.nvidia.com",
       "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;nvidianews.nvidia.com"
     },
     {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
