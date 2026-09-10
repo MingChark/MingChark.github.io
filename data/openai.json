@@ -1,111 +1,41 @@
 {
-  "generated": "2026-09-10T16:05:45.175974+00:00",
+  "generated": "2026-09-10T20:38:06.804851+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
+      "title": "An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5",
       "source": "The New York Times",
       "published": "2026-09-10T14:05:57+00:00",
-      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem&nbsp;&nbsp;The New York TimesOpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours&nbsp;&nbsp;CNBCHere is how to understand OpenAI’s major mathematical breakthrough&nbsp;&nbsp;New Scientist"
+      "summary": "An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof&nbsp;&nbsp;The New York TimesOpenAI's apparent maths breakthrough raises profound questions&nbsp;&nbsp;The EconomistOpenAI’s sly mathematical breakthrough sends a chill through academia&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-10T10:12:08+00:00",
-      "summary": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-09-09T20:21:30+00:00",
-      "summary": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us&nbsp;&nbsp;Time Magazine"
-    },
-    {
-      "title": "Anthropic researcher's resignation sends warning about the dangers of AI development - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXY4MndxQmFFbWQ2TktCNVI3bHdSMUhzODdfdHFUMTB3Nk9lQkgxNFRWV285dWtLZGFHWWl2S01GX0FOOEdsdUhzdjZ2Y1gwUlZ4aDZGdnk0MnNmWWdZd1owV0lCTFFENXBuRUY4ZzVGM1JaSmdhNzRuS0g1NVhRMFB3TkgxeS1zZmdKMXYwYTI3Qm5pSlI5WFZYQWVmM2tfeDNMekxjSmlrTFZ1bTNScDRoRzVsZkRaTk8zWg?oc=5",
-      "source": "PBS",
-      "published": "2026-09-09T21:23:52+00:00",
-      "summary": "Anthropic researcher's resignation sends warning about the dangers of AI development&nbsp;&nbsp;PBS"
-    },
-    {
-      "title": "What we learnt from OpenAI’s hack of Hugging Face - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jaEtKV1VqR2tpckFUYU56bmVlTG11azVmbTBFaHhkTV9iZ216RUFoVmYwYkRsbVBJaFFkUzg0VmxDM3lMTkQwR0pvbHlpaVJDZFJfRWxwN1lHVm10WVNoc2dKdTYtVldoZGFmaWlRMkw?oc=5",
-      "source": "Financial Times",
-      "published": "2026-09-10T12:25:35+00:00",
-      "summary": "What we learnt from OpenAI’s hack of Hugging Face&nbsp;&nbsp;Financial TimesScoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach&nbsp;&nbsp;AxiosEXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Sam Altman pitches utilities on AI grid defense - Politico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjl1LUpZOFp2aVVYZkpLbVVHczN4dy1tSFl3cnQ4OFA3TnVMbTVxR1hHclJLdW00RmRfYVJfZ1RES0RkamZqNm43b0RoWDdCZHdjdDFKd3ZMNDF6Qm41V0hZWm5kclJtdG5TTUpldlptZ2k0RGhaNWtIZUtwVEFqWXRreEFnQXA1aGxlMU5ybU5Ic21WTmxCbm9IdVZ6Zw?oc=5",
-      "source": "Politico",
-      "published": "2026-09-10T14:04:00+00:00",
-      "summary": "Sam Altman pitches utilities on AI grid defense&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "Ex-DOGE aide Katie Miller attacked OpenAI while invested in rival xAI - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0tlVHA0NjlfZlVSWEoyVm9ZN1Ytb1JLdHlQM2dvUUt0U2xZTjM4WWhXTmNwYkw3UWxEQlg2V0lLR0FyLVBsellJLTF1UnFTY3oyRWZkSE9NdEpRNzl1a1l4VEFOS0dpRFQ5bTBQRENwY1FWSzlFZ1V0dnFSaW1Db1NYRVlPYVRIVEhYZ1J3LWwta2RqMmk4dTV6VzU0VnFEclFJMjZOcHNPTEd5QVFsaExqdmV5RDdVeVlv?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-09-10T15:07:40+00:00",
-      "summary": "Ex-DOGE aide Katie Miller attacked OpenAI while invested in rival xAI&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
-      "source": "The Guardian",
-      "published": "2026-09-10T15:22:00+00:00",
-      "summary": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWdMSmNmQVFxTDY0clFGN29tVHpxczlOZk9NN2U5VHJkU0M5THFRRnBZVURuTmxpUmhBNGFlZ0NtNHdhanNmT2Z3c0Y5ZTFhOWFwRE1PTnh6X2N3TUdMNXROMFZQblRuY3dZV2JMamY3ZGJJelQ1eHd5UTQxVS0xWERraDlzZXdTaVY2Qzc2WjYwbmNJR1E?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-10T13:15:20+00:00",
-      "summary": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFNWX1ZxUndFT1g4QTZ5eVUtdUxqeTZ5cVBUbWlYZE9pVzRhemw3dmVWd096MHlwSnVQaUdDOW5YMTRQWmUxVE9iR2xOQ1BlT0ZXaXdMckdveUdvSE00OUNQMi1MM1FIQ0NfeXE4NzJQZzJSUzU3Y3FRc2l0ZnJtSTV4T1h0bzJTM2gwZmJRYlBUdTNYSHdXTXRXY19WNVhObmxCOXZkdFBaLWc5M1RIaVlB?oc=5",
+      "title": "OpenAI Debuts Financial Tool Tailored to Investment Bankers - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVVxNng0S0JlUmQtaXphVlVhaHlleUJJQUpIRWQwdmdEbmk5aTdGRmVrbl9feWFXYUZ3OTR3b0ZadlRnTXlicEROMWFkLUUtT3FXeVZiWmxFS1ZLTG15LVFlNDR4cHRyYkZNVkl1SER2ZDU2bEx0eFlGWjl2VXp0M1ViS2RGaHVQc1dJNjRNUnV5UzZoOFRVWmc0UmdxMVdEY1ZLOUlXa1lCMDBNT3JEQ2pCbTZHYW01SmwzeUx3?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-09-10T13:15:20+00:00",
-      "summary": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal&nbsp;&nbsp;Bloomberg.com"
+      "published": "2026-09-10T17:30:00+00:00",
+      "summary": "OpenAI Debuts Financial Tool Tailored to Investment Bankers&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHBWakNUOXF2MzZvczJBUldFeU1LUzJzZzU5Uml1MENqa1FZTlFvM2E0QnIwRXV4WDVlUzcxMWRtWW10X0R4UUN3RnBFYk5aQmIzT0ZpUnVsck5FTzkxcy1MYVRIZkJSWTgyUWJvaDhwYkR0cDNoREMxb2VqU19TUUd2U3BkZUZyeUZubXpDSW8wRzk0dkRJSlFhbURLOXVjeGc?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-09-10T14:12:57+00:00",
-      "summary": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal&nbsp;&nbsp;The Seattle Times"
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenlVSmQ5YXJ0dlNSbFV6WFBOaEZYQ3FBWXNHVDVBYWVJVmdxVTRWdGl4QmZxV251M3FTcU9MY2Zvek84LTIwSWtOMG84b0xPZkJmRU9wTzh1NXNyaUJHSDFISXNYNnlneXgyd09mVTg3a3FVVTlaVE1RVklXNXByYUUzanRHQWgyOGVJSTlTRkE3di1hdmRhZmhWQVEzS3ZBaEtld2NiWlPSAa4BQVVfeXFMT3VudlFUb3NTNUktbThjdnQ4Y2lMN2k1NVg3VmNwdlltazV4TXRpRUduLVZya012SExlYjJxSnJGV2tFUE05SlNJcTN0TU5MekV1RjdvNXBKWDJMVTFCZWljYzBhNFhPekNVWEVLX0tsZ29hS0lER3dsYWs3dUtIM01tRjctdlhoUGk2emhmaUpSSjVuMmtBWTlKWEJrUmwyMWQ0R3NRSU5tcFpyZ01n?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-10T17:12:29+00:00",
+      "summary": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services&nbsp;&nbsp;cnbc.com"
     },
     {
-      "title": "OpenAI pushes for mandatory safety requirements after rogue agent breakouts - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDRvUllGNGVZWDRGRkdZVzIzcUZqS21jck5JMUdUaWxHczVTRW1oR1BDeXhiNFBkVUlQdnRLSnlQVGhudWtiYkRObGJjR3pESVF2M01idnBrbXQxU1JLMWREMTBsS3N1ZDNCNkFlMnIyVTF4YUl5SVkzeXVxVm1Qd05UTVRkUW9HMXJwTHFkbzFVYjNXZ3Zn0gGcAUFVX3lxTE05NXY0TFd6REtTajIwUmV6cEw4T2Rmc2VsMnlqOUNTOER1M2lUeWdQYVR1S24xVUlrSmVWcnMtM1hBT2JKN1dPQkotNlA4OFNRaUd4bGhUQ0QxWUNrZVQ1dkZvR2V3S0dudEdwM0tKYWxaSXJuR1ZELWFmWGJWSWpfak13UUdLY2NRSU9xTG5ZaXdTb0FVVG1ua3ZOVQ?oc=5",
-      "source": "The Hill",
-      "published": "2026-09-10T15:08:00+00:00",
-      "summary": "OpenAI pushes for mandatory safety requirements after rogue agent breakouts&nbsp;&nbsp;The Hill"
+      "title": "OpenAI launches ChatGPT for financial services industry - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldUSEZwamtyN2hWd3dvU2RoWXpwWG1jWW9IRmFWM2Y0MlFSWG9qekUyN0NiWFdGT0F1RFZoNVZVbXQyOW5hbjFTNHpNYlkzLVNrelJGbG9kQjJhcVJTX3A3OFJDb01FQkFoaUE0TS1wdkNQdDR1ZWpQOEpJWVR0RUVnT1otQUg1R1JVTVlteGRJbl94OWNSLWtlQlo?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-10T19:13:59+00:00",
+      "summary": "OpenAI launches ChatGPT for financial services industry&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Newsom signs AI safety bills backed by Anthropic, OpenAI - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1ZJd0dFaFN5UHJ3aVFkcDFDWnNvSnYtaVY0T0FveE8xZ3hDamtUS3RGUFJMLXp4bUMyTDZaMlU2M0Jzck5OQjdDTklyN2pVY3ZBazJaTkhObE5nQVNHYWh2djlzNW45N0EwYm1SOGVNQjR6bE11NkMzWlpXV3RzV0JfS3FUVVdQcFN3dkI5YlRsbWs0dHQ3dVJlYXFlM3BRT0xkdl9BcHQ?oc=5",
-      "source": "Politico",
-      "published": "2026-09-10T00:35:00+00:00",
-      "summary": "Newsom signs AI safety bills backed by Anthropic, OpenAI&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "Opinion | I Worked on Safety at OpenAI. The Fix Isn’t Hard. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEdBRHNRWVhJNlNYeWFHOUhLMTRIcVh0WERoei1FMjlncl9vR3dTX19rMUpBNUM3OE9tMks4Sk94UFFtZGViUFNadG15YVJGRmNwWEF4MUg4TkM2aXROLU5Ibzc5QkVWS3pDaVJXVkpMYklVcmZ3aGRwQW9JRzQxMUN2bEhlc3BHR3BnS1Zn?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-09T21:00:04+00:00",
-      "summary": "Opinion | I Worked on Safety at OpenAI. The Fix Isn’t Hard.&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTJ5YkVQdU1QNEtuaGY4UEZ2RjQwUUhHR2dkWjNVUUNMMzJVMlNXbWJsZ3Jab0hHaEtMMmR3VWRvX2lfYWdncGlJMEJqcENfR1Jxb1RXaE1pQ0hBNVRTNDNKUmhGZlQyRGh2UkVLUWpEX3hpWFZFc21YZGFVYlFpemU1SklOd0VrUnhnV0FtaUdpNUlzYjZoYmxjTE5FWFFiZVlsNU5ybHBnVmtrek5mZUFraTU?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-10T10:43:12+00:00",
-      "summary": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai&nbsp;&nbsp;Bloomberg.com"
+      "title": "The OpenAI-Hugging Face hack was just the beginning, experts say: \"Even more powerful\" AI is coming - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HOVd0SnBNRmllSTRoT3hrU0VsMUFmS3VRWVNEMDhYUGw0LThXYWdEVms0Z1lVZDNDWE5xU0I0WjlmSXo5RlVILXVLY2wzY3RIRV80T2EzTzNYZzdPS0lIUWNQdE10d0hzdllEemp5TzI?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-10T14:17:00+00:00",
+      "summary": "The OpenAI-Hugging Face hack was just the beginning, experts say: \"Even more powerful\" AI is coming&nbsp;&nbsp;CBS NewsScoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach&nbsp;&nbsp;AxiosHawley presses OpenAI over ‘rogue’ Hugging Face hack&nbsp;&nbsp;politico.com"
     },
     {
       "title": "OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT - The Information",
@@ -115,67 +45,137 @@
       "summary": "OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT&nbsp;&nbsp;The Information"
     },
     {
-      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT - CNBC",
+      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd1c0Ym54ZVdQTmRKSHZjbnVuOFRvVjh4aUxJVTJqRHpRRjZWemlDYnVuZUZhQUVMZW9heHkyUjhZQ282ZVpuczQyM1M1ZElJaUNpdjg5TGd4Vm9TNlQwNlNKbHB4RXdEWDBkR3JEWdIBdEFVX3lxTE9BbFlMMEtIYWsxakliVUgtbWFHb1ZkaHdPYTZqSE9ucFc0SzhVSTV4SjJsQzRzdTdrTTBUR005RzJLeFpFcExIaW9OU2NDVnk0NXNNRENGNEtnSndybGdmVlF0R0NwY2Y1TU9HLS1SQkVQQmVk?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published": "2026-09-10T13:01:12+00:00",
-      "summary": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT&nbsp;&nbsp;CNBC"
+      "summary": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT&nbsp;&nbsp;cnbc.com"
     },
     {
-      "title": "OpenAI reportedly blocks rival AI tools from advertising in ChatGPT - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjBMSEh4MnBPQ1o3akl6NmdHZHlmSG1LQzBjM2s0akFxMmQ5OTZ3Wm5TZFZLdDdKOUlsWUtncGRMbHFKVExpcHJ4bDRDbzh4SXpxSlhDV2pxQXZuREtVTk5Od3pyNGU0Rlh0SDFpU3NJaDg5SVRkZ0EtblZjSGRBRmYtSU1xOWgxUGdVYTFIdTR6cjlYODAwX0IyeXRnYVdRRng1U3V3?oc=5",
-      "source": "Search Engine Land",
-      "published": "2026-09-10T13:22:00+00:00",
-      "summary": "OpenAI reportedly blocks rival AI tools from advertising in ChatGPT&nbsp;&nbsp;Search Engine Land"
+      "title": "Amazon pilots ad services in ChatGPT: What marketers need to know - Marketing Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEI2M2JZSWt0Z0FWVnJ3clFFMkJ5azFUeUlwaE1Na2FaYWFfQWQ3MnY5M2lmRFRicG4xWVNnM2dfNFhERDZ4ZWJFWG5DcU9BM29KekFWQTM1ZkFzSFAwSnVrV2FCZGlva2xpOFRLVlZKM2REc2lNaVB0X2t4ZDZPT0xKUzFVX29IY1NSNWNmZ3B4b2w3QzdWNklhRWJKNGF4ckxMNkRWa1ROQnM?oc=5",
+      "source": "Marketing Dive",
+      "published": "2026-09-10T13:11:18+00:00",
+      "summary": "Amazon pilots ad services in ChatGPT: What marketers need to know&nbsp;&nbsp;Marketing Dive"
     },
     {
-      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-10T12:12:20+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI"
+      "title": "For years, they warned AI could kill all humans. Now people are listening. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-09-10T16:00:00+00:00",
+      "summary": "For years, they warned AI could kill all humans. Now people are listening.&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXJPeE95TFB0a2xKSklPb0R2Yng2VG1LQkNPQl9rejZRZjJnVWV6YTY3NTI5dUlVQzNIckJtMDJ2WjZRRWd3UkxtMTViUUpCSXJLTFVRZklzZ2kzVTdrSWxlZ0dGZk5NZVNnandodkp5UG1JeG8teUxNMEdZR1FPbXVidjR6dw?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-10T14:36:49+00:00",
-      "summary": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math&nbsp;&nbsp;WSJ"
+      "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
+      "source": "theguardian.com",
+      "published": "2026-09-10T18:47:00+00:00",
+      "summary": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member&nbsp;&nbsp;theguardian.com"
     },
     {
-      "title": "The OpenAI-Hugging Face hack was just the beginning, experts say: \"Even more powerful\" AI is coming - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HOVd0SnBNRmllSTRoT3hrU0VsMUFmS3VRWVNEMDhYUGw0LThXYWdEVms0Z1lVZDNDWE5xU0I0WjlmSXo5RlVILXVLY2wzY3RIRV80T2EzTzNYZzdPS0lIUWNQdE10d0hzdllEemp5TzI?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-10T14:17:00+00:00",
-      "summary": "The OpenAI-Hugging Face hack was just the beginning, experts say: \"Even more powerful\" AI is coming&nbsp;&nbsp;CBS News"
+      "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-10T10:12:08+00:00",
+      "summary": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown&nbsp;&nbsp;cnbc.com"
     },
     {
       "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
       "source": "Reuters",
-      "published": "2026-09-10T15:00:45+00:00",
+      "published": "2026-09-10T19:48:35+00:00",
       "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI’s Egregious Pattern of Misconduct - garymarcus.substack.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWREw3N3JZVG1IVVZacmpEZ1ljeHAzdk5iQjE0WmZMSGpTQjJmaVhHNHdzQkFPTWpkMkM5dHh4ZkswRVFxQjZHWDczTTdZb2U4VVlMZWVuNk1jMlJPaVlxZU9RdDZaX05GT1FZM2pneEFsVVdCcW9WaGlrdl9ZUQ?oc=5",
-      "source": "garymarcus.substack.com",
-      "published": "2026-09-08T17:42:42+00:00",
-      "summary": "OpenAI’s Egregious Pattern of Misconduct&nbsp;&nbsp;garymarcus.substack.com"
+      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-09-09T20:21:30+00:00",
+      "summary": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us&nbsp;&nbsp;Time Magazine"
     },
     {
-      "title": "The AI policy window is open. We need to act. - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-09T23:56:53+00:00",
-      "summary": "The AI policy window is open. We need to act.&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWdMSmNmQVFxTDY0clFGN29tVHpxczlOZk9NN2U5VHJkU0M5THFRRnBZVURuTmxpUmhBNGFlZ0NtNHdhanNmT2Z3c0Y5ZTFhOWFwRE1PTnh6X2N3TUdMNXROMFZQblRuY3dZV2JMamY3ZGJJelQ1eHd5UTQxVS0xWERraDlzZXdTaVY2Qzc2WjYwbmNJR1E?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-10T13:15:20+00:00",
+      "summary": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92N0pvbkFoYU91cHFZcFNEZE1QQVVQdXVtNkFPVFZVNllTTXpUTGl6bGZXNFVFWFpJaXFJNTZjblB2c0JPV3hKMWFabDV2Z3AtcVY3NkgzekxzZ1E4VUxrTzZsMVlEX081NjcxcGF0c25TTzYwMEdPWmNTdw?oc=5",
+      "title": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXB3ZTR1cm5DUm8xYmNjUHgzOUVoQm81TzIyLWdFRG5lVWFOQ2xpS21LLVR1ZGt4TUlNSmZWYkxfQXJQRXpaZEJoU3owYy1EVVVtY01Kbml5VXJOTE4xT29YVjE1aTF2SVZVb1hXWnJrbFZEbTU2TVp1MTNZdDZtbGVCb1A3Smo2bTZ5TVJvR0NOcFBtckxUcEM5NFdBamdvVEk0X2owVVM4SVRwZTAzQllLYUF0QkVHZ0tjStIBwgFBVV95cUxOckxCMmtKNWdVekphODEzNGw2OVVRRHphYUtJZWpWNlJJOTY1cWc4S2FQdjRKVDlkX2ltR2ZYOHlQdGt4MFhXczg3anV2WGxYMDhqNEdvdjdhOTQ5NExWVTVLbHlRR1EtRWEtSm9ZZi1KbkhncDZjb0UwNEh3VU1YRWE2VkVoaHhkXy1iQzNKRWxUWldZZjB1cWtTNk45UzlVRU8tZ3dURFFJMTNvZUZnd3Y1dU5tREtqSk9qUnpVY2IzUQ?oc=5",
+      "source": "Fox Business",
+      "published": "2026-09-10T15:44:00+00:00",
+      "summary": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools&nbsp;&nbsp;Fox Business"
+    },
+    {
+      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFNWX1ZxUndFT1g4QTZ5eVUtdUxqeTZ5cVBUbWlYZE9pVzRhemw3dmVWd096MHlwSnVQaUdDOW5YMTRQWmUxVE9iR2xOQ1BlT0ZXaXdMckdveUdvSE00OUNQMi1MM1FIQ0NfeXE4NzJQZzJSUzU3Y3FRc2l0ZnJtSTV4T1h0bzJTM2gwZmJRYlBUdTNYSHdXTXRXY19WNVhObmxCOXZkdFBaLWc5M1RIaVlB?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-10T13:15:20+00:00",
+      "summary": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI and SpaceX Deals Send Cloudflare Stock Flying - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUZJTzRxcE54TUZqOFRjWjY3TERPWW5jVjFRUGFNbmJ1dzBPTWQ4c0VnNHpFVGdfT2JOcTZqWWVyZTFCOVdmT2hoRmNDRUF6MDdTR1hXS1g3cmtnZ0FLMU9vamE1WWdfQ3BwWG5ibHBQRjRPWWJhX19pSVFHTHFGS3NMb19iTWV3dHFUZjZpQ09fZXdXOHdzWXlhOTBHT05w?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-10T12:39:07+00:00",
+      "summary": "OpenAI and SpaceX Deals Send Cloudflare Stock Flying&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI's new safety hire says losing control of AI would be 'catastrophic' and that 'most people could die' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnFJeVgwV0V6NXVyRnc0R0JnZ2s1dXRaRmxIYTg1amg2VVJVNWxCZmVTOGNwUXRzSGpfUGIzMXhoTk9Uajh4MzhuckVycXlwaXlhNzdZYkREc1hpWUl3cUxzSGNkc2NNRnBiYi1nSlVLX3VLeFhmOFBKaWtwemQ5eGpQU1dwd3VQOXp3YlFxQ2pOOGVsaUlZeDQ3ckRGNnl3clE?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-09T20:27:00+00:00",
+      "summary": "OpenAI's new safety hire says losing control of AI would be 'catastrophic' and that 'most people could die'&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI pushes for mandatory national AI safety rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-09T23:47:00+00:00",
+      "summary": "OpenAI pushes for mandatory national AI safety rules&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "We have started losing control of AI. It’s time to shut it down | Garrison Lovely - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tVExON1FYeTlBVVhoVnVTUk1pVXNHMVlmUkVqd01NeVlFaF9fOV9rb1ZUV2hZaTZQcHZES1Jnb2o2UkFwMmJkVjRtMFRGY3NfMVllbnozMGoxVE04RVhLMTU5SnQybklvdDM3Wi1VUHUtNi1LZjZoSGY3aw?oc=5",
+      "source": "theguardian.com",
+      "published": "2026-09-10T17:14:00+00:00",
+      "summary": "We have started losing control of AI. It’s time to shut it down | Garrison Lovely&nbsp;&nbsp;theguardian.com"
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "OpenAI",
-      "published": "2026-09-09T23:57:33+00:00",
-      "summary": "Paul Christiano joins OpenAI Foundation Board&nbsp;&nbsp;OpenAI"
+      "published": "2026-09-10T20:35:36+00:00",
+      "summary": "GPT-6 Astra: A new generation of intelligence&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-10T16:48:53+00:00",
+      "summary": "Introducing ChatGPT for Financial Services&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Sam Altman pitches utilities on AI grid defense - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjl1LUpZOFp2aVVYZkpLbVVHczN4dy1tSFl3cnQ4OFA3TnVMbTVxR1hHclJLdW00RmRfYVJfZ1RES0RkamZqNm43b0RoWDdCZHdjdDFKd3ZMNDF6Qm41V0hZWm5kclJtdG5TTUpldlptZ2k0RGhaNWtIZUtwVEFqWXRreEFnQXA1aGxlMU5ybU5Ic21WTmxCbm9IdVZ6Zw?oc=5",
+      "source": "politico.com",
+      "published": "2026-09-10T14:04:00+00:00",
+      "summary": "Sam Altman pitches utilities on AI grid defense&nbsp;&nbsp;politico.com"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-10T17:05:05+00:00",
+      "summary": "Build more natural voice experiences with GPT‑Live‑1 in the API&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Now everyone can put data to work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkSzF3UlMxcWo0MVFPSDM0WHJwSGkzdkgyWmdJOE91Wks1cjNQNFZMS2JEUUNYYmUwcDR5cW5xdVlvMjVhcTM4YWhQNTJqOVhzR3ZOaA?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-10T15:07:38+00:00",
+      "summary": "Now everyone can put data to work&nbsp;&nbsp;OpenAI"
     }
   ]
 }
