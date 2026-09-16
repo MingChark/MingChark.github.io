@@ -1,153 +1,48 @@
 {
-  "generated": "2026-09-16T04:05:56.438423+00:00",
+  "generated": "2026-09-16T11:09:06.377596+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI backs bipartisan House plan for third-party safety assessments - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRG0wYkVaVjJNSzhkTU1VZFk5V09qZjJfN3RyS0tOUlBDXzU2OFVoWlYyMWQ1QV8zcFBZeWg5OWkxWm01WVNxcVVUZVdlTGNPTTBnMDR2WFlFelAyMngzcTU0MHl0UnF3cE5jRm1OakFJWnU2eFdibmJiS29YZ0tlT3Y4RzRyclMyeUJVVmxZaDZBYjRTNGc2dUphMDRvaEFYNVg2UlNXRnpYVlNaSmRYVUZhZFhhQ1BPSGRv?oc=5",
-      "source": "Politico",
-      "published": "2026-09-15T13:57:00+00:00",
-      "summary": "OpenAI backs bipartisan House plan for third-party safety assessments&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "OpenAI backs bills in US Congress on AI and biological weapon threats - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2hKc2ZyWjVSLVQtTmIydzVoN0Mwck16em15VVA5UmRiSktRcVdrUVRaNmJjX1AwR3dMWmMzX1FBS0E2cHVURUhScGVucmVUeVdzU1VzVGptUm9LQ0pKdHFVM3NZd0t1SXp0cTN0MmZONmlTVWZiUThXLV8xeEZrT2lSTkRMZGFUMV8yZUt3QmFxQ3E0czhySWlWT185dEg0aTZhdmpMQnFHZw?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-15T22:16:14+00:00",
-      "summary": "OpenAI backs bills in US Congress on AI and biological weapon threats&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms - BBC",
+      "title": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
       "source": "BBC",
-      "published": "2026-09-16T00:59:20+00:00",
-      "summary": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms&nbsp;&nbsp;BBC"
+      "published": "2026-09-16T10:02:05+00:00",
+      "summary": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms&nbsp;&nbsp;BBC"
     },
     {
-      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-15T14:53:18+00:00",
-      "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports&nbsp;&nbsp;ReutersOpenAI, Google, Anthropic discussing collaboration on AI safety issues&nbsp;&nbsp;cnbc.comThe AI Tipping Point&nbsp;&nbsp;Time Magazine"
+      "title": "OpenAI backs bipartisan push to address AI biothreats - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5",
+      "source": "politico.com",
+      "published": "2026-09-15T19:53:00+00:00",
+      "summary": "OpenAI backs bipartisan push to address AI biothreats&nbsp;&nbsp;politico.com"
     },
     {
-      "title": "OpenAI's CFO says AI is reducing the need for people to do mundane finance tasks like credit checks - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdk1tUTlmRGdoMUYwdXp0NFFnRGRPY0I1VWtxRGlIUC1HRzhHb1VaWTVoSEtEYkwwNUZLeGN0S3lBMDhWVlB0dmtuUlZIZHhGelRGMDJSX29GT0V2UnRqdzJVeWlDTzRVUzhZR041ZUZUQjdkNHJxak1fQ2c4OFl4V0xQLW9tTlNSWk9heXhQS3k?oc=5",
-      "source": "Business Insider",
-      "published": "2026-09-16T04:01:10+00:00",
-      "summary": "OpenAI's CFO says AI is reducing the need for people to do mundane finance tasks like credit checks&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXBaS1dWX0RSVE5pNTNnM0d3WEsyaWNpWXowQUJoc1RCLTI4YS1GeEV1d290MkF0V3RUOGxWVEVCUmFOOHYwdlF5Nld4WU9vYlJjQXdSRFV2LVVvZXQzUXRnVUdBRXRlNks5WkpBOGfSAXZBVV95cUxOU0piVDV6c3hZVUZ1bWdjU2xCTEpxbDRPX0w5U2ROVUZlZzhGbjA3LXZNWXNDYUZMeTZzZDBoNFd1UjdwLTRPemo4N3ZmZG9EN0NOSmhxMTlRRGNQR21EV3dlMnp2MzVZS1NpMGlsYU5adlJUMWZB?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-15T19:25:42+00:00",
+      "summary": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development&nbsp;&nbsp;CNBC"
     },
     {
       "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDNxSXBBRlR1elJkWkRRc0NuRm1kMzJqeVNNWHJGbThRaXgzR0VUOXE3UjFRYVpubzJ6ZEVCZXVjLVJiUGNuYzhtUnZid2l4UmNwY0pCMnBMTDZzdjV4MXViRlJ6emszRDJJbTNNeEh1MmhhcDZrY05VaDZwb21yLW5pbVdxWURtcDhYZlBGLWVwYlpDSkF4Q09OMzUzX2pkVmt5akhQMjZCUFdvaGFwQg?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-09-15T22:31:33+00:00",
-      "summary": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation&nbsp;&nbsp;Bloomberg.com"
+      "published": "2026-09-16T01:08:00+00:00",
+      "summary": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation&nbsp;&nbsp;Bloomberg.comOpenAI Weighing Funding Round at Over $1.2 Trillion Valuation&nbsp;&nbsp;Yahoo FinanceOpenAI Considers New Financing at a $1.5 Trillion Valuation&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2duRmFITkhXUGVBRGdXU2FzSWEyTkttMzgtVldzZGxnUWZQaVQ3LUk3Z0dRWmZzaUJ6dU9oMmZuaF80MWIyMUJ6ejE5VE0zSExBTGNCbnFnRExLVzJucHBuTEZzY2dEdHVfak9XSDF1NG8tU3ZmakVLU3BpQ3J1LVZLNWs?oc=5",
-      "source": "Financial Times",
-      "published": "2026-09-15T21:54:39+00:00",
-      "summary": "OpenAI weighs funding round at $1.2tn valuation before IPO&nbsp;&nbsp;Financial Times"
-    },
-    {
-      "title": "Rumored Round of Funding Could Make OpenAI More Valuable Than Anthropic Again. Perhaps Briefly - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbG9FMjVfOERNOHN0VVQ0NTlQRmpDYTVldW5YX2o1SEhhMWN1dDh6a2pMZGRZV1VqNS1lSWNzMktvb1hraXR3RjN5TFNRajBiZTA1QlY4Z0NzNHYwdlhrUHZjMEZZZGs4NllOVmlGYmJFQUNoRjhGdEZQdHVKal9rZTE1cHY3YWZmVm9XclVUMjlVd3poWUFaZnd6bGh0Ul9jeVB6dnRJMTduamk5VmpVNWx1NWtnd2V0MzBZb1RWbEtrUQ?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-09-16T03:24:48+00:00",
-      "summary": "Rumored Round of Funding Could Make OpenAI More Valuable Than Anthropic Again. Perhaps Briefly&nbsp;&nbsp;Gizmodo"
-    },
-    {
-      "title": "Math Can’t Go On Like This - theatlantic.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakF0X0QzMDhIVG9oRjlyWTk3eF9PSEJwa01NZWhYclR2cmpLRlhiM1lCTlpHYV9ZTHYwRV9LdnlRUi1QTW5ZQ21rYTkxRkhwRlpkaER6NDhBejExaU9ETk42TEExRWJMNEtOT2hiQndrVXVTWnFLYXprLUdSN0pIZTZMUm44TFFtZ210U2ZpZEQwdFh2?oc=5",
-      "source": "theatlantic.com",
-      "published": "2026-09-15T18:41:00+00:00",
-      "summary": "Math Can’t Go On Like This&nbsp;&nbsp;theatlantic.com"
-    },
-    {
-      "title": "Musk’s companies ordered to explain why they dropped antitrust claims against Apple - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTFFWHUzTmpaNkJmTXlSUUVsZnFrTHZ0d1BvNkROYlZJUG90RWl1Z2FkSTA0VUVGSl9rbTRzVWhfZGs5ek9Ybk1lRGRuTjhkNW43UWYtdU9qRnFCcURXTWlGbXJVUndJN2RhY2oxSUxNOEdsNDExRGNqeHRkZC1kZjJpQ0lfSkZFMHc?oc=5",
-      "source": "Politico",
-      "published": "2026-09-16T02:10:00+00:00",
-      "summary": "Musk’s companies ordered to explain why they dropped antitrust claims against Apple&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "Exclusive | OpenAI Buys Startup Developing Smartphone Camera - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTZxRTlsbk9LSDQ5WG1KdmRfc2ZtbGdUVFNnR0FtdW9zUlc5SmRsWi1RZ09ubldJQjBuOGRkaVBEckloOUFvQVhTZEJyRFBDcnFweXNmOEJ4alRyenB1ZkI4c21leU5wUzYtZGcxa282VldpR21sNzh5R1pnaWdLSXVRS20waDkyZVE?oc=5",
+      "title": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5",
       "source": "WSJ",
-      "published": "2026-09-14T18:31:00+00:00",
-      "summary": "Exclusive | OpenAI Buys Startup Developing Smartphone Camera&nbsp;&nbsp;WSJ"
+      "published": "2026-09-11T22:25:00+00:00",
+      "summary": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "OpenAI strikes first news deal in Canada - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVmMyTTNYcnd6MXVLY2lGeGZlbFhDT3p3V3UwdVZGcWZualBNM2tJckJwUURtdVZKS2VQS1BVblpyaUVQdEF1U2dhV3o0Y3NzNlJ2NHRqUHd1OVZ0UlJfTVhWSURtSWk4eklTZmxDeUxqN2Vk?oc=5",
-      "source": "axios.com",
-      "published": "2026-09-15T22:34:51+00:00",
-      "summary": "OpenAI strikes first news deal in Canada&nbsp;&nbsp;axios.com"
-    },
-    {
-      "title": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2R2bWlzTEtZbGFVWHlOSTVFdG9nVko5TkljbTQxWWVfVkZCUFVIbWp6S2UyRzltWGNla3V5OUtmOHdPTXlmSTNGTFNwUlo1TDZ0Vlk0aWRUV0htMlR5a1JlWkNBUmZGVTU3QkNOU1I1X0w0ZTBoVjJzSmtoSjdQN2Rnby1kWW1tUEZJT3RGTHQwTzBleEVrMm5LaTlSc3Jsd3JMVjVHR3RyY3Jza0M2djZub1N1azg?oc=5",
-      "source": "Forbes",
-      "published": "2026-09-15T20:17:13+00:00",
-      "summary": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem&nbsp;&nbsp;Forbes"
-    },
-    {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY2NMTnlaelVfNks1MmxBOHpLRWNpYzVwMURJWjZ4aFRHN2UyQlY3M0NDLW81YU80NGZiMkNiNkI5SVhSQXhfTTFZVjZ2Sll3MWYzYXRWRkF2RHkwY181bmtEY0c1THp3ejhWaS1JblRWbFVWazQwM19BOU1UUGxibVpMV0RsMDM4ZFFEaGQ3WEh1WjFEcTdaZkd0V01TU1hkMDlneUZ6ZHp4OExzTHFKeGwwUl80SmJHVzZCZk1SVUcwZU3SAcgBQVVfeXFMTWxTZ25IdGR2U3RqOU93aGxEMXFBcVVUemV2eUxLbmVwRjJYS1J4ckdRcmpCd3c3Ni1tRkNFQ2FRaGU0Ui1TUV9NenEwWkRaeGlodWVWdDZjSW0zVDM2b0pjRGM1TU5YYkVTcnB3cUVqYk0waUZIWFl3MzRJUS0zWHBXVjZXcFhBWHN0enNlWlZUZVh3cnlScGZzOWlGbFJSbzJhMjNDU0RhQk8zMXVtbF9saEVuWkpDcGpES1hOMURrUmJnT2lRUHg?oc=5",
-      "source": "MIT Technology Review",
-      "published": "2026-09-15T12:00:00+00:00",
-      "summary": "AI models need more data about biology, and OpenAI is paying to create it&nbsp;&nbsp;MIT Technology Review"
-    },
-    {
-      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
+      "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
       "source": "Reuters",
-      "published": "2026-09-15T22:48:56+00:00",
-      "summary": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI backs bipartisan push to address AI biothreats - Politico",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5",
-      "source": "Politico",
-      "published": "2026-09-15T19:53:00+00:00",
-      "summary": "OpenAI backs bipartisan push to address AI biothreats&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "Inside OpenAI’s Ad Rush - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBeU5YQ2gyVVBIaUh1cWc4bFo2M3FXNVRxeFg2bkdUa0Fwd0dwYjluR1dvc1RGZHdtRXZ1ZHNZc2I2V1A5U1I1WFlhUjYwQlM0TzBZMEotZW9tdkF2UmVLb0lwY3JFREpIbmo2bmlPWC1fdWpv?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-15T22:00:00+00:00",
-      "summary": "Inside OpenAI’s Ad Rush&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-15T15:47:03+00:00",
-      "summary": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-14T07:00:00+00:00",
-      "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2hNbVd5RVh6MTNQU3RjMVBLdnZmbzhRTVhHSnJ0dko1ZnVNeUw2Tm1xLXk3VE5xa3phZTB3TmFHYjJ2emlUZHgyc0NSbEV1RFpGY3JCODFCNW52WjJfdFhVNzFFbExIY1lDS3BwalhUUllSWEtYNm1KM1ZJRHdVVTc4QnlhcFRiX2NnWUZmSlRwdmc4Z0FvQnNucW9GTXlqZW5PREhzWVlWTllxTHlJ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-15T14:18:33+00:00",
-      "summary": "OpenAI Says It’s Working With Anthropic, Google on AI Safety&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "We Must Pace the Frontier - darioamodei.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
-      "source": "darioamodei.com",
-      "published": "2026-09-12T14:15:02+00:00",
-      "summary": "We Must Pace the Frontier&nbsp;&nbsp;darioamodei.com"
+      "published": "2026-09-16T10:23:30+00:00",
+      "summary": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident - Dark Reading",
@@ -157,11 +52,67 @@
       "summary": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident&nbsp;&nbsp;Dark Reading"
     },
     {
-      "title": "What OpenAI Thought Its Agents Were Doing At Hugging Face - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb09xY2VmeVY0anUyREo5cFBVWjd6Q1lmMWRfQkFqQTlkNC04cWJ2THNxdjdXSTdVOWRIeGtlemYxVUNmUWVQdHh5NUVDRldtcmo3Vm1tSlF1dTczLXRjRE9hY2FmbFJ2RzdSVGJwNF9jSlhQUW52eElLV2Zac0NySElGMzRQUWNPNU4yVkJHVThoRmR1QWxYcThCdGVQOWRRY0hwa3BqZ1lMUkNnMzQxNw?oc=5",
-      "source": "Forbes",
-      "published": "2026-09-15T21:31:57+00:00",
-      "summary": "What OpenAI Thought Its Agents Were Doing At Hugging Face&nbsp;&nbsp;Forbes"
+      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-15T14:53:18+00:00",
+      "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5",
+      "source": "techcrunch.com",
+      "published": "2026-09-15T15:47:03+00:00",
+      "summary": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks&nbsp;&nbsp;techcrunch.com"
+    },
+    {
+      "title": "The AI Tipping Point - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmpRbnhYV3JKSk1ickdjVks3SEYtLXY1VWFRZEJSYS1oNEJiLTQxMjltbE1BTTNaWnB5QlY0SmpKNnJiQS00UGFGci1CeGt6SVRXTTA2YmZVLWJyYnJnUC1HZWl1d3NrQmRtT055eFdRWUFOVEZ5aTEtSVpqaGNnalcwV3hSMHZf?oc=5",
+      "source": "Time Magazine",
+      "published": "2026-09-15T11:00:03+00:00",
+      "summary": "The AI Tipping Point&nbsp;&nbsp;Time Magazine"
+    },
+    {
+      "title": "Math Can’t Go On Like This - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakF0X0QzMDhIVG9oRjlyWTk3eF9PSEJwa01NZWhYclR2cmpLRlhiM1lCTlpHYV9ZTHYwRV9LdnlRUi1QTW5ZQ21rYTkxRkhwRlpkaER6NDhBejExaU9ETk42TEExRWJMNEtOT2hiQndrVXVTWnFLYXprLUdSN0pIZTZMUm44TFFtZ210U2ZpZEQwdFh2?oc=5",
+      "source": "The Atlantic",
+      "published": "2026-09-15T18:41:00+00:00",
+      "summary": "Math Can’t Go On Like This&nbsp;&nbsp;The Atlantic"
+    },
+    {
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNamhBSWgtcmZwTVRVOXlnbGZMN2R1bDFlMWEtV21wUXFmUGVoWW5vQWNVbU55OEE0T0lWMUFlMXFZVGdvNmN0TElFUGNkQUlwQ01hU09aUEZIZlBjd0lMbGJMOVJHbmhOSTNRaHU0cXBnNmRVQ2lTb21odDUzOGlRQ1phSTRDUDVucThHQjNncjI1Q1pMOVV0WlotdDVpUdIBowFBVV95cUxNQW5ST21vbGJyUWYzcHVFZFJOZUgzTEJ3TWFkS3Y4Nm9fQ2w3c3puMnJqaFBpbl9CVG5Gd1RSZUVGQmJqLVZaN0dBZ0dOWEZNb3IxMDBtaGhWNGllb29aZERqeGxibHhnakZJRDgxeF9oa1NDSGV2YzYwa3plQ0dhZU43aHJNb1MyUlZRRm1hb1BZRVpZRVF4LUd1OWNQXzJpZFpr?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-15T20:00:16+00:00",
+      "summary": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0gwNHZJLUJhUzYyYmFRbWZxNmQyZ3pSXzRidzdneHFOdF9GUDZzYjItQ3R2YW9YTlFodkZhVTJxTlhQSkZ6bUlTX21BRGVPQlVLT0pmV3N1VmhTQlVUVjJlc0lfbldSN1FFSkh3ZXR5c2dxVW0tdmthaHhHU2RZc1dJR1F3MFdzUnlENXotNEEzOV9MTWphUTI1azVqeEJwTU1DTlZlNktxQVJTWm9YV2FFdGpRMU9ybnR6VWxrUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-15T16:58:24+00:00",
+      "summary": "OpenAI Eyes Canada for Data Centers, Praises Carney’s Plan&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY2NMTnlaelVfNks1MmxBOHpLRWNpYzVwMURJWjZ4aFRHN2UyQlY3M0NDLW81YU80NGZiMkNiNkI5SVhSQXhfTTFZVjZ2Sll3MWYzYXRWRkF2RHkwY181bmtEY0c1THp3ejhWaS1JblRWbFVWazQwM19BOU1UUGxibVpMV0RsMDM4ZFFEaGQ3WEh1WjFEcTdaZkd0V01TU1hkMDlneUZ6ZHp4OExzTHFKeGwwUl80SmJHVzZCZk1SVUcwZU3SAcgBQVVfeXFMTWxTZ25IdGR2U3RqOU93aGxEMXFBcVVUemV2eUxLbmVwRjJYS1J4ckdRcmpCd3c3Ni1tRkNFQ2FRaGU0Ui1TUV9NenEwWkRaeGlodWVWdDZjSW0zVDM2b0pjRGM1TU5YYkVTcnB3cUVqYk0waUZIWFl3MzRJUS0zWHBXVjZXcFhBWHN0enNlWlZUZVh3cnlScGZzOWlGbFJSbzJhMjNDU0RhQk8zMXVtbF9saEVuWkpDcGpES1hOMURrUmJnT2lRUHg?oc=5",
+      "source": "MIT Technology Review",
+      "published": "2026-09-15T12:00:00+00:00",
+      "summary": "AI models need more data about biology, and OpenAI is paying to create it&nbsp;&nbsp;MIT Technology Review"
+    },
+    {
+      "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjRtXzJDQVI4X0xzdm9iTnhDbWpCSTVBa0FXWXVCV0NwMXV3bWEwR3l2dkhFbTlEUkJ0R0haSmxkbTZiR2tvYmVJdGdKYm5pWWJiQ3loV1l3ZllsT09nWXlOTVVZcXRlc05wZVhMUDdmNXp6VTZfV0R3WHFZWGlsUVFtc0xoWUlrNC1Ld0NzZXRjdnM?oc=5",
+      "source": "USA Today",
+      "published": "2026-09-16T09:12:00+00:00",
+      "summary": "Exclusive: OpenAI launches road tour to educate older Americans on AI&nbsp;&nbsp;USA Today"
+    },
+    {
+      "title": "OpenAI's CFO says AI is reducing the need for people to do mundane finance tasks like credit checks - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdk1tUTlmRGdoMUYwdXp0NFFnRGRPY0I1VWtxRGlIUC1HRzhHb1VaWTVoSEtEYkwwNUZLeGN0S3lBMDhWVlB0dmtuUlZIZHhGelRGMDJSX29GT0V2UnRqdzJVeWlDTzRVUzhZR041ZUZUQjdkNHJxak1fQ2c4OFl4V0xQLW9tTlNSWk9heXhQS3k?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-16T04:01:10+00:00",
+      "summary": "OpenAI's CFO says AI is reducing the need for people to do mundane finance tasks like credit checks&nbsp;&nbsp;Business Insider"
     },
     {
       "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation - WSJ",
@@ -171,11 +122,60 @@
       "summary": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation&nbsp;&nbsp;WSJ"
     },
     {
+      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVX3pnQ1lXY2F2Y3MtZVNTUlZsb2hYeWQxaF9tSTB6aHZRUlR5azdFRkhLOV9EZDZWaHpGUWpqalo2SXVCb1pRQWgyVVNmamsweDJMUzBDeGtUWHBGZ1dRR3p4NHQwNG1CcG51ZWVBM252azBjMTNn0gF8QVVfeXFMUE0zU1ZReFVzWHBKMzliU2ZWbjRMaENCTUwzS3I0TlVwV1Q2dFRkQTNDbU5xelV1MVBWWjZ1NmFJTmNtZEVoc3pXYWRmTXpqUkVoUnlTTHpBbUlOb29aQmExb3NyeTQ2d05ta2VCb1dSaWZLclQ5OUhLSktrbA?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-15T18:31:39+00:00",
+      "summary": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-15T22:48:56+00:00",
+      "summary": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "We Must Pace the Frontier - darioamodei.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+      "source": "darioamodei.com",
+      "published": "2026-09-12T14:15:02+00:00",
+      "summary": "We Must Pace the Frontier&nbsp;&nbsp;darioamodei.com"
+    },
+    {
+      "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2hNbVd5RVh6MTNQU3RjMVBLdnZmbzhRTVhHSnJ0dko1ZnVNeUw2Tm1xLXk3VE5xa3phZTB3TmFHYjJ2emlUZHgyc0NSbEV1RFpGY3JCODFCNW52WjJfdFhVNzFFbExIY1lDS3BwalhUUllSWEtYNm1KM1ZJRHdVVTc4QnlhcFRiX2NnWUZmSlRwdmc4Z0FvQnNucW9GTXlqZW5PREhzWVlWTllxTHlJ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-15T21:15:03+00:00",
+      "summary": "OpenAI Says It’s Working With Anthropic, Google on AI Safety&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2duRmFITkhXUGVBRGdXU2FzSWEyTkttMzgtVldzZGxnUWZQaVQ3LUk3Z0dRWmZzaUJ6dU9oMmZuaF80MWIyMUJ6ejE5VE0zSExBTGNCbnFnRExLVzJucHBuTEZzY2dEdHVfak9XSDF1NG8tU3ZmakVLU3BpQ3J1LVZLNWs?oc=5",
+      "source": "Financial Times",
+      "published": "2026-09-15T21:54:39+00:00",
+      "summary": "OpenAI weighs funding round at $1.2tn valuation before IPO&nbsp;&nbsp;Financial Times"
+    },
+    {
       "title": "The AI policy window is open. We need to act. - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
       "source": "OpenAI",
       "published": "2026-09-09T23:56:53+00:00",
       "summary": "The AI policy window is open. We need to act.&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra arrives amid fears about AI agents - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zWDlLcVg4Ul9FN0RFS3VLM214NEdrcGFwbHNoM1g5WHRaMEYySG9Da2ptQi1lTkZPWTFrQWZHNlE1aEFXNURkU01NWW12R2UybGxLLU5uQ2RnY0c4?oc=5",
+      "source": "qz.com",
+      "published": "2026-09-16T09:03:34+00:00",
+      "summary": "OpenAI’s GPT-6 Astra arrives amid fears about AI agents&nbsp;&nbsp;qz.com"
+    },
+    {
+      "title": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtTemxlTUZvUl8tTWZvTDgzMjdlSERCQk0wbTJIUWVsSlNRWmVrV1pMQXpFSkJFb0plZjRoaDBGeUNXbm8tcUloNVcyZngwQ3JSZG1MOTdDaWFhRjdndDdkWnQydFU1S1NoTE43SHh4QmN0MHNJY3FDVzNqZEN4Zk1SWlpLTEtOcS1MOTRUSVA?oc=5",
+      "source": "Fortune",
+      "published": "2026-09-16T09:28:00+00:00",
+      "summary": "OpenAI IPO looks like a no-go: Sam Altman is discussing a new round of VC funding valuing the company at $1.2 trillion&nbsp;&nbsp;Fortune"
     }
   ]
 }
