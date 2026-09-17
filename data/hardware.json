@@ -1,13 +1,27 @@
 {
-  "generated": "2026-09-17T16:34:44.165603+00:00",
+  "generated": "2026-09-17T21:06:53.428576+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVWtZbGp2ejFFd1pibDJFX2UxUjRyN3R5MW5ick1Lckw4bXZjd04wbVNsSXFES09GRVFFMFlnbFdYNUhfeS1oRmhYODFGT0R6Qnp4QVRTMHdxQ0d5cXh0WnRBLTVSY0E0eW13RE5KQ0FFX0EtR1dWa2lFdzdxXzdxSEM5RUZDS2dRUTRxVGpiQ3dPdUx5V0YtOXZZTDdIdGlYR0FLSWlUdHdxVVdVUDJZLUw2VEdvczlfTGFjQ2ZVV2p3Njc2enQzZ044Y1pxNjVXOEItVld3Xy1rR080dkpkMGl5S0c3Qlh0VGpneXBBTnpTZ1VWVGdzOUlOT29DdGtSWDZWWGxzZkxWSFZxZFVQUlJHQTE2bHVnNEl0T1FMMHpUWExoQzBMMU1FaDZwOTVo?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-09-17T11:00:00+00:00",
+      "summary": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push&nbsp;&nbsp;Tom's Hardware"
+    },
     {
       "title": "Nvidia Just Got Another AI Chip Wake-Up Call - TradingView",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR084N3FqeDlCcVVfQ29jZ1ZoUzY3YklBOUUzYTY3aFYxejg4QzhaT0pqekhXWXYxLXpIaTh6RmduOTE4ODlSNUtuZUpLN1hHaXpqaUdfbjlHbWVjQjJLaFp0RE1JYVFOX2pRNV9jbHJtMzJlNDB5YWZ2WjFETzhzbWFsSmZmY1dBUkRkUXloV3JrR3J2MjQ0Z1ZuRERZTm9JTWJlUk5pUQ?oc=5",
       "source": "TradingView",
       "published": "2026-09-17T15:22:49+00:00",
       "summary": "Nvidia Just Got Another AI Chip Wake-Up Call&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-09-17T01:29:00+00:00",
+      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
     },
     {
       "title": "Huawei Eyes 'Chinese NVIDIA' in AI, Semiconductors - 조선일보",
@@ -24,11 +38,11 @@
       "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
     },
     {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "published": "2026-09-14T20:07:37+00:00",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;techcrunch.com"
     },
     {
       "title": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. - 24/7 Wall St.",
@@ -38,25 +52,11 @@
       "summary": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzNvanVNaGUwNy1kUGtGOEl2QUt4YnFXVTM5TVdNSjRGQnNVRjN1dHRRdXpPOFdBX0dUT2NUdXJEeGhTR3gwM1VYYm1yTy1SZWJWMTBGS0NEQ3QwTC1zVjlSMWdjUFZPM3JzYkc3THdGNmhLWE1KSURnRE1tQmxxTmE3aFZWQmtObFF0clI4eGQxUHAxVm9Qa0ZLZC1RQVJlWHJ5Wi1JVXowUkUt?oc=5",
-      "source": "The Business Times",
-      "published": "2026-09-17T00:44:00+00:00",
-      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Business Times"
-    },
-    {
       "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built - calcalistech.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg?oc=5",
       "source": "calcalistech.com",
       "published": "2026-09-06T07:00:00+00:00",
       "summary": "Nvidia is no longer just an AI chip company. It is financing the revolution it built&nbsp;&nbsp;calcalistech.com"
-    },
-    {
-      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-11T12:57:02+00:00",
-      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
@@ -66,18 +66,18 @@
       "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Resident Evil Requiem shown with DLSS 5 on Radeon AI PRO R9700 at 46 FPS in 4K - GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWxZUDVkZWRMdjFMMTQ2RXRISTBFUmNXQ09iY2JsaUFZby1iN0FSUC1UX3diWFhsODQ3Zk5sZV94aWFGUTg1UzhrY0dpMmdHOVJfbG1HMzlOR3B4T0laLTFCMHVtWTUwTXBXWXFMVFlheDFmeG5SdWtLNmxjaDg1UEVjTXVIYlRhUG55R29QZUxvdGI4VE5MWXFIUmRSSUpMZW9LTXZBaEpuS2sxU3FHRA?oc=5",
-      "source": "GameGPU",
-      "published": "2026-09-17T07:14:51+00:00",
-      "summary": "Resident Evil Requiem shown with DLSS 5 on Radeon AI PRO R9700 at 46 FPS in 4K&nbsp;&nbsp;GameGPU"
+      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T12:57:02+00:00",
+      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe... - StorageReview.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdIb0hlcHBHak12dVRtS3piYW5QSnJGdTREd3dzUDlPVnBWV3pvTXNfSXpHU0ROOTNFNU51emI5aUt4c0gwb3Z4U3BhVGJlcVJrTHJEY0R4cGNjLXlFRjV0MnNUbTBZVWVKNGRGN0xYUm9zbFhqelZiZjlZbDJXeXUzaUxXSzQ1TDdrLW1RdHNocnlBZU5waVFKdVFadTNYVGVEOUI0VUYyLTlNSDVzdWRKVEZCbWRKV2l1SW1UVHhVMHFNZ1RpTHIzUG5yUVZUOGgydExxcm7SAd4BQVVfeXFMTjkzMFhaSnVjel92XzFGOTU0bTN0cm9YY3ljNktNZGh3RGVTUnlTdGFmUllibnVJTWFHV2JfNGNpWjkwaDVSbUxsVmNOU1NrUU01dF9PZ0kyOWc1bWdMcXloSmNWZzhHc01yUTVpTXRxdVJJRVFIWUtBQk9aMUNzQmoyVVlxbUZtZmFLaFpJaG9sUnhtS2w2UFB4dnJTdTJGcVNod3NRZXR6OW9NYTQydXg4N3I4dklRY2NLbkxwWklJRTZncTlmSXRERzRoNnNPd2VONFB4RFN6RDdyMWlB?oc=5",
-      "source": "StorageReview.com",
-      "published": "2026-09-16T14:59:43+00:00",
-      "summary": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe...&nbsp;&nbsp;StorageReview.com"
+      "title": "Nvidia Gains 2.5% as Huawei Compresses Its 2027 Roadmap - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFN3M1hDYnBkV0RpXy1waW5mWGFkRW1INGU3OWt3UzVBb2xmQXpBZExUcEV5TlVwMU9SN3NOX05pTk9JWFdzVGhHVlZ2Q3c0UmxfbmJpM3U4YnJPM3RtY0hqSzNkMTVrUjdHVHN4LUxMYnY3OVFqdllrT3FqNXRvNl9FRFV5bkIzMnhBT0FRUFptZTJQSFNLMzIydjM5bTZ4dHViWHJmSGRGclJTcUNXay1xX04?oc=5",
+      "source": "TradingView",
+      "published": "2026-09-17T17:28:54+00:00",
+      "summary": "Nvidia Gains 2.5% as Huawei Compresses Its 2027 Roadmap&nbsp;&nbsp;TradingView"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - openai.com",
@@ -87,18 +87,25 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;openai.com"
     },
     {
+      "title": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe... - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdIb0hlcHBHak12dVRtS3piYW5QSnJGdTREd3dzUDlPVnBWV3pvTXNfSXpHU0ROOTNFNU51emI5aUt4c0gwb3Z4U3BhVGJlcVJrTHJEY0R4cGNjLXlFRjV0MnNUbTBZVWVKNGRGN0xYUm9zbFhqelZiZjlZbDJXeXUzaUxXSzQ1TDdrLW1RdHNocnlBZU5waVFKdVFadTNYVGVEOUI0VUYyLTlNSDVzdWRKVEZCbWRKV2l1SW1UVHhVMHFNZ1RpTHIzUG5yUVZUOGgydExxcm7SAd4BQVVfeXFMTjkzMFhaSnVjel92XzFGOTU0bTN0cm9YY3ljNktNZGh3RGVTUnlTdGFmUllibnVJTWFHV2JfNGNpWjkwaDVSbUxsVmNOU1NrUU01dF9PZ0kyOWc1bWdMcXloSmNWZzhHc01yUTVpTXRxdVJJRVFIWUtBQk9aMUNzQmoyVVlxbUZtZmFLaFpJaG9sUnhtS2w2UFB4dnJTdTJGcVNod3NRZXR6OW9NYTQydXg4N3I4dklRY2NLbkxwWklJRTZncTlmSXRERzRoNnNPd2VONFB4RFN6RDdyMWlB?oc=5",
+      "source": "StorageReview.com",
+      "published": "2026-09-16T14:59:43+00:00",
+      "summary": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe...&nbsp;&nbsp;StorageReview.com"
+    },
+    {
+      "title": "Resident Evil Requiem shown with DLSS 5 on Radeon AI PRO R9700 at 46 FPS in 4K - GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWxZUDVkZWRMdjFMMTQ2RXRISTBFUmNXQ09iY2JsaUFZby1iN0FSUC1UX3diWFhsODQ3Zk5sZV94aWFGUTg1UzhrY0dpMmdHOVJfbG1HMzlOR3B4T0laLTFCMHVtWTUwTXBXWXFMVFlheDFmeG5SdWtLNmxjaDg1UEVjTXVIYlRhUG55R29QZUxvdGI4VE5MWXFIUmRSSUpMZW9LTXZBaEpuS2sxU3FHRA?oc=5",
+      "source": "GameGPU",
+      "published": "2026-09-17T07:14:51+00:00",
+      "summary": "Resident Evil Requiem shown with DLSS 5 on Radeon AI PRO R9700 at 46 FPS in 4K&nbsp;&nbsp;GameGPU"
+    },
+    {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "source": "AIMultiple",
       "published": "2026-08-26T07:00:00+00:00",
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "title": "d-Matrix, the AI Inference Chip Startup Backed Early by Samsung and SK, Joins Nvidia's Ecosystem - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzWkEwQ1JQNmdGRElSRXBQYTJGYXE5YnVzMG9lRkVkOXNhWnI2REV6YlJxc2REZHBXYm1XN1EyenJoZ0tGY2M1dmtfWFBPaHNtY1Z3N1MzUF94ZVRXTDNRRkJNMVREQkNub2s2LXR0Nml0WDlLWlE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-15T06:35:00+00:00",
-      "summary": "d-Matrix, the AI Inference Chip Startup Backed Early by Samsung and SK, Joins Nvidia's Ecosystem&nbsp;&nbsp;finance.biggo.com"
     },
     {
       "title": "Huawei Emerges as Chinese NVIDIA in AI, Semiconductors - 조선일보",
@@ -129,18 +136,18 @@
       "summary": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings?&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here’s Why - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRYMy02cDZ0SHZXZEdRYm1iTFBkT1FRdHdQVjEzVzhRQmczQWVjcU9ORmtfZ2FZMF9vMlROU1Qtb2NUTUNwVzRRYVFpMmdva3pWWUdZMnVCRHFBVTFkS0pITHlaVnBlTHRPN2lLMkVLWjlBUmFfU0g4M1hYS1JrdWlGRUFSWnlETzZTZFBOVTIwZThYWk1xdUV0bHRZSUphdTRSd01SSzNGamlvYTNv?oc=5",
       "source": "24/7 Wall St.",
       "published": "2026-09-15T17:45:00+00:00",
       "summary": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here’s Why&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
@@ -169,13 +176,6 @@
       "source": "qz.com",
       "published": "2026-08-31T07:00:00+00:00",
       "summary": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership&nbsp;&nbsp;qz.com"
-    },
-    {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
