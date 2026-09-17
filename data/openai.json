@@ -1,118 +1,20 @@
 {
-  "generated": "2026-09-17T04:12:52.698358+00:00",
+  "generated": "2026-09-17T11:17:48.603030+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-17T00:12:24+00:00",
-      "summary": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior&nbsp;&nbsp;The New York TimesOpenAI says it found more instances of AI models acting deceptively&nbsp;&nbsp;CNNOpenAI flags new concerning AI behavior, to track model misalignment regularly&nbsp;&nbsp;WIVB News 4"
+      "title": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxCQjVqSFppbDBuT3h2eFZIMjBTYlhsVG54TDlNQld0a1plQ0JzWV8wcHF3ajFJb25LbFYyOGxlcS1XZGxBU2E1NUJodGJiVFpJY0FjV3RIWUFRbmUzbGwwWlZfOVI3VlFTcTJydm85ZWdpcThqWmZMdk9pd2Z1YXZhTmZzMk9KTFQ4X2lXZ05FS0RkZHdiTGwxREdLZjhSakxhSFJkYnFTb1NORUE?oc=5",
+      "source": "NBC News",
+      "published": "2026-09-17T09:32:21+00:00",
+      "summary": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it&nbsp;&nbsp;NBC NewsOpenAI Reveals 6 ‘Concerning’ Incidents. Why AI Stocks Are Rising Anyway.&nbsp;&nbsp;Barron'sOpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior&nbsp;&nbsp;The New York TimesOpenAI says"
     },
     {
-      "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-16T22:25:54+00:00",
-      "summary": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI investors have approached the company about a new funding round - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGc3RZU2Itc3hnczJFeUhtYnpXaGFoN1E2enhzV0htUnVnazlzaXhjWGVHX19nQmZjRzdyLTJRMVlHUVpVU090clI5QzZlRHpoTlpGNXhsM1FEMFB6ZUpERkNLVFVaNDRjWjJLQ0ZyN3BDTUEtOFM0WWJUQlfSAYIBQVVfeXFMUGlleTIyWHgwUVEwYWlKMmhkZDlVZlU4Y00wVmlOT3FMSFpPZmQxQ0FRQmM2aHVSeThhX1dqQ0UzUVp5aGsxQ1FYRTd1eEFVVEtoVjNzVWVQUTJEV1d3M0pueFh5T3ZPTGpWOVdWOEZTaXJHNXA0eEJ4R1htMFc4YnZsZw?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-16T13:16:31+00:00",
-      "summary": "OpenAI investors have approached the company about a new funding round&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-16T04:01:30+00:00",
-      "summary": "OpenAI Considers New Financing at a $1.5 Trillion Valuation&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Why OpenAI’s $1.2 Trillion Valuation Can Lift Oracle, CoreWeave From AI Gloom - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkxqNnp5Wk8zZVVXUVA3VzczNVE0eHV6OHVJYi1HOE5scy1rNmxaZG1yUXJzRklwb3gyQjE5c0lqUW1qOW1CSlc5S21jbHRlMU13cThOaTh4aExJcTktNWlwaTF6LVFKRWNsQ2NGanE5dDZ2OTVfTEo3bHQ4SS1CVFFBM0ZHbnVrQS1tclN4M19tVDhn?oc=5",
-      "source": "Barron's",
-      "published": "2026-09-16T13:26:00+00:00",
-      "summary": "Why OpenAI’s $1.2 Trillion Valuation Can Lift Oracle, CoreWeave From AI Gloom&nbsp;&nbsp;Barron's"
-    },
-    {
-      "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHRrS3BTTDhpRGRtY3hLOGhONGFEbEpjVTJ2ZlFQcHNyVncxb2hVd3JrbjFtM2o5ZWRQb0ZQZElRdVNNZlRjZlNlOENZUmwyemM2RzQ2Q2ZxZVFheUJORHNsVG9TempKTlYzd0RMZkpVNE56dl9SYUZiZlNCSFhMN1owal9VLWhhUEpoNU5ONjR6Ym5icVJ2RzhiaUpSamZNQjZUdXRkWE5wVzhiWHBaTndR?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-16T23:10:41+00:00",
-      "summary": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GR0lQTjhxMkNSSVROT1FCM3psX21vUFV0MUw0NmczNmdxM1RhUHJXT2hlV0dKN3JuaDF1SVEyNkl1UnRoUlg2UTJjOEViQTk2U25SS1I5WHZJTlNhZ0pLdWhXeXdwT3J3YXE5UW15V0o4SHds0gF6QVVfeXFMUDdHLXV6cHNEOWZwQnJObmJMbTRSWUl3Ym9hNG94Wnh3TUF1Nl9vSkRmZHE2YVZCSkRFUDRjZHR5dUt0anNsUDVvLVFDQ0d5c3JoVkZLSUhVOVI4UVhyaldwZ3ludjNEUDZyckxxNHhtWi1OMEFlV0NRdXc?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-16T21:32:58+00:00",
-      "summary": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI says CEO Altman will attend Trump's state dinner for Xi - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9RZkktWXJlcWZxSUJjUU9vaWktSldOUk1qZnZXOWZ3V2Z3VHBPTFJ5RWJJalFlNmg1UkhkT1F6TTVJaS1fX3pseWZUR3hBTmJIamQ1bFlhNE5pRDlSTWtkQVV0SFZMOEx2YU9TVXpiU1BnR2NuNjJCXzRXQWpFbFZ3d3otZmx4c3FCaUw1YjZDOWpQMTM0TF9qaV9qY3pXdm54cGhVbTQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-16T20:11:59+00:00",
-      "summary": "OpenAI says CEO Altman will attend Trump's state dinner for Xi&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Tech stocks today: OpenAI raising funds at $1.2 trillion valuation, SK Hynix and Intel moves - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2ZyUjluS1g0UXU4el85MXNnUXVxSlZEOXRIM183eHdKdURSV0d1TF9iNzYxMzJqNVlQdTlJZEJmWDVHblowdkxCLWVleGdWNjZnN3FFNVZZZm1iY091MnF2ZUEzM1ZWMEdsWUtzRDZ2WUdIdTdPWHZrT0tRZ3pfU1p3U3JOUXNZbDBVbjV1bmtIcWY3cW1tWG5fRFJJMWFFVkVPdkZ1aXRLeUVMNUIySkZISkwwdXlwUy05VnBwS0FxNTJnSGw1XzhkTy1Bc0Z6SGhGVFVleWliUjNMVUE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-16T12:34:59+00:00",
-      "summary": "Tech stocks today: OpenAI raising funds at $1.2 trillion valuation, SK Hynix and Intel moves&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
-      "source": "BBC",
-      "published": "2026-09-16T10:02:05+00:00",
-      "summary": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjRtXzJDQVI4X0xzdm9iTnhDbWpCSTVBa0FXWXVCV0NwMXV3bWEwR3l2dkhFbTlEUkJ0R0haSmxkbTZiR2tvYmVJdGdKYm5pWWJiQ3loV1l3ZllsT09nWXlOTVVZcXRlc05wZVhMUDdmNXp6VTZfV0R3WHFZWGlsUVFtc0xoWUlrNC1Ld0NzZXRjdnM?oc=5",
-      "source": "USA Today",
-      "published": "2026-09-17T02:14:00+00:00",
-      "summary": "Exclusive: OpenAI launches road tour to educate older Americans on AI&nbsp;&nbsp;USA Today"
-    },
-    {
-      "title": "Why Existential AI Fears Have Hit a Crescendo - Foreign Policy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNnF6MFNaR3F0TjFqd1FkTjMtUHBvVXI1NllfWXRfeXdyc3NIcml3THROWmR4VHUxb1Q3YzZhVDhmUEc0ZFNLNW4zeldFREV5SHM0SFVaMzVVWWJnZV9WLVFLaDFsYnJQMnoyQnBpRlhFTEprMjlOTW5BWExKSmQybURtN0RiZ2kwbEpkTTU1c3BwZkc3MG44WVhZYUl1QnBORnNIOVRhMmEyd0ljWGV0Tk83Zw?oc=5",
-      "source": "Foreign Policy",
-      "published": "2026-09-16T14:57:22+00:00",
-      "summary": "Why Existential AI Fears Have Hit a Crescendo&nbsp;&nbsp;Foreign Policy"
-    },
-    {
-      "title": "‘Be Transparent Only If Asked’: OpenAI Models Acted Out in Six Newly Disclosed Ways - gizmodo.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnIxTjZsR0RlRURIcDVJVUw5WGV5X2xuNk1LMl9JMWhEbkxDVmNId3cxQlAyb25zRlhOejdMYXFBeGpnR1YyVmdCWU9kalJPSkxHTk1KYWw5YThMellSMHpCSlRJVTk4VFBnNEpkTU03NnZpczF4WDJlMXZqV1ZFMkNldk4xNFF0TEtrcWRNOXoxci1HWVVJNTBKQlBjT2N1YkxSd1dyWHNQdWg5b1hTZw?oc=5",
-      "source": "gizmodo.com",
-      "published": "2026-09-17T01:42:15+00:00",
-      "summary": "‘Be Transparent Only If Asked’: OpenAI Models Acted Out in Six Newly Disclosed Ways&nbsp;&nbsp;gizmodo.com"
-    },
-    {
-      "title": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzBSSTlvNXJRRXplQlhuWUlTV2NDS3pKOHdpV3Q5YnRRZ21XT3RrT0ExVkhmbFlkaWZMM3R1LUJybTVvMm1GOEluTS16ODZRVUl6VVlkbE5OaXFQY3Y5NWw1RVh3cGZ0VVdveDVIVFhNWVhsNDZ0aXVhQzEyeWlpOVVyLVpCMTNiSkhQVVp2R2ExWXlJUVhRamtEV3ZtVkJTR2lvM0R3RW0tVW5vQmhuTm9uMUtyYWlEdWdwNUNQaTIxdkxZeTZB?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-16T14:20:27+00:00",
-      "summary": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Inside OpenAI’s Ad Rush - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBeU5YQ2gyVVBIaUh1cWc4bFo2M3FXNVRxeFg2bkdUa0Fwd0dwYjluR1dvc1RGZHdtRXZ1ZHNZc2I2V1A5U1I1WFlhUjYwQlM0TzBZMEotZW9tdkF2UmVLb0lwY3JFREpIbmo2bmlPWC1fdWpv?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-15T22:00:00+00:00",
-      "summary": "Inside OpenAI’s Ad Rush&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
-      "source": "Search Engine Land",
-      "published": "2026-09-16T15:01:00+00:00",
-      "summary": "OpenAI is turning ChatGPT ads into conversations&nbsp;&nbsp;Search Engine Land"
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1RaNWs5dGhMZmZmbDJ3ai0wY1NzQUwtSUhJQk91TlYtbktSVEl1RUFKUGZmWXcycGtQUl9pYktRV2tidWdGYVlldjZBNXZwRk9Uc2xONjN6UWV1alVLdjZqeDcya3Q5eDNLMTZnODRaOUpxWVZXNE10eWVtajRuRU9B0gGHAUFVX3lxTE52SGtIc244UEtRQVpzYi1WdnJKenVYaDNsdmdCa0NsdThBbjFiRUlVblFNSWNqanlmQUlEQ0N5ZXkwSXNVY29xbzVENVRNMWJxMDBZOGpzQmZqS1lrZWtnTF80ZU9zUGllN0dPd2dxNEJWbHlPeWFvRnNjVlFXc0pMWmdWOURxVQ?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-17T10:15:56+00:00",
+      "summary": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit&nbsp;&nbsp;cnbc.com"
     },
     {
       "title": "Our framework for reporting model misalignment - OpenAI",
@@ -122,32 +24,32 @@
       "summary": "Our framework for reporting model misalignment&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March - CNBC",
+      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly - NPR",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wenVuMHkxd2dIMl9kOUdPblJhbUFSeWgxUWoxS21fOUdHNHZHbGVhMEVvUnJVMC1Wa1hFd0x5RlRSUFhpSXYtSzFCUE96bUNFUW9EMTN3OVQ3ZkRKX0gwSW8zOFBNR0FIMVFVT09ndktOWE8zTi1EcDdOOUM?oc=5",
+      "source": "NPR",
+      "published": "2026-09-17T06:44:49+00:00",
+      "summary": "OpenAI flags new concerning AI behavior, to track model misalignment regularly&nbsp;&nbsp;NPR"
+    },
+    {
+      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnJFRzVYYTQtWnJIX3RZV2tpa0VLM0g3SmVMbXdFSDQzODhNcmdidk50c1FyeTdBbkJKcVhxbS1qaVRMQXdBWk1lOFR5VF9TU0FRN2JrUTVJQ3FtNzR0TE1Jb3F5Q0pDYUI1WXhoNGtYdVVKYnRrZWJTS3BlLXFsQmNvUGRPM2ZEX183b19Cd0R4dnh6MzRubHRvdkQtV25HQlHSAacBQVVfeXFMUHMwbmllN0J6dk9zMVRZblEzOFRMS2YwTWY0Y2hUSllVSXU0eWkxcUoyQzFzMmswQ01xNzhET1Y4cDZhZkpHY1hPY1Z3Y00xUVpHb0FESXA4ckNSNmwyZmZJcnBQaXBjQXpEWmlUOEwyN2ZnOTc5OUJKVFpSVWp0cml6eTQyUWJFV3Vyb1gzY1QxU2hQT1lQb2FWTktrdElMbEhHcGljcW8?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published": "2026-09-16T22:45:16+00:00",
-      "summary": "OpenAI reports 6 new instances of 'concerning model behavior' since March&nbsp;&nbsp;CNBC"
+      "summary": "OpenAI reports 6 new instances of 'concerning model behavior' since March&nbsp;&nbsp;cnbc.com"
     },
     {
-      "title": "OpenAI Shares More Safety Incidents and Adopts New Rules for Reporting Them - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1lEOTBMS205RFlzekpsaGtsVXBabUhkbUl4UGFNbzJSdWkzQlVXQkRER01WRjFSVVU2R2FQeVZRa0t2UDRGeHQxMmtsdXJOVDVfd2NEa0lQb09EMHhkR2pfRTIza3JFZUNkMWZBMmRValR0czE2WnZVUFlYVmx1NG4zQ0luM1RFWHR4UDRFNlQ1MTJBd1FZTlh0cmxsMGUwN1BfWnVmOUVfTU1tRXc1WE1R?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-16T22:00:00+00:00",
-      "summary": "OpenAI Shares More Safety Incidents and Adopts New Rules for Reporting Them&nbsp;&nbsp;WSJ"
+      "title": "OpenAI discloses new 'concerning' behavior - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aSlU3dDZ6R25XeFptWlczblZsYXhNNWViRENneFVJWm4taDRZU3B2VjVHX01iMlNDR0hXR3BIbTlBWFVHc2F3c0RUelpnNDVKN0Z3ZW1LUG91YmZZcVhfT2lEaGpHOVBtak5vZXBmaEpzZmdfc2tGUUU0cUJsUdIBfkFVX3lxTFA0Z2c1OHhiY1FDWTU3OWxDaWtsVGswcVNvbGtZVzM5RzIzd1NNSk9VTWhtNlNmSU5VdFJnZzM2VmN3N2YxTWVfNmJnNDJiWmZVRF9iSC1MSVFNNVJEcDN4cU9iQ2w0dVk0b0xYMU1TY2l2Mm1VNHFKbG91MzQ3QQ?oc=5",
+      "source": "DW.com",
+      "published": "2026-09-17T06:02:08+00:00",
+      "summary": "OpenAI discloses new 'concerning' behavior&nbsp;&nbsp;DW.com"
     },
     {
-      "title": "OpenAI discloses six new AI safety incidents - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT013aGlZYVZ5b3FNeC1BT3VXbk1WYi1HUVk3bDFaVTlJdnhCaXhvOXNOMHJGaG85MmFTalFwUEFlU0xRMktvMkxTTGtnaE5kdTZFVkVCOGtzSzQ0T0d2VnNPLTM0VVIwOVpUb25QbkJXeVZLYmxQdmhRTzlFRlg1bQ?oc=5",
-      "source": "Axios",
-      "published": "2026-09-16T22:02:05+00:00",
-      "summary": "OpenAI discloses six new AI safety incidents&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-16T22:13:00+00:00",
-      "summary": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain&nbsp;&nbsp;Reuters"
+      "title": "OpenAI sets plan to disclose safety incidents and reveals more issues - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a0xFemRKV1NUR2NlU0VSeU1zdFJMX2MwdV9LMUpMcmdyd0x2LTdYMmVFU0prbWFGSlJlRjd2UDBJdkdmUXRSeDB5T0JMMU9YdHNRVzdtSEN2ZTQ?oc=5",
+      "source": "bbc.com",
+      "published": "2026-09-17T03:09:21+00:00",
+      "summary": "OpenAI sets plan to disclose safety incidents and reveals more issues&nbsp;&nbsp;bbc.com"
     },
     {
       "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior - WIRED",
@@ -157,25 +59,123 @@
       "summary": "OpenAI Creates a New Framework to Disclose Bad AI Behavior&nbsp;&nbsp;WIRED"
     },
     {
-      "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVNBczNrTDhldkVnSTFqMVhHSkxPa2gxVEpPVG16aXlpaE84LVE1Vk5BX2FGTmVjOEQ4QnhSWXJ0THZfLTNCeUtoSW9oc1Q2dDFzTDJfNlVVS01kc2dWRUl1QkNjbUZjZ2tKeGNHZWFFdS1OS1kyQnZ6YWRFMEdBRkotRFJqb21iT09WSElyS2c2UlBXU2Vua1JxdVFCSFU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-16T09:18:09+00:00",
-      "summary": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation&nbsp;&nbsp;Yahoo Finance"
+      "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-16T22:13:00+00:00",
+      "summary": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "AI bosses’ safety push sparks rift inside OpenAI and Anthropic - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHd3YlVDTGFvVHQ3SXY4ZjBBREZ5d1N0YVp4UlBRaVZLRGZhek5kdFlDSlF4UWJXbEpqNVBVMC04RVMwLWZrLWoxaUZ3S0E5eGJLamtBSmdPXzVLU2haamN3YTZFSXc0bHdrcUhtU215aURzVXJMY2tmSW1RRTZhUTJhYW8?oc=5",
-      "source": "Financial Times",
-      "published": "2026-09-16T12:00:05+00:00",
-      "summary": "AI bosses’ safety push sparks rift inside OpenAI and Anthropic&nbsp;&nbsp;Financial Times"
+      "title": "OpenAI reports more incidents of models acting deceptively - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjNXaFRBaFMtTDEzYWY1TE9MQ3dvbDRXdHpuSUlBaU9xYWtNVVhCQ1B0Q0R0cGpHTkZHeWNlbmM5V2FSVkpBRk1yNHhDUHEtcW52TXFzNFhiS0ZENHRCMUxwVWZKcEwyZ3ctUjU3VU9MTl9FTUwyMERMMlR6eTNWaV9oZnFwQkIxYkhUVThjUDRaQ3JwVlJzRUhlQjBJbUZ00gGmAUFVX3lxTE1qaG1SYW11OVdUX0dZbzJFSVFabU9lb3FTV0lmbHZOVERwTDRzM3RXdWZPZVhRSGVHdGd4ck9iZ05TbEhkZlliRmFXVjlsUXdlNDVzck5URlVsNGs5clFJX00zV0JVODVVVlNnMldNNzNpVXhqVDU1R284TDZINzI0S29Geko5ZVVZeVIwcmtOdUpXenBtbkQxQjRHQXBybVI2cTd3OUE?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T06:18:58+00:00",
+      "summary": "OpenAI reports more incidents of models acting deceptively&nbsp;&nbsp;Al Jazeera"
     },
     {
-      "title": "OpenAI backs bipartisan push to address AI biothreats - Politico",
+      "title": "Reimagining advertising with AI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NXl1LWRfMzJIT0szLXg2R3RSRl9fekxZRUl2d0lHNUhPdFJ2a0txYTVQMnIzSGhJYnozSFFRTTM4R3RoRW9NZ0Y1U0NXdXBCS0R0OGJVSElMSU56UmJIQUppMGtybE9n?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-16T13:08:09+00:00",
+      "summary": "Reimagining advertising with AI&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "How to connect AI usage to business value - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-16T19:03:37+00:00",
+      "summary": "How to connect AI usage to business value&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GR0lQTjhxMkNSSVROT1FCM3psX21vUFV0MUw0NmczNmdxM1RhUHJXT2hlV0dKN3JuaDF1SVEyNkl1UnRoUlg2UTJjOEViQTk2U25SS1I5WHZJTlNhZ0pLdWhXeXdwT3J3YXE5UW15V0o4SHds0gF6QVVfeXFMUDdHLXV6cHNEOWZwQnJObmJMbTRSWUl3Ym9hNG94Wnh3TUF1Nl9vSkRmZHE2YVZCSkRFUDRjZHR5dUt0anNsUDVvLVFDQ0d5c3JoVkZLSUhVOVI4UVhyaldwZ3ludjNEUDZyckxxNHhtWi1OMEFlV0NRdXc?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-16T21:32:58+00:00",
+      "summary": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington&nbsp;&nbsp;cnbc.com"
+    },
+    {
+      "title": "OpenAI investors have approached the company about a new funding round - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGc3RZU2Itc3hnczJFeUhtYnpXaGFoN1E2enhzV0htUnVnazlzaXhjWGVHX19nQmZjRzdyLTJRMVlHUVpVU090clI5QzZlRHpoTlpGNXhsM1FEMFB6ZUpERkNLVFVaNDRjWjJLQ0ZyN3BDTUEtOFM0WWJUQlfSAYIBQVVfeXFMUGlleTIyWHgwUVEwYWlKMmhkZDlVZlU4Y00wVmlOT3FMSFpPZmQxQ0FRQmM2aHVSeThhX1dqQ0UzUVp5aGsxQ1FYRTd1eEFVVEtoVjNzVWVQUTJEV1d3M0pueFh5T3ZPTGpWOVdWOEZTaXJHNXA0eEJ4R1htMFc4YnZsZw?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-16T13:16:31+00:00",
+      "summary": "OpenAI investors have approached the company about a new funding round&nbsp;&nbsp;cnbc.com"
+    },
+    {
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94bS1rclkyLUNMUDdxdjhuRndnVngzc0ZRTV9hRDBkZzBTSFdoVy1ZOG1vZmdIc0NtNExObm5seXpjOC1UdXF0bFliV19xbXFSd1ZoVFdXa2NkS3EySkNXSG5NNV9NZTFRZVB3b0F1M2pmN2xMOVUtbmhpRWRTdw?oc=5",
+      "source": "The Hacker News",
+      "published": "2026-09-17T09:53:00+00:00",
+      "summary": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads&nbsp;&nbsp;The Hacker News"
+    },
+    {
+      "title": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82dGJtZmlDaGJtODJPSXBoY2xRRTFMdEtQMEFYMkpyMzJoUEdzRnc3bXg4b2F3cC1lRUJGRlMzQ0QxbEVfSU1DVktIUm4yMzBLVEhwQjJhd0V4bWZxdnVVallHSTJBOHNfaEUtLThSYmI2eFpUbmtiLWZRXzR5d9IBgwFBVV95cUxPUFRFd2huX0ZQQk9EWGowajZHZ05OcWU4ZGhOMm95SGxnOEttR2ZTV05sN2UtS2ZOVzBnZFphdE5lYmI4LWdrcVluc3drWE9ZTzJjQmIwemEtODNiZDdiTldJM2FqdXF1dVQxVDhGYmZELW9yWjJmdEZ4Qjc2VWk1YV8wOA?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-16T14:15:01+00:00",
+      "summary": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea&nbsp;&nbsp;cnbc.com"
+    },
+    {
+      "title": "OpenAI says CEO Altman will attend Trump's state dinner for Xi - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9RZkktWXJlcWZxSUJjUU9vaWktSldOUk1qZnZXOWZ3V2Z3VHBPTFJ5RWJJalFlNmg1UkhkT1F6TTVJaS1fX3pseWZUR3hBTmJIamQ1bFlhNE5pRDlSTWtkQVV0SFZMOEx2YU9TVXpiU1BnR2NuNjJCXzRXQWpFbFZ3d3otZmx4c3FCaUw1YjZDOWpQMTM0TF9qaV9qY3pXdm54cGhVbTQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-16T20:11:59+00:00",
+      "summary": "OpenAI says CEO Altman will attend Trump's state dinner for Xi&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI backs bipartisan push to address AI biothreats - politico.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5",
-      "source": "Politico",
+      "source": "politico.com",
       "published": "2026-09-15T19:53:00+00:00",
-      "summary": "OpenAI backs bipartisan push to address AI biothreats&nbsp;&nbsp;Politico"
+      "summary": "OpenAI backs bipartisan push to address AI biothreats&nbsp;&nbsp;politico.com"
+    },
+    {
+      "title": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3hWLW1IUElCTmg4TGwzNXN4RkxMVjRlTXZ3Uk9NMnNFOWV3WjZFaDN1cm5XYkdBNDZXbThZeDVadWg0djZiUzc1UWZDQ21ucTVOdmhrc3RwUUhSdEI3c0cyLUM5VUE5ZE8tMm56a3dxc2VsZGxvN0ZTMkg5VjBoT1ZTdm9xRGVPbFFFZEVRdWNkVWNtclF4cE1hNjNmeEowOFBiVkZOZC0zaWNidjg5Tw?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-17T09:00:00+00:00",
+      "summary": "The Startup That Built OpenAI’s Biggest Data Center Is Now Making Tiny Ones&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzBSSTlvNXJRRXplQlhuWUlTV2NDS3pKOHdpV3Q5YnRRZ21XT3RrT0ExVkhmbFlkaWZMM3R1LUJybTVvMm1GOEluTS16ODZRVUl6VVlkbE5OaXFQY3Y5NWw1RVh3cGZ0VVdveDVIVFhNWVhsNDZ0aXVhQzEyeWlpOVVyLVpCMTNiSkhQVVp2R2ExWXlJUVhRamtEV3ZtVkJTR2lvM0R3RW0tVW5vQmhuTm9uMUtyYWlEdWdwNUNQaTIxdkxZeTZB?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-16T14:20:27+00:00",
+      "summary": "OpenAI tests advertiser-sponsored agents, expands AI tools for ChatGPT ads&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI discloses new ‘concerning’ model behaviour - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTZBYVY2NUpySEJPaFhRWHpERU5FUURtOVpuTE1meVhPSXlCZ1Vya3hidWFjX0dsN1hUOHlFRlI2eGRDNDJyS3hjTl9vclBPaGlTX0RXWGNPcklMaXhHNnZuam9IeWdwMGdBcm94c1JVM1BOaWhBWWh4V0JYY0dUSVlQRGk?oc=5",
+      "source": "Financial Times",
+      "published": "2026-09-17T07:42:52+00:00",
+      "summary": "OpenAI discloses new ‘concerning’ model behaviour&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-16T04:01:30+00:00",
+      "summary": "OpenAI Considers New Financing at a $1.5 Trillion Valuation&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3dBSk9INlZfUnZ3SVpXWllDTzBCRXlueXZxZkg1aDA4WFVYWnBiWklGYkhUY1RBU2Nkd2ZsSzQ2ZjdPNGU1R1JtSXdRd1NOaDlvRTdiU3B6S3BLREVmMUkya0VQNklxWXQ4QWthdDNTQ0JZQ0xjZ1V6YkNoNnFzMC04eTY3SEJvR0s4Wl9Na0FZN1pnamlHa1VGMXNvdV9RWjJUQ0N4TnBHZHZMNnl3d0V5akV0YXZTMUFJc25xNmw3V2xEdFg4Tnhn?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-09-17T07:08:00+00:00",
+      "summary": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.&nbsp;&nbsp;MarketWatch"
+    },
+    {
+      "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOG5icnlZd1cwaTlZMEhpSkF6UnJ5VTcxNHBTdjFROXpFS3ZjX3dINXZHeWtDWHpCRjJOeVFyMlJ3c1ZpbGFBbGlKbXM0Q19wbldsbWRULTZjR2F6Z05OTkd1VmV2QWZjUnJLV3UyM0FobnhMc1dRSkh5aFZEeGJidHpyZjVUSWJPMzVsSXVCcDdlZU0tNXRmbjdrR3liN0hwNzFiVGpzelJvajZuUXpGTg?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-16T02:35:00+00:00",
+      "summary": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI discloses six new incidents of 'concerning' AI behavior (OPENAI:Private) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGJ5REJqQWtzNF9zTVU3b0FOUzRFQzZMODk0MFFsTnF3Y190TmxwaDROYVZsTk9fa0pyWUZELWdpR1ZrVXZ6dEhXWGRpMXNJdVJDWkZqVUJIOWw3S1pnV1d4WFNOaEVJVEtoMnM3VVJzT2tzRU1MWndGUU9JY0VBajVaYk5ZaVhWUDFBNjRraGFCSDJBdF9uak5MQVFvb28?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-09-17T09:16:46+00:00",
+      "summary": "OpenAI discloses six new incidents of 'concerning' AI behavior (OPENAI:Private)&nbsp;&nbsp;Seeking Alpha"
     }
   ]
 }
