@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T10:51:47.872656+00:00",
+  "generated": "2026-09-18T16:06:21.207814+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,11 +10,11 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - research.google",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
+      "source": "research.google",
       "published": "2026-06-30T07:00:00+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;research.google"
     },
     {
       "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
@@ -115,11 +115,11 @@
       "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
+      "title": "ETRI begins development of a 100B-scale large foundation model - eurekalert.org",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert!",
+      "source": "eurekalert.org",
       "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;eurekalert.org"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -129,11 +129,11 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "towardsdatascience.com",
+      "source": "Towards Data Science",
       "published": "2026-03-18T12:04:54+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     },
     {
       "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
@@ -141,6 +141,13 @@
       "source": "Stanford HAI",
       "published": "2025-12-16T08:00:00+00:00",
       "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
+    },
+    {
+      "title": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcXVHRW1fQlhaZHgyNG5vWDNXTkRnMEJvMFg3cXQ5MXRRbW5qMi1zLW84S3B6dy03Q3Uyd05kWF9qWHhkaHhTSkRIVGZuaV9CVHVTWjk2d2k4QUV4YzEwOGgzaGM2ZF9XTWc4QTMweUNoQ1hsQW9oT2dOM0x6N3ZRaVBiOEJ6ZzdNdVlGeDk4NHExTXlYM0o1ZDk2Q1E3bGp1eFBFMGV3bkJTT3J2VlZZbFA2RldkQzZoZWJZTU1vdXFLMFhZMHhsQzl6S0c2QXJ2NTJ4RmpISHo0VmFDYlNXdtIB5gFBVV95cUxNVGd1TmNwU2ZpZHVJS0JTVzhpeEhldFJ1SnZkLTBfZDJWekl4M3R3Qkh5enE1VnRrSS1FRUdaRUM5d19zbnVpOC03eWdPYjNQbm1RSGZGcVhOODhtV2VfZ1pNUUl1bkprRjVQdXd6a243emtaY2xVb0dad2RtcDJqellQc0h3OEdSSXNxTE90WlYyTzNQck9DUFNIUHNhLTNGVG5ma0pxNTN4TUhUcUdWOUFkdFhUU0VhUWZmUmxmdXdsSVlXd0ZlMHpWaEhjYVJ3N0U5NGU5QmJvdHMwdmFQWnBxalZGQQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-01-29T08:00:00+00:00",
+      "summary": "Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI - NVIDIA Blog",
@@ -164,18 +171,11 @@
       "summary": "Meta’s TRIBE AI: A New Foundation Model Decoding Human Brain Activity&nbsp;&nbsp;Neuroscience News"
     },
     {
-      "title": "The Best AI Models: A Comparison - builtin.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02ems3SWVHdy0tQjlDS0RnbHZIb0dTcFJEb1NaRGZyczhNVENPRkd5dFVRRG1BVFItSGFMd2MtbkxlYWFrUGJpc005RjQ1X2NpUGdRUHFhUWowT3ZVYm0zMmt2VWQ3b3JvM1E?oc=5",
-      "source": "builtin.com",
-      "published": "2026-03-06T08:00:00+00:00",
-      "summary": "The Best AI Models: A Comparison&nbsp;&nbsp;builtin.com"
-    },
-    {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     }
   ]
 }
