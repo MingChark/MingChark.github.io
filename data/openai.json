@@ -1,62 +1,27 @@
 {
-  "generated": "2026-09-18T16:06:21.207814+00:00",
+  "generated": "2026-09-18T20:39:14.468962+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-17T00:12:24+00:00",
-      "summary": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior&nbsp;&nbsp;The New York TimesOpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it&nbsp;&nbsp;NBC NewsOpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC&nbsp;&nbsp;CNBC"
+      "title": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUxCQjVqSFppbDBuT3h2eFZIMjBTYlhsVG54TDlNQld0a1plQ0JzWV8wcHF3ajFJb25LbFYyOGxlcS1XZGxBU2E1NUJodGJiVFpJY0FjV3RIWUFRbmUzbGwwWlZfOVI3VlFTcTJydm85ZWdpcThqWmZMdk9pd2Z1YXZhTmZzMk9KTFQ4X2lXZ05FS0RkZHdiTGwxREdLZjhSakxhSFJkYnFTb1NORUE?oc=5",
+      "source": "NBC News",
+      "published": "2026-09-17T09:32:21+00:00",
+      "summary": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it&nbsp;&nbsp;NBC NewsOpenAI flags new concerning AI behavior, to track model misalignment regularly&nbsp;&nbsp;NPRWhy OpenAI’s New Transparency Falls Short Of Prioritizing The Customer&nbsp;&nbsp;Forbes"
     },
     {
       "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
       "source": "WSJ",
       "published": "2026-09-18T01:00:00+00:00",
-      "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI&nbsp;&nbsp;WSJOpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot&nbsp;&nbsp;The GuardianResearchers hack OpenAI: Here's what you need to know&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-09-18T04:47:05+00:00",
-      "summary": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show&nbsp;&nbsp;The Washington Post"
+      "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI&nbsp;&nbsp;WSJOpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot&nbsp;&nbsp;The GuardianResearchers used Claude AI to hack into OpenAI systems&nbsp;&nbsp;qz.com"
     },
     {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTnFrTzV4aWZWOXlXamdLXzZUWTZ3MndJeHFGbnZYSHp5X29LTUdPTy0wVmdpYTdhTXBRYXY4TTZsa2JseFNzXzdFelBIcXFWdXBsdmpIdXVzeHExbW50N01SM3p3Mk80dzlfNzNlX3AxVldIWlp3RDdmLWhyTDV3WUFUQmk2cDQ5Q3JYdDlyLVBRUmpvZTVnTnRIbFZxUGtiaVVLZUhKeGdSNFR3M0dBYjlLTDNwdjlENlJDaWl6RmJxU3hzcEQ4QUVNaU9VejFhZHlLa2xGVk1VQQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-09-17T19:46:08+00:00",
-      "summary": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history” - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3U5UnNFeDdiblhwcjVQelZRQkRoQkZYdjJoOTMyeTVrbTJ2cV8td193U3RmQ1RUUFRhSG1WV210dkgzdHpFX2o0eUVsM24zSkl1SHoxazBRbWpMMHFkNWFuV2NvblBTTC1VSjJ3WlJSdXVqQndUZk1YY29HOXNXdUx0WU9mQ2syeGhQVUZ0WnpjeW5ENzJvZ1lsMHV5VWFEMmpSY3pIaWhsbFZtNThBVllmS3Zid3F4bnkyVDBEaw?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-09-17T20:10:41+00:00",
-      "summary": "Microsoft exec called AI scraping the “largest theft of labor in human history”&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies - Politico",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fbU13WUVmMVI3VnNHa1JrOTNZTlFxNGo5S1VMc1prSDl1NWhHZVpUbVU5RV9ibnFINGdRbWpnYjJGSHhqLUVsbWpDVmdRNHl5LUJfalhzeWVDVjBpa0ZiakM2endsTXFVc05TZ2c5Szl5MFdCb0dz?oc=5",
-      "source": "Politico",
-      "published": "2026-09-18T00:26:00+00:00",
-      "summary": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "US judge denies OpenAI bid to review X Corp’s settlement with Apple - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5",
-      "source": "reuters.com",
-      "published": "2026-09-18T14:12:19+00:00",
-      "summary": "US judge denies OpenAI bid to review X Corp’s settlement with Apple&nbsp;&nbsp;reuters.com"
-    },
-    {
-      "title": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXFhYUprMFBzQzB5bTVXUS1MY3dHUkw5YTd6bHBKbzVOWnhhUkJsczBKZlpia2NGUGhDbmxDaFFUWGt4bDY3QkdJZktlVjRLaFRuRXlkMU1MY0VxQW84QzRnZkdrZ3U4bmw4LUZkOV95MGk2dXh5WHdKVmlmTjdXaHo4bFd4T01Dd0lVOG1kbU16ZlBjUU83anh2UVJMczZaMVJ6MTJfMExELTNFRGRGVVJB?oc=5",
-      "source": "AppleInsider",
-      "published": "2026-09-18T10:19:17+00:00",
-      "summary": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI&nbsp;&nbsp;AppleInsider"
+      "summary": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal&nbsp;&nbsp;TechCrunchDid OpenAI Pull Off the Biggest IP Heist of All-Time?&nbsp;&nbsp;The Hollywood ReporterMicrosoft exec called AI the ‘largest theft of labor’ in history, court records s"
     },
     {
       "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users - reuters.com",
@@ -66,6 +31,13 @@
       "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users&nbsp;&nbsp;reuters.com"
     },
     {
+      "title": "OpenAI sets its sights on the 200 biggest US law firms - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGYyVVkzNGd6WmdvMmZtMERiSi1zUXV2N2RPSHZKU1Vrb09TakFnVXdiY01STXl6Y3g0QVpmRmRNaWkzR1c2T1RyaHJ6a0FHbjNaT3A3Tk50MlNKV0FMQnpfUG5YR0Jmd3cxRzFqZjh0TXd5YVJuRGFtcDhjUmFqZ3ZjRFJkb01VSzFEeTdud1lybmFyeUt3cE1BTmNwSDQ?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-17T20:00:00+00:00",
+      "summary": "OpenAI sets its sights on the 200 biggest US law firms&nbsp;&nbsp;Business Insider"
+    },
+    {
       "title": "OpenAI Launches Astra For Law - Artificial Lawyer",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LR2RWbmdsUGREeXpwLUJTRGJqZUNYTEFJZmdOSEdjeE10d21nVDRoTmJ1U3BWVTk0ZjVxR1BUeTNMdEFQSWdvOURNbEsxeDdKSXN3SFFoc2k4VVFKNmtFT2FnM1cxcExBS0MzYnFicGJlN05HeWYtMzZRSHR4ZFk?oc=5",
       "source": "Artificial Lawyer",
@@ -73,67 +45,60 @@
       "summary": "OpenAI Launches Astra For Law&nbsp;&nbsp;Artificial Lawyer"
     },
     {
-      "title": "OpenAI introduces new AI model for law firms - ABA Journal",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUQ1c1ViOGVuck1qZ3o1OVJZM1BMQlFLLTJUeGZ5UmZBeHlnYmE5ak15enltc0J0RzlMckU0LWF6Z1k2emlvc1FfVy1nejgzM3F0a3VuRXAzSEFzWEVKdXFrV2F4Q01MWGpHRVJweldHY1l6SmxucFRUMWJKQ1NVY1BpbmlLbVV5V2pkRw?oc=5",
-      "source": "ABA Journal",
-      "published": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI introduces new AI model for law firms&nbsp;&nbsp;ABA Journal"
+      "title": "OpenAI's waiting game, gas pump pain, and severe sulfur strain! : The Indicator from Planet Money - NPR",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1rdThXN2hWeDczdlBPdWtFNHY2amlFY1R6bExHNlpyNXJsT2doYk1wVTdWek9yblRQRE53ZXY1eEdTbkxDVlNqdzJzUDE5RXBHel9lT1NZV3RaRXVYb2NyVDk4UEg3cExJS2I3MGo2amp3TzhxakE0Mkp1cWtibDZfRUpwa2UwNUxaRzJyQ0FsOHZveHVya2p2cG9fMEFDM2txcnpqVQ?oc=5",
+      "source": "NPR",
+      "published": "2026-09-18T07:00:00+00:00",
+      "summary": "OpenAI's waiting game, gas pump pain, and severe sulfur strain! : The Indicator from Planet Money&nbsp;&nbsp;NPR"
     },
     {
-      "title": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. - businessinsider.com",
+      "title": "AI titans invited to Trump-Xi dinner - Politico",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZk5vem1UTGFGUlZ0RDQxTzV4aHRMZ2o4RHJuRWIyVk5Fbkt6RERWNWdSMDdYSW1qTE9GMkhJWW42N1FSMjNDNVFYcjl2NUZoX0JURU02TUtSbkVZeGVOMEZEc0ptR04zLU1IT081M1VZWFRpUU9Kc2JkbkhvY3p2cg?oc=5",
+      "source": "Politico",
+      "published": "2026-09-17T20:36:00+00:00",
+      "summary": "AI titans invited to Trump-Xi dinner&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
-      "source": "businessinsider.com",
-      "published": "2026-09-18T09:00:00+00:00",
-      "summary": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.&nbsp;&nbsp;businessinsider.com"
+      "source": "Business Insider",
+      "published": "2026-09-18T09:00:14+00:00",
+      "summary": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI’s Next Round - The Information",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tWHRGem5SU3ZGTWdJZkRhZ2ZDNk5RTTY4NHZzY3FVUW1TbTRBRlhZaTRuSHV0eEZzVC1aelRmMGhxcUg1UHZYN1c1OUtYOGtCUVRwRkhFNkh5QU9wZWJDZVpTU0U1czFZeFNjYnJVeU9XTnNZMVA5WlV4Yw?oc=5",
+      "source": "The Information",
+      "published": "2026-09-18T00:53:00+00:00",
+      "summary": "OpenAI’s Next Round&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR05kM2J2OTJxRUJ5VWVGcjNLVGVXODRQWmpOQ2ZtNFU5bTNPc0ZXNk1yYm4xMkdsN0FfSFNQRnNDb3NmdU1rUmJZS0E1NnpyVXR1Y0RYSTBjeFVvZFBTNEstNkQxRDhYQnpCeG1tR0V2XzdYUUNHOVRFMW12V01WTUpZZ3A?oc=5",
+      "source": "Financial Times",
+      "published": "2026-09-18T03:07:51+00:00",
+      "summary": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO&nbsp;&nbsp;Financial Times"
     },
     {
       "title": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29OQzlUUU91RTM1ZTlCUlltS3VHQ0tpMWdBMVBxMmU3Y2xfYnJBZVljU2dzdUdObHhLVTl4QkVnUzZUdmlQTUhhVGw1UTNndGxNWVZ3S2xYbFhvdDNWbllZamRralZLV1IzUHI2enczREd3alE2dkpaZkJMZV9aNFVyYWhYYmJOSV9OTUNpLUlLcW1NT0dkRnhxbUZWNkhDZTNRMzZWc19RTEUwLUxJc1dGbW4xdl9n?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-09-18T04:00:15+00:00",
+      "published": "2026-09-18T04:00:00+00:00",
       "summary": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkp3YWFfcEsyN1Z4eGRkVXRVXzh5RW5jYnRJczZKa2ROMzhCam9aN3d2SkN6b2c3eklFWVJ4b3N6NlZOUVNoa2tYbC1CRDZoVHhoZmUtZW5EUEExdFI3dG5qa1piZEF4alAxUGRsWkQtWjdJa0ZWNmozOUh1azlSZ29YS2hTRm9Gc24takZ1R2JNdWlwbTk3SW9KU29URjBCWmtQUEhkbk9CbmdYTDdYbVNR?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-09-17T16:18:34+00:00",
-      "summary": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents&nbsp;&nbsp;Ars Technica"
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnh4czlpREt3SjNqZkhVb01vQVVJVTBiYlRhVlJ0Z0xiRnF4YnoyOU5YWXdDa05NS051aFFOS2E3ZmlxWDNpTHVoRjN2Mm5IYmVtQVM0ekpDT0UxR0Vjb0dLNHVWMnRlU1RhWlRxeWx2ZTNRYTFCTTNtLWdFMzJTRnFMc2VsQTZwV29iSkctZ3R2Smx4bnFkWjVWeUVNOVFCbHFtQtIBqgFBVV95cUxQVjZvU293cGh2VURVdGV6eUUyTlEwbWI3QzFESFFwajZHSnpuQktpaTZWSHU3ZFhsMWxFUmdrYVJmN0lOWnd4d1A5Qjd3eFkxWnk4ZkZQRVVhaF9WN3BtVzlETE12a0VuM0dYU1lSSW00UW1JNlNFMVc0VURJd18yMjZueDlrM2xmWlk1Qk1aSHp6SXRmS3dmTXJreWJRUVlfcExPUmZzLVIzZw?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-18T13:23:58+00:00",
+      "summary": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXN4UXZtVlNLbURUeVN3ejJINEo5bU9UU0psUnV0T2hhRU4wV2VlWTZCYzY5WkpKTUhyU3lTR0FWZTk2d0VZRGRIa2U2WXhjeVBtMHRJdUdaSURqUEhCTnh0TWF0TkUwYTVfTHlpQU4xQW1kTmFnV25YdTlaTWZZeG5zWnlHb2hfSEp0dmJWWWJzdGVVZTJNSWRnV08zZHFtSjBXaVc2bWI4Q093aGJ3aEJiNWFFM2J0MV9rbk1CZThmMUdXWGdXZ3RzUDV4XzhlTmfSAdIBQVVfeXFMT2VuUWYwWll4VTh2Z29ub3IxMERyV0VGcXZjWmM5ekJCVjh5UEl0cjV0Y1VFRUJVRDF5TDNwY3pVZHFaemJheEpsS3JKYTRkVjB3QU82dWdnaEItNGlxVE9sS21fc1VQc1FzdU1WanUxRjlIek53M0NZSE9UV3VzZTNwbkk4V2g3OXhOZG1xejNKUDNpWTI1VU5pWmdxMWdGdmVyU2gtQXE3ZTlBUWUwUDlKLXo4ckRSbWNUTWVkaUstQWFfS0ZEM1N4OXZuQWdudnNB?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-09-18T09:00:06+00:00",
-      "summary": "China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report&nbsp;&nbsp;South China Morning Post"
-    },
-    {
-      "title": "OpenAI Is Close To Solving Another Millennium Prize Math Problem - The Information",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWRVSHVabXNvMG80VURJcTZ5SUNadGpvT1FIaWVESG1yekJiSHJ5cHJnQjZ1WVFveS1sc3FKN2xHcmhKQVBaUnJzWTh1VHFiRFE1Uk51TlB0dm9WVFF2S3BPVi1Rb01tNVJNMFQ2RXl5S1NPVW9oMVhVcVpnMlVlRkxFWkdlLVFUSDNkbmJCY2gyUnI4V0tFT04tcDd6U3JIa0c0a2dZWnJmSEE0YWlRMg?oc=5",
-      "source": "The Information",
-      "published": "2026-09-17T14:01:00+00:00",
-      "summary": "OpenAI Is Close To Solving Another Millennium Prize Math Problem&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlTNmdmV1BZYzA1NVJPN0ZTdS1nanI2aHZZM1ZEdGhkZUlKZW9ManVmRnEwZFdNTDNqSDh2NnQ3TFRFWTFoSE9HX1VwQzcxODgxMURKX1VESnc2Tm1yTTVpbmt6RjZuOXpJMFpJWnVubTgwWE92Q29nQmQ5R1kwUU1RUFd3dHhPbWQ4RlBwYzd5UHc1MjdGSFRJX2NET2ZfOXZrdERUM3dscEpqQkRqLQ?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-09-18T00:10:47+00:00",
-      "summary": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community&nbsp;&nbsp;Gizmodo"
-    },
-    {
-      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem - Decrypt",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmhPTE11dktFSU5oUUtMUE93cEs0UG8wV0JXZFN2SXJjV2FfcnRPZk5UY2JHVFlNM0dQa05sQ3FUSzlHcGhPb0dPRE1NYXpwdFBkTmt4cjRqVWV6SHV0ajlyNlFKTEJUa3BDRUVVM2xlOEdUdENNZlFYd29kbEx3bGF1SHrSAYwBQVVfeXFMTXM0Nmo3MDhScGdOdzlXX0VEWV96MGliU3l4NmMwOURDT1VtR1pQQ0ZMV2ZKSENyMGVaY2E2VzZyMEVyMVY1MWMwSmg5MUtFRlRIZFg1R3U4ai1GUHE3MnhHQmswaGRjdlVORENQUVJTV3lDUkNPVTZBb0Zublg0SzFkWlpsVWxEQ3FoTmQ?oc=5",
-      "source": "Decrypt",
-      "published": "2026-09-17T19:32:22+00:00",
-      "summary": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem&nbsp;&nbsp;Decrypt"
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tYS0VHd1I0cEFmd0JuMHh0SEg0NGxoMUprUDFPWVRlWWZvWE9LN0ZWMWd6Z2Utc2dlYWY2elB3Nk1xTGtRZm5aSzFDZlhfR0JRSms0NkJmVDlDY3JJYkxzU0M4ZWFLak1RSnNGNTlzWTJRZmxkbGZfUWppNUVDc3hxQUlVd01Ha1Z1U1ZYUzJReUU?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-18T14:00:14+00:00",
-      "summary": "Researchers used Anthropic’s Claude to hack into OpenAI&nbsp;&nbsp;TechCrunch"
+      "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GR215MXpFWG9NeE9FWEZrNm9wRE1MaXJHdGZrMUQ0NEtUQ1dxb3pKWWtCN25MbURsc0tlN1ItT0FBSk9uaU5mZWx2cGJZLTFNTHRIdGc2bHljUW9GaUJtaGNUWEM5VnJtTHpXTFRPa1BEVnBYeHhxS2x3?oc=5",
+      "source": "NBC News",
+      "published": "2026-09-18T18:00:13+00:00",
+      "summary": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns&nbsp;&nbsp;NBC News"
     },
     {
       "title": "Our framework for reporting model misalignment - OpenAI",
@@ -143,18 +108,25 @@
       "summary": "Our framework for reporting model misalignment&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tYS0VHd1I0cEFmd0JuMHh0SEg0NGxoMUprUDFPWVRlWWZvWE9LN0ZWMWd6Z2Utc2dlYWY2elB3Nk1xTGtRZm5aSzFDZlhfR0JRSms0NkJmVDlDY3JJYkxzU0M4ZWFLak1RSnNGNTlzWTJRZmxkbGZfUWppNUVDc3hxQUlVd01Ha1Z1U1ZYUzJReUU?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-18T14:00:14+00:00",
+      "summary": "Researchers used Anthropic’s Claude to hack into OpenAI&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "AI security experts say they used Claude to hack ChatGPT - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNeUo4TFlnSHFTVTg5MlhVZC1lM2FkZER1MHZDWEJQaHp1YVdCVExBTE5EdUF6Tk1ZTmpzQjc3c3JWU3RDV04zWTN0VFNZN0MyUndHcTFZNFh0cFVQMndIMkRlaE8yTWY3WHBIYUk3RjFSWWxv?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-18T15:31:32+00:00",
+      "summary": "AI security experts say they used Claude to hack ChatGPT&nbsp;&nbsp;CBS News"
+    },
+    {
       "title": "OpenAI’s experimental AI agents were caught being devious again - Mashable",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmxQTkFIZzlkSEdPQU0wakNZbGtQejFoLThXVFZGOU9hV2VpNlg5dm02XzV1eW1nS09BWGk5S1p0WTZCS0VTWEZXSE1IaWgwRzF5cm1ORnFZN0laVmE4aWZ0bWNUeUJTNkMtWVBMT09mV09jSzJCWTlHMHRoUTJYNDlzdUU1UFRrTjBqcUVrS3V1RHU0aVBtS3owYTkxcFNQclE?oc=5",
       "source": "Mashable",
       "published": "2026-09-18T09:24:57+00:00",
       "summary": "OpenAI’s experimental AI agents were caught being devious again&nbsp;&nbsp;Mashable"
-    },
-    {
-      "title": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5",
-      "source": "Forbes",
-      "published": "2026-09-18T05:26:54+00:00",
-      "summary": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude&nbsp;&nbsp;Forbes"
     },
     {
       "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack - Tom's Hardware",
@@ -164,18 +136,46 @@
       "summary": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "OpenAI breached by researchers using Anthropic models - ft.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
-      "source": "ft.com",
-      "published": "2026-09-18T03:31:31+00:00",
-      "summary": "OpenAI breached by researchers using Anthropic models&nbsp;&nbsp;ft.com"
+      "title": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5",
+      "source": "Forbes",
+      "published": "2026-09-18T05:26:54+00:00",
+      "summary": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude&nbsp;&nbsp;Forbes"
     },
     {
-      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
-      "source": "AP News",
-      "published": "2026-09-17T22:54:00+00:00",
-      "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely&nbsp;&nbsp;AP News"
+      "title": "OpenAI breached by researchers using Anthropic models - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
+      "source": "Financial Times",
+      "published": "2026-09-18T10:59:58+00:00",
+      "summary": "OpenAI breached by researchers using Anthropic models&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-17T23:16:44+00:00",
+      "summary": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "US judge denies OpenAI bid to review X Corp’s settlement with Apple - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5",
+      "source": "reuters.com",
+      "published": "2026-09-18T17:29:43+00:00",
+      "summary": "US judge denies OpenAI bid to review X Corp’s settlement with Apple&nbsp;&nbsp;reuters.com"
+    },
+    {
+      "title": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5",
+      "source": "Fortune",
+      "published": "2026-09-18T10:04:00+00:00",
+      "summary": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-18T09:38:17+00:00",
+      "summary": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity&nbsp;&nbsp;CNBC"
     }
   ]
 }
