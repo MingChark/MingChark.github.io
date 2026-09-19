@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T10:34:45.871473+00:00",
+  "generated": "2026-09-19T15:39:05.421621+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -38,11 +38,11 @@
       "summary": "$4.6 billion NVIDIA importer linked to supply network funneling restricted NVIDIA AI chips into China&nbsp;&nbsp;TweakTown"
     },
     {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - techcrunch.com",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "published": "2026-09-14T20:07:37+00:00",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;techcrunch.com"
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Nvidia Just Got Another AI Chip Wake-Up Call - TradingView",
@@ -57,6 +57,13 @@
       "source": "24/7 Wall St.",
       "published": "2026-09-15T20:00:00+00:00",
       "summary": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "AMD Warns Partners Of A 10% Price Hike On AI Chips, Sparing Ryzen - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkRqcDNpTkxOa1BJUllDT3RKalg5R3Nodl9nU24yVGFHaF9oclNjYVpwakw1SENLV0xnd0tkZ29jYTlWOExpQUxmTXhqZDVnUzFwY0h0bDRVNHNkLVIxTjZOeGZGNklwSl9ZZnZ4VXgwbkp6dHBOeU9wazVBWkpIajdtalBnRmFrUjdZY2hGdFRXUVF1bXc?oc=5",
+      "source": "Startup Fortune",
+      "published": "2026-09-18T09:26:50+00:00",
+      "summary": "AMD Warns Partners Of A 10% Price Hike On AI Chips, Sparing Ryzen&nbsp;&nbsp;Startup Fortune"
     },
     {
       "title": "AMD 10% Price Hike 2026: Ryzen Spared, GPUs Hit - shattered.io",
@@ -94,11 +101,11 @@
       "summary": "Nvidia B200’s 58% Premium Fuels GPU Loan Boom [2026]&nbsp;&nbsp;tech-insider.org"
     },
     {
-      "title": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline - nai500.com",
+      "title": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline - NAI500",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmt3R1h3eGw1SXc1eG9iUDRsbnFaQ0hFNDlaWXpkVFIzcS1GZXFlX3ZFaFZKU1Bqb3pGcFJNZ3VTMXBVS3VCUm91aHMxSjFIamx1azhnVGpqY3Q3emwxOVdqa3B0bFAyazlqXzVpa3VNTzdYd0JoMnZUVHM3R3d3SXFjSFRjbkx1UmpVSGhlUTZlaWV3cEZaRkJPa0lJM2JVRVF3Qg?oc=5",
-      "source": "nai500.com",
+      "source": "NAI500",
       "published": "2026-09-18T01:06:42+00:00",
-      "summary": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline&nbsp;&nbsp;nai500.com"
+      "summary": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline&nbsp;&nbsp;NAI500"
     },
     {
       "title": "Nvidia CEO Jensen Huang Forecasts Doubling Chip Sales in 2027 - The Tech Buzz",
@@ -143,18 +150,11 @@
       "summary": "Huawei Aims to Become Chinese Version of NVIDIA&nbsp;&nbsp;조선일보"
     },
     {
-      "title": "Broadcom's custom AI chips challenge Nvidia's G... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjBDdjFteDNFWnlFYXBqOTVkR0U3VnY1Umk0VTRHeHFyX3ZoajFXMXIwNUYyUExETjI5VDZYNkctSmtISnRjZWw5R2lZcjdRNkw2cHJkeXp3TmlybWM1MlZFZXZzNzdKMlBVbHFZVjRaekd5T0ZNUnd2UF9iSk92dHpzaGVGM2x3ODk2dnloY2xNZ0RHVnc?oc=5",
-      "source": "Pluang",
-      "published": "2026-09-18T12:37:12+00:00",
-      "summary": "Broadcom's custom AI chips challenge Nvidia's G...&nbsp;&nbsp;Pluang"
-    },
-    {
-      "title": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe... - StorageReview.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdIb0hlcHBHak12dVRtS3piYW5QSnJGdTREd3dzUDlPVnBWV3pvTXNfSXpHU0ROOTNFNU51emI5aUt4c0gwb3Z4U3BhVGJlcVJrTHJEY0R4cGNjLXlFRjV0MnNUbTBZVWVKNGRGN0xYUm9zbFhqelZiZjlZbDJXeXUzaUxXSzQ1TDdrLW1RdHNocnlBZU5waVFKdVFadTNYVGVEOUI0VUYyLTlNSDVzdWRKVEZCbWRKV2l1SW1UVHhVMHFNZ1RpTHIzUG5yUVZUOGgydExxcm7SAd4BQVVfeXFMTjkzMFhaSnVjel92XzFGOTU0bTN0cm9YY3ljNktNZGh3RGVTUnlTdGFmUllibnVJTWFHV2JfNGNpWjkwaDVSbUxsVmNOU1NrUU01dF9PZ0kyOWc1bWdMcXloSmNWZzhHc01yUTVpTXRxdVJJRVFIWUtBQk9aMUNzQmoyVVlxbUZtZmFLaFpJaG9sUnhtS2w2UFB4dnJTdTJGcVNod3NRZXR6OW9NYTQydXg4N3I4dklRY2NLbkxwWklJRTZncTlmSXRERzRoNnNPd2VONFB4RFN6RDdyMWlB?oc=5",
-      "source": "StorageReview.com",
-      "published": "2026-09-16T14:59:43+00:00",
-      "summary": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe...&nbsp;&nbsp;StorageReview.com"
+      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T12:57:02+00:00",
+      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
@@ -164,11 +164,11 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-11T12:57:02+00:00",
-      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
+      "title": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe... - StorageReview.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdIb0hlcHBHak12dVRtS3piYW5QSnJGdTREd3dzUDlPVnBWV3pvTXNfSXpHU0ROOTNFNU51emI5aUt4c0gwb3Z4U3BhVGJlcVJrTHJEY0R4cGNjLXlFRjV0MnNUbTBZVWVKNGRGN0xYUm9zbFhqelZiZjlZbDJXeXUzaUxXSzQ1TDdrLW1RdHNocnlBZU5waVFKdVFadTNYVGVEOUI0VUYyLTlNSDVzdWRKVEZCbWRKV2l1SW1UVHhVMHFNZ1RpTHIzUG5yUVZUOGgydExxcm7SAd4BQVVfeXFMTjkzMFhaSnVjel92XzFGOTU0bTN0cm9YY3ljNktNZGh3RGVTUnlTdGFmUllibnVJTWFHV2JfNGNpWjkwaDVSbUxsVmNOU1NrUU01dF9PZ0kyOWc1bWdMcXloSmNWZzhHc01yUTVpTXRxdVJJRVFIWUtBQk9aMUNzQmoyVVlxbUZtZmFLaFpJaG9sUnhtS2w2UFB4dnJTdTJGcVNod3NRZXR6OW9NYTQydXg4N3I4dklRY2NLbkxwWklJRTZncTlmSXRERzRoNnNPd2VONFB4RFN6RDdyMWlB?oc=5",
+      "source": "StorageReview.com",
+      "published": "2026-09-16T14:59:43+00:00",
+      "summary": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe...&nbsp;&nbsp;StorageReview.com"
     },
     {
       "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center - Bloomberg.com",
