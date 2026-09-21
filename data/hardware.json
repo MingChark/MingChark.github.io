@@ -1,13 +1,20 @@
 {
-  "generated": "2026-09-21T12:23:50.625210+00:00",
+  "generated": "2026-09-21T21:50:01.608991+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "Huawei’s Ascend 960DT Race: DeepSeek Orders 160K [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nMF8zVzNPczRVTHZ1c2NySV9kSGJJSkpkS2w3RVpyLWJoUFVsTEc5Q2VZM3NTUV9RUlYxcEFPSk10SE95UC1wWmRKSEI4QkszVHpSRGpXYnVRZ3NDQ2pXRFFEZngzVWJMTkcwRG1yc2hWaklzeHJkWDln?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-09-21T06:18:25+00:00",
-      "summary": "Huawei’s Ascend 960DT Race: DeepSeek Orders 160K [2026]&nbsp;&nbsp;tech-insider.org"
+      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-21T18:18:00+00:00",
+      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "AMD Surpasses US$1 Trillion in Value as AI Demand Fuels Growth - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlNIeWVaek1sQXdIVkZrRXA5eld3Z2RyNkpmamhwN2x2eko1Rmc2QTVfN2JidVdLd0FwS3FVbnhfVW05RHZhdkdmTVdzZFJjM3NBNVYwVjRIMFJnVVk4OEw3TUp4MElLUlNlNXJZSkVubVRINlowM2xEd3E5Z1NGSERBTDE0ZG9xS2g3aE8wa01ITVdFUnVDZWFXVDlaaWFwY200?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-09-21T17:26:15+00:00",
+      "summary": "AMD Surpasses US$1 Trillion in Value as AI Demand Fuels Growth&nbsp;&nbsp;Mexico Business News"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -17,32 +24,39 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+      "title": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHJnczExUWlWM21oNzhhalh1MGtmR3Z6YXBVb1p3dnNaYWxpd3pjak1sQ3EyMzFLNFpXaFVzNk1BLWtSRGNlelJxcGhlVUxVbDAzVXJENUVRRDg0Q3VnQV9qZVJOZEk2bFhFYWlzalJDWmFKNnYxbE4wWTEzQ2FaR1V0a3QxUVhQdF9GRDBQd1YyWnRXTmVvRnZfREEwU09oU3ZIanE2ZFRzVWRUV2ZzbWtfOGFjZTIxcWhv?oc=5",
+      "source": "PCWorld",
+      "published": "2026-09-21T13:37:28+00:00",
+      "summary": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow&nbsp;&nbsp;PCWorld"
+    },
+    {
+      "title": "Huawei’s Ascend 960DT Race: DeepSeek Orders 160K [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nMF8zVzNPczRVTHZ1c2NySV9kSGJJSkpkS2w3RVpyLWJoUFVsTEc5Q2VZM3NTUV9RUlYxcEFPSk10SE95UC1wWmRKSEI4QkszVHpSRGpXYnVRZ3NDQ2pXRFFEZngzVWJMTkcwRG1yc2hWaklzeHJkWDln?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-09-21T06:18:25+00:00",
+      "summary": "Huawei’s Ascend 960DT Race: DeepSeek Orders 160K [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "NVIDIA has delayed the GeForce RTX 60 to 2028 due to demand for server AI accelerators. - GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdk54NEY0YmlreDYwREhDWUNuN0haU2FOVkMwNjd1Nm8zWFU3eTZ4cTFmLTd0Q3ZFQ3NEWVNwQ2gxalJ1eTQxTXJoa2NmM2FiQmtSSGhJdGxILTFvRExyMTl1aHFYczllY3B1bHZDeE5yUnhuWlpxdkFybm1qaUxpMzlIbGRIeFAyeG5fSGJqMVdBV0dDY2tfVWFadUxIaFRFemlDTHc2d0VGeWZwY2xfZi1lRkRuSzdjSHg4?oc=5",
+      "source": "GameGPU",
+      "published": "2026-09-21T11:52:58+00:00",
+      "summary": "NVIDIA has delayed the GeForce RTX 60 to 2028 due to demand for server AI accelerators.&nbsp;&nbsp;GameGPU"
+    },
+    {
+      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - japantimes.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
-      "source": "The Japan Times",
+      "source": "japantimes.co.jp",
       "published": "2026-09-17T01:29:00+00:00",
-      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
+      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;japantimes.co.jp"
     },
     {
-      "title": "$4.6 billion NVIDIA importer linked to supply network funneling restricted NVIDIA AI chips into China - TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSXV2ak4yUW85X2cyRTFkb0FZQ0NxeEJkMXczOFBiWHF6bDU1T0lDeFNXMWhiVVRYTUZXMVllSU1hM2hGbG5iOTRWbGNEOWdEbGtqQkY2VTZRYkl3Q2RxRm5CZUY3OTZVMVFteGJwYVVNTVlZbU81Q2VBY3dvVDVhNTBhdi1lNVZDS1JETkEtUXpOM2hzVUQ5MS1NTnE4V3RXQlkyTzIxRl9kQXNnWnlvUWlxcHktZzA4SWRjbHh4OFRhNTBUeEtjLTJ5bnJRZTNWT29kMmsySGhPRkZjc0dXT2lZUWdFalNZV1RPVw?oc=5",
-      "source": "TweakTown",
-      "published": "2026-09-18T07:20:04+00:00",
-      "summary": "$4.6 billion NVIDIA importer linked to supply network funneling restricted NVIDIA AI chips into China&nbsp;&nbsp;TweakTown"
-    },
-    {
-      "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRPNmFIYlRLSE8xOUVHSndyN0Z6ZjM3LTllaUh4V1pMS05CV2RjUkxuV3BjNUxycXdYTlUzVEl6VTBjUDBUTHpNdVFYUUl0UW9DUUlTdzBOclZpLUpiMXUyaGQybU1DZzV2RUF5Z3ZqaU5QeXNZSm5ibUxNRk9fYXlyRkJXRnVoZW00NnBNMFE1ZXRVN0U1N2Y5WFA5RnhFVDA0bE5EYk9aZklvS2VWVVZaaUJQd1V6V1ZB?oc=5",
-      "source": "Nikkei Asia",
-      "published": "2026-09-17T04:23:00+00:00",
-      "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
-    },
-    {
-      "title": "AMD Is Raising AI Chip Prices 10% This Quarter While Sparing Ryzen Gamers - startupfortune.com",
+      "title": "AMD Is Raising AI Chip Prices 10% This Quarter While Sparing Ryzen Gamers - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemxadGpPd25ReU1CUTV0TjZsR0VaMU9aX2dMMFg1OFJacDM3ZVNFQ2dFeFNWMDhaVXNOcGV3R0RzeTlsTC11b2pIX05jVkJJM2RwUHAySG51dzhoV2oyNXVJanZjazlVWkt2ZGFtR24ycW1HckMxbmRvc29wWE9KcHhVSm0yeEVpVEhjVEhZUUxSNmg4YWhRbmNMbVFYOWpxM0E?oc=5",
-      "source": "startupfortune.com",
+      "source": "Startup Fortune",
       "published": "2026-09-20T11:03:46+00:00",
-      "summary": "AMD Is Raising AI Chip Prices 10% This Quarter While Sparing Ryzen Gamers&nbsp;&nbsp;startupfortune.com"
+      "summary": "AMD Is Raising AI Chip Prices 10% This Quarter While Sparing Ryzen Gamers&nbsp;&nbsp;Startup Fortune"
     },
     {
       "title": "Nvidia Just Got Another AI Chip Wake-Up Call - TradingView",
@@ -59,32 +73,11 @@
       "summary": "Huawei AI chips: Ascend takes on Nvidia in clusters&nbsp;&nbsp;NeoTeo"
     },
     {
-      "title": "AMD 10% Price Hike 2026: Ryzen Spared, GPUs Hit - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRXdKTFdweUZpT2cyZDBxVGlYY0JQMnVudFgzaUlWWTdBSzB4NnB1M1paRTliV0xaY1p0UmpmaFBSNUtaU3k4ZDJVYmMzaFlremNzdlpMLTlpQmVVUnJwd2ZHY0JmZWw3UXBBM092RzZlR2c?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-18T03:22:49+00:00",
-      "summary": "AMD 10% Price Hike 2026: Ryzen Spared, GPUs Hit&nbsp;&nbsp;shattered.io"
-    },
-    {
-      "title": "Huawei Aims to Become Chinese Version of NVIDIA in AI, Semiconductors - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUENZejBRdjcyTHRabTFjeDVlZU9ocFZlenFfMkVtancyRFdfa0UtQmFWV3F1ZFNmRU9qT0p5aWZuelBrNmdyN2hBamlQWlVQYm1DdG1kbDZNQ1hpTHpoUmRVUmVuem1PRXU5U0tQcEFja1FZZVV4UjdFZXdTenloaXd1TjhzZWpT?oc=5",
-      "source": "조선일보",
-      "published": "2026-09-18T05:06:36+00:00",
-      "summary": "Huawei Aims to Become Chinese Version of NVIDIA in AI, Semiconductors&nbsp;&nbsp;조선일보"
-    },
-    {
-      "title": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmtpT2tpa283M2I4cUF2eFZkbk9kbFU4Z3BoU1lfX2tjLXRxZzhrYkR4NlIzMHRuclltc0NXT2lpRzFnRi10NVczQ3FPZVZ1NEVmcE1Fd19Tc1lndnZZVGxIS3ZVQW5OajNEQnJMTmozMzJRazZSek14dDVHbERJQXpuRHJRM1JObWpvYzJ1Z3Q2YXM2NkZlaXVfTzJWTEtjYXZ5YmE2SHc3bnFHbl9NRkpzY3FaZzg2MV9jX0VpME41YkM4MXduaVlxN0RyUEk?oc=5",
+      "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhmaHYxUHcySHdWVkYyeDRZcEowRlRuREVRX1ViSGRsRm0yLWEyckpyZHItOTBBelFnYlE0T19INEM3VDhQaTYyQmNTZ05Kd1J3dUdHUHRkMDhFekFLckFJOXFlaHpENWhmMFh0NHc4Q3d0Q1JLakpDYTRteDB4Y3hKR29YOXBoeHExQldWN1JuazBLeVNpaUtHc3paX2MxYTdjRTQzdktMYUxGUnZ1TzFsN2ZqVDZ2dk1oTVI2SkV1N3VDN2JzZzVYdkp5Qmc?oc=5",
       "source": "24/7 Wall St.",
-      "published": "2026-09-15T20:00:00+00:00",
-      "summary": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Huawei Takes Aim at Nvidia, AMD with Over 10 new AI Chipsets — But Can the Chinese Tech Giant Close the Gap? - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ0NzLTZaZGRVVUJKNFl2YjRaV2VuRGctNDFRQk9qZnpVM0hmNlhlcGVMOVRydHlNSS1KRXBzRzVqZ1R2cDM0dmZwVUJxbFhaTXJWb203WXlYS1dyY0c3ZmJoTmhfbUc2MmppNlQ5b1dKMlFIa09XN01mTlNnNFJXdmVfbngzZzlaY3BMWnUyd2g2V2tNTjlCSjBlT1ZPcm54U0w4T3ZXbC1nNlJlVVZ5RThqLTJXc1BvbUlhN0loY1NIZWVybFVHY3hyRGpaSGlLTXZMSWFzbUp6cjFLVVc4M3U2cTcwc2JNa01mVUpB?oc=5",
-      "source": "Benzinga",
-      "published": "2026-09-17T14:25:58+00:00",
-      "summary": "Huawei Takes Aim at Nvidia, AMD with Over 10 new AI Chipsets — But Can the Chinese Tech Giant Close the Gap?&nbsp;&nbsp;Benzinga"
+      "published": "2026-09-21T13:37:00+00:00",
+      "summary": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
@@ -94,11 +87,11 @@
       "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-14T20:07:37+00:00",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
+      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline - NAI500",
@@ -108,46 +101,18 @@
       "summary": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline&nbsp;&nbsp;NAI500"
     },
     {
-      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-11T07:00:00+00:00",
-      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-14T20:07:37+00:00",
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - openai.com",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "published": "2026-08-25T07:00:00+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;openai.com"
-    },
-    {
-      "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JjdG0xZVFfY3YyalRpcjBfNmU1LUs4NFdpRGZpM0c0UFB5ZWtpZV9FWFZpTkVpNkptRjJRODJBSHFHMGFRS0FudEZPNHFQYW9lZkFnaXVaUC1ycGlsR2ZjaEdrS3J2NFpjTGJxN0ZENUN0aHA2d0lseV85dnhPdmplT1Yxd0xQYnhaOFpPYmhaZGROTlAxNlNJTk1uZjdodkRpT1l4Y2FNMC1zNFBESmNCMzNSZw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-04T07:00:00+00:00",
-      "summary": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "AMD Warns Partners Of A 10% Price Hike On AI Chips, Sparing Ryzen - startupfortune.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkRqcDNpTkxOa1BJUllDT3RKalg5R3Nodl9nU24yVGFHaF9oclNjYVpwakw1SENLV0xnd0tkZ29jYTlWOExpQUxmTXhqZDVnUzFwY0h0bDRVNHNkLVIxTjZOeGZGNklwSl9ZZnZ4VXgwbkp6dHBOeU9wazVBWkpIajdtalBnRmFrUjdZY2hGdFRXUVF1bXc?oc=5",
-      "source": "startupfortune.com",
-      "published": "2026-09-18T09:26:50+00:00",
-      "summary": "AMD Warns Partners Of A 10% Price Hike On AI Chips, Sparing Ryzen&nbsp;&nbsp;startupfortune.com"
-    },
-    {
-      "title": "Prediction: AMD Could Be Closing the Gap in the AI Chip Race - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFZYaUd5UEhkTGpXSlo5eWpwZVc5WTl2ZVBnMG1zb1d1TWoxanFrcUVIV2tlSDg3bXd0ZGpxLVE3czdLZFJ4emJFb1Z1U3J0YzFKYTBkVmV6TExaMnZUempnNkRiaTd6SWg1MUJmNUlMZlMxOWJVN08tWlg2TVlISk1SRzFWVEFFRDB2Ty1jWWtTZlFlbUxPXy04NFd4aGtwQ0Z3MFp3?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-15T17:00:00+00:00",
-      "summary": "Prediction: AMD Could Be Closing the Gap in the AI Chip Race&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
@@ -157,6 +122,27 @@
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
+      "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JjdG0xZVFfY3YyalRpcjBfNmU1LUs4NFdpRGZpM0c0UFB5ZWtpZV9FWFZpTkVpNkptRjJRODJBSHFHMGFRS0FudEZPNHFQYW9lZkFnaXVaUC1ycGlsR2ZjaEdrS3J2NFpjTGJxN0ZENUN0aHA2d0lseV85dnhPdmplT1Yxd0xQYnhaOFpPYmhaZGROTlAxNlNJTk1uZjdodkRpT1l4Y2FNMC1zNFBESmNCMzNSZw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-04T07:00:00+00:00",
+      "summary": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Prediction: AMD Could Be Closing the Gap in the AI Chip Race - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFZYaUd5UEhkTGpXSlo5eWpwZVc5WTl2ZVBnMG1zb1d1TWoxanFrcUVIV2tlSDg3bXd0ZGpxLVE3czdLZFJ4emJFb1Z1U3J0YzFKYTBkVmV6TExaMnZUempnNkRiaTd6SWg1MUJmNUlMZlMxOWJVN08tWlg2TVlISk1SRzFWVEFFRDB2Ty1jWWtTZlFlbUxPXy04NFd4aGtwQ0Z3MFp3?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-15T17:00:00+00:00",
+      "summary": "Prediction: AMD Could Be Closing the Gap in the AI Chip Race&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnY2TGZfZ0R1ZWhudEFkblFtR05sdVYzTGFCVFFOd0Q4T3VlbXQtTUZWNUozcHRrcElUa1VXdU5zVEt0OXE1Z3lQdXBRWXF3dHUxZ3N4U0dPek9tNS0zVDc1T05nUW5JcmhIYUJFVGZ0NnM0SWw3VXd6MjVkS1FxWjFkdDB5S3MzSHVlUFJkQQ?oc=5",
       "source": "NVIDIA Developer",
@@ -164,18 +150,32 @@
       "summary": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NzJBYzBmTndlV0txR1pWSWcyd3dYVG1QSjNqQzdZRWZSQWpNVUlJOFprazF1NmEzSi14c041WTRUeEMwU1V3N0wtNnZ3WTM4NHFxNFI4bmVkaXRneUFISlljVTU1OGg4ajQtOEtDaWE3UnpfSHJF?oc=5",
-      "source": "qz.com",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership&nbsp;&nbsp;qz.com"
-    },
-    {
       "title": "Intel Crescent Island AI GPU Slips, Nvidia Holds 80% [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DeGRIUUtpYTRWdHJyNkkwLWhXQ3JsQVNwQXAtdTBKdVdUSWZxS2hFYVJURU9KMDJqN0I5bzdjZlg3VHQ2Uk9hYkpLY004V3JyRUJMc202ZFFpYXotOEtXS0ZNa2NxbUxfb3EwMHpfbnJ0RlU?oc=5",
       "source": "tech-insider.org",
       "published": "2026-09-03T07:00:00+00:00",
       "summary": "Intel Crescent Island AI GPU Slips, Nvidia Holds 80% [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-07-07T07:00:00+00:00",
+      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "How XPUs Meet a World-Class AI Factory - blogs.nvidia.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JM0otMTRCc2dlNnZjSDJlOHZKRW11U1RGS0x0LTJvTkRyTWhOa3B6Ym1sdndQeEZGYUpHMVpKSE41YU45M1R5VnRhakNLQTZQeDU4S3BERW9OMnN0cTlTSVhXU0dLdEtzeHJJ?oc=5",
+      "source": "blogs.nvidia.com",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "How XPUs Meet a World-Class AI Factory&nbsp;&nbsp;blogs.nvidia.com"
     }
   ]
 }
