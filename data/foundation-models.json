@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T11:14:26.089101+00:00",
+  "generated": "2026-09-22T16:36:26.290734+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "finance.biggo.com",
       "published": "2026-09-21T18:19:00+00:00",
       "summary": "Global LLM Arms Race Heats Up: Anthropic Skips Ahead with Opus 5.5, Google's Gemini 4 Pro Spotted in Stealth Testing&nbsp;&nbsp;finance.biggo.com"
-    },
-    {
-      "title": "Large Language Model (LLM) Market Size, Share & Growth Report 2026-2035 - snsinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03OXd5emdJMGpXdlludG80U05fWGRyR0RGcVRYUE5ZOEMwc3lHTFdLWk02LU5nQjRTVElFdjJuanpqWUFFSkUxNDRhS0ZsWjktdERBX1lEOVhHNFg0RXVqWHozSm84NkRQaW90V2NraWxvSnBPT2dV?oc=5",
-      "source": "snsinsider.com",
-      "published": "2026-09-17T18:30:00+00:00",
-      "summary": "Large Language Model (LLM) Market Size, Share & Growth Report 2026-2035&nbsp;&nbsp;snsinsider.com"
     },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
@@ -31,25 +24,18 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - blogs.cisco.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "Cisco Blogs",
+      "source": "blogs.cisco.com",
       "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;blogs.cisco.com"
     },
     {
-      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
+      "title": "Building the foundation for running extra-large language models - blog.cloudflare.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "Cloudflare Blog",
+      "source": "blog.cloudflare.com",
       "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
-    },
-    {
-      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;blog.cloudflare.com"
     },
     {
       "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
@@ -57,6 +43,13 @@
       "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+    },
+    {
+      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
@@ -108,6 +101,13 @@
       "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Business Wire"
     },
     {
+      "title": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026 - Medium",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
+      "source": "Medium",
+      "published": "2026-08-17T07:00:00+00:00",
+      "summary": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026&nbsp;&nbsp;Medium"
+    },
+    {
       "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - calcalistech.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZVpwdEVGRC1FbTZmTUtOU2hvRlJ1N2IwN1AxWUVMS3B5djMtVnFwUEVFSFZrS0FTRDA3SnN6VF9wVjh2Y1ZjRU9PRHVydE5GbFdEaWYwZHQ3VmFkeWFiWFBCckQ4UEZN?oc=5",
       "source": "calcalistech.com",
@@ -150,18 +150,18 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "TabFM and the Rise of Tabular Foundation Models - medium.com",
+      "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "medium.com",
+      "source": "Medium",
       "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;medium.com"
+      "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - towardsdatascience.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "Towards Data Science",
+      "source": "towardsdatascience.com",
       "published": "2026-03-18T12:04:54+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;towardsdatascience.com"
     },
     {
       "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
