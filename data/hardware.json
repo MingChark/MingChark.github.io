@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-24T16:48:36.267239+00:00",
+  "generated": "2026-09-24T21:19:25.924862+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "AMD: AI Agents Give Its Memory Advantage A Much Bigger Market (NASDAQ:AMD) - Seeking Alpha",
+      "title": "AMD: AI Agents Give Its Memory Advantage A Much Bigger Market (NASDAQ:AMD) - seekingalpha.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnFEU0NRTE9ETjhjbDM0REJaU0JZSDMycUNRRzkweklwd2NFT2N3TERlci1EbktWNmRnSzZMQllYVUIwaXFYa0lGd05PX3RyZXRQVDJSdHFjTVdUUzRGS0k3SUZxaUVJSmVrYlZQOHVyVktiMzFmZjFCZDVzZzdLTVByTnk0MzZIaWtqQ1Z5YzJxZjFjTFFyNTY3bExkam9faHAw?oc=5",
-      "source": "Seeking Alpha",
+      "source": "seekingalpha.com",
       "published": "2026-09-24T10:59:48+00:00",
-      "summary": "AMD: AI Agents Give Its Memory Advantage A Much Bigger Market (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+      "summary": "AMD: AI Agents Give Its Memory Advantage A Much Bigger Market (NASDAQ:AMD)&nbsp;&nbsp;seekingalpha.com"
     },
     {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
@@ -87,18 +87,11 @@
       "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics - The Tech Buzz",
+      "title": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics - techbuzz.ai",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3ZJZTNCZTFLVUJkUHQ3TFJQaTFuVkU1V1dYZlRjZVM2ZHF3OGxpdm5GYTNkYk1acEkxZkhFT1pfTFh1R21Bdk15UmpsX0x2SzA4MWxURW14d0tYekpvUXRzY3hDTEhSU2xkb09oUEYwYWd1V0kxeHp2Smo5VUxENlZIN19BU21nSTN3Sko1U2NKdw?oc=5",
-      "source": "The Tech Buzz",
+      "source": "techbuzz.ai",
       "published": "2026-09-22T12:37:00+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
-      "title": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHJnczExUWlWM21oNzhhalh1MGtmR3Z6YXBVb1p3dnNaYWxpd3pjak1sQ3EyMzFLNFpXaFVzNk1BLWtSRGNlelJxcGhlVUxVbDAzVXJENUVRRDg0Q3VnQV9qZVJOZEk2bFhFYWlzalJDWmFKNnYxbE4wWTEzQ2FaR1V0a3QxUVhQdF9GRDBQd1YyWnRXTmVvRnZfREEwU09oU3ZIanE2ZFRzVWRUV2ZzbWtfOGFjZTIxcWhv?oc=5",
-      "source": "PCWorld",
-      "published": "2026-09-21T13:37:28+00:00",
-      "summary": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow&nbsp;&nbsp;PCWorld"
+      "summary": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics&nbsp;&nbsp;techbuzz.ai"
     },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
@@ -115,11 +108,11 @@
       "summary": "AMD has joined the US$1 trillion club — these AI stocks are surging with it&nbsp;&nbsp;Mitrade"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - blogs.nvidia.com",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "source": "blogs.nvidia.com",
+      "source": "NVIDIA Blog",
       "published": "2026-09-22T12:06:35+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;blogs.nvidia.com"
+      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
     },
     {
       "title": "AMD EPYC Venice Beats Xeon 2.37x, Edges Nvidia CPU [2026] - shattered.io",
@@ -127,6 +120,13 @@
       "source": "shattered.io",
       "published": "2026-09-23T02:22:49+00:00",
       "summary": "AMD EPYC Venice Beats Xeon 2.37x, Edges Nvidia CPU [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-14T07:00:00+00:00",
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "AMD Hits $1 Trillion Market Cap After 9.6% Surge [2026] - shattered.io",
@@ -141,13 +141,6 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-08-24T07:00:00+00:00",
       "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-14T07:00:00+00:00",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
@@ -169,6 +162,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5ucHMzVUtKTnZxMjJsdGlpNTNtZHhFUWVGRG9XcEhsRHJJWEhlcVItM3d0OHNKdnN3cDQ0X0FFOU5xYzRvUlExUFd3LUl1OTR3TzlIcUF1QWRERU9IRFp1STd2ZlpHVUVySjFrenJOVmVVMy1JNllvU29BZFEwNmFHYlZnTjBvdEFyMWFlZzZ4UW54djNFWlh1bS1pR1VGNmZYNlhlUlFpOWZVWWk2U1JoZ1g3RmthTnhiaTgxajJIcjA?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites&nbsp;&nbsp;Reuters"
     },
     {
       "title": "NVIDIA’s Isaac ROS 5.0 Adds Agentic Skills and ROS Lyrical Support - Unite.AI",
