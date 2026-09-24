@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T11:23:33.968886+00:00",
+  "generated": "2026-09-24T16:48:36.267239+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -22,13 +22,6 @@
       "source": "Investor's Business Daily",
       "published": "2026-09-22T12:00:00+00:00",
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "title": "NVIDIA Brings AI Agents to Robotics With Isaac ROS 5.0 - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQck43aFBfNmZIYTZiY0E1QXJ2SzM0Rm54NS03dEkxbmpMTklKQUR0cU1rVHdaaVBuWEFGcFdVVlR4N2NxdWR5cHBEUmp5UFhpX0pfX0tXWVVmZHFPVV9VbWpXNDdKcmlxWFZacmNfVXpkOVJCUU1MZVJ3RmFpMm1XcG1Od2t2QTg?oc=5",
-      "source": "TechRepublic",
-      "published": "2026-09-24T09:47:29+00:00",
-      "summary": "NVIDIA Brings AI Agents to Robotics With Isaac ROS 5.0&nbsp;&nbsp;TechRepublic"
     },
     {
       "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
@@ -87,11 +80,11 @@
       "summary": "AMD Hits $1 Trillion Valuation on AI&nbsp;&nbsp;조선일보"
     },
     {
-      "title": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHJnczExUWlWM21oNzhhalh1MGtmR3Z6YXBVb1p3dnNaYWxpd3pjak1sQ3EyMzFLNFpXaFVzNk1BLWtSRGNlelJxcGhlVUxVbDAzVXJENUVRRDg0Q3VnQV9qZVJOZEk2bFhFYWlzalJDWmFKNnYxbE4wWTEzQ2FaR1V0a3QxUVhQdF9GRDBQd1YyWnRXTmVvRnZfREEwU09oU3ZIanE2ZFRzVWRUV2ZzbWtfOGFjZTIxcWhv?oc=5",
-      "source": "PCWorld",
-      "published": "2026-09-21T13:37:28+00:00",
-      "summary": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow&nbsp;&nbsp;PCWorld"
+      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-09-17T01:29:00+00:00",
+      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
     },
     {
       "title": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics - The Tech Buzz",
@@ -101,11 +94,11 @@
       "summary": "NVIDIA Isaac ROS 5.0 Brings Agentic AI to Open Robotics&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
-      "source": "The Japan Times",
-      "published": "2026-09-17T01:29:00+00:00",
-      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
+      "title": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHJnczExUWlWM21oNzhhalh1MGtmR3Z6YXBVb1p3dnNaYWxpd3pjak1sQ3EyMzFLNFpXaFVzNk1BLWtSRGNlelJxcGhlVUxVbDAzVXJENUVRRDg0Q3VnQV9qZVJOZEk2bFhFYWlzalJDWmFKNnYxbE4wWTEzQ2FaR1V0a3QxUVhQdF9GRDBQd1YyWnRXTmVvRnZfREEwU09oU3ZIanE2ZFRzVWRUV2ZzbWtfOGFjZTIxcWhv?oc=5",
+      "source": "PCWorld",
+      "published": "2026-09-21T13:37:28+00:00",
+      "summary": "AMD GPU and motherboard prices could jump 10% soon, Ryzen may follow&nbsp;&nbsp;PCWorld"
     },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
@@ -115,18 +108,18 @@
       "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-09-22T12:06:35+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
+      "title": "AMD has joined the US$1 trillion club — these AI stocks are surging with it - Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWkVrTjBIREI0VVRVRVBsODZia1lCV05hVU1vbkdkR0lsN3BJTVhGTUxFSmhVM2RXQmRmS1h2RllGcC0yc0U2bXp0dTd2bWR6SXREdTNyeThmcm9qRlFVcTNRZC1uRkRHUk5oWHZrZHcxSHM?oc=5",
+      "source": "Mitrade",
+      "published": "2026-09-22T02:21:25+00:00",
+      "summary": "AMD has joined the US$1 trillion club — these AI stocks are surging with it&nbsp;&nbsp;Mitrade"
     },
     {
-      "title": "AMD Chips Away at NVIDIA's AI Throne - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHpZdmJnYkxNM0J2cDBodE5Od3RlWGlTbFhyYmpvWElTX3dpSzJxeS16OF9hZkdpdVBITkoyQ21xdlIxdHk1SDNhUzFOa0ZYMWt6WW5fOTN2VzAyZ3FuczNFUllTN1FsX3V6NE1KbnhpZnQ0bGxybVlWS1RvLTFMVEVxZmlYT2toVUdGMFJjbnh0cTdQejJCdFlvOE9VZw?oc=5",
-      "source": "TradingView",
-      "published": "2026-09-22T17:50:00+00:00",
-      "summary": "AMD Chips Away at NVIDIA's AI Throne&nbsp;&nbsp;TradingView"
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - blogs.nvidia.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "source": "blogs.nvidia.com",
+      "published": "2026-09-22T12:06:35+00:00",
+      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;blogs.nvidia.com"
     },
     {
       "title": "AMD EPYC Venice Beats Xeon 2.37x, Edges Nvidia CPU [2026] - shattered.io",
@@ -143,25 +136,11 @@
       "summary": "AMD Hits $1 Trillion Market Cap After 9.6% Surge [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - nvidianews.nvidia.com",
+      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
-      "source": "nvidianews.nvidia.com",
+      "source": "NVIDIA Newsroom",
       "published": "2026-08-24T07:00:00+00:00",
-      "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;nvidianews.nvidia.com"
-    },
-    {
-      "title": "AMD has joined the US$1 trillion club — these AI stocks are surging with it - Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWkVrTjBIREI0VVRVRVBsODZia1lCV05hVU1vbkdkR0lsN3BJTVhGTUxFSmhVM2RXQmRmS1h2RllGcC0yc0U2bXp0dTd2bWR6SXREdTNyeThmcm9qRlFVcTNRZC1uRkRHUk5oWHZrZHcxSHM?oc=5",
-      "source": "Mitrade",
-      "published": "2026-09-22T02:21:25+00:00",
-      "summary": "AMD has joined the US$1 trillion club — these AI stocks are surging with it&nbsp;&nbsp;Mitrade"
-    },
-    {
-      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-11T07:00:00+00:00",
-      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
+      "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
@@ -171,11 +150,32 @@
       "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Nvidia Just Got Another AI Chip Wake-Up Call - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR084N3FqeDlCcVVfQ29jZ1ZoUzY3YklBOUUzYTY3aFYxejg4QzhaT0pqekhXWXYxLXpIaTh6RmduOTE4ODlSNUtuZUpLN1hHaXpqaUdfbjlHbWVjQjJLaFp0RE1JYVFOX2pRNV9jbHJtMzJlNDB5YWZ2WjFETzhzbWFsSmZmY1dBUkRkUXloV3JrR3J2MjQ0Z1ZuRERZTm9JTWJlUk5pUQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-09-17T15:22:49+00:00",
-      "summary": "Nvidia Just Got Another AI Chip Wake-Up Call&nbsp;&nbsp;TradingView"
+      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
+    {
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA’s Isaac ROS 5.0 Adds Agentic Skills and ROS Lyrical Support - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblowTVdqUlpjV0RhSmZpX2NYaE9qcDc1SmFrTXVET3h6SW5zVlRLZi0zN2tESjVzMTFVSWF6UXJ5SXdOSjd4Nk5iV0paZnV0bjZfWnFTQ1MzajdnNGo1Zy1NSm1GRmw1SC0yR04zLVRUX3JRd3hfbWdsUXNNOFJkYmw5ZEJFZXpvSDRxTWFYQzc?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-09-22T12:23:01+00:00",
+      "summary": "NVIDIA’s Isaac ROS 5.0 Adds Agentic Skills and ROS Lyrical Support&nbsp;&nbsp;Unite.AI"
     }
   ]
 }
