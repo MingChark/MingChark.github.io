@@ -1,20 +1,69 @@
 {
-  "generated": "2026-09-25T04:12:30.719728+00:00",
+  "generated": "2026-09-25T11:29:15.045983+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "OpenAI says agent hacked Australian government website without being told to do so - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalFtTFBUbmZJVHpxMzVZYTZQZ3dpOERQT1dGSUN1OEY1WlZHT0RGeV9rSFpNekFfOTJOSUI2aU55OWdOcEtOUnBYd2k4U1M2VnB0a2d4UjdaQVFYWjhBNlpsZ1BoRVlRUFhYWEVNYVhXb0V2WWZCdnUwcEhSNjBfcWVUMXFVTFo2YXdjUmdBNzQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-24T04:34:13+00:00",
-      "summary": "OpenAI says agent hacked Australian government website without being told to do so&nbsp;&nbsp;CNBCAn OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later&nbsp;&nbsp;WIREDWhy Australia chose the world's biggest political stage to reveal OpenAI hack&nbsp;&nbsp;BBC"
-    },
     {
       "title": "The cheap new AI model taking aim at OpenAI and Anthropic - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5",
       "source": "Financial Times",
-      "published": "2026-09-25T04:01:17+00:00",
+      "published": "2026-09-25T09:59:38+00:00",
       "summary": "The cheap new AI model taking aim at OpenAI and Anthropic&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website containing healthcare data - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZV9wTllsNWt1cHpDY0ZhdXBYSEdtWGV4U2phd0lUOWVvNzNVaFRJaXVkZVlFaW51ZHRIMTFOX2RONkZlVkVJV09VNXo4OU9MUkcxSXdIdjNsa0M1NDFtTF9ISDVNYnhRMnBxQ2FUcWFhWXROdFhWZG9xUm9WUXFhUzdhZWJKQ2xLMVdUQg?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-24T22:22:00+00:00",
+      "summary": "Australia says OpenAI agent hacked government website containing healthcare data&nbsp;&nbsp;CBS NewsOpenAI agent “didn’t accept no for an answer” in Australian government breach&nbsp;&nbsp;Ars TechnicaA.I. Hacking in Australia Prompts a Concern: Can the Law Keep Up?&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE5hQUsycmRqbDk0akxXU0U0YmdhVkRFNTNTUTgzM2gwRHZPZkx6Uzl3WFlIVTNXOU03NC1CS1J0R1gzSEtEZ0Ryb2ctQmJtTmtZUkZhalI3VkFqMUVqNHNWTm5Ld19MTXVVaC1tdjBKeHpCal9fNXh2T2JmdFJOQTA1bUFnUmpfVlNyWVZObmlRbnJx?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-25T09:01:28+00:00",
+      "summary": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "SpaceX AI Will Pass Anthropic, OpenAI in 6 Months, Musk Says. What It Means for the Stock. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGtYOTlWb0kwejkwNnFIQUlTTkN5RUVFbUZZTnJkSEpRMm5STE9KUUE0N1lOQ1FReElQaXlWZlZFQUhWbDJlSEV4cExsQWNIcVo0dEpoZmxjbWtESEp1ZnNpMVYyZEkyWUJkeFBneG9NZEdKTUY5Mzl4YzRRc05HV3lOZHU1V05abG1kaG9ldV9xcTVjYy1TbVpic2ZZTTZF?oc=5",
+      "source": "Barron's",
+      "published": "2026-09-25T11:01:00+00:00",
+      "summary": "SpaceX AI Will Pass Anthropic, OpenAI in 6 Months, Musk Says. What It Means for the Stock.&nbsp;&nbsp;Barron's"
+    },
+    {
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-24T21:17:08+00:00",
+      "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5",
+      "source": "Politico",
+      "published": "2026-09-24T16:43:00+00:00",
+      "summary": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtLMFdBNFUtNmZrdmFoakY5SE1CNUFBRWt3TXVhTlZ1c0lLTGRQU3N1SzYzQ090dU9sNXBxVTZ5MUp0X21rY2tjd01xOGpRLWRDbmxSQ08weElDcG5ERU9yQ0ZJZXVWd2MzNGVHMi1xLThIWkhnWkdSc09XNEk5ZG05aG84U1ZuTTVsMnY3N2NLSTlYX3V0cm05UFAxZ2JUazV5c0tobk1kZnExSVRBMnZTdHhVMmd5WDRkTw?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-24T18:10:04+00:00",
+      "summary": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "White House Wants Anthropic, OpenAI to Withhold AI Models From Britain. Why the Secrecy? - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT01WaE9Id0dLN0w0QjI1bFdkTlhGc2Vub3lKeTNHa1B4ekJ4bGlmSlI1QWp1VWJxZDZhYWxmcDFvTjA2bmhCR1B1UE5JajdnWXZITFRiX0xicFVMV1dMSVAtcG9kekpQWXJiMHRmVnctbThWVTlnQjJnNHA1V1Yxc04xMVItaFY4N1FCd05QdUR2LW1JbHdhYVFB?oc=5",
+      "source": "yahoo.com",
+      "published": "2026-09-25T07:39:50+00:00",
+      "summary": "White House Wants Anthropic, OpenAI to Withhold AI Models From Britain. Why the Secrecy?&nbsp;&nbsp;yahoo.com"
+    },
+    {
+      "title": "ChatGPT helped the Tumbler Ridge school shooter focus on guns, tactics, and terror, our investigation reveals - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUhaZ0NFcXdqSnZ1SG9ubTgzTF9yX3FOblphZTJUYnUwckhMNEszN09CMVVrdE40aFJwbS1jUWFWeWsxWWJoWGhZQTg0bGNEME1jeFZYVkRWS2g3TU16amFjNnBadDFqVWlyRWRMR2pGblBVZ1RSVE5xNllYVkVxemhiZ3FkYVE2UjBwZQ?oc=5",
+      "source": "Mother Jones",
+      "published": "2026-09-24T16:32:40+00:00",
+      "summary": "ChatGPT helped the Tumbler Ridge school shooter focus on guns, tactics, and terror, our investigation reveals&nbsp;&nbsp;Mother Jones"
     },
     {
       "title": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it - Fortune",
@@ -38,60 +87,18 @@
       "summary": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days&nbsp;&nbsp;Gizmodo"
     },
     {
-      "title": "The Rogue Agents In The Boardroom - Sirota | Substack",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10MVZVVVlVM0hHMVhOTGpDU2gwbmdtU1hPcFU3UnlNN3YxTHBfUmZpNmI2dUo2bUc4SGstOWt4SGEzNVpjc2JkVklwM3F0cFZDU3NaV1o3TEw3UzBOS1JkaXdDeS1pNi05b1VBbktGNWk?oc=5",
-      "source": "Sirota | Substack",
-      "published": "2026-09-25T03:54:55+00:00",
-      "summary": "The Rogue Agents In The Boardroom&nbsp;&nbsp;Sirota | Substack"
+      "title": "Cigna Group, OpenAI partner to expand complex condition care - Modern Healthcare News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTM4NGJqV0VvTnNmNnJhNGpaMDlxSVltVVJwY3F0bGpNXzN2UngwckNmSFZDaGYybDdzZmtTQi02NEVfcEtrUzMzWllpLVZIblpTMkNqWGpRTGNRRGt4cldOak5QWTRnWlBiRWd4U080MFktSFZ4TzRqby1zWnVZNHJOZ3dPcS1LRktr?oc=5",
+      "source": "Modern Healthcare News",
+      "published": "2026-09-24T19:25:00+00:00",
+      "summary": "Cigna Group, OpenAI partner to expand complex condition care&nbsp;&nbsp;Modern Healthcare News"
     },
     {
-      "title": "ChatGPT helped the Tumbler Ridge school shooter focus on guns, tactics, and terror, our investigation reveals - Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUhaZ0NFcXdqSnZ1SG9ubTgzTF9yX3FOblphZTJUYnUwckhMNEszN09CMVVrdE40aFJwbS1jUWFWeWsxWWJoWGhZQTg0bGNEME1jeFZYVkRWS2g3TU16amFjNnBadDFqVWlyRWRMR2pGblBVZ1RSVE5xNllYVkVxemhiZ3FkYVE2UjBwZQ?oc=5",
-      "source": "Mother Jones",
-      "published": "2026-09-24T16:29:46+00:00",
-      "summary": "ChatGPT helped the Tumbler Ridge school shooter focus on guns, tactics, and terror, our investigation reveals&nbsp;&nbsp;Mother Jones"
-    },
-    {
-      "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5",
-      "source": "politico.com",
-      "published": "2026-09-24T16:43:00+00:00",
-      "summary": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review&nbsp;&nbsp;politico.com"
-    },
-    {
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-24T21:17:08+00:00",
-      "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI, Anthropic and other artificial intelligence companies hire Tennessee lobbyists - Tennessee Lookout",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVSaWJHSVkybmpSWmhPN3NuLUNYWGM3ZDBvQ1E1R2NkLS0tWWVTeFVTTTNiZFdHZWdkQ0pibXlQd0FIZUktQUtqUElXT0E5NV9wUGd2V2RoZ2hJMWFjaTRaSV9fbjdUVmt2VEpWWFFmVlJCbjBheXF4NTA5QW5qVWt4blpCbTdiQWRkRER6SElabkl0WTRmYnVyaEFtVjVVSVVlU3l0Rk5QYjBUVGo0WGFvT3ZkV3F6anYxdVN2ZkZDYWpv?oc=5",
-      "source": "Tennessee Lookout",
-      "published": "2026-09-24T10:07:42+00:00",
-      "summary": "OpenAI, Anthropic and other artificial intelligence companies hire Tennessee lobbyists&nbsp;&nbsp;Tennessee Lookout"
-    },
-    {
-      "title": "SoftBank’s OpenAI Debt Gets Costlier, Riskier and Even Bigger - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0MwNENrNTlNcFRPZ1ZCX3VMY3hSZGJnRGFRZ2o4eHVEc3BtVFRzeWpZX1R4SVpOYkFweDlFV0I0aHFMdUFUNlFDQkYtNUl5Sm8tT2NBVkFIbkVpNjJRcGdwcWlYaktkcndrVV8xRVFXNWQteXpGcjJwbVBabDZCRnhaQUFYQ3p0andZZlpTUG9HLWlGS1pzOGNqUC1MSmFVY1ZsbG5mWUxfb1ZTM2JhQUlsUWdMOHhzQjU1RXVjN0VHVGNfOTNDaA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-24T07:00:47+00:00",
-      "summary": "SoftBank’s OpenAI Debt Gets Costlier, Riskier and Even Bigger&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem? - Scientific American",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0x2LVFuWVJpYVNLaTNvbHEtclc5Sk5kSXJPaUduNU5aSjB3QXN4N0RCMzJRZ2FBa0VTVV92V3ZQb184Y1lJMHR5WXc4ZE5wNk5kdXNuQldMUHg4SDdCTWE3NzVkUjVKOWFuTzh3VlBRbWp3Sy1iVjRnWnoxbHhuWDVBcjU4eVNudG9BX0pJNDFnTTdQbVZV?oc=5",
-      "source": "Scientific American",
-      "published": "2026-09-21T16:00:00+00:00",
-      "summary": "Did OpenAI solve the wrong Navier-Stokes problem?&nbsp;&nbsp;Scientific American"
-    },
-    {
-      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-24T16:49:00+00:00",
-      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting&nbsp;&nbsp;The New York Times"
+      "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape - The Information",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmgyX1dTWG0yMEZFb2RRTmNReFM1aVFxa3Vid2hqWmMzU1hQQTNBR0p3MXlJWWZadUEtZHpvWUtiUnluMHRkNHNsZjViU1Y2MUZKdExNdjg0cDlIbFltWEc5bHdySEMyakJvQUhfSTFGSXQ2Wk1EaVJIOTNCRWNZZzhhZUJ2SEdlM2luUmh2ekxhRlBjMkE?oc=5",
+      "source": "The Information",
+      "published": "2026-09-24T13:00:00+00:00",
+      "summary": "Google, OpenAI and Anthropic AI Safety Group Takes Shape&nbsp;&nbsp;The Information"
     },
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
@@ -101,6 +108,34 @@
       "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-24T16:49:00+00:00",
+      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "OpenAI Agents Tried to Hack Four More Websites While Seeking Data - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVpPNHRtM1ZGSWJUMTRRa1ZtbFZ0RWd3Z3d2NURjNnNaLXJpNzk0SERJMTNkS1FXNlNkdjdPZ3UwNlhyMkVEeVRuZGlDeVFtSUlpbnVzM2hHOURGVUxhUW5rN1U5THhvdHBVRURXSllRb2swcW5Xc1VxejFWRS1iWDdoRUVoX2tKbU5wSUZDaVltLVRUWHN1MWhqS0lLN1NMUzJBaA?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-24T16:51:00+00:00",
+      "summary": "OpenAI Agents Tried to Hack Four More Websites While Seeking Data&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmJtTWRRZzZzdGE3bi1aS3lHdHd4Ykd3MVB0aWxQdjMwY18yYmF5LUg4djBIT0k3c1gweXRoWnNwTzRvSHZMdVh0QWFhQWF1Zkxoc3p1NEMwQ25JaFBKVkNUd21sU2l2OFQ3UDVobUozcHFZQUZhM2dsZjE5cUhfYVkwT29ZQVY5TGlCcnF2Y1hHOVY2bm9ERTU3emtwVlB4aFNFd1UyVGNUamgxeFJDUHRHS0NQTmdKMUd5YnZVeDlxLXVGbmFGcGs0LU8?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-25T06:06:00+00:00",
+      "summary": "Australia steps up response to AI after OpenAI bot breaches health system database&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI agent hacking attempt targets University of New Mexico digital library - kob.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2ZhVDdod1pURkhSRjk5NHRIbGRuZldPc1dJdkdWYjNwaWNVMW53LXpXN1pfOTdUeVluSjhERHcxZTRhYUt1cFlqVW9PNXdqbGlmMHFrV0R4bVJGM29GdzVBYTcxNHRBOTkzU3Y4eEkxZmdmUFF4QXJmTDJOUXJ3SEhPUzZxUWJybGZtZEZSUk9aZTRyalloZU9vWE9iWm8xcFFPVG9XaGRNRThmMUE?oc=5",
+      "source": "kob.com",
+      "published": "2026-09-25T00:56:28+00:00",
+      "summary": "OpenAI agent hacking attempt targets University of New Mexico digital library&nbsp;&nbsp;kob.com"
+    },
+    {
       "title": "OpenAI's breach of Australian health department website prompts rebuke - NPR",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCRlh0SVduS2xhdjZteFlSSUlpMzdLY0Nfc2RoeW9ZSC1oRXBvZkJteWlmQ2tBcW9fWHNTdUxJbldKUHBDRHEzUzh5WE4yLXJzLWtSVlFOYlVwcVVtTTJUbVhGeGg1N19KVm41VmhSY3BKNjBq?oc=5",
       "source": "NPR",
@@ -108,32 +143,11 @@
       "summary": "OpenAI's breach of Australian health department website prompts rebuke&nbsp;&nbsp;NPR"
     },
     {
-      "title": "'Extreme concern': OpenAI agent hacked Australian public health website, prime minister says - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzN1MF9LUkgyZE54alRybG9vRVNUSEdKbGJjb2M0Y2xkOTZVME85YVFvMk5lUXRIbklEcURxQ3FhT0Q0Wi1ha042RnNZMnZlb3RZYUNFSkJxYWdJcUxmbjNuUS05LUJkZHE5UzNoejEwTXo5b2MwU0dZcXBiWDE5TUZuSVlfejY1dmdMd1NQQVU4dllsM211LUxVYkxRY1ZTWGZLWEFfSmtIUklNRElv0gG0AUFVX3lxTE1sVWpsY0d1MklVVjZqaG92aVhvVzUzOGh0S3pPTHNOcGlFWVhybUg2UDR1bTBEcElqcDhVYU1ZZWdFU0JRSWxmRGVtd0pZUnJEUU5DN3B5WUFPUkwwZl9nV1labUJzUmkzUFRORk5FUGV3eUVXb3FkdFVnbW1PU3JSMmJwN0xnbDJzVDVtLXdsbGNNYWlqeXB3NjRuX2JNT3pkQ1ZZQmphc3lTdkhpUl9zRWw2QQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-09-24T13:57:43+00:00",
-      "summary": "'Extreme concern': OpenAI agent hacked Australian public health website, prime minister says&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONl9vVjh2ZFRreXEwZDRnTWI4V1gxN3VYdnhjelZCMWNXc1doUzY4RjJfNTI5SE5ZRTBXUjhGQ3Nzd2VlRFlJU1FISm44M0s1YmhCWEJmYkI4WkIzZHhybDFiTTNNSlJieEhoTlRPM2ozUGRyYWptTXlUbmFlUmpJNDliekg2SmR1VTN5ekcycFJXenY4VjhDTzloQVVTbVJFX1R1elRSM2hpalXSAbABQVVfeXFMTm5tOC1adzczZ0NRYzlTRGFJQXNyb1djVjJwWF9FVW9QM09zUjV1U0E1UnhOeTFNQlpTMDZtUjJTYkIwSEJuTVU5RzIxNl95dVRwTlNVTFV0emwxYS1QcDhjQ1RGbzkyOHV3NUFTMTU0SnNfcDR4OVJyLUN3b1h0WFU2anRueXN4VXVXS2hCbGNySDUxQzhZUVpyR0k2dTYyWENyR3pWYlNCZlpBNXhza00?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T10:47:11+00:00",
-      "summary": "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "title": "Australia says rogue OpenAI model hacked into its healthcare system, admonishes Sam Altman - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3ljVElKN2J5MHNsUk9mLTZ6bU8tYU9SS1FxUTV0TGh0MkR4VDc2Q25kUHMxUWZfWGhfSTFXeVBJMml4cEF0dDI1bmVQbTFob0lZazBBM0xNd3cyMU9tWnRiNEtnVUo3dmxHOUpsTUxNX1U1NFFfRTM4UzZjSXJQWEdzVGdfQXNqR19sUU1OaHZxLUs1MVo0?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-24T09:21:00+00:00",
-      "summary": "Australia says rogue OpenAI model hacked into its healthcare system, admonishes Sam Altman&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "Australia Condemns ‘Unacceptable’ OpenAI Breach of Government Health Portal - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3RBRnB5WV9FM0xQdnczb1U4SDNSLTZpcW5SbXczME1wbGpxa2QyXy1yNXRRUWk4eUo4QVZsVkVjc2hVaWtTZFRINXNNYlh5bkNWbjdHNzhudEtvVEZyZ2JxR01OWDB5RjJ4VEpJQmNPSS04bUl0V05xQTdHYTF1ZGt3OTJ6RnZHVXdxUGVxcm91NFpHZjBBbzJ6MWdnR0FnbVJTSkZ6NFI1WW5Ic1Ew?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-09-24T09:08:54+00:00",
-      "summary": "Australia Condemns ‘Unacceptable’ OpenAI Breach of Government Health Portal&nbsp;&nbsp;Time Magazine"
+      "title": "OpenAI’s agent hacking Australia is a warning for governments everywhere - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDB4YkEyUXVBeUlwMnFHcWh0VlFrZWFVMVVHUklTOG9xUldNbGN5MHl5aG1NNEl4WWZxNlNVb3c0aFRfdlpMMkNHTFBmV2lpeHJmTmo5UWJMR1VsVnVVTktUcm9uT1Baby1neXY4RFIxWVl2bmUwc1d1aTNzMkoxM2J0TjFSMDlYRGk0YlNGRE5oWVNQVDluUnhyYnRId2gxZVJiZURUeU56V0ZuRzY1WTlJdmJXZw?oc=5",
+      "source": "Scientific American",
+      "published": "2026-09-24T14:45:00+00:00",
+      "summary": "OpenAI’s agent hacking Australia is a warning for governments everywhere&nbsp;&nbsp;Scientific American"
     },
     {
       "title": "OpenAI extends cyber access to Ukraine for civilian defense - OpenAI",
@@ -141,13 +155,6 @@
       "source": "OpenAI",
       "published": "2026-09-23T12:09:23+00:00",
       "summary": "OpenAI extends cyber access to Ukraine for civilian defense&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI’s agents breached Australian government data. Its human response may do more damage. - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzEwX09ETllOandOaE5Pa3JpMU1LVUlKcS02ZkdEQnhVVGs0QWVlSWpHMm5ibTdaajNhbVpaNE9EVDdxbW00blhHbjlHcE53cDNXbUc2ZjFjcUtUbXYtYXc2ejNKdVdLTGI1YU5UNDNTXzFiQjlTMmpRY00xVzBLRTY0NHJWbUIyYzdyS3NUQVRHN0U?oc=5",
-      "source": "politico.com",
-      "published": "2026-09-24T11:47:00+00:00",
-      "summary": "OpenAI’s agents breached Australian government data. Its human response may do more damage.&nbsp;&nbsp;politico.com"
     },
     {
       "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
@@ -169,13 +176,6 @@
       "source": "OpenAI",
       "published": "2026-09-22T20:06:27+00:00",
       "summary": "Better prompt caching for GPT-6&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-21T17:32:19+00:00",
-      "summary": "Advisory Group on Mathematics and Artificial Intelligence&nbsp;&nbsp;OpenAI"
     }
   ]
 }
