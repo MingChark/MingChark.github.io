@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T11:29:15.045983+00:00",
+  "generated": "2026-09-25T16:53:21.484657+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "shattered.io",
       "published": "2026-09-25T09:24:35+00:00",
       "summary": "Alibaba’s Zhenwu V900 Packs 216GB, Targets 10T Params [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
-      "title": "AMD Data Center Revenue Jumps 107% to $6.7B, Arm Bets Big - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04aXJRZDJUbm54RVRHMEVqSl96TDgyVnhKZTRlVjlIS2NBRWhET0ducmZOaGpQNV9ublprODJQQ1dFajNnTDg0TkRUYUx6bDhINXZKRTEwOExRVzVYWXhUNkpTX1ZTVUdlOWpkZDJVM2xXUjI4?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-09-25T06:11:37+00:00",
-      "summary": "AMD Data Center Revenue Jumps 107% to $6.7B, Arm Bets Big&nbsp;&nbsp;tech-insider.org"
     },
     {
       "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily",
@@ -29,6 +22,13 @@
       "source": "NVIDIA Developer",
       "published": "2026-09-22T12:02:49+00:00",
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "AMD Data Center Revenue Jumps 107% to $6.7B, Arm Bets Big - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04aXJRZDJUbm54RVRHMEVqSl96TDgyVnhKZTRlVjlIS2NBRWhET0ducmZOaGpQNV9ublprODJQQ1dFajNnTDg0TkRUYUx6bDhINXZKRTEwOExRVzVYWXhUNkpTX1ZTVUdlOWpkZDJVM2xXUjI4?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-09-25T06:11:37+00:00",
+      "summary": "AMD Data Center Revenue Jumps 107% to $6.7B, Arm Bets Big&nbsp;&nbsp;tech-insider.org"
     },
     {
       "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
@@ -59,13 +59,6 @@
       "summary": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race&nbsp;&nbsp;Spherical Insights"
     },
     {
-      "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGRPRW9PNE9qMC1UNm8tYXUycWRsZXQxUk5Td2RGMUxOV0NmeVl1b29lMWxtNzlsakQ4d2FnYlRYLU96ZXVVLWhGSzcwWlFPUTZ0NWFyWlMzNTFWNFVqR0NnSFRJTnV1VDhWXzlvOTBZZU1nSWdaZEZIc215Wi00SjFkRHdrVmlEWTJSV2p4NVJfNUxSdHF0c1NVYVVmVEdoUTRrZFBCTU56NDNFODVNMnI4RjJ1MHYtOEs2ckdGZTZyclFRR2pDVXE5TWY1ZWdySWl4Y1A2TzZrNlo0TGwxSjM2YkU1UQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-09-22T04:49:00+00:00",
-      "summary": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet&nbsp;&nbsp;TradingView"
-    },
-    {
       "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built - calcalistech.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg?oc=5",
       "source": "calcalistech.com",
@@ -83,7 +76,7 @@
       "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
       "source": "The Japan Times",
-      "published": "2026-09-17T01:29:00+00:00",
+      "published": "2026-09-17T07:00:00+00:00",
       "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
     },
     {
@@ -97,7 +90,7 @@
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
       "source": "TechCrunch",
-      "published": "2026-09-17T14:06:14+00:00",
+      "published": "2026-09-17T07:00:00+00:00",
       "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia&nbsp;&nbsp;TechCrunch"
     },
     {
@@ -122,6 +115,13 @@
       "summary": "China AI Chip Prices Jump 50% as HBM Shortage Bites [2026]&nbsp;&nbsp;shattered.io"
     },
     {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-14T07:00:00+00:00",
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
+    },
+    {
       "title": "AMD EPYC Venice Beats Xeon 2.37x, Edges Nvidia CPU [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxMnVOeXgyQlExNFVobmFva0g5eTZoWUZEUmhRSzBRcjVvSzUtckg5NHRhT2FFclQxY3JpV3Y3Y0Jza2Y2c1RRMVVISDdubXlaRDRSb09VWWxXLVJCbGhSTnkyOG84Q204Q3NKR0hhSDVydmY2ZFVZSW9HWnRXZw?oc=5",
       "source": "shattered.io",
@@ -143,25 +143,18 @@
       "summary": "AMD Hits $1 Trillion Market Cap After 9.6% Surge [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-14T07:00:00+00:00",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
-      "source": "KBRA",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
-    },
-    {
       "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-09-11T07:00:00+00:00",
       "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - kbra.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "kbra.com",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;kbra.com"
     },
     {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
@@ -171,11 +164,18 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Aolani and NVIDIA plan 22,000-GPU AI infrastructure expansion in Southeast Asia - TNGlobal",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVdHQUxOdnI0X2JJSDhnWGd2cmNELXRIRmZoQmw2OXBqdExIZTdRVF9tR0RMQUVBZmxrb1dXbmlHTnhFWG1zbmFLRllWVjFiMjRTbExOdU1RNDl2N2hJaGNCMHZBT3lHdVJTNGZ2S3AtQzhMS01pcFE1QmZSak1OZGY4TFBaWEpna25ia2FiSi1rRFZLRE1j?oc=5",
-      "source": "TNGlobal",
-      "published": "2026-09-22T00:45:16+00:00",
-      "summary": "Aolani and NVIDIA plan 22,000-GPU AI infrastructure expansion in Southeast Asia&nbsp;&nbsp;TNGlobal"
+      "title": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5ucHMzVUtKTnZxMjJsdGlpNTNtZHhFUWVGRG9XcEhsRHJJWEhlcVItM3d0OHNKdnN3cDQ0X0FFOU5xYzRvUlExUFd3LUl1OTR3TzlIcUF1QWRERU9IRFp1STd2ZlpHVUVySjFrenJOVmVVMy1JNllvU29BZFEwNmFHYlZnTjBvdEFyMWFlZzZ4UW54djNFWlh1bS1pR1VGNmZYNlhlUlFpOWZVWWk2U1JoZ1g3RmthTnhiaTgxajJIcjA?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnY2TGZfZ0R1ZWhudEFkblFtR05sdVYzTGFCVFFOd0Q4T3VlbXQtTUZWNUozcHRrcElUa1VXdU5zVEt0OXE1Z3lQdXBRWXF3dHUxZ3N4U0dPek9tNS0zVDc1T05nUW5JcmhIYUJFVGZ0NnM0SWw3VXd6MjVkS1FxWjFkdDB5S3MzSHVlUFJkQQ?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-07-20T07:00:00+00:00",
+      "summary": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
