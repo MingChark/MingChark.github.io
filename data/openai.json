@@ -1,62 +1,76 @@
 {
-  "generated": "2026-09-27T21:06:47.577354+00:00",
+  "generated": "2026-09-28T04:34:43.878659+00:00",
   "query": "OpenAI",
   "articles": [
     {
       "title": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
       "source": "Axios",
-      "published": "2026-09-27T19:56:14+00:00",
+      "published": "2026-09-26T22:39:13+00:00",
       "summary": "Scoop: Top AI companies probing tens of thousands of security incidents&nbsp;&nbsp;Axios"
     },
     {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
-      "source": "theguardian.com",
-      "published": "2026-09-27T10:01:00+00:00",
-      "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue&nbsp;&nbsp;theguardian.comOpenAI Agents Used Aggressive Techniques to Access U.N. Website&nbsp;&nbsp;WSJOpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites&nbsp;&nbsp;The New York Times"
+      "title": "AI companies have had ‘tens of thousands’ of potential safety incidents — some of which could be criminal: report - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9qUmFNYTJuMlpPNEFXem1KRXduSzJKQ0tuUWZEaFdURldJN0lGTXZrX0NBREU4ZVVxbFFuM3dQQXdoYWtyN1RJSFdYa3VhM1E3aWtrNk8yczFtTDRDbUh3dENGcHZIOV8tRHpxMkZ6YlY5QWtRMkVaOFJlcWJqR082MkhPMlBuTy0xcVlIcmFRemt1WFByZDFoalhVakVFcGYxTnpoa2lXeTdFel9mei1B?oc=5",
+      "source": "New York Post",
+      "published": "2026-09-27T22:36:00+00:00",
+      "summary": "AI companies have had ‘tens of thousands’ of potential safety incidents — some of which could be criminal: report&nbsp;&nbsp;New York Post"
+    },
+    {
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled - WXII",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPME9Oc0FJVkN6RjVaZ3FFNWtiS2xmN0ZZVmxyQU9BSDg3U2J4czZQbXUweXI2NVFGem5INFdEczNKdDdFMFBjSHNMcWM2dnJTbjJYN3Q2N3AtN2VuZ3NEQy1FV1prU0V3QVJYZTg1RkhCdkhxRWJoOUFvbWZVQWZFeE1ETkFtcmZM?oc=5",
+      "source": "WXII",
+      "published": "2026-09-27T20:00:00+00:00",
+      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled&nbsp;&nbsp;WXII"
+    },
+    {
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5",
+      "source": "Fortune",
+      "published": "2026-09-26T15:25:00+00:00",
+      "summary": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time&nbsp;&nbsp;FortuneOpenAI halts training of latest models as reports mount of AI agents going rogue&nbsp;&nbsp;The GuardianOpenAI’s Systems Meddled With U.S. Government Sites After Goi"
     },
     {
       "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
       "source": "Reuters",
       "published": "2026-09-27T04:27:00+00:00",
-      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe&nbsp;&nbsp;ReutersAustralia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry&nbsp;&nbsp;Bloomberg'They genuinely believe it': Australian AI researcher on fears in Silicon Valley&nbsp;&nbsp;Politico"
+      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY05ibHQ4eWExdmdCdmdGdTFldXc4aUR5SlFncUNJZW51TDJOZmpzT1hZZ1FReEhuU1gwVEItaWI1cjByOUt3NmNXWXRpejRGQ1V1N2U4bHhPZ2dlTEx3d2ZibFJ1X3dNUV9KTERFclg0V0R3NGM1bjdtT0xNNXRJTVp2WU9FUQ?oc=5",
-      "source": "WCVB",
-      "published": "2026-09-27T20:00:00+00:00",
-      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled&nbsp;&nbsp;WCVB"
+      "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXdVbk9icWx6SFl4QU9wRmd2blc0RTZrZUJ0N1h1czl0OU1xZkQyMXNtbmlFMzRBOFJaTFNTSjRLRjVISEh4dzBCU0tRbHBNbzJrS0FDc18xN2ZVQjNyTkdGa0d3TnljZ2p6c2RHZGJsMDZkVWtxVG5VeGhEb3Ywck1mZ2hLS2JTaU1hOVR1bzRBakcyaFdFaDMweV9mTmJFUU9Id09sQWVTaDdaX0FsM0g3S3M?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-27T11:17:56+00:00",
+      "summary": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "Bill Gates joins call for AI safeguards, wants to discuss concerns with Trump - CBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JejBZd3A0dWx0MHZHbnN3bnZzenB2OTV2SnpXaGhYSUEyQ01yeVBjdElQQllDWDNDbVdTam9kc0pVRTNzNm5RQW5DSWFkSXBZdmk3Y282MTExaGVNalpMTHcwb1dqRVV2WmVWRndTWHQ0QQ?oc=5",
-      "source": "CBC",
-      "published": "2026-09-27T19:34:05+00:00",
-      "summary": "Bill Gates joins call for AI safeguards, wants to discuss concerns with Trump&nbsp;&nbsp;CBC"
+      "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZkM5YUtwWlpHR2pUdG9WZnBZR1ZzdDNKSVpiYkRyY3FTenBpTUJpazFkRFF2WjVQRGhBVEFuaFB6LW5EcUtQMEUtTXdwWXdsQVlfYTkwV3pzV1lnZTF5Y3dmU0dRZm5yY2Q2c2FkTkZyQWZDdm5PREltMG5CY1RxckgtU0g4NWRhUlFzWjgzbTQzbFBfR1BySjVLa0xJdEY4LWNJRDY2WnljNTl2MUJxMkNQNTVYU3VIdnlRbzdUei1nWXNWck1UZXRfVm81c21oOTltY21EckxqSGh1WmlySC1NNHhjNzQ?oc=5",
+      "source": "The Guardian",
+      "published": "2026-09-27T22:26:00+00:00",
+      "summary": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ25HaXFaODhPRTU1YTBSMWtEZkZwZGJQaUNfWkQxSGdpUVFyRGtrSUZxYi0xTnR1aE1lUHYySEY3eVdPbVVEUWRuTkpKR2ZSczA2X2ZNd05MT1RRZWVTazBhS2JNa3pwSHlFSUJ6MFFmVUM3bDJaQUZMRdIBgAFBVV95cUxPMGtzUFg2LVBJUm5SMkszZV8zelJvakZ5TEdBTW5QZC1PZHNySWQtQ1g5Y1c3ZzE4UXNtdlduRjVGZTlBTHBTMVkzUHJUVG9WRk1zb2E1T2F3OWNUVGt5UHl3T0tqWFZhcVo0elI4VlF5RUV2ZHBsVGNmRTVtQm9TXw?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-26T17:10:32+00:00",
-      "summary": "OpenAI expands review of model behavior after more rogue agent incidents emerge&nbsp;&nbsp;CNBC"
+      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
+      "source": "AP News",
+      "published": "2026-09-27T23:51:00+00:00",
+      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled&nbsp;&nbsp;AP News"
     },
     {
-      "title": "OpenAI tries to allay mathematicians’ concerns - The Economist",
+      "title": "OpenAI tries to allay mathematicians’ concerns - economist.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaE5CT3ZqUUJWZy1zUV9hMFhmcUJYMWl5NlpMYkxTTHVDVmZSSjJMdmgxY3lFWldhbGNSbU5FODZ6SjQyV1NkNFhkRG92a3NuTThQenlzMnR1a1I5TnFFZXJScVI3TDNRSERNNEE5cnFIcHVsOXZWQXlDcTNLOGhGWFpONTExaTBMRUdpQ1RONFB4bmRpVzZR?oc=5",
-      "source": "The Economist",
+      "source": "economist.com",
       "published": "2026-09-27T00:00:00+00:00",
-      "summary": "OpenAI tries to allay mathematicians’ concerns&nbsp;&nbsp;The Economist"
+      "summary": "OpenAI tries to allay mathematicians’ concerns&nbsp;&nbsp;economist.com"
     },
     {
-      "title": "Oxford lets OpenAI train its AI models on Bodleian Library - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDBLbUhWbUtyVUg2bWZsNFF4NDdyRWVydjNwX3ctQldEbkN2cW4ybi1hU0tMdy1jMzlVSGtXQVVHcnEwVmxVVFh2bHk0UXBtMWxqRE5Bc3doanJTcWY5TDBCTXdpZzFJWDk1QUc0UjBTTU5ZWDU2c3NFZW9BRkZhWEd1U0pFUDNFRXpOT3ZOazQ4dHNZcTY5UTVOM3ByWUtHUnBBdg?oc=5",
-      "source": "theguardian.com",
-      "published": "2026-09-26T11:23:00+00:00",
-      "summary": "Oxford lets OpenAI train its AI models on Bodleian Library&nbsp;&nbsp;theguardian.com"
+      "title": "Can Muse overcome Meta’s trust issues? - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV1pIQ1BSN1pTN3pJb3pWZElsRE1yaGRxclU4em9zVE16MVkwRnpwc0lSbVEtZHVmaHMzNVlmN1JXU1ZUSER0TUFJMURUUmdvZ00ycjUzY2twc3lrbHNGR3duckc3LV9vUENSakQ1a2hqcFRTZ2c4bHk2cw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-27T19:57:30+00:00",
+      "summary": "Can Muse overcome Meta’s trust issues?&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Cathie Wood Brings $1.3 Billion Fund Holding SpaceX and OpenAI Onchain - Yahoo Finance",
@@ -66,18 +80,39 @@
       "summary": "Cathie Wood Brings $1.3 Billion Fund Holding SpaceX and OpenAI Onchain&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Dario Amodei Warned Rogue AI Bots Could Seize the 'Entire Internet.' OpenAI May Be Proving Him Right - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjl3T21PYlVGSWN6RkU5cFV5UUxSYWdQOG9kcl91aktJMXVPcVRsTnNQelh6QkxTZ2d1Zmw2QjZab3FQeGVxY2RmemJNWjl2S3NKM29fMTM1bGVzNmNyMWhJT1JfQjNuOHo5RnZRNVJnZTMwWWUxQ19MRUhkaXV0N2lVSV9oelRyYmJCRWp5M20zdGowampqV0o3VWtRb1BvZFl6dEJNU3Z5WVdJdFpPR2ZlSktoakNTLVc0cG1pa1dncVpjWEVnbHlocW0zaWh6NXFxUC1zN1Q?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-27T08:06:00+00:00",
-      "summary": "Dario Amodei Warned Rogue AI Bots Could Seize the 'Entire Internet.' OpenAI May Be Proving Him Right&nbsp;&nbsp;24/7 Wall St."
+      "title": "Bill Gates calls for federal AI safeguards beyond industry self-regulation (OPENAI:Private) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEZyeWJnTmQ0V284dlFrckIyYTFnekpmUjdDbFNhWGhDdWs2bkxndklRTHB4U09zTWFKNVdPcHBfR01qRmdIQVRJTGdrak5CQ1BQODljdnV3dnFYYms5cWdtNGUyRjBDY3N4dVlSUm1rN2FiVk5zWWE3eGcwcThkc3l3OTlmZ2dRRlB6ZTVGeHQ2Yng1XzNvWm5CRWowOTBvQnFBQmV0YkJGczdyYmZJZjRn?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-09-27T16:00:04+00:00",
+      "summary": "Bill Gates calls for federal AI safeguards beyond industry self-regulation (OPENAI:Private)&nbsp;&nbsp;Seeking Alpha"
     },
     {
-      "title": "OpenAI Agents Hit U.S. Government Websites - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjB6N2NpT3I2TmpaUlN1b1pxNjJUTVMtUlNNX2JuNDhaR0xPNGNHSy1GMi1XSDl5T29CVnF1WGlRODRQall4a3lva1ZJU1hyUDA4d1dTWU13LTFjRXExRUZvbUdtNDNrVmYtb2dnblpFRmZpUWtZTEJLNzVNTzZiOUR4Zmp0TlN1?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-27T20:31:34+00:00",
-      "summary": "OpenAI Agents Hit U.S. Government Websites&nbsp;&nbsp;WSJ"
+      "title": "U.S. stock futures dip as markets parse Iran tensions, OpenAI training halt - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTUVlTUxwRnZ2Y1NMdW5XWnpJWEN3SDZmaUVaaW9TeThPd3BjbWRzc1hTaGZCYmxrOXJOcnRNT09HYmg2NG1DOGIzMUxpNGNDR3l2c0hXN3U1Q0ZTNDNTakUwanNQODhUZTQwSVY3YUxvRlFZV01LVFB4dEs0dkh1Yng1c1hNSWg0cUNJaUI3TFNDa0NicVo0MGVwZ3BYWnVhNE1BZkNtS1hFcnVYVllTYjlpZUprcTlHdGRFeFllUlZOelA3c3VVXw?oc=5",
+      "source": "Investing.com",
+      "published": "2026-09-28T00:33:29+00:00",
+      "summary": "U.S. stock futures dip as markets parse Iran tensions, OpenAI training halt&nbsp;&nbsp;Investing.com"
+    },
+    {
+      "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5",
+      "source": "Politico",
+      "published": "2026-09-24T16:43:00+00:00",
+      "summary": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - nbcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmhabDZfN1ZHQXprdWJ4QThjNFVRWTU3ODlmakJmcy1iVGpZakJpMGZULVhSaWZod29QaXdtNTkwTXV1T3lWVm1GTTk5Q2hZRG5CLW1DYTVheGt4ZnF5cnIxamlsaE1WeGlZV0pxTWxPZ3NLWEgzMGlERlc4WFJoa0h6enN1dUQ1dTdYaHZTOER2SU1uUUFTazNtNW5hdGJkYVJ5MjduZ1dkWEFEQ3BuVHVMZkozM3lySHZIbg?oc=5",
+      "source": "nbcnews.com",
+      "published": "2026-09-27T21:57:53+00:00",
+      "summary": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways&nbsp;&nbsp;nbcnews.com"
+    },
+    {
+      "title": "OpenAI Agents Used Aggressive Techniques to Access U.N. Website - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazY3aXdkLTdidzZEZjRxV1daaF9pVVRpN0NOdEl6UzZXRVVlMjZzbXRrd0VZWWd5TzBBWUpDdldBMGlES3hhRER5MWdrUlM1TXZEMm9zOXNvMWJMLWxrdVZfTHR4b1VqbXNudHR2MUtGN2lTdHY5bkxuamR5RjR3dExmbEMtVnlSb1dONjl0dF85Tl9rcmUxTTRvRUxpTWVG?oc=5",
+      "source": "wsj.com",
+      "published": "2026-09-27T19:23:00+00:00",
+      "summary": "OpenAI Agents Used Aggressive Techniques to Access U.N. Website&nbsp;&nbsp;wsj.com"
     },
     {
       "title": "Introducing GPT-6 Sol and Luna - OpenAI",
@@ -87,11 +122,32 @@
       "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ25HaXFaODhPRTU1YTBSMWtEZkZwZGJQaUNfWkQxSGdpUVFyRGtrSUZxYi0xTnR1aE1lUHYySEY3eVdPbVVEUWRuTkpKR2ZSczA2X2ZNd05MT1RRZWVTazBhS2JNa3pwSHlFSUJ6MFFmVUM3bDJaQUZMRdIBgAFBVV95cUxPMGtzUFg2LVBJUm5SMkszZV8zelJvakZ5TEdBTW5QZC1PZHNySWQtQ1g5Y1c3ZzE4UXNtdlduRjVGZTlBTHBTMVkzUHJUVG9WRk1zb2E1T2F3OWNUVGt5UHl3T0tqWFZhcVo0elI4VlF5RUV2ZHBsVGNmRTVtQm9TXw?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-26T17:10:32+00:00",
+      "summary": "OpenAI expands review of model behavior after more rogue agent incidents emerge&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Slows AI Training Following Latest Security Incident - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlNNM043YXpZNlp2d1M1MlotcTN2cjlob085RHpjcGs0QXJhbFN6R0E0dDJCVnBTSk45andHUmZJclUzT0VqZkdlNndXVkJ3aEUxZVJfcWdlMWsyUjBzOWhaMkVMMmtuUy1jVXFfUUxvMTNQWEZZbC1TQmpoeTB2TlJsQTE1bHozUTROSk8xNEdSN1JyOTZud0xhSFZoclp0VkhSMl9lUWVRTW5TbWdyR3ZRUzFpQTlQ?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2026-09-28T00:59:56+00:00",
+      "summary": "OpenAI Slows AI Training Following Latest Security Incident&nbsp;&nbsp;PYMNTS.com"
+    },
+    {
       "title": "Rogue OpenAI agents accessed US government websites - Politico",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5",
       "source": "Politico",
       "published": "2026-09-26T01:38:00+00:00",
       "summary": "Rogue OpenAI agents accessed US government websites&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI to Halt Training of Some Models - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZzdXRTlNRkh3c2Qyem5YTzJPdVNQU3dnNlBTbmRIdEYxUjREei1tU3FDejZIY0pBUU8teldseDktcEM3QVVxYjVzMGk2Mm41RXBidXoxdkVsR0xnN0F0VjJlc0Zrb1lYdEM1dzhaa0ZhREFESmN2Vg?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-09-27T21:21:27+00:00",
+      "summary": "OpenAI to Halt Training of Some Models&nbsp;&nbsp;Gizmodo"
     },
     {
       "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
@@ -101,27 +157,6 @@
       "summary": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRjTmdjdnpYT3VIdE14OEh1QmNSc041UkN6NFVuMjJlUFBQdVlVVTB1TFVwenFWa01BMFJMd0VGNnJ0b0x6RXJ1ck52VUUwMDYzWEloQlFFa0NObmVHUklDTnFwdklsaTRXc09EUlNWamdNM3Bkd3cxbnptUXVzWHZ6MEgtUVhjM0I1UzZnN2tRMVBwaFJXdXJGOA?oc=5",
-      "source": "The Verge",
-      "published": "2026-09-27T17:21:07+00:00",
-      "summary": "OpenAI agents tried to ‘bruteforce’ a UN website&nbsp;&nbsp;The Verge"
-    },
-    {
-      "title": "Rogue OpenAI agents targeted three separate US government websites - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
-      "source": "CNN",
-      "published": "2026-09-26T14:54:41+00:00",
-      "summary": "Rogue OpenAI agents targeted three separate US government websites&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled - WVTM Channel 13",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEg1WXZKVFd1aC1IVXRtRktjSTBzR0l4bXZOMGlfbUM1NFZRZTNkaDdLaG9HQW5iaUtham0zMnlsWmUyLVlJVFpaV2l5YldLS2l0QUgzWWJ1Z0FIMHFFS0tkN3pLZW4wMERLbDYxaUNpLW5reWk1dkd3QUdHWGdmTmZ4dHVvbnQ2?oc=5",
-      "source": "WVTM Channel 13",
-      "published": "2026-09-27T20:00:00+00:00",
-      "summary": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it's controlled&nbsp;&nbsp;WVTM Channel 13"
-    },
-    {
       "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzJaR3dnX3FYREtOZVJISWNDYVN4S3ZpZVVvN1otd2tnRTdTenJrQUxUN0c0YkRnOXlvT2pnRHhrdVZZVEFoZUl0WC1WZ0lEYW5uY08yaURBSnRjWVZPMUptSW9DME53YVU3cm50bXN2dkdmUmk0ZFJNOFEzWDh2U0FoXzM1QWZ4Q3FHLWtTeFJ1OThjUFpGenRKVEtybjd3OE5FQ3g5VzQzUDZI0gGyAUFVX3lxTE1GNUpkRUxuelVWRGhaakVPTllYTGdYZGh1VE1fUExWczNleEpZSHJKUmJoVnBxeFFCMkZQUmhHa3k2b1AtRFh4VEtoeUFudDVLc21vZlR5ZWZCODktS19Tb2EwejJBekdCWVZtUDc3aWQyNGlpOTd0ay1lSGNZVDJPV3p4ak1OdXQ3N2E4U3FzQjNwTmt2eE9NYmxhYjAwRWstRWFJU1RlSDZhc2ttTTNkT1E?oc=5",
       "source": "Al Jazeera",
@@ -129,53 +164,18 @@
       "summary": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry&nbsp;&nbsp;Al Jazeera"
     },
     {
+      "title": "OpenAI says its AI agents probed federal websites without the company's knowledge - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjdncTRUV0lndmJtVDRsT2NRczR3ZVhkSzNoLWpNNzRCNF9qdWFMQXQxUGpaeEtNaGE3MWd2QWJHSW9QUjF1MzN1dW5oQnplWDhSMTBHaW1yYmk0NUdTS25YLXptZmd2VzhCdzRlV1ZDV20zbHpMNFQ4clZGUk5kelIzWFNDNHNQenN1WFd2aTM1OXpvUlBFQ1VQVDhwZ1FlUm5XUkdfeW1NdkFFV0szUzRCYWxkRk1INEwtVW1zSWlCS1k?oc=5",
+      "source": "NPR",
+      "published": "2026-09-26T21:13:08+00:00",
+      "summary": "OpenAI says its AI agents probed federal websites without the company's knowledge&nbsp;&nbsp;NPR"
+    },
+    {
       "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
       "source": "OpenAI",
       "published": "2026-09-23T20:56:16+00:00",
       "summary": "Sam Altman’s remarks at the United Nations Security Council&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2NIQXp3NEUzaFBIbmpKLWhlcW5KcUlBT3YwLWpwYWpXQmhjRnRhOVY5WFFjVzhIanBzRkJ4czZqV2ZhTGN4cG9KRVRybUFqYnJKQ2d6ZFVRQjFnVUJZTndwZU1uWFlWZGd6VWp0M2hpVDdIMmkya28zanE1TnJtTjlHMWM1TkRHVGNBMFBn?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:09:23+00:00",
-      "summary": "OpenAI extends cyber access to Ukraine for civilian defense&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFFhNDJrSUZUWmtDYnlqaXBCemhTVkdJb093MnRhZWpXQU9zenZsSG9zQWhMbXExWGUyZEd3eE9NRktQdkFncE9VQ2o3OWswdU05clNqcVltV1ZHOHFUd0dXeng0SnVlUFlZNy1Lb2dkRE9iQXc?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-24T02:09:06+00:00",
-      "summary": "ChatGPT Ads expands to Southeast Asia and Taiwan&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-23T20:07:15+00:00",
-      "summary": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Better prompt caching for GPT-6 - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQkZLY05WQ0t5TktTNnlvck10eTFFZllrYXNpVlRFd0lTeWpJZ0N6YTd6b2ZZQmlJLUY1TkdFN3ctZ2RaX2tNWFJQRHQtODVLZFRxczFQb3VneG9QVVR6Y2tVOTFQT0Fz?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-22T20:06:27+00:00",
-      "summary": "Better prompt caching for GPT-6&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Building standards for the next phase of AI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-21T17:23:01+00:00",
-      "summary": "Building standards for the next phase of AI&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
-      "source": "AP News",
-      "published": "2026-09-26T03:42:00+00:00",
-      "summary": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure&nbsp;&nbsp;AP News"
     }
   ]
 }

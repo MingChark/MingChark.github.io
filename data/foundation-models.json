@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T21:06:47.577354+00:00",
+  "generated": "2026-09-28T04:34:43.878659+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -24,18 +24,18 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
-    },
-    {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
       "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -73,11 +73,18 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Business Wire",
+      "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUFUdkt1LWE0TU95QUhXZXN2Sm5RUjRfMjFTU29ST1ZwRnprdV9UUVJ5UFo4aGFUemRWcE9Od0VyZUNxTTluNnUxeDN5SWZYRjNZOVpxc203REN1Tml2UWhGZHJITTdlQlJ4X2RjTmppLTN3SnVxN2NNRXQ4RHdEN01jMG44X1BzdXVreVJzQ1N3dU1jb3d3YmtZeEtXMklNUU1FcG8zUWk4aGRGeUVTRWI3VQ?oc=5",
-      "source": "Business Wire",
+      "source": "businesswire.com",
       "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Business Wire"
+      "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;businesswire.com"
+    },
+    {
+      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWF1eEd6TTN4MU5NWDZtZjRya1N4UHVRWnl5OFRoZTVGZ0ludm1PbzBkVkk3TGFPNHFoM0JSaEtrZUJ3cUZ6ZENRV3dveHJucVVuVk5qcEI4SkhTalh4SkxVYzBKbDFnLXNncThrNWZnM3NpZ1J6RG9waFJkTThqeGJwLWlwM2N2cEhDellZSDNfand5VnAwbVVuVVZ4Z0JBRi10bmlfWnNMQm1QQlhjbWhNQkFnbUtBNTByQmdTX1hFUmg3VVVSSml6a2hydkZRb0lZWW1MZFN0TlVv0gHiAUFVX3lxTFAyQUtudWZjWVpROVdkUDFDemhFTTZ6endmcG13WHRhOVJRb1U0ajlKSHNxX2xvRkRTaHI4UllYTmxIaWlIRG52bzdJME5RUnFwelFvSjRFdG1jZVIyTVpSY2FxWl9Qa2RvUjRsa3ZLWEJZZ3ZzSTRyejZRcy1jbzkzaXJEd2N3Z0Vpek11NTZfR3ZPSjBDLXV5RnNkZ2Z3MS1rTUpWNWNCcEVrWHBaT0poMlpLaTdOY0E5cFZsOGJNSkstcVhIaTJwaThPc0VDZ0FyblJ2NE4temlhZlJla3RzSnc?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -85,13 +92,6 @@
       "source": "Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
-    },
-    {
-      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWF1eEd6TTN4MU5NWDZtZjRya1N4UHVRWnl5OFRoZTVGZ0ludm1PbzBkVkk3TGFPNHFoM0JSaEtrZUJ3cUZ6ZENRV3dveHJucVVuVk5qcEI4SkhTalh4SkxVYzBKbDFnLXNncThrNWZnM3NpZ1J6RG9waFJkTThqeGJwLWlwM2N2cEhDellZSDNfand5VnAwbVVuVVZ4Z0JBRi10bmlfWnNMQm1QQlhjbWhNQkFnbUtBNTByQmdTX1hFUmg3VVVSSml6a2hydkZRb0lZWW1MZFN0TlVv?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -129,11 +129,11 @@
       "summary": "Biohub Releases Protein Biology World Model to Address Disease&nbsp;&nbsp;Genetic Engineering and Biotechnology News"
     },
     {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 247wallst.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "24/7 Wall St.",
+      "source": "247wallst.com",
       "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;247wallst.com"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
