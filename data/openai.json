@@ -1,48 +1,27 @@
 {
-  "generated": "2026-09-29T12:26:27.442264+00:00",
+  "generated": "2026-09-29T22:02:38.761609+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-28T23:29:36+00:00",
-      "summary": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns&nbsp;&nbsp;WSJOpenAI scraps rollout of new model over safety concerns&nbsp;&nbsp;BBCOpenAI Delays Release of Latest Model Over Safety Concerns&nbsp;&nbsp;WIRED"
+      "title": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3U4WmgtZ1JKNnRYTlJZUVdnNW5lWU5lTGF0UkhHSnJBOHFmSG9YeGx6ZWxqOVAxOUlHcXJWY0d0N1hKQ1JBVTlUeGp1NVFzODl5OHNxUFZtUTRDaU5DOS1MOUk4NDFLNlpxR1NhZV8yLV9Ic2J5N2FNR3NjeWxtazJYRkdVQXZVY3JPbTMxMlJlUWJsTzc0emE5Sk13Q0FRYVJtUUllWHRyU0Z4emNJMndoajhURW1NXzg0Z3MyZVNubFpYNmE0aA?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-09-29T17:50:08+00:00",
+      "summary": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent&nbsp;&nbsp;finance.yahoo.comOpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier&nbsp;&nbsp;Bloomberg.comOpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI scraps new model release amid growing concerns over AI safety - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3RtLUZicFZjY1VMY0R3NFdTU1dmVWNLZllqM2JsTHp0X3UzNnk3MUdZT2UyZEJhejFvZy1mNFpSQU55bkVabHloWFljUUFrWHdmYUZIVFBfV0JLazB4ZmJma2NSRmg4UFdoRzRKdUhQMFF4UDVRYklUU1V4UmRkUFBidmJ2bkRX?oc=5",
-      "source": "CNN",
-      "published": "2026-09-29T10:50:50+00:00",
-      "summary": "OpenAI scraps new model release amid growing concerns over AI safety&nbsp;&nbsp;CNN"
+      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-09-29T19:34:42+00:00",
+      "summary": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models&nbsp;&nbsp;nytimes.com"
     },
     {
-      "title": "OpenAI DevDay live updates: Altman faces safety questions as company unveils new features - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5idERPZWJyRmd3emJFdjh2SkNZank1Wnc0aVlJYi1ENFlxbS1vLTc3SEVOWkRvSEZkSEtMdFE5MmJYOEVEdmdzbEJDLWxwa0N1ZTZzSDUza2lKNGpNNmRUaUw0TVFKT1lvcEs1ZXN3bUJJM2kzaW5v0gF8QVVfeXFMTXRqSjVPc2kteE1lTjI4YjJ5QWZKV3plRlliV3FqZ05sRWZfR3hVZkFLUHdPaWxRZmltNDEzM2lHRk02RWJCbTAtYUJmYU5CUm5NS2p5T3lYaC0tM0FTZDhjdXZWalV6OUNYR0hEblN1dEhCNU1kb1U3U3E5Ng?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-29T12:00:00+00:00",
-      "summary": "OpenAI DevDay live updates: Altman faces safety questions as company unveils new features&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI halts new model release over security concerns - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2ZuUllWdGVfMTBPdjUxQnpZREgyZklMcTAxci1McEwxMExNbkNGQzdFQ0ZaN0xQOXJSaXVkNGI4YmZqaE4tS1MyUjNrUGxSQ3NKMTdVNWhoRkNIcVc1YUk5Yjh0ZER2LTQwbTBPWTZOVjg5dm1uUXlQMF9aZVF4WXdwbnFKTEEzcTh0ZElDY0R1RnB6MFBrYW5USVVmVFVvOThmVzJ3?oc=5",
-      "source": "NBC News",
-      "published": "2026-09-29T12:11:37+00:00",
-      "summary": "OpenAI halts new model release over security concerns&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "OpenAI delays latest model over security concerns, as industry faces pressure - NPR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNzB4MEgxZW12djFyRFUtZkwzVFBjNnQ3WDEydDBXNVlma1FBZ1RVNDF4bGFmTkVvSlhRUnJVMldHOG5iUllILUpRR09ldEZPS0k1bUtleWQ4ZjRsSmxhR1ViSHB4NzR2aTh1TDVvVnJyVDBMTFlieUZacw?oc=5",
-      "source": "NPR",
-      "published": "2026-09-29T06:34:43+00:00",
-      "summary": "OpenAI delays latest model over security concerns, as industry faces pressure&nbsp;&nbsp;NPR"
-    },
-    {
-      "title": "OpenAI postpones release of latest AI model over security concerns as the industry faces new safety pressures - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYVN1bzdwM3R4RkF5a2hJbXBGRjZ2aUdOOGRGUGxYOGdSQjNocmRpQWNCTS1fZFV4aXJ4UUFyb180OURHbncxdGdyc2E1UGx0WGpfT3praUhiRWM5OG0zNm9qU0FNaktPSWx3SjVLRG5OcTRTTWstNEJOcDlRdXFHTW5tZ1lyaENfR2ZFMTVrcU5xZ2tGMmRkQ01NTkNidTNJS2ZLLVVyLW5jMWlrRlVubmlveVJLbjdtOFlTZEJZcnJCYXQz?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-09-29T04:52:32+00:00",
-      "summary": "OpenAI postpones release of latest AI model over security concerns as the industry faces new safety pressures&nbsp;&nbsp;Euronews.com"
+      "title": "Tech latest: Trump launches new AI service as he declares 'I will never stifle the growth of technology' - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjhtNDhUQ2JKaVlHMWYxVzZXLTZWNThEcFlYcko4YlZTY2c0SEN6aW03VzNZay1BVjRhYktpeW1PclIyU3gyNVhmSllGenQwX3M0QzhPd0lMcDh6QjVaaExZWWd2aHA3NkhVMUlIc3d4RWpUekMyRFJVam5CS05Od0JNTUtMYlVscVdfcktOZ04wQWduT1RhVENVUDFlVG1xc0ZodjZhdDd3Wjc2cFhpTTA1cS1TaENsX1BGcDhSRTA1dVBhc0c3dVB4R1BvMFJxM0h3YUJtLVRPSzA?oc=5",
+      "source": "Sky News",
+      "published": "2026-09-29T21:35:27+00:00",
+      "summary": "Tech latest: Trump launches new AI service as he declares 'I will never stifle the growth of technology'&nbsp;&nbsp;Sky News"
     },
     {
       "title": "Inside the Biggest Feud in Artificial Intelligence - The Atlantic",
@@ -52,53 +31,88 @@
       "summary": "Inside the Biggest Feud in Artificial Intelligence&nbsp;&nbsp;The Atlantic"
     },
     {
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Xa3REXzgwTUluYVRBSnczZk9mdWl1MmszYzBYNHRPbDJicXI4RVJibFkzaEZoVy14Z05yQkx3RUtIOWNWTERMMXpMVTNTYW43Z1NsTC1EY2pRQmhLUDhEdjJnR09pelJKSm1vQ2RVbnhBWndkVTF4RFVwRdIBgAFBVV95cUxOWlUzejBYN3NvR19GanJ3M2xQalBvRUFzRWNLMFMxVlpJSTF0LUV6cDNhSEJQeUZRaEJxYkJibjBSMFlEWjlVelEyMG1FZXZaTFlXbGhjQ1dNRjlWcjBHRXhzaWY0azJXNGZPakcwTGJoNzJPOHp2ZU9kR3BOUnQ3Rg?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-29T08:20:04+00:00",
-      "summary": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'&nbsp;&nbsp;CNBC"
+      "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
+      "source": "wsj.com",
+      "published": "2026-09-28T23:07:00+00:00",
+      "summary": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns&nbsp;&nbsp;wsj.com"
     },
     {
-      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-28T10:36:57+00:00",
-      "summary": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'&nbsp;&nbsp;Yahoo Finance"
+      "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-09-29T00:19:42+00:00",
+      "summary": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns&nbsp;&nbsp;nytimes.com"
     },
     {
-      "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR?oc=5",
-      "source": "The Guardian",
-      "published": "2026-09-29T08:27:00+00:00",
-      "summary": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you&nbsp;&nbsp;The Guardian"
+      "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - gizmodo.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjNYNXFwSmVLQUlNVG4ydko4OWZySVpTSGhTXzNIczE2dFhPYlc4amQyVFBHSEpnbEU3NGgxT3AyZ1Z6aEdvX1F4cDV6REVodlFFdW5TRmhfREE3bzh1bDBfcHh6Tkp3Y0pmVG05ZkRXTTBOc1AwOXp1cWdVMmZPRm1xMGYwdTZlOG13a0N3M1hRYUVEaXRiTHl3?oc=5",
+      "source": "gizmodo.com",
+      "published": "2026-09-29T20:59:36+00:00",
+      "summary": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model&nbsp;&nbsp;gizmodo.com"
     },
     {
-      "title": "Florida asks for order to halt ChatGPT development - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzhBVnMzUG5hbUVsZHZ3LXZoMEVmRlc4SHhTQWk3OEZqT3JRU1ZUbXF4cENwTXVEZ1QzbmRSRkYzWHhVbGh0RE5jM0xpcmIxZVluQ1VCX0kycmRNR1hRN1Ata3A0OE9EVnBnNVRnN3JyS2pYdVFlLW9TZmdHTGkwUw?oc=5",
+      "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-29T17:35:13+00:00",
+      "summary": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI targets $30 billion funding round at $1.4 trillion valuation - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDJQanpaYk12dWRPUnlUMGphTXY3eUxMejZmNEw2SmRsZzQ2OXFlUlVYakRscmt4akVENzJldU4zeXVBNXBnajJvemQ5LTdyZ09hZnZwaGVWeDdzMVdMSVE2UDNGcEZwT2w1aERVZDF2LS1xREpJTW1ORnMyZEpUMkVxS0lZeEY5czRFNVdKb1BkaWZvMGk2dnNpUFpBZw?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-09-29T18:50:08+00:00",
+      "summary": "OpenAI targets $30 billion funding round at $1.4 trillion valuation&nbsp;&nbsp;finance.yahoo.com"
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlZnczc2RGgtVHNfTnZnSThYOTd0bU4zeWk1Mk0za2ZjSVlucGZ4LXJQMTNhTW92d2hsYXdwS0ktSzRDalg1UTRaOHpZQkowckxBb0xyejllOEt5Ulh0cjhZQl9iY0Nyc3kxYnltOVdmOUFxQ3NNZUt3ZHRGQkVJN3JscUozcXMyVDZaa1JqQjA3Nm43WVZXZG5Ld2FuQQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-29T19:52:37+00:00",
+      "summary": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
       "source": "Axios",
-      "published": "2026-09-29T04:36:13+00:00",
-      "summary": "Florida asks for order to halt ChatGPT development&nbsp;&nbsp;Axios"
+      "published": "2026-09-29T19:03:20+00:00",
+      "summary": "OpenAI hit with landmark lawsuit following Hugging Face hack&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-28T17:13:17+00:00",
-      "summary": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit&nbsp;&nbsp;Reuters"
+      "title": "Scoop: OpenAI's annual recurring revenue nears $70B - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2xYcWJPOUFTTWFUWmpMSFN1UzdQc3ZoWmFFUEpsTFJFcjZBbkdqemNrN18ydnpIQnJyR09xMW9Ba2ZHWkFwRUMyMlZLcFkxQ1dDdl9mb1MxZnYwcExXcGNFTFQ3UHBTbERwM2pVYzdwcnZ6MnNSM3NHbE5VODFfaXNhX3dsQjF3?oc=5",
+      "source": "Axios",
+      "published": "2026-09-29T14:15:48+00:00",
+      "summary": "Scoop: OpenAI's annual recurring revenue nears $70B&nbsp;&nbsp;Axios"
     },
     {
-      "title": "Florida AG seeks injunction to hamper OpenAI development - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5",
-      "source": "Politico",
-      "published": "2026-09-28T17:23:00+00:00",
-      "summary": "Florida AG seeks injunction to hamper OpenAI development&nbsp;&nbsp;Politico"
+      "title": "OpenAI's annualized revenue nearing $70 billion: Report - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEcyTkRQS2dMdGE2WERvWWszWXhGNnV1TUdFdmlQTzdMUElmRC1XcGRtQjE4OC1BUFZEZmp2b1NUdUhES01OTWpxN1dIdG44M1YzNXktQklWZC1KaVJYcTkwR3lvd1VJUEM3WjlZTGI5d1B5WmJxRmxQOXFpT1BrbkxCVWNuX3JxSVBXcXZidG15NWhXMTNLVHJTUmk0dk5uRlVpQWN5SDhLU0JPemp5Yi1B?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-09-29T16:44:11+00:00",
+      "summary": "OpenAI's annualized revenue nearing $70 billion: Report&nbsp;&nbsp;finance.yahoo.com"
     },
     {
-      "title": "OpenAI Understands Something Important and Rare - Andreessen Horowitz",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jS0NPVk92UDdQV2hkWmVnTmtkUUd6bkxocFB4M3JLWGpVLXVIWXRsRzdYN3c0YkxabWFvNlhtLUNDZlQtTjRQNjVYVVNvV1ZzbWNoR19TY19oNmQ0WjJKMF8wVEt1b09PODVHbXVTSi1yUVE?oc=5",
-      "source": "Andreessen Horowitz",
-      "published": "2026-09-28T15:52:05+00:00",
-      "summary": "OpenAI Understands Something Important and Rare&nbsp;&nbsp;Andreessen Horowitz"
+      "title": "OpenAI’s Annualized Revenue Nears $70 Billion, Axios Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkdvejdlYkhQNWE2T3ItX1lTc1BWdkoyZldJS3pCWVVJR3M0YmRCYmpGVTNlMk8tbmFqWXU2X3hkb1NsWHFXRmx1U01TdWtzM2dYQU9FRkhSRXB2aEREeG5DVFFOa3NoRnhoNTlOVl9ETXlrWFNHOHRkaFM3VG5KUWxXQjBJM3BDOC1jeFFWTjdlRU9MN1lNQUpla1p0QnJYMk95VzdkTE1nQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-29T14:41:52+00:00",
+      "summary": "OpenAI’s Annualized Revenue Nears $70 Billion, Axios Says&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "‘A New Kind of Cyber Incident’: OpenAI Apologizes for Australia Medicare Hack - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUlqaWVlazF4TGZpWUs0cjJOSVhlWVFOUHQtRmJaN2VjQ2pCZG5pSEpxRmhVM2ZLVjE3cVhqNzMzTW1zSzFlN3ZaS01jQ1JYcFNVYXVfeHFScDR2Yno3TTQyTVVnSW9xbF9OODhpZnhHNldZVFZoU0xmQmdadDQ0OVJ6WGFFMWpPeHl5SGQ4N0x6TkU3cnc?oc=5",
+      "source": "nytimes.com",
+      "published": "2026-09-29T05:23:15+00:00",
+      "summary": "‘A New Kind of Cyber Incident’: OpenAI Apologizes for Australia Medicare Hack&nbsp;&nbsp;nytimes.com"
+    },
+    {
+      "title": "Here’s what actually happened in OpenAI’s Australian gov’t server hack - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQS1rRVc2aGlralNlSHd2SDBxa2c5NjVjZFpQdlJQdTRWMnMyQWpYLVkzcDd6RE5TSUV1aWp5WFhPRUs2SzVOYXJyRlJ5Z0pUZ19SUlA1Wk5GcnZGWGhRZGZhMUZ4NHBiaDliLW1VdW1yOUg3bFBXVGhtZU1vU256SG1hb1dsY3hiYmVSSklJZW85MFBGVzZiMVFxZFl4QmRHZThlZGlB?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-09-29T18:11:09+00:00",
+      "summary": "Here’s what actually happened in OpenAI’s Australian gov’t server hack&nbsp;&nbsp;Ars Technica"
     },
     {
       "title": "OpenAI apologises for Australian government website hack, pledges to rebuild trust - Reuters",
@@ -108,74 +122,60 @@
       "summary": "OpenAI apologises for Australian government website hack, pledges to rebuild trust&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
-      "source": "The Guardian",
-      "published": "2026-09-29T11:04:00+00:00",
-      "summary": "Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack&nbsp;&nbsp;The Guardian"
+      "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
+      "source": "The New Stack",
+      "published": "2026-09-29T17:18:06+00:00",
+      "summary": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna&nbsp;&nbsp;The New Stack"
     },
     {
-      "title": "OpenAI Pledges Task Force After Hacking of Australia Government Website - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZldGOXdia1FVMDJoYVRQVV9PTHpIVHZfQW5PdFAxMGVoTkpkUG5qQWM3dFRpQmhwYlVRSDExVmpKcmxMZjhZa1Fad0ZRZXdjUWhrMWxmd0J4RkprTmlBcl9JWFQyOFF4c3FpeDNGZjM4cDZveVFGZDJkNHM1OVkycFVqWFZBTUlueEQ4d0xJNjQ1X01ocVB5UC1MOHF6THB6RUVqOUFJRmJ0Y0FR?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-29T02:00:00+00:00",
-      "summary": "OpenAI Pledges Task Force After Hacking of Australia Government Website&nbsp;&nbsp;Bloomberg.com"
+      "title": "DevDay 2026 Recap - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+      "source": "openai.com",
+      "published": "2026-09-29T17:10:11+00:00",
+      "summary": "DevDay 2026 Recap&nbsp;&nbsp;openai.com"
     },
     {
-      "title": "Rogue OpenAI agents targeted three separate US government websites - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5",
-      "source": "CNN",
-      "published": "2026-09-26T14:54:41+00:00",
-      "summary": "Rogue OpenAI agents targeted three separate US government websites&nbsp;&nbsp;CNNOpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government&nbsp;&nbsp;WIREDOpenAI Has Gone Rogue&nbsp;&nbsp;The Atlantic"
-    },
-    {
-      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3J6Rk5EcVdTM1V5QmZWRVhSQW1DaDBmYU5YQ0JnM1hLMUxXbWVSVy1vdmZYWjA1T1N2WnRMNnB2N0NkVUwySjFlU05ISE5uRUFOdnIxYVVxVTkwaTlNcm5LdlduajAwZHFGcUExZ3Z5Rm5zZmNFcldST2pfN2pvWU5JRkY2US1TUVRZZ09jYjFLQUh3cnBsVHNCQmh4SHdKcC1mM0ZLRFNmV0o4R2tfUtIBtgFBVV95cUxQakpZOVlkQTEzOHdkWEI5ZmxXVUc1MFJCWkFLNkVxNld2NjA4WkRwUFV0TlM4ejJhWnZzc1JfcERhMFIwdUEtWU5pLU9tSzN6VnBLbFpKYkd3SEZqMnBJcFVJY3VLdjlqS2NWUDVKTVNXZ0otXy1RZE9XaGg4YVYydjJEM3BjSHlDXzZla2dleU9lOTZjem1oWDBqRWp1LXlyckFZcTNDd3lmazBVcGZJc0dUc0xGUQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-28T22:27:58+00:00",
-      "summary": "OpenAI abandons plan to release upcoming model as safety concerns escalate&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-29T02:04:34+00:00",
-      "summary": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\"&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T03:43:46+00:00",
-      "summary": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns&nbsp;&nbsp;Al Jazeera"
-    },
-    {
-      "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
+      "title": "OpenAI takes on Meta with dots agent in enterprise AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
       "source": "Reuters",
-      "published": "2026-09-28T22:34:00+00:00",
-      "summary": "OpenAI shelves new AI model release over safety concerns&nbsp;&nbsp;Reuters"
+      "published": "2026-09-29T19:43:48+00:00",
+      "summary": "OpenAI takes on Meta with dots agent in enterprise AI push&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-29T00:19:42+00:00",
-      "summary": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns&nbsp;&nbsp;The New York Times"
+      "title": "Sam Altman unveils \"dots,\" OpenAI's new AI personal agent - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRjZqS3R6VW1rR1UtMU9raVlfRnR0OFNZV1dGSWhIVDZYelFabjdjWTl3cmxMcEprRDQ0bDQzb2dxQUEzWk9GMS0wNU9SdG8yczRnTzh2WUxNWDdJVkFEaGZBcTZyMVJiOFpZQkFwTlVTY00tancyb25NWlpWc3M?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-29T18:09:00+00:00",
+      "summary": "Sam Altman unveils \"dots,\" OpenAI's new AI personal agent&nbsp;&nbsp;CBS News"
     },
     {
-      "title": "‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5",
-      "source": "CNN",
-      "published": "2026-09-28T23:44:53+00:00",
-      "summary": "‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns&nbsp;&nbsp;CNN"
+      "title": "OpenAI launches Dots, its bubbly agentic avatar - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekZiSGZ1NGF6RnhoMlYxaEVocWlzMkJGazhjOFB3SnNzaFl1cmNkQTJabkoyME9QWUM0M2RsVXJiVjYzLTIxSC1rb2g3MGVFQlIzX2ZGN2ZTakpOdDNTOWpMMWs5THg3M0pyUU0tdmxTSkdUQUcwbDZDXzdUTHRzS0gxRFJJVTVS?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:17:15+00:00",
+      "summary": "OpenAI launches Dots, its bubbly agentic avatar&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Towards safety cases for frontier AI training - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-29T06:10:36+00:00",
-      "summary": "Towards safety cases for frontier AI training&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI unveils Dots as rival to Meta’s Muse, plus a $500 monthly plan - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9rbjZYZGgxdGZJbHJKYXpTSkFIYmlJQngxVk5Sc1NtaERJX0ZaeXQ0bHRPR3lwbkk1R2hXeWdtUkVlYnlmMFpLV3EwRXZlR0lJYk5tdzM3amFROWJDVU9nUWo1amxacThpejAtNHB2X1FaSkhISWpTY1llZ3ViRlVyQ29sQlhYWllybExPTm5lOUQyX09MY1gtYjNac09mc2U3MFhLenMxZ1F0U2xLMFA2d1I0M2QwY3lvaXpSOUlRbm80U2RiSlRB?oc=5",
+      "source": "Fortune",
+      "published": "2026-09-29T18:29:00+00:00",
+      "summary": "OpenAI unveils Dots as rival to Meta’s Muse, plus a $500 monthly plan&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "OpenAI Unveils New AI Assistant Dots: Here’s What It Does - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVJ0bHE1dnFhU1ZaRnJlYVJuVFY1ejBrYWNONnRkbG96RlJQRFdwUEtFdko3V204eXNlWGJkdzZRNnBqOXNwMTBCNGxOMGwyaUROWWN4RjhKaldoQTN6MHNQdnpfdkFFS2MtaklxMzFpWnphd0kzaEJUMEdNWDhYOTEzTmNnSFRFTUVSTjJ5cmthUGk0X0xlZXRHSHhteEw2Q3ZidkNlVmZBZjA?oc=5",
+      "source": "Forbes",
+      "published": "2026-09-29T17:57:05+00:00",
+      "summary": "OpenAI Unveils New AI Assistant Dots: Here’s What It Does&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWd5M2FhOWpFZzk0ZkNYZzk0VzRRV19FanJWVy1Db2tQZGhtYXdSMHlGaThUdVZvdUxnbWtleE82VDEzdVdHQ2NVcVdGakU1MU5YaUYxVEoteGZYRlNZdV9oa2lwOG04d21VdmwwenBtcjYySGJJcjdoR3JrRDd5eDZkRUVEU1NhUkE?oc=5",
+      "source": "WIRED",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse&nbsp;&nbsp;WIRED"
     }
   ]
 }
