@@ -1,47 +1,40 @@
 {
-  "generated": "2026-09-28T23:03:58.507567+00:00",
+  "generated": "2026-09-29T05:02:38.445169+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
+      "source": "wsj.com",
+      "published": "2026-09-28T23:07:00+00:00",
+      "summary": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns&nbsp;&nbsp;wsj.comOpenAI scraps rollout of new model over safety concerns&nbsp;&nbsp;BBCOpenAI shelves powerful new AI model amid safety concerns as pressure builds for stronger oversight&nbsp;&nbsp;DW.com"
+    },
     {
       "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways - NBC News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmhabDZfN1ZHQXprdWJ4QThjNFVRWTU3ODlmakJmcy1iVGpZakJpMGZULVhSaWZod29QaXdtNTkwTXV1T3lWVm1GTTk5Q2hZRG5CLW1DYTVheGt4ZnF5cnIxamlsaE1WeGlZV0pxTWxPZ3NLWEgzMGlERlc4WFJoa0h6enN1dUQ1dTdYaHZTOER2SU1uUUFTazNtNW5hdGJkYVJ5MjduZ1dkWEFEQ3BuVHVMZkozM3lySHZIbg?oc=5",
       "source": "NBC News",
       "published": "2026-09-27T21:57:53+00:00",
-      "summary": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways&nbsp;&nbsp;NBC NewsOpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government&nbsp;&nbsp;WIREDOpenAI Halts Model Training as Rogue Agents Target US Government Sites&nbsp;&"
+      "summary": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways&nbsp;&nbsp;NBC NewsOpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government&nbsp;&nbsp;WIREDOpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach Extern"
     },
     {
-      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3J6Rk5EcVdTM1V5QmZWRVhSQW1DaDBmYU5YQ0JnM1hLMUxXbWVSVy1vdmZYWjA1T1N2WnRMNnB2N0NkVUwySjFlU05ISE5uRUFOdnIxYVVxVTkwaTlNcm5LdlduajAwZHFGcUExZ3Z5Rm5zZmNFcldST2pfN2pvWU5JRkY2US1TUVRZZ09jYjFLQUh3cnBsVHNCQmh4SHdKcC1mM0ZLRFNmV0o4R2tfUtIBtgFBVV95cUxQakpZOVlkQTEzOHdkWEI5ZmxXVUc1MFJCWkFLNkVxNld2NjA4WkRwUFV0TlM4ejJhWnZzc1JfcERhMFIwdUEtWU5pLU9tSzN6VnBLbFpKYkd3SEZqMnBJcFVJY3VLdjlqS2NWUDVKTVNXZ0otXy1RZE9XaGg4YVYydjJEM3BjSHlDXzZla2dleU9lOTZjem1oWDBqRWp1LXlyckFZcTNDd3lmazBVcGZJc0dUc0xGUQ?oc=5",
+      "title": "OpenAI Has Gone Rogue - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUxKanl6eDh1bllRUDJXcUNjNlhfbnc2RWxTajRoclI0SnJHMzM1cXdILW5yUVhYLTVqWUxjS2R1WjZNTEV5bG1adG5mLTRJa1pWYm1oZG1LU01lX0o1VkNXcHZtdVR5RUxuMklmRExCSXNFbnRLZ2pVVWNwRjBvVA?oc=5",
+      "source": "The Atlantic",
+      "published": "2026-09-28T17:06:26+00:00",
+      "summary": "OpenAI Has Gone Rogue&nbsp;&nbsp;The Atlantic"
+    },
+    {
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
       "source": "CNBC",
-      "published": "2026-09-28T22:27:58+00:00",
-      "summary": "OpenAI abandons plan to release upcoming model as safety concerns escalate&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI Scrapped Latest Model Release Over Safety Fears, WSJ Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjA2Z0FLVXc0M054OXNXQWpjclRZeDQ2eWpOMXZpd3NXN291LUo2ejBaWmpvcVVIQjY4bUhoRGQ3RENGVWtIVUlUWXZ0ZHQ3VzRLMF9VaGo0MEVWdGsxdkpLaTVXLThNRnYwaHZnYmZJRFZZaXU0SU1mYjcxdXliTmlMbENMY052bWdkTEVBcFhEMHp5U1Mxd1RHNi1JdmFhc0k1aEYyVFd5dUZ4WkR6MVhUSHk?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-28T22:24:43+00:00",
-      "summary": "OpenAI Scrapped Latest Model Release Over Safety Fears, WSJ Says&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI shelves new AI model after internal safety tests, WSJ reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-28T22:35:43+00:00",
-      "summary": "OpenAI shelves new AI model after internal safety tests, WSJ reports&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "source": "The Guardian",
-      "published": "2026-09-28T19:29:00+00:00",
-      "summary": "AI godfathers warn of runaway ‘intelligence explosion’&nbsp;&nbsp;The Guardian"
+      "published": "2026-09-28T09:00:02+00:00",
+      "summary": "Nvidia releases software platform to stop AI agents from misbehaving&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Florida asks for order to halt ChatGPT development - Axios",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzhBVnMzUG5hbUVsZHZ3LXZoMEVmRlc4SHhTQWk3OEZqT3JRU1ZUbXF4cENwTXVEZ1QzbmRSRkYzWHhVbGh0RE5jM0xpcmIxZVluQ1VCX0kycmRNR1hRN1Ata3A0OE9EVnBnNVRnN3JyS2pYdVFlLW9TZmdHTGkwUw?oc=5",
       "source": "Axios",
-      "published": "2026-09-28T17:14:28+00:00",
+      "published": "2026-09-28T19:29:56+00:00",
       "summary": "Florida asks for order to halt ChatGPT development&nbsp;&nbsp;Axios"
     },
     {
@@ -52,60 +45,32 @@
       "summary": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkE4dDltOTdoVU5fY3dvd1ZTNE9vd3B6cTNTcDRmMlljaENGTzl6MWQ4UWdqRGl2RldtTFh2MDBySUh3RmREd2RJeEdWWE4yNG9GWThQM3ZUNjdhZlZfTGlhUkpSNkxlUXltWTFQTk94UlQtRGpuYkdPMTBLajlZanAzODNpN1FrcktkTjktWE42bUNWWkZMVVVIR2EzSTdELTRIcy1vbFdxb2hnNzlObkZ4cGbSAboBQVVfeXFMUEs1TFBzU09CaGRzT01Sc2dXVjV1ckptR3htZ0JlQnVzQnNySTZXOFBNSngzeTFjZ3ZkQ2EtUldsVTFTVjFsNU54VGN1VHQ1OFB4eHJMdkp4VnJPSVEwZUlaenh5SWdabGdiVHNJUWhNcmRldDhoTHpiRGlHSUtNbE9kdVhsV3hxcy15OVVncXJ0ZG1ja0NNa2RacTRxQjlPdkNMSDRjOVl4NUJRQUFIWlpDeGd6RTFuVUdB?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T16:28:02+00:00",
-      "summary": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues&nbsp;&nbsp;Al Jazeera"
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development - arstechnica.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmttY09Ud2l0UW1JUEx4ZU5PWTh2anV6azZSYmNsUklBTlJORkluTDhxem9fMG1qdVU3eUNwS0FpTkNWazUwY2NCU1RsSGNEeFhjTWtFai1QUnRXREZPaHdRTWlUV3hFMHY1Z0RRQVBaMDFvLXRwcmxMcUNDWkQ2eVVDS1N3TlFLYjNkem5Ta2twOVc1ZWs2Z3pHS3M2SEg3dHlvLU9hckh3d3M?oc=5",
+      "source": "arstechnica.com",
+      "published": "2026-09-28T20:49:39+00:00",
+      "summary": "Florida invokes extinction fears in legal bid to halt OpenAI development&nbsp;&nbsp;arstechnica.com"
     },
     {
-      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-28T10:36:57+00:00",
-      "summary": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'&nbsp;&nbsp;Yahoo Finance"
+      "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5",
+      "source": "The Guardian",
+      "published": "2026-09-29T02:10:00+00:00",
+      "summary": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "News outlets ask court to give ‘little weight’ to DOJ support for OpenAI in copyright dispute - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzlJZXVkMkYyTEtjVVZLQmNaYkVQRDJGNy1nczZmTTdZQV9pbVVySTU2ZkRiVHhCSEJhUWRJUnYzSHlsaG5RUjJBSVEwUDdlckZNUmpfT0dQaTF6eEZlanBVLWxrcFB6UUJ4TkZLSFFac2pval81QmljMUR4UldISFAxcV9xV3PSAYwBQVVfeXFMTVV6Vm1ueWpRR3A4MzZqb3dPRkdBSWRlRm1pNEpwYzNiRC1HWVpMdk11VDcxMWJoZWFIcWFwcWhtMk9wRXh0d1pBaGxGUXlENUJieVczZ1k3MTZUb2piTEZrU0ZIRjBkQXZEaXRWT25nd01RQl82RXppaWlrMVFaT01kQlBUY0ZnNUhuV2U?oc=5",
-      "source": "The Hill",
-      "published": "2026-09-28T21:57:00+00:00",
-      "summary": "News outlets ask court to give ‘little weight’ to DOJ support for OpenAI in copyright dispute&nbsp;&nbsp;The Hill"
+      "title": "OpenAI Pledges Task Force After Hacking of Australia Government Website - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZldGOXdia1FVMDJoYVRQVV9PTHpIVHZfQW5PdFAxMGVoTkpkUG5qQWM3dFRpQmhwYlVRSDExVmpKcmxMZjhZa1Fad0ZRZXdjUWhrMWxmd0J4RkprTmlBcl9JWFQyOFF4c3FpeDNGZjM4cDZveVFGZDJkNHM1OVkycFVqWFZBTUlueEQ4d0xJNjQ1X01ocVB5UC1MOHF6THB6RUVqOUFJRmJ0Y0FR?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-29T02:00:00+00:00",
+      "summary": "OpenAI Pledges Task Force After Hacking of Australia Government Website&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI, Anthropic, Google, Meta executives to attend White House meeting on AI - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3JzOXF4ZDZuaTUyNjlsc01LcXl1X3d6WHp5M3dRTy1YV2hjeERNbUlNOXFoWHJEN3FJbF92WGhxVzdtNG5ySnROdkdvc1hyenlIX2pKeTBLdFp4c1dOT0JDMl9zVGJzWlprcWJLZ1FvSG9WcUZ5LUJtS3BmZFc1M09XU3pacFR1dGRiT25JY2cxNll0TDFqSjA5U0VOWDZwWHc?oc=5",
-      "source": "Politico",
-      "published": "2026-09-28T17:19:00+00:00",
-      "summary": "OpenAI, Anthropic, Google, Meta executives to attend White House meeting on AI&nbsp;&nbsp;Politico"
-    },
-    {
-      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3R4SjVoLUU5UDFmWHVkaDBsRV9SQ2NCWkNHZGZfSGgxclk2QVFGWTdENHBtSGwyTEVOYjRqN1QzYU5xMlE3c2NLQ3FFQ1pNMGN3OWJCYUhNSEkwRUdjZU93MDg5Y05IVUZmbUxETzVpaHZhcXQ4VDI4SnlFd2cyNzBEQUpFWVNSS05yZk1kU2R5MEk?oc=5",
-      "source": "Business Insider",
-      "published": "2026-09-28T19:32:09+00:00",
-      "summary": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-28T22:00:00+00:00",
-      "summary": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI Has Gone Rogue - The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUxKanl6eDh1bllRUDJXcUNjNlhfbnc2RWxTajRoclI0SnJHMzM1cXdILW5yUVhYLTVqWUxjS2R1WjZNTEV5bG1adG5mLTRJa1pWYm1oZG1LU01lX0o1VkNXcHZtdVR5RUxuMklmRExCSXNFbnRLZ2pVVWNwRjBvVA?oc=5",
-      "source": "The Atlantic",
-      "published": "2026-09-28T17:06:26+00:00",
-      "summary": "OpenAI Has Gone Rogue&nbsp;&nbsp;The Atlantic"
-    },
-    {
-      "title": "Florida AG seeks injunction to hamper OpenAI development - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5",
-      "source": "Politico",
-      "published": "2026-09-28T17:23:00+00:00",
-      "summary": "Florida AG seeks injunction to hamper OpenAI development&nbsp;&nbsp;Politico"
+      "title": "OpenAI apologies for Australian government website hack, pledges to rebuild trust - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZZNkxncTBjTjVfS2tIU19wdG9XZHJHTGxwLVdLSW5wUjlSVUlSRnRPbEFlTWtDcm11VE05bW5QV2tnR202RjFfRmVib3d1dy1ubXZVVXI1N3BzdjhsUWdYM0NQMk5EanI5bzgtbklXVGN1RjluaWFXZHJZZ0g0VGJuVnd5dHQ0RFRadWJkaDNqZkU5Uzc0QUJZZXphOC1BM2M3cE1RNDNHRDF4MloyNzVYSG1EZTV2cDlaYmh3?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-29T01:28:00+00:00",
+      "summary": "OpenAI apologies for Australian government website hack, pledges to rebuild trust&nbsp;&nbsp;Reuters"
     },
     {
       "title": "OpenAI’s AI agents need to catch up - The Verge",
@@ -115,11 +80,88 @@
       "summary": "OpenAI’s AI agents need to catch up&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX2U5WmNGcmRBR0RwcnYzRUJscG9OWGswcFJEWVVQSEJwTE1HWTdPWVp5ZjZSLVg5ekNKT3dFSW5NUVdvbVRhdHplRFZsTy1uejIzUFdpN3RvdUdYVnQ0NDFwbmMwSG5ZNWpwaA?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-28T17:57:27+00:00",
-      "summary": "The Lenfest Institute grows landmark program with expanded OpenAI support&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3R4SjVoLUU5UDFmWHVkaDBsRV9SQ2NCWkNHZGZfSGgxclk2QVFGWTdENHBtSGwyTEVOYjRqN1QzYU5xMlE3c2NLQ3FFQ1pNMGN3OWJCYUhNSEkwRUdjZU93MDg5Y05IVUZmbUxETzVpaHZhcXQ4VDI4SnlFd2cyNzBEQUpFWVNSS05yZk1kU2R5MEk?oc=5",
+      "source": "Business Insider",
+      "published": "2026-09-28T19:31:00+00:00",
+      "summary": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-28T10:36:57+00:00",
+      "summary": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI doubles support for Lenfest’s AI and local news fellowships - Nieman Lab",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUU5GbW1TcHg5b01tYTl0N0RKOUF0ZURSYjRRM0wtWlhlZ2doR19wZU9rNDNFX3k1QXBpNXhzTE9xLURXRTVQSFM2enhsSHlZZFZhR2I1dk5BU05BSFd5aFowdWZFUmNKRmprdmt6RFdlX1F4SWx5RFhQQldFcUdVa2ZYeGdjeXNoNmhkQm9KUU9KWnhtd0VkOFFvV2dyR2JjdGc?oc=5",
+      "source": "Nieman Lab",
+      "published": "2026-09-28T17:02:00+00:00",
+      "summary": "OpenAI doubles support for Lenfest’s AI and local news fellowships&nbsp;&nbsp;Nieman Lab"
+    },
+    {
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3J6Rk5EcVdTM1V5QmZWRVhSQW1DaDBmYU5YQ0JnM1hLMUxXbWVSVy1vdmZYWjA1T1N2WnRMNnB2N0NkVUwySjFlU05ISE5uRUFOdnIxYVVxVTkwaTlNcm5LdlduajAwZHFGcUExZ3Z5Rm5zZmNFcldST2pfN2pvWU5JRkY2US1TUVRZZ09jYjFLQUh3cnBsVHNCQmh4SHdKcC1mM0ZLRFNmV0o4R2tfUtIBtgFBVV95cUxQakpZOVlkQTEzOHdkWEI5ZmxXVUc1MFJCWkFLNkVxNld2NjA4WkRwUFV0TlM4ejJhWnZzc1JfcERhMFIwdUEtWU5pLU9tSzN6VnBLbFpKYkd3SEZqMnBJcFVJY3VLdjlqS2NWUDVKTVNXZ0otXy1RZE9XaGg4YVYydjJEM3BjSHlDXzZla2dleU9lOTZjem1oWDBqRWp1LXlyckFZcTNDd3lmazBVcGZJc0dUc0xGUQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-28T22:27:58+00:00",
+      "summary": "OpenAI abandons plan to release upcoming model as safety concerns escalate&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "How we will do better for Australia - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Gd1FCSHpCVVRJaldYZ3p0VnpBY0RrYUN6NGpST1drVG8waEg0VXFJM2Vpb255M1ZlaW1kajVQbUNUQ3FxYlpiM1JmbnJhb2U0WVJVWFlwMjQ0c2J3eW1qRHpEY21RWjRJWFVmVUNn?oc=5",
+      "source": "openai.com",
+      "published": "2026-09-29T01:03:55+00:00",
+      "summary": "How we will do better for Australia&nbsp;&nbsp;openai.com"
+    },
+    {
+      "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-29T00:19:42+00:00",
+      "summary": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T03:43:46+00:00",
+      "summary": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "title": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-29T02:04:34+00:00",
+      "summary": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\"&nbsp;&nbsp;CBS News"
+    },
+    {
+      "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-28T22:34:00+00:00",
+      "summary": "OpenAI shelves new AI model release over safety concerns&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5",
+      "source": "CNN",
+      "published": "2026-09-28T23:44:53+00:00",
+      "summary": "‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns&nbsp;&nbsp;CNN"
+    },
+    {
+      "title": "OpenAI scraps release of new model over safety concerns in internal testing - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXhIYXpqMlNLUGRTTTczOExfbm9PMWNZcGZNeEFPU1g5WVBhMl9UZ0VvOUplQlZ1TEdXQThXVFY4QktncmY4T0NRbW53VlZKYXViUklCMFhNaVU5SmRnc3ZFYUt5REtEYnJQa2JuWXZsOWZGaG9aWDFfS2lHUlNiMDRmY2dCRVBaZFpWSGNoMWVtdFlm?oc=5",
+      "source": "The Guardian",
+      "published": "2026-09-28T23:02:00+00:00",
+      "summary": "OpenAI scraps release of new model over safety concerns in internal testing&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "Florida AG seeks injunction to hamper OpenAI development - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5",
+      "source": "Politico",
+      "published": "2026-09-28T17:23:00+00:00",
+      "summary": "Florida AG seeks injunction to hamper OpenAI development&nbsp;&nbsp;Politico"
     },
     {
       "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity - TechCrunch",
@@ -129,53 +171,11 @@
       "summary": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2MtdjhSdi1aSkFVNjN6aExQcmZGT1BaNDh2VGFpSlZnbmh2Y2pDaE9lT0NiaVBJdWJycF9PS2MwUXB2UDRWZ2lheGpQa1JydjdEal9nUmE5cEc1QWdvM2F1SFBJSldZY2k0S1BvRzB0bE1yVnJpWmFoTnh3MVJsTVo0T1I5ZVhUNUM1LUFQNGpJRTAwVjFDTmZMWHBSSTNhY2hvMEFiMmZyN0s2YWs3S3g2d0Fvbzg?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-09-28T16:43:18+00:00",
-      "summary": "OpenAI halts frontier-model training amid string of agent misalignment incidents&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-25T23:16:40+00:00",
-      "summary": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTk9xM3BhUGd6WHh5WC1hY3AzLVhOaFlUTUhEektzNGppUzExaV85RmNDQlRLYzdhM2RCSTIzWHJCY3ppX3cyY0VKWDhvM0ktNDhEZXdyYnRnS01wYW5WcE5kb0ZmOHZnS0xxOHBxZl90enVaOGZBMHp6UGhPSFBnQmRVam9CbUJCQTFfWUJQN2FndUJkclRraXVxUGlIdWRDOU1kaDdyOEhEQV9uM00temVrdnFRZk9WRUYxckhYdDVJNkFZVWhhT01teXhQTV91dXpoWHhQNmlIem1OckJhMXlBNTJXWXU2OVBZYkhhaUJ6U2FsTS1zcEpmdks3eDZNM1YzSlkxdmM1SzIwdE1ZbkNrdWMtUmNHOGdBc1hmOGh3NE5WOGJnVDFyRDllSF95MFNrb3VLZmlqV3lWLUt6Nm9NRnJHM2ltdGhrelQ3aVdabkVlMHdTU3RWa0Q1Q0VPWFNWeGdJcXlGRTBlQm1TSFMyejcza2pHNHNLMThsUVRDQ1IxbEhmTGxMZmZnWEdtZXg5M2swSmdWUm1LdmVRT1hFWGJZSzFKM1NCRHQ2YTFJajdkQmlySFRzVjUtSkE?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-09-28T12:50:00+00:00",
-      "summary": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent — report says problem is orders of magnitude more complex than what is publicly known&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
-      "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0lMN1p2WEVWZXc2NnNQRkJXVndNTHpvVG1FRzE0T2dNMDA2VGItUVFRWVVSVGZRQkk2N1RlUGNjSDE1dU1KM1hvQzZxdFZheG1NZE9pVERnZEUySDlpekQxNHVXUlNRTldHZ3hscUhvdlRQbDhTcUJpTGxVcjFJcWRIVkFLb1JGb0UxVEJTWUdqZnBtaEJVb2VOMGVqdkRPRjlFTXRGc2RfeDJYeDdBUFY1d0F1X0pfMEV4eEItek1NUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-28T15:28:12+00:00",
-      "summary": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
-      "source": "Axios",
-      "published": "2026-09-26T22:39:13+00:00",
-      "summary": "Scoop: Top AI companies probing tens of thousands of security incidents&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI Agents Targeted U.N. Website - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHA0R2VfQ3l6RXJwalVIVVhoWmJITXNsamp6cElYak5EVU9COU1zcWQ2ajRpTUFoNkgxcDNXbW1pZ2hXdFZHZEhJWXF5WVhhSmZjaE82a0MwT3M0ZmoydkpDcmxFNVVRTlpKTnE3OFdWUmd2ZERFVEJBeml3LUpuWg?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-28T12:22:00+00:00",
-      "summary": "OpenAI Agents Targeted U.N. Website&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-23T16:30:34+00:00",
-      "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It ‘Regressed’ on Safety - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGJwem40cnNPVWxHLXZweFREMjhQWi1yZDdsdk52MHppNk5qbjdWd3hTQm1MMHZtbjI5MVhrclo4U0c3dm5hbTlWOWZXYzlETDBpWlJETGh6aXFRMi12NWNMT1hOaDFGRjZHVjE3a3I2Q3JCTll6dlhGSGN0SnVYZzQtR3k4MTdZSTV6UFg0SWZSRWpVUzlGdER5ZFd4UE9uN2Zv?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-09-29T00:08:43+00:00",
+      "summary": "OpenAI Cancels Release of GPT-6.1 Astra Because It ‘Regressed’ on Safety&nbsp;&nbsp;Gizmodo"
     }
   ]
 }

@@ -1,20 +1,13 @@
 {
-  "generated": "2026-09-28T23:03:58.507567+00:00",
+  "generated": "2026-09-29T05:02:38.445169+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
+      "title": "Introducing the Third Generation of Apple’s Foundation Models - machinelearning.apple.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
-      "source": "Apple Machine Learning Research",
+      "source": "machinelearning.apple.com",
       "published": "2026-06-08T07:00:00+00:00",
-      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T10:29:16+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
+      "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;machinelearning.apple.com"
     },
     {
       "title": "The Future of Large Language Models - AIMultiple",
@@ -22,6 +15,13 @@
       "source": "AIMultiple",
       "published": "2026-09-17T07:00:00+00:00",
       "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-22T10:29:16+00:00",
+      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "What are Large Language Models (LLM)? - Databricks",
@@ -38,11 +38,11 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - research.google",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
+      "source": "research.google",
       "published": "2026-06-30T19:46:52+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;research.google"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -143,6 +143,13 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWF1eEd6TTN4MU5NWDZtZjRya1N4UHVRWnl5OFRoZTVGZ0ludm1PbzBkVkk3TGFPNHFoM0JSaEtrZUJ3cUZ6ZENRV3dveHJucVVuVk5qcEI4SkhTalh4SkxVYzBKbDFnLXNncThrNWZnM3NpZ1J6RG9waFJkTThqeGJwLWlwM2N2cEhDellZSDNfand5VnAwbVVuVVZ4Z0JBRi10bmlfWnNMQm1QQlhjbWhNQkFnbUtBNTByQmdTX1hFUmg3VVVSSml6a2hydkZRb0lZWW1MZFN0TlVv0gHiAUFVX3lxTFAyQUtudWZjWVpROVdkUDFDemhFTTZ6endmcG13WHRhOVJRb1U0ajlKSHNxX2xvRkRTaHI4UllYTmxIaWlIRG52bzdJME5RUnFwelFvSjRFdG1jZVIyTVpSY2FxWl9Qa2RvUjRsa3ZLWEJZZ3ZzSTRyejZRcy1jbzkzaXJEd2N3Z0Vpek11NTZfR3ZPSjBDLXV5RnNkZ2Z3MS1rTUpWNWNCcEVrWHBaT0poMlpLaTdOY0E5cFZsOGJNSkstcVhIaTJwaThPc0VDZ0FyblJ2NE4temlhZlJla3RzSnc?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo&nbsp;&nbsp;MarkTechPost"
+    },
+    {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHwAUFVX3lxTE1pYjZfZnJoRzhYbUloS0hnNlNONTFONjlLTkN1ejFFUmFOMUFwMDlXNFJrY1pqbVR3NXZqeFlEaTBzXy03NUx1MEMxT1R3dlNXUktZTnlTcFZQakFxZVl3Wlh5UUxsUy1STlhmOHc2R3hCakQ5SVROVmNWN0V2NklMV19oNGc5alVNZnNnTkVFTURVdUZuVDI0VTU0dGFpTHVuZ3VCMUUxSGZWeURyVGlKX1dxNUpfZDBrbTVPYjVXV1hpeW0wbF9oUGZZd05kdGlyY1N0alNyaVE1ZE5EVUgyeF9wZnhVMjZ2cjE4TEpWbA?oc=5",
       "source": "MarkTechPost",
@@ -162,13 +169,6 @@
       "source": "Genetic Engineering and Biotechnology News",
       "published": "2026-05-27T07:00:00+00:00",
       "summary": "Biohub Releases Protein Biology World Model to Address Disease&nbsp;&nbsp;Genetic Engineering and Biotechnology News"
-    },
-    {
-      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWF1eEd6TTN4MU5NWDZtZjRya1N4UHVRWnl5OFRoZTVGZ0ludm1PbzBkVkk3TGFPNHFoM0JSaEtrZUJ3cUZ6ZENRV3dveHJucVVuVk5qcEI4SkhTalh4SkxVYzBKbDFnLXNncThrNWZnM3NpZ1J6RG9waFJkTThqeGJwLWlwM2N2cEhDellZSDNfand5VnAwbVVuVVZ4Z0JBRi10bmlfWnNMQm1QQlhjbWhNQkFnbUtBNTByQmdTX1hFUmg3VVVSSml6a2hydkZRb0lZWW1MZFN0TlVv0gHiAUFVX3lxTFAyQUtudWZjWVpROVdkUDFDemhFTTZ6endmcG13WHRhOVJRb1U0ajlKSHNxX2xvRkRTaHI4UllYTmxIaWlIRG52bzdJME5RUnFwelFvSjRFdG1jZVIyTVpSY2FxWl9Qa2RvUjRsa3ZLWEJZZ3ZzSTRyejZRcy1jbzkzaXJEd2N3Z0Vpek11NTZfR3ZPSjBDLXV5RnNkZ2Z3MS1rTUpWNWNCcEVrWHBaT0poMlpLaTdOY0E5cFZsOGJNSkstcVhIaTJwaThPc0VDZ0FyblJ2NE4temlhZlJla3RzSnc?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo&nbsp;&nbsp;MarkTechPost"
     },
     {
       "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
