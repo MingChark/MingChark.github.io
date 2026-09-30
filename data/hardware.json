@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-30T12:11:46.260897+00:00",
+  "generated": "2026-09-30T22:01:41.052758+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Nvidia’s Glass Packaging Push Could Reshape AI Chips - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFhEaWg2Qm1vVGM5WExJZmVrVHoxMFRrV0lmYnl6QWR1eXVoQUtha1dCV2F4bnhDLXprRFJSOTdOU1hBaWN4NDJKTXdIV0d4UU9PM05TemtLNVdBRnJXMXQ0eUdZd09ta1A2ZjJEQU9LaTZKUnpmajFKQUVjYjVvMndaVXRCRkZaT3EwRGMxR1JjVThySEViS0dNWQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-28T22:46:00+00:00",
+      "summary": "Nvidia’s Glass Packaging Push Could Reshape AI Chips&nbsp;&nbsp;24/7 Wall St."
+    },
     {
       "title": "From Scale-Up and Scale-Out to Scale-In: How Agentic AI Is Redefining NVIDIA’s AI Factory Network Architecture - semivision",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGZYaVotTGR5RU80bVBYWDhhR3htUW1TbzBZR1F2YktjY1ZBaFVXSUNKQi1zSVE4TDdmblIxLUZwa2dROWU0YXhfazdzSFlsV05mdjlQTXFYZ2o1VXNmR1lqdWlRNkNRWFR3ZHgxVmdoQUowSjdTR0RGZDFPUjlObWFoaw?oc=5",
@@ -10,18 +17,25 @@
       "summary": "From Scale-Up and Scale-Out to Scale-In: How Agentic AI Is Redefining NVIDIA’s AI Factory Network Architecture&nbsp;&nbsp;semivision"
     },
     {
-      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-09-27T00:00:00+00:00",
-      "summary": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+      "title": "AMD's World Labs Buyout Boosts AI Prospects: Can It Rival NVDA & AVGO? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNktFRUNHRExXODY2cEEwbTVmY3FUR1FZUFQzZF9xT3JOZVJWay1XdjROVENDRWJOTmUtZUFjRXRvcFlpTzZobkp6SU9YZUg0YVdkc21XTDV0Uk5QV1psWnhpUGMzdVF2eE9zb1dSN0VTeFp5Z2Zwc1NzTUpKdVE2a2pEeWZEZV91aDd1WEtBMG92VldaVjRsQXVxWVJ2a21YaVdpRXVPT0VDaWlRY1FvU05CTXVnbi1DSWVSdWktVQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-09-30T13:35:00+00:00",
+      "summary": "AMD's World Labs Buyout Boosts AI Prospects: Can It Rival NVDA & AVGO?&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "AMD Makes $8.2 Billion Bet on AI's Next Big Market - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmpUMVBRRWVmT2RVZS1ERHBIM29tRFlHOWxWSFctZHpnb1BkYjU2NEdjSWxzcTlQVnBnd2lLVjJ3ZHpRQUtqYVB5ckRkOWR1dTM1ZUU4Mzl1NjBabWgxNHpVQlB5bGJkazlQXzhfcmR0cURFLThLVUxXQ0NNbkhxYVl0dUE5ZERZQjExN1B5MUxYVzNLYUNMakFZME5HNFplWEVfLTZ6YUtTRUZZSWc?oc=5",
-      "source": "TradingView",
-      "published": "2026-09-29T19:05:28+00:00",
-      "summary": "AMD Makes $8.2 Billion Bet on AI's Next Big Market&nbsp;&nbsp;TradingView"
+      "title": "Not Chips. Not Memory. Data Center Cooling Is the Unsung AI Infrastructure Play Nobody's Watching - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbGJ4QkV3WHk0TU1GU0UtZHRVbmc5Z1hpZklhWFFJRWg5b0dVLVdaWTlVZk45aFQ4VjdHTmt6bGpMWDlBd3N0dXVoMjdUOFNscUdXazFKaVRwWUVqZWV1NWVsaERXeEVTaDFYTV9BUHlENE52ZVo1OW1IM3oyZmVqLW94bWRIQzE3NXFHdjg0XzRiZHNLU1YzaE1SSF9ZQl92b2ZkRklzdTFrQzBQUEhjbURGeUhRUXJIUlBJbTZJeEo0ZW5kTWlnNVY3OWdTTTkwWlk5a2JjcnhTeUVYZHhKQmp6WVlGYzE4bmc1cTlBQVNRTFdLdzd2eE41Tl9XZDJxdExKWUQ1UHI5WVNhdEE?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-09-30T12:52:26+00:00",
+      "summary": "Not Chips. Not Memory. Data Center Cooling Is the Unsung AI Infrastructure Play Nobody's Watching&nbsp;&nbsp;The Globe and Mail"
+    },
+    {
+      "title": "NVIDIA Announces Record $150 Billion Buyback Authorization as AI Chip Competition Intensifies - sphericalinsights.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEJFT2YwVjdMbDNkUmtCYzhlTndVd0JVdE0wVDVOenZ2Q3BGLUVyc1dUSG5XNVNjZUhLSkV3bTNkUFZFcW1lejllS1VDd1k5eW9Gc1Q2cTM2ZjhhQUU0VDBadDZzb3UzU3FieGQ1cXFoVTFvMVFKZkw2d3NRcjU2UnFsWFJiTmVZUlRkZUkxVUMxRWp2dmw3LVdwbHIyR2wta2k2UEdRdGpNbUFaSE40MW50UWFsOWgwc1dXQzRZSElPT09PakloQ2dkeXo?oc=5",
+      "source": "sphericalinsights.com",
+      "published": "2026-09-28T07:00:00+00:00",
+      "summary": "NVIDIA Announces Record $150 Billion Buyback Authorization as AI Chip Competition Intensifies&nbsp;&nbsp;sphericalinsights.com"
     },
     {
       "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion - The Japan Times",
@@ -31,11 +45,11 @@
       "summary": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion&nbsp;&nbsp;The Japan Times"
     },
     {
-      "title": "NVIDIA Announces Record $150 Billion Buyback Authorization as AI Chip Competition Intensifies - Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEJFT2YwVjdMbDNkUmtCYzhlTndVd0JVdE0wVDVOenZ2Q3BGLUVyc1dUSG5XNVNjZUhLSkV3bTNkUFZFcW1lejllS1VDd1k5eW9Gc1Q2cTM2ZjhhQUU0VDBadDZzb3UzU3FieGQ1cXFoVTFvMVFKZkw2d3NRcjU2UnFsWFJiTmVZUlRkZUkxVUMxRWp2dmw3LVdwbHIyR2wta2k2UEdRdGpNbUFaSE40MW50UWFsOWgwc1dXQzRZSElPT09PakloQ2dkeXo?oc=5",
-      "source": "Spherical Insights",
-      "published": "2026-09-28T07:00:00+00:00",
-      "summary": "NVIDIA Announces Record $150 Billion Buyback Authorization as AI Chip Competition Intensifies&nbsp;&nbsp;Spherical Insights"
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-09-22T12:02:49+00:00",
+      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Huawei's Ascend Chips Have Overtaken Nvidia in China's AI Market - Startup Fortune",
@@ -43,13 +57,6 @@
       "source": "Startup Fortune",
       "published": "2026-09-26T21:33:02+00:00",
       "summary": "Huawei's Ascend Chips Have Overtaken Nvidia in China's AI Market&nbsp;&nbsp;Startup Fortune"
-    },
-    {
-      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-09-22T12:02:49+00:00",
-      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -73,11 +80,11 @@
       "summary": "Nvidia Buybacks Put TSMC And AI Infrastructure Stocks Back In Focus&nbsp;&nbsp;simplywall.st"
     },
     {
-      "title": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift - tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15bzE3Y3RzTUlCcllvZE16QW1oeHY4YzlVTHVrNUhtYlZ4R0xoMnIwSXdJWWRPejByZXh5TTZXdks5RjFOdjJ1SUdMNGtlOEtkVHQ3OGFFTkpWSGs?oc=5",
-      "source": "tokenpost.com",
-      "published": "2026-09-29T09:00:12+00:00",
-      "summary": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift&nbsp;&nbsp;tokenpost.com"
+      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built - calcalistech.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg?oc=5",
+      "source": "calcalistech.com",
+      "published": "2026-09-06T07:00:00+00:00",
+      "summary": "Nvidia is no longer just an AI chip company. It is financing the revolution it built&nbsp;&nbsp;calcalistech.com"
     },
     {
       "title": "DeepSeek unveils Huawei AI chip tools that may replace Nvidia’s - Free Malaysia Today",
@@ -87,25 +94,18 @@
       "summary": "DeepSeek unveils Huawei AI chip tools that may replace Nvidia’s&nbsp;&nbsp;Free Malaysia Today"
     },
     {
-      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built - calcalistech.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg?oc=5",
-      "source": "calcalistech.com",
-      "published": "2026-09-06T07:00:00+00:00",
-      "summary": "Nvidia is no longer just an AI chip company. It is financing the revolution it built&nbsp;&nbsp;calcalistech.com"
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
-      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "AI accelerator module series empowers AMR, manufacturing and medical AI - Electropages",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0tDMnBFSGF6ekQtSmlpaTV1WUo4UlFyMTh1UGVVTTJQNXBxdnR1QUt5TTFoLVR4R2o3OE5CZTJJSzkyd0hacENqZXFBcDF3TkZKajJ0VGlsTE5tTjRkQS11aEhrWm12M01laEJESXYwUVZjSkhmRkxFbFlZUDlraGliMEEyZnRfOUJFeEVIU3RTNFVLdHFxWjJwejNES2hHb21IbDQwSFFwM2M?oc=5",
-      "source": "Electropages",
-      "published": "2026-09-29T14:05:43+00:00",
-      "summary": "AI accelerator module series empowers AMR, manufacturing and medical AI&nbsp;&nbsp;Electropages"
+      "title": "AMD Makes $8.2 Billion Bet on AI's Next Big Market - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmpUMVBRRWVmT2RVZS1ERHBIM29tRFlHOWxWSFctZHpnb1BkYjU2NEdjSWxzcTlQVnBnd2lLVjJ3ZHpRQUtqYVB5ckRkOWR1dTM1ZUU4Mzl1NjBabWgxNHpVQlB5bGJkazlQXzhfcmR0cURFLThLVUxXQ0NNbkhxYVl0dUE5ZERZQjExN1B5MUxYVzNLYUNMakFZME5HNFplWEVfLTZ6YUtTRUZZSWc?oc=5",
+      "source": "TradingView",
+      "published": "2026-09-29T19:05:28+00:00",
+      "summary": "AMD Makes $8.2 Billion Bet on AI's Next Big Market&nbsp;&nbsp;TradingView"
     },
     {
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
@@ -122,11 +122,11 @@
       "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
     },
     {
-      "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
-      "source": "TradingView",
-      "published": "2026-09-28T11:53:00+00:00",
-      "summary": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4&nbsp;&nbsp;TradingView"
+      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
@@ -143,11 +143,18 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
-      "source": "KBRA",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+      "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRPNmFIYlRLSE8xOUVHSndyN0Z6ZjM3LTllaUh4V1pMS05CV2RjUkxuV3BjNUxycXdYTlUzVEl6VTBjUDBUTHpNdVFYUUl0UW9DUUlTdzBOclZpLUpiMXUyaGQybU1DZzV2RUF5Z3ZqaU5QeXNZSm5ibUxNRk9fYXlyRkJXRnVoZW00NnBNMFE1ZXRVN0U1N2Y5WFA5RnhFVDA0bE5EYk9aZklvS2VWVVZaaUJQd1V6V1ZB?oc=5",
+      "source": "Nikkei Asia",
+      "published": "2026-09-17T07:00:00+00:00",
+      "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
+    },
+    {
+      "title": "AI accelerator module series empowers AMR, manufacturing and medical AI - Electropages",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0tDMnBFSGF6ekQtSmlpaTV1WUo4UlFyMTh1UGVVTTJQNXBxdnR1QUt5TTFoLVR4R2o3OE5CZTJJSzkyd0hacENqZXFBcDF3TkZKajJ0VGlsTE5tTjRkQS11aEhrWm12M01laEJESXYwUVZjSkhmRkxFbFlZUDlraGliMEEyZnRfOUJFeEVIU3RTNFVLdHFxWjJwejNES2hHb21IbDQwSFFwM2M?oc=5",
+      "source": "Electropages",
+      "published": "2026-09-29T14:05:43+00:00",
+      "summary": "AI accelerator module series empowers AMR, manufacturing and medical AI&nbsp;&nbsp;Electropages"
     },
     {
       "title": "AMD vs. Broadcom: Which AI Chip Stock Is Better for Long-Term Investment? Comprehensive Comparison of AMD and AVGO - TradingKey",
@@ -157,25 +164,18 @@
       "summary": "AMD vs. Broadcom: Which AI Chip Stock Is Better for Long-Term Investment? Comprehensive Comparison of AMD and AVGO&nbsp;&nbsp;TradingKey"
     },
     {
-      "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRPNmFIYlRLSE8xOUVHSndyN0Z6ZjM3LTllaUh4V1pMS05CV2RjUkxuV3BjNUxycXdYTlUzVEl6VTBjUDBUTHpNdVFYUUl0UW9DUUlTdzBOclZpLUpiMXUyaGQybU1DZzV2RUF5Z3ZqaU5QeXNZSm5ibUxNRk9fYXlyRkJXRnVoZW00NnBNMFE1ZXRVN0U1N2Y5WFA5RnhFVDA0bE5EYk9aZklvS2VWVVZaaUJQd1V6V1ZB?oc=5",
-      "source": "Nikkei Asia",
-      "published": "2026-09-17T07:00:00+00:00",
-      "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
-    },
-    {
-      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - finance.yahoo.com",
+      "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-09-11T07:00:00+00:00",
-      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - openai.com",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "published": "2026-08-25T07:00:00+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;openai.com"
+      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     }
   ]
 }

@@ -1,55 +1,111 @@
 {
-  "generated": "2026-09-30T12:11:46.260897+00:00",
+  "generated": "2026-09-30T22:01:41.052758+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5idERPZWJyRmd3emJFdjh2SkNZank1Wnc0aVlJYi1ENFlxbS1vLTc3SEVOWkRvSEZkSEtMdFE5MmJYOEVEdmdzbEJDLWxwa0N1ZTZzSDUza2lKNGpNNmRUaUw0TVFKT1lvcEs1ZXN3bUJJM2kzaW5v0gF8QVVfeXFMTXRqSjVPc2kteE1lTjI4YjJ5QWZKV3plRlliV3FqZ05sRWZfR3hVZkFLUHdPaWxRZmltNDEzM2lHRk02RWJCbTAtYUJmYU5CUm5NS2p5T3lYaC0tM0FTZDhjdXZWalV6OUNYR0hEblN1dEhCNU1kb1U3U3E5Ng?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-09-29T21:03:00+00:00",
-      "summary": "OpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO&nbsp;&nbsp;cnbc.com"
-    },
-    {
-      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5",
+      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
       "source": "The New York Times",
-      "published": "2026-09-29T22:29:02+00:00",
-      "summary": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves&nbsp;&nbsp;The New York Times"
+      "published": "2026-09-30T21:11:06+00:00",
+      "summary": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
-      "source": "cnbc.com",
-      "published": "2026-09-30T10:15:49+00:00",
-      "summary": "OpenAI is sued over rogue AI Hugging Face cyberattack&nbsp;&nbsp;cnbc.com"
+      "title": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-30T17:17:58+00:00",
+      "summary": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
-      "source": "Axios",
-      "published": "2026-09-30T05:22:24+00:00",
-      "summary": "OpenAI hit with landmark lawsuit following Hugging Face hack&nbsp;&nbsp;Axios"
+      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-30T19:26:02+00:00",
+      "summary": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "LASST sues OpenAI over autonomous AI hack of Hugging Face - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkdTJtaU8xRG1OQ3l3eV9YYV9McXFpUlRqSElpdVFzNlF2MTB3cWhVaHFSeTQwSVdQMXNndXAwRzFENVh1THRnbk52aGVRVTZPRU9mdEVlUjJBMXZJS2JJRjZCNG0zc0ZaOU5Mbg?oc=5",
-      "source": "qz.com",
-      "published": "2026-09-30T11:21:27+00:00",
-      "summary": "LASST sues OpenAI over autonomous AI hack of Hugging Face&nbsp;&nbsp;qz.com"
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-30T15:27:47+00:00",
+      "summary": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent - finance.yahoo.com",
+      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXdjNDRYR3ZGUno3TThmc0xUa1F3SldTeU1BaGM1UVVOLTJvdUlMV0FFWUV3LWVnNndUZHFhSHM1bm5Yd3RYeUtmZ25WNEh3dFk0RE5id28yNlF2OVEzTVpBSkxHZXRCdHhqVXRwZ18wSG9MdW1OU20yNE1NX0xHdjhvS3g0QmRqY0RjSGtwMA?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-30T21:31:59+00:00",
+      "summary": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Synopsys",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmx4bUlpbGx3MEpZYlhQSnRtVDVxejJ5bnZoU3FabmRPaHdHdGM2Zjg5OEpydUxGQ3pac1BSX3psbnhieWpVVnFweWJ5czJfZk9vbU9TaTIyZm5ROW92RzZzWmJ0NlJjQVlZQnR0MGtyb3JzTW5NYWIxQVJsNi0zSHRLUS0xa2VFQ0FEQnpuWGpMQVFpa1RoSTYybTFzal9lQkZJYmNBLXFKaFVWQUNLSTN5TGY1WUgxbmwzY2lzVmRGbmhrSGJLMw?oc=5",
+      "source": "Synopsys",
+      "published": "2026-09-30T18:35:06+00:00",
+      "summary": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design&nbsp;&nbsp;Synopsys"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+      "source": "NBC News",
+      "published": "2026-09-30T20:24:05+00:00",
+      "summary": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents&nbsp;&nbsp;NBC News"
+    },
+    {
+      "title": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3U4WmgtZ1JKNnRYTlJZUVdnNW5lWU5lTGF0UkhHSnJBOHFmSG9YeGx6ZWxqOVAxOUlHcXJWY0d0N1hKQ1JBVTlUeGp1NVFzODl5OHNxUFZtUTRDaU5DOS1MOUk4NDFLNlpxR1NhZV8yLV9Ic2J5N2FNR3NjeWxtazJYRkdVQXZVY3JPbTMxMlJlUWJsTzc0emE5Sk13Q0FRYVJtUUllWHRyU0Z4emNJMndoajhURW1NXzg0Z3MyZVNubFpYNmE0aA?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-09-29T17:50:08+00:00",
-      "summary": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent&nbsp;&nbsp;finance.yahoo.comOpenAI launches Dots, its Muse competitor&nbsp;&nbsp;The VergeOpenAI's Dots connect to 4,000 apps and never sleep&nbsp;&nbsp;finance.yahoo.com"
+      "summary": "OpenAI debuts Dots AI agents in challenge to Meta’s popular Muse agent&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Dots, Sol and Space: What OpenAI Shipped at DevDay 2026 - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFNDVlRDMTI4Wi1zUndBVW1XMExnOHdveGNNc0tvRVdDTU93bFczeXljMlZKVDRpTDhKdkRzMU9aVWFLdmZkc0NOQzBFcVVVbnBBUzdnTVlZczJCamR3UHFuMTY0bkgyTDVmaWEzM29HQUZfOENhSWw0RHdEZUJ0Z0plZ24wN1pZUnp2VTdXQ2xkcVJYZTB1SEhySGc?oc=5",
-      "source": "LinkedIn",
-      "published": "2026-09-30T11:30:35+00:00",
-      "summary": "Dots, Sol and Space: What OpenAI Shipped at DevDay 2026&nbsp;&nbsp;LinkedIn"
+      "title": "OpenAI launches Dots, its Muse competitor - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0N5Mll5RW5nUUlTMjNkSHpzZk5uZTdHLXNydVpfdUFsWmh2RDZCRlN4VVZVcFh4SDJwYTVyMnB4eTVHRmQ1ejhUcU5waHVzSFpnV3d6ZDZkdk11aWVhaE5WT2lvSkFzTXFFb3I4VE1mME5rd3pqb2xFRUZ0bnM0d1lycU1pem1yX2Y1RWJnd3o3a0cyWTQ3T293?oc=5",
+      "source": "The Verge",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI launches Dots, its Muse competitor&nbsp;&nbsp;The Verge"
+    },
+    {
+      "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay? - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEttVk44QURLOUhOTHY5bU8wa3NReFE0TmtMbmFndGdrUmZrbXljWkJmU2QyWXRRMUNVeWFyUlVzMHFjOFFLdFVjSHB6eUZLVm9UVWRYZEd1RC1WV21uLWR4ZW1JM0ZHLVlSalpGYWN1V3JGMzQzbkRyR0pOcmpTWDN6VGY0R0RKVkROT1RudlZLVlNIby1HYjBQTGdxeDdjaUHSAacBQVVfeXFMUE1tN2VudWpTdmU5MU9kbGtMSS1WQVJtTU9Ea2VNNV9QbHdEM3pMOG1KR0lrcjRONXRkVVdwRWNoVUNCSThKMndoaWJlX2lPNndId2toUmo5RmlwNTYxYlFacXpGWjcwVVJwcUpUYjdlRTFCQlFlMmt5Ti1Ddk43MjctdFItcGp3QUhidVpnU3J3ek5fSjRyVjdHUzAxSmdnRmdPdDh4OW8?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-30T12:00:01+00:00",
+      "summary": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-09-30T16:53:46+00:00",
+      "summary": "OpenAI sued by safety group over autonomous hack of Hugging Face&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWXNhZ2ZMMlZzU2REeFZIR3ZJX3dsRFVveGcweGR5dlVsY0lhYnljb0JOM3VWY3B3dDZONm1rcGdma2RpWExtdXNMckNkWmdDam1ZeUpXcjdUemxCQjIzNFo2SFVYeUJIRW11RUVPXzdIRTRERmc?oc=5",
+      "source": "WIRED",
+      "published": "2026-09-29T19:05:00+00:00",
+      "summary": "OpenAI Gets Sued Over the Hugging Face Hack&nbsp;&nbsp;WIRED"
+    },
+    {
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-30T10:15:49+00:00",
+      "summary": "OpenAI is sued over rogue AI Hugging Face cyberattack&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Alerted Chicago It Accessed City Database Amid Reports Of Its Agents Going Rogue - Block Club Chicago",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFd2aWdMS0JXaWFHaVlYcHFXUU5RRTZaQnl3X0NIeEJVZXU4MHdNczhhemlrSW9KUlJiQ0dBSm85NmNRUVN2TG5MT3dtNU5WLVRxVlZHM3FsWkF6OVMxNDlFeUNwZTdiSVBkM2JiQlpuT2NBTkUzeTRpaGg4MkowUkliLU0wbmh5VXcwU3ZXazdacXhjOTQ3Zlo1cWQwSjhWaC02aExleld3QW1QSVFIbGc0ZTIxdzhkaVhIeDNtN05US05wZ0U0?oc=5",
+      "source": "Block Club Chicago",
+      "published": "2026-09-29T22:12:12+00:00",
+      "summary": "OpenAI Alerted Chicago It Accessed City Database Amid Reports Of Its Agents Going Rogue&nbsp;&nbsp;Block Club Chicago"
+    },
+    {
+      "title": "Cerebras Stock Falls Again Because So Much Depends on OpenAI - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFY2JSOFdrX3BxRWJ3cTdpUExNMDJTbGlZUzhzQlFpaHZJanM5UUYzeHpuNFVpV08wcS03S281TWlKY1UxNG9sc3M3UmFuYXNxcDVMSThHZE0yWWNhQ1ZmazNvalJPaG5wVkVGMHFQekNrYWdsa3JrcVJaLUxVdFk?oc=5",
+      "source": "Barron's",
+      "published": "2026-09-30T18:13:00+00:00",
+      "summary": "Cerebras Stock Falls Again Because So Much Depends on OpenAI&nbsp;&nbsp;Barron's"
     },
     {
       "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ",
@@ -73,109 +129,53 @@
       "summary": "OpenAI shelves new AI model release over safety concerns&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Inside the Biggest Feud in Artificial Intelligence - The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVaQ3hxSkFIeXJrTHA4WGp0Um1ST3Vvd0JTbWh6SjZ2UnJ3WE56aDFseGNkT2wta3ljVVdFMEhBeXIyeGl4NkxJdUlPdW1tNVRDVGl3T3hPNl96WWpQb3hoRXRybFBlc2QzUlRaYVJ0cmVMZ3ptR09iMHl2bnhXSGpJMGFwVWljdEE5Qm9WcHNaWVlIWWZ1WHYtN2dIWVdqXzJN?oc=5",
-      "source": "The Atlantic",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Inside the Biggest Feud in Artificial Intelligence&nbsp;&nbsp;The Atlantic"
+      "title": "Disrupting a coordinated model-distillation campaign - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
+      "source": "OpenAI",
+      "published": "2026-09-30T17:06:44+00:00",
+      "summary": "Disrupting a coordinated model-distillation campaign&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Robinhood just rolled out trading agents to millions—and investing may never be the same - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjdsLXFZajlrWnpKb2xkTVJpWmlFcWNhSlotN1JLeVVUbC1zLWFmV3JqNzF3RmRzc1ZnSWtYNHlvMlhXYnhiQU42SWE0MDNkWnoycXd6MXFUWFpuRmhMTVdRVzV5VmZxZjgwbTh3THlyMnJmd2p2bFZWV1I4aXExTWZQVC0?oc=5",
-      "source": "Fortune",
-      "published": "2026-09-29T23:00:00+00:00",
-      "summary": "Robinhood just rolled out trading agents to millions—and investing may never be the same&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmVYZUMtNFhXTXNoLXlfeUxuRUV2dGlqQTBqYjU3ZU9nTGJ1Vm5zSmNsSkJvWjRWanhmZzdPa1BTMDFKSmhKN1VvR3VFVDA4eEozekNGanFiUi0xWV9lOWpoWnBjb1lBVk5CY19NN3lfX2N6by11blZUc0JTWkxoLUpkQkdHVG1lQ1VGQjJ4WkZvcHhSaElwVFdjZTZMOWxWdHlELVBSa2h1d2NBRWE2ZEtVUQ?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-29T21:24:56+00:00",
-      "summary": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI targets $30 billion funding round at $1.4 trillion valuation - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDJQanpaYk12dWRPUnlUMGphTXY3eUxMejZmNEw2SmRsZzQ2OXFlUlVYakRscmt4akVENzJldU4zeXVBNXBnajJvemQ5LTdyZ09hZnZwaGVWeDdzMVdMSVE2UDNGcEZwT2w1aERVZDF2LS1xREpJTW1ORnMyZEpUMkVxS0lZeEY5czRFNVdKb1BkaWZvMGk2dnNpUFpBZw?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "2026-09-29T18:50:08+00:00",
-      "summary": "OpenAI targets $30 billion funding round at $1.4 trillion valuation&nbsp;&nbsp;finance.yahoo.com"
-    },
-    {
-      "title": "No OpenAI IPO Until the AI Stops Going Rogue, CEO Sam Altman Says - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZF8xaEYzcUU5cG0welBPeHF1QnNWV0Rvb2Rid0lnZktSWms5T3YyeVZvbHNyS3pZYzQ1RXBjM2pHZGU2dHhnSzFzS19WWnVBclhzX3lzRFhfX0tmTXczVHN6VWFNTU14bGI5cGlJbUFVVm5rY216YjlFZzFFYkl3eEp6cUx2UnU5clE4SlRERkFWYnhpbVNYUDU0RQ?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-09-30T04:14:16+00:00",
-      "summary": "No OpenAI IPO Until the AI Stops Going Rogue, CEO Sam Altman Says&nbsp;&nbsp;Gizmodo"
-    },
-    {
-      "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
-      "source": "The New Stack",
-      "published": "2026-09-29T17:18:06+00:00",
-      "summary": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna&nbsp;&nbsp;The New Stack"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna - openai.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "source": "openai.com",
-      "published": "2026-09-30T09:25:04+00:00",
-      "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;openai.com"
-    },
-    {
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R0gxZ2RzNURmYjgwTUVuemhuT201TFc5a2FjaFRqMXo2OXUwck8yNTFraEtkY2swOWdIb2liQXZGVTRrTGFhVV82S2JBRFJybExmQ28zcGdaT1U?oc=5",
-      "source": "BBC",
-      "published": "2026-09-30T05:18:13+00:00",
-      "summary": "OpenAI unveils AI assistant 'dots' while safety worries delay new model&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "OpenAI launches always-on AI agents a day after apologizing for a hack by its bots - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2Y3U2NYNEY4TERuQ1JiYjJwT0QxaEJmYklMS25UOXBtb24tZkFiUndiMTNOYnY0RGJWVlZIVEd6Yy1VS2V0M1ZEbDFnME9uNWxyZ3JlcU9fYjFxTzgxZWtpV2QxV2EyblV1MmkySE0xOHZDSUdMNUZLYWRtaHVRM0lqMWJ3akJudXdxU3lIVWU4cXJVQWdtMmNTeDRoZw?oc=5",
-      "source": "NBC News",
-      "published": "2026-09-29T23:03:10+00:00",
-      "summary": "OpenAI launches always-on AI agents a day after apologizing for a hack by its bots&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "Sam Altman unveils \"dots,\" OpenAI's new AI personal agent - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRjZqS3R6VW1rR1UtMU9raVlfRnR0OFNZV1dGSWhIVDZYelFabjdjWTl3cmxMcEprRDQ0bDQzb2dxQUEzWk9GMS0wNU9SdG8yczRnTzh2WUxNWDdJVkFEaGZBcTZyMVJiOFpZQkFwTlVTY00tancyb25NWlpWc3M?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-29T18:09:00+00:00",
-      "summary": "Sam Altman unveils \"dots,\" OpenAI's new AI personal agent&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
-      "source": "The Guardian",
-      "published": "2026-09-30T01:53:00+00:00",
-      "summary": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5",
-      "source": "Mashable",
-      "published": "2026-09-30T05:51:36+00:00",
-      "summary": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans&nbsp;&nbsp;Mashable"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXVCRFpYRW5WRFdrZkFuTXUzbklEY1kzRFBhT2U5Skc0U1M2ZG9NdlBTaXd2Q0tfVnB2VC1wQjlSZVltVHNsam83eGd5SGhVMlNGUlpxR1lFS3k1T3JRYVkyOUtnXzFhUzNlZUJfSGFRZWhHeXoxdnFpU0lWTU54YW1KTGxiNXpsdXQweGJhUzJaTHF3ZTctN0h4bEM4UQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-09-29T20:15:47+00:00",
-      "summary": "OpenAI’s latest features take direct aim at the app store model&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5",
       "source": "Reuters",
-      "published": "2026-09-29T18:27:05+00:00",
-      "summary": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports&nbsp;&nbsp;Reuters"
+      "published": "2026-09-30T18:17:19+00:00",
+      "summary": "FTC opens probe into AI giants including Anthropic and OpenAI&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-29T16:55:51+00:00",
-      "summary": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI DevDay 2026: The biggest news and announcements - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BJbnR3VkUzc3lyalhhcWJKTXlHWGhPem5DT1psM2pqQ3ZTcE9zdlk0S1NlUU1aNWNFRnlYakxyZlpGVmh3RUpRNVpsM2RxN0ViWFRCYVh5ZEk5RFYwNGRZZ0p0M0pzWFJUeUpiUFdCOUZwRFBmbWkzN24tblVtX2pvVFh3QVdiclVPOHBqV0pXd252TTRhRkl1MDhubktLcHZkM3piU3I?oc=5",
+      "source": "The Verge",
+      "published": "2026-09-30T18:07:38+00:00",
+      "summary": "OpenAI DevDay 2026: The biggest news and announcements&nbsp;&nbsp;The Verge"
+    },
+    {
+      "title": "FTC Opens Investigation of Anthropic and OpenAI - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWNQa1A4UWxGdzZ4V1V5bzVpWTV5bVdWQnBFYkZpMHN4ZW14UGY1MlU2LWpNdUc4UHBnUUVUbXdhVWRjemQ4SEVUR2hPemVGZ0tQdVpwZ0dmWXVRNkRnTFYwSmNPSWJJZFZnZnFQekVGTzlOdExxcTJhazhocUVXZVBjWmpHZ1hUVWpjNg?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-30T17:29:00+00:00",
+      "summary": "FTC Opens Investigation of Anthropic and OpenAI&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Exclusive | FTC opens sweeping probe of Anthropic, OpenAI and other 'super intelligence' models - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanE1RWUtVjd4RVhyYmE1QUV3eVFFcEZReFJyQ2Vxb0xGVVN5X3N1UXFuZjN5VldJSURacjhtRXdEVGE2TDE3UVE1UEJfbk1QWjFHUHdZYkJtZjk4WFNtMEp0ZXpNWU5nRFllUVZxRmQ4bkdXaEd2dHVua2ZWYjM0V1lhZDF5WURPUlpVYm9mVk9EY0I5bXh1RU4tMkRYQXBhSDd2UnkwOVBqeUpFN0NkUjhXRmVHVFRrQl84?oc=5",
+      "source": "New York Post",
+      "published": "2026-09-30T13:26:00+00:00",
+      "summary": "Exclusive | FTC opens sweeping probe of Anthropic, OpenAI and other 'super intelligence' models&nbsp;&nbsp;New York Post"
+    },
+    {
+      "title": "Can companies like OpenAI keep getting away with what they are doing? An interview with Fordham law professor Zephyr Teachout - Marcus on AI | Substack",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16UEtyMVR6MWlRT0kyREI4Y0p2U3hnN0RLVFlqZkcxRjJJVGo5cU9YUE92WDNNUVNiSmtwYjJpX204OG5sMmMyTjdaQmJ4ZFhlZ0gtT0xhSEVITjhmelIwb1BQWlNId1o4dFBCWUpYN1BzRVdIWjdDUU8yZk4?oc=5",
+      "source": "Marcus on AI | Substack",
+      "published": "2026-09-30T16:45:58+00:00",
+      "summary": "Can companies like OpenAI keep getting away with what they are doing? An interview with Fordham law professor Zephyr Teachout&nbsp;&nbsp;Marcus on AI | Substack"
+    },
+    {
+      "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbElaX2w0Mm1NdWkyVGJyWlNoQkUydU1qV2VXdm0xak1wSklubW9UX0F2aHZvX3VSTDVBQm5feTNSUW1tUVRSc25FWnBDY1dQQTAtZUhTMXJRSnpZaDZNWG9PM3FxYWdLTXhhd0g1dlg4VlZQc2RxVWlEOWtpcURrTmdwSUJpcnp5RHI5T2doOU9hQS1EWnEzNFppQzN4NnJ2OTFkbFNlbWFJbVd0Q1pGUmxGMNIBuAFBVV95cUxOWk1hVnRJTVNuTFpCd1lYQTk2ZEhwRjRESmFlSDFiRXFQdFNXQXVCWURqVDliYUlYR3VBMHVzZElYYmRVZGRfRkNrQ2lKd0pHWjVDbU5Xc2xlcC1VeWZkUkZMbElPUmFGWndzOFlVNkNuUk8yQnVQYWw3TzBwWHBLaEt4bDFFNjY5RWthZXlaV3gyQlJBcHRtRWFtNjdmeFJKZUI4RjVrOVJpOWRMaXg0VW1rUlBHQnpS?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T06:36:56+00:00",
+      "summary": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’&nbsp;&nbsp;Al Jazeera"
     }
   ]
 }
