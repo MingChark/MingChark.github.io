@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T15:58:59.124422+00:00",
+  "generated": "2026-10-03T20:47:44.143703+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -24,18 +24,18 @@
       "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;konsulteer.com"
     },
     {
-      "title": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined - vision2030.ai",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHBqS3hSdlNWRWpNMC1SNjM1a0VCNjlqeUFGamxCektMTFU0eENlUC1ndm9QX1dHOThCc0tXZ1RYNFozQ1lKZlNoMjFIUXcwdko4OGhIZnktSjBTSUFLUy1rS2tyVDJpNTlaejRnNEVWclhFRHZDdzE0cVpXNzY0S24teEUwaExhUFVlVjBlRVY3YVk?oc=5",
-      "source": "vision2030.ai",
-      "published": "2026-09-27T07:00:00+00:00",
-      "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
-    },
-    {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
       "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined - vision2030.ai",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHBqS3hSdlNWRWpNMC1SNjM1a0VCNjlqeUFGamxCektMTFU0eENlUC1ndm9QX1dHOThCc0tXZ1RYNFozQ1lKZlNoMjFIUXcwdko4OGhIZnktSjBTSUFLUy1rS2tyVDJpNTlaejRnNEVWclhFRHZDdzE0cVpXNzY0S24teEUwaExhUFVlVjBlRVY3YVk?oc=5",
+      "source": "vision2030.ai",
+      "published": "2026-09-27T07:00:00+00:00",
+      "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
     },
     {
       "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
@@ -87,11 +87,11 @@
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - venturebeat.com",
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "venturebeat.com",
+      "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;venturebeat.com"
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -113,6 +113,13 @@
       "source": "NASA Science (.gov)",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
+    },
+    {
+      "title": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026 - Medium",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
+      "source": "Medium",
+      "published": "2026-08-17T07:00:00+00:00",
+      "summary": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026&nbsp;&nbsp;Medium"
     },
     {
       "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Business Wire",
@@ -169,13 +176,6 @@
       "source": "MIT Technology Review",
       "published": "2026-05-18T07:00:00+00:00",
       "summary": "What to expect from Google this week&nbsp;&nbsp;MIT Technology Review"
-    },
-    {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "FICO",
-      "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     }
   ]
 }
