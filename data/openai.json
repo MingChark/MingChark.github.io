@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T05:05:25.812838+00:00",
+  "generated": "2026-10-04T12:01:29.923347+00:00",
   "query": "OpenAI",
   "articles": [
     {
@@ -7,14 +7,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
       "source": "The Atlantic",
       "published": "2026-10-03T11:00:00+00:00",
-      "summary": "I Quit OpenAI Because Its Culture Is Broken&nbsp;&nbsp;The AtlanticOpenAI safety employee resigns, claiming the company’s ‘culture is broken’&nbsp;&nbsp;TechCrunchOpenAI safety leader quits, warning AI company’s culture is ‘broken’&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5",
-      "source": "axios.com",
-      "published": "2026-10-03T16:06:26+00:00",
-      "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\"&nbsp;&nbsp;axios.com"
+      "summary": "I Quit OpenAI Because Its Culture Is Broken&nbsp;&nbsp;The AtlanticOpenAI safety employee resigns, claiming the company’s ‘culture is broken’&nbsp;&nbsp;techcrunch.comFormer OpenAI safety chief warns AI industry’s culture is ‘broken’&nbsp;&nbsp;Fox News"
     },
     {
       "title": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach - Fox News",
@@ -24,18 +17,32 @@
       "summary": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach&nbsp;&nbsp;Fox News"
     },
     {
-      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-01T22:26:30+00:00",
-      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity&nbsp;&nbsp;Reuters"
+      "title": "OpenAI disclose another hack on government department in Australia - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
+      "source": "The Guardian",
+      "published": "2026-10-02T10:00:00+00:00",
+      "summary": "OpenAI disclose another hack on government department in Australia&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-25T07:00:00+00:00",
-      "summary": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector&nbsp;&nbsp;The New York Times"
+      "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-04T11:00:08+00:00",
+      "summary": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5",
+      "source": "Axios",
+      "published": "2026-10-03T16:07:38+00:00",
+      "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\"&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "AI giants not 'careful enough,' ex-OpenAI engineer warns - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3RuZ00xbFF5aklQckhmNXBFa1RXdVg2aW85a01OWFFMSEd6cmxaanBRUlJLQlpRSnB3dTc2dkF0UnVsbllHVTNlaE91cHB6NHVHS0UzZmJoZGxLYWYzbDVRbnpJdmJoOGV4N3JhaXR4ajlKaFhjRnM3STlVdnl2THA5TGhMOHd0UldtdWlQbjRRWmNNc3JTOW1tQWc2OXplS2pxYWdUbEdzRVVPUkxUV3ln0gGyAUFVX3lxTE9iVk5TcFo2aXpTR1JpeVhPSFloV3lVZTdDSlRCWEhRdXZ3TVVTQkVOcWljQjFjTXRMV1kzQUd4SWNWR21ScW9CeGxCUk9aNW0zaktYM1paWE9fZVItemxtTlNWZzZqWjE2UnBiWHQ3ejd5dFB1TFVlalpzRTlpYm9NajRULXQ1eTNnRGxISzY0X3MtVFd2TFZaTmxPZnpNOWx0VVhSZUFiTVJ1aUJzdDZQS2c?oc=5",
+      "source": "dw.com",
+      "published": "2026-10-03T22:03:16+00:00",
+      "summary": "AI giants not 'careful enough,' ex-OpenAI engineer warns&nbsp;&nbsp;dw.com"
     },
     {
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner - The Verge",
@@ -45,39 +52,11 @@
       "summary": "OpenAI’s Dot agent is enterprise software that can also order your dinner&nbsp;&nbsp;The Verge"
     },
     {
-      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-30T21:11:06+00:00",
-      "summary": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC&nbsp;&nbsp;The New York Times"
-    },
-    {
       "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
       "source": "BBC",
       "published": "2026-10-02T08:20:32+00:00",
       "summary": "OpenAI fires workers for 'mishandling sensitive information'&nbsp;&nbsp;BBC"
-    },
-    {
-      "title": "How Muse Stacks up Vs. OpenAI Dots - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWS1nVmRuc3RqZWNPaDdQTDVya0oxaU1WODVUdHpDa2RoZkVzUjg3M21kNEZDVVo5WjVxajl2TXVQM25LYW9hYUNPNG5vcktEM3ZIZGVaSFBzaTRWM1BzZENUX2l1UDUxVXV1cnN6UGtoUk9qZERlOG9BVlVMR0Rzc2NPTVZiRXRwUnZqLThpcHNkZkdt?oc=5",
-      "source": "Investing.com",
-      "published": "2026-10-04T04:18:45+00:00",
-      "summary": "How Muse Stacks up Vs. OpenAI Dots&nbsp;&nbsp;Investing.com"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWFoWGZaei1UNC1PVVU2NFl0bmRBQV91RDNZVWlXbHdNOGFmVGl0cEtzX2lVNVF3R3FTNlJ3MnRvLUZOWW5LUHh0Q01hUFV2dVJMakxGMG44UHQzLVdzd2xkSkJNTERXQzdjT0pMalZOdTRlUjdnTVpKSzdUY0hwbTQzR21HQzVIX0Q0?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-10-01T19:21:53+00:00",
-      "summary": "ChatGPT can now virtually try on clothes for you&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI Hires Top Trump AI Official to Work on National Security - The Information",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
-      "source": "The Information",
-      "published": "2026-10-02T19:00:00+00:00",
-      "summary": "OpenAI Hires Top Trump AI Official to Work on National Security&nbsp;&nbsp;The Information"
     },
     {
       "title": "PewDiePie launches AJAX AI model after an alleged ban by OpenAI - Interesting Engineering",
@@ -87,10 +66,31 @@
       "summary": "PewDiePie launches AJAX AI model after an alleged ban by OpenAI&nbsp;&nbsp;Interesting Engineering"
     },
     {
+      "title": "How Muse Stacks up Vs. OpenAI Dots - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWS1nVmRuc3RqZWNPaDdQTDVya0oxaU1WODVUdHpDa2RoZkVzUjg3M21kNEZDVVo5WjVxajl2TXVQM25LYW9hYUNPNG5vcktEM3ZIZGVaSFBzaTRWM1BzZENUX2l1UDUxVXV1cnN6UGtoUk9qZERlOG9BVlVMR0Rzc2NPTVZiRXRwUnZqLThpcHNkZkdt?oc=5",
+      "source": "Investing.com",
+      "published": "2026-10-04T09:33:58+00:00",
+      "summary": "How Muse Stacks up Vs. OpenAI Dots&nbsp;&nbsp;Investing.com"
+    },
+    {
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security - The Information",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
+      "source": "The Information",
+      "published": "2026-10-02T19:00:00+00:00",
+      "summary": "OpenAI Hires Top Trump AI Official to Work on National Security&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "Developers Praise OpenAI Codex App as Top AI Coding Tool - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53NEgzUUlKWmwtNU9RRUVrSTZzOThWRDItSXBGcUgzbnlBVFY3ZnZnMTRfN1VFNXhBdm9IeFlBR3V2V3dqUUc2T2Z3ak9aelFJWEt5OEdmQQ?oc=5",
+      "source": "x.com",
+      "published": "2026-10-04T03:42:33+00:00",
+      "summary": "Developers Praise OpenAI Codex App as Top AI Coding Tool&nbsp;&nbsp;x.com"
+    },
+    {
       "title": "The eternal complement - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
       "source": "OpenAI",
-      "published": "2026-10-04T02:51:47+00:00",
+      "published": "2026-10-04T09:30:42+00:00",
       "summary": "The eternal complement&nbsp;&nbsp;OpenAI"
     },
     {
@@ -101,18 +101,18 @@
       "summary": "OpenAI safety employee quits, says 'time for trial and error is over'&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI safety leader David Robinson resigns — and says company culture is dangerous - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN20tZjFiX1d5WEdVanJFQWoxNEdpalhTNzJPb3Rlc0tPOERjVW00cS01YkxudVI1LXNHQnBhVUJ2aDhSdFJKTm96eF9wZ2JVVDF0N2NibE9oRFdhQUg1ZEIxejNsUV9kalRvR1ZRaFg1UThCN1p2YVFxNjlxa0dZRWpTdGVONkYyZnNmTWJpc2c3UQ?oc=5",
-      "source": "Business Insider",
-      "published": "2026-10-03T12:43:00+00:00",
-      "summary": "OpenAI safety leader David Robinson resigns — and says company culture is dangerous&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
+      "source": "The Guardian",
+      "published": "2026-10-03T19:41:00+00:00",
+      "summary": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "OpenAI Fires 3 Safety Researchers, Wall Street Journal Reports - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRJZmFzRFZMOUJRaEVXVDZCcm9QdFB3c2lwUEdxTk5fMjRpUHlLUmh6TzJzdG5vVDlGenp0TS1GWkFQRjZFd2pzQU55bDlKc3BBbS1HaFA2Tm1hbDRfdjVscWR3ZEhuTFFBUTU5dlllUzNUd2I1dzgwMkRlWDdKaEdreWRwRmhNRXlFZGdmeVN3b1FxcjdjcVQ2MWhEZC11ZXN5UlJCRl8wV0RBajZTZXhjQVNMZHhKNDFGc0NYUmluQUotT0xLb3pRd2FrTThXcC1QbjB0UQ?oc=5",
-      "source": "Forbes",
-      "published": "2026-10-01T17:07:42+00:00",
-      "summary": "OpenAI Fires 3 Safety Researchers, Wall Street Journal Reports&nbsp;&nbsp;Forbes"
+      "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDA4NW5HSXlEcHVrT0haY2NwVU5hLXpzamFCXzdVTVR3bUhDd2h0REtTWG5uRll6M0l5NHY3bDEzWWc3Ynk3bVZkQV9zeXFHYkxSbkJpV0lKUDA1NnhzZ0ctTUtLWm8zUTFUS0pCR1VsWUI4bmVMbV8tcEZrcFRFU21oamJtRFNNTnM3aVZ2ZmI2S000SzNmejI4emJxV0JPejNRZ3ExeEFHbWFKUGlfVHhlMjJqSHFWaFE3Xw?oc=5",
+      "source": "the-decoder.com",
+      "published": "2026-10-04T10:42:57+00:00",
+      "summary": "OpenAI's internal model considered restarting itself after learning it was about to be shut down&nbsp;&nbsp;the-decoder.com"
     },
     {
       "title": "AI race heats up as OpenAI flags alleged model-copying campaign - CNBC",
@@ -129,6 +129,13 @@
       "summary": "Disrupting a coordinated model-distillation campaign&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-01T22:26:30+00:00",
+      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity&nbsp;&nbsp;Reuters"
+    },
+    {
       "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRjNlRLem5OVV9vMEJTR09fbkliOXJTNVg4RXMwempEZk9Mc1RfNzVVTUUtbVNINDR3REJPVUtpYnpuc2xvV1lMOFd6ZEtZbVpVMjFZSUhBZE56NjNJWHJqbWQ1YVV6NTJWOE9vNW1ScGtfVHpMei1UM19hb2hwQlVrWEpLdjFBSHZYdC1rY1psX3FV?oc=5",
       "source": "The Guardian",
@@ -136,11 +143,11 @@
       "summary": "California issues investigative subpoena to OpenAI over rogue agents’ hacking&nbsp;&nbsp;The Guardian"
     },
     {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports - TechCrunch",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports - techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzdCYW9BX1hfRWV4Ykh4Y1lPTF9VNTF4ckFXYUI1SzJIOUN6UkdaSEFsb1lRc1VIQ0FEbjZRVGMyekYxVVY5NmJBSnFIQkU3X3k4aHVTQ0hPcVZCNnlBNmdFUzBLZlpIRDl5MThNN3d0TFprbktxYUxNVjVwMFlSOFVQa3BLRm10WllwTlZVN0FsZEF1ckVEYw?oc=5",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "published": "2026-10-01T18:14:42+00:00",
-      "summary": "OpenAI cuts ties with 3 safety researchers, WSJ reports&nbsp;&nbsp;TechCrunch"
+      "summary": "OpenAI cuts ties with 3 safety researchers, WSJ reports&nbsp;&nbsp;techcrunch.com"
     },
     {
       "title": "DevDay 2026 Recap - OpenAI",
@@ -169,13 +176,6 @@
       "source": "OpenAI",
       "published": "2026-09-29T06:10:36+00:00",
       "summary": "Towards safety cases for frontier AI training&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Helping small businesses put AI to work - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
-      "source": "OpenAI",
-      "published": "2026-09-30T14:56:09+00:00",
-      "summary": "Helping small businesses put AI to work&nbsp;&nbsp;OpenAI"
     }
   ]
 }
