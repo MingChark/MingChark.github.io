@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T23:53:22.098825+00:00",
+  "generated": "2026-10-06T05:38:51.211682+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -66,11 +66,11 @@
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
-      "title": "Metis: Memory Foundation Model - alphaXiv",
+      "title": "Metis: Memory Foundation Model - alphaxiv.org",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94YnltV01odm1aTnVEenVjV01PZlFfV3dwWlhVVDZZTnhxMEUzVFBwcHRJbFdQaUt5U18xV1JmdHZXem9BdUxMU3pweEVMRldB?oc=5",
-      "source": "alphaXiv",
+      "source": "alphaxiv.org",
       "published": "2026-08-04T07:00:00+00:00",
-      "summary": "Metis: Memory Foundation Model&nbsp;&nbsp;alphaXiv"
+      "summary": "Metis: Memory Foundation Model&nbsp;&nbsp;alphaxiv.org"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -108,18 +108,18 @@
       "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Business Wire"
     },
     {
-      "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - calcalistech.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZVpwdEVGRC1FbTZmTUtOU2hvRlJ1N2IwN1AxWUVMS3B5djMtVnFwUEVFSFZrS0FTRDA3SnN6VF9wVjh2Y1ZjRU9PRHVydE5GbFdEaWYwZHQ3VmFkeWFiWFBCckQ4UEZN?oc=5",
-      "source": "calcalistech.com",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies&nbsp;&nbsp;calcalistech.com"
-    },
-    {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
       "source": "9to5Mac",
       "published": "2026-06-11T07:00:00+00:00",
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+    },
+    {
+      "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - calcalistech.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZVpwdEVGRC1FbTZmTUtOU2hvRlJ1N2IwN1AxWUVMS3B5djMtVnFwUEVFSFZrS0FTRDA3SnN6VF9wVjh2Y1ZjRU9PRHVydE5GbFdEaWYwZHQ3VmFkeWFiWFBCckQ4UEZN?oc=5",
+      "source": "calcalistech.com",
+      "published": "2026-06-29T07:00:00+00:00",
+      "summary": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies&nbsp;&nbsp;calcalistech.com"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -150,11 +150,11 @@
       "summary": "What to expect from Google this week&nbsp;&nbsp;MIT Technology Review"
     },
     {
-      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 247wallst.com",
+      "title": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZNUDFLOXBTSTZNZmFmbFU4bktkM2ZPTE53cDdvLVBTX2F0Vmw3ay1FV2dQUHp4STJzUUFZeklqaS1mcHYyWVIwMG9hcUsyWHFhQlpjYUsxUWh2bnh1OGl6aDJSMnhoZXVreE5KS0NQNEFodWVYRzBQM1RqOGJBVjFZekFqZXJycjBEejdsNFRuREViVnZsVGVKcHdvT3NvQTFVSmo1SG8zQUVSVjNSaFhnV3NFV1RyOFJrV1FJT0ZSOTJWOUpfSVV1MHFhOW96S1hYMw?oc=5",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "published": "2026-07-17T07:00:00+00:00",
-      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;247wallst.com"
+      "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -171,11 +171,11 @@
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     },
     {
-      "title": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory - scmp.com",
+      "title": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVJpN2xXVGp1VUtyWDJWTnNnTkx3VzhSbTVxUXgzTFdBWW5KMjFnSHg1ZlcwNC1QVFVfUjYyQTd4UmlxQmxLWnI3ejcxdHlhdjhqUjVNc0o3VnFrZG0yVW1ueVlJLXRNWjByU2tRS1RiSmJXMHB1ZnJOdFNNY0Q0aVhXZ25KZmQyVjEtTUtSaE4ybTRwTGhmYzNfc0lBUjZJOE1aci1YeEZmOGsyczZEOHRYTHFpSHZqMUttdVlaQUfSAcABQVVfeXFMTzNmbS1Qa3NUSDhRU0dlMUJzcEQ5em16M1N4ZTZRcEFSREJrbkhyeXg0T3FQYVktdjhtYnRneDFBejlLeUFXMG9CYzF1S1ZyeG9hZ2Y2a1piOUJtck1IVTRiV3J3cElSYVdvbzVvYWdEWGttVXpRM0dSVU9aTDFmV1ZDRGtucGoyVzVZME96b0Y0T1l3Zll3YkNHb3paS19IMHZjZTE2RGZneW1nLVdxZ3hVbFR2bEVNV2NHNHpNa2Zt?oc=5",
-      "source": "scmp.com",
+      "source": "South China Morning Post",
       "published": "2026-05-20T07:00:00+00:00",
-      "summary": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory&nbsp;&nbsp;scmp.com"
+      "summary": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory&nbsp;&nbsp;South China Morning Post"
     }
   ]
 }
