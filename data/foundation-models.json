@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T13:02:43.080810+00:00",
+  "generated": "2026-10-06T22:30:38.148872+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,11 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - konsulteer.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
-      "source": "konsulteer.com",
-      "published": "2026-09-30T15:14:18+00:00",
-      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;konsulteer.com"
-    },
-    {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - blogs.cisco.com",
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "blogs.cisco.com",
+      "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;blogs.cisco.com"
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -38,6 +31,13 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
+      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
+    },
+    {
       "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
       "source": "shattered.io",
@@ -45,11 +45,11 @@
       "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
+      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - Konsulteer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
+      "source": "Konsulteer",
+      "published": "2026-09-30T15:14:18+00:00",
+      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;Konsulteer"
     },
     {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
@@ -157,11 +157,11 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - calcalistech.com",
+      "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - CTech",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZVpwdEVGRC1FbTZmTUtOU2hvRlJ1N2IwN1AxWUVMS3B5djMtVnFwUEVFSFZrS0FTRDA3SnN6VF9wVjh2Y1ZjRU9PRHVydE5GbFdEaWYwZHQ3VmFkeWFiWFBCckQ4UEZN?oc=5",
-      "source": "calcalistech.com",
+      "source": "CTech",
       "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies&nbsp;&nbsp;calcalistech.com"
+      "summary": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies&nbsp;&nbsp;CTech"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert! Science News Releases",
