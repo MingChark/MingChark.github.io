@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T12:57:10.353975+00:00",
+  "generated": "2026-10-07T22:54:31.515256+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -13,7 +13,7 @@
       "title": "The $500 Billion Question Causing Waves Across Every AI Stock: How Much Are Nvidia GPUs Actually Worth? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHR1ZlJxVENyaU1iRzRKbjhYLTgxT0stNVlNQlUxUjl5MFgwcTJJZkE0Yk4xdlRFYkZ6QVlKM3prNUw3MU92Q2JVNEF3UDZkRjAzanFNWHpGclRxVkV3cHNnSE9SZmhsS19pa0ViWThqNFZvOXBqQVpESllmd2lJcUVoYWdSTGR2bzNLRlAwRTIzcWtDa2xmag?oc=5",
       "source": "The Motley Fool",
-      "published": "2026-10-07T07:30:40+00:00",
+      "published": "2026-10-07T08:17:00+00:00",
       "summary": "The $500 Billion Question Causing Waves Across Every AI Stock: How Much Are Nvidia GPUs Actually Worth?&nbsp;&nbsp;The Motley Fool"
     },
     {
@@ -22,6 +22,20 @@
       "source": "NVIDIA Developer",
       "published": "2026-10-06T16:15:56+00:00",
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUhuVFJvR0IyUm5Yd0FRdnR4bGh1NS1BSHNrbTBnU0tnWU80N2lmQVQ4UFBaRzRIQUk5cVUtdWdFbE96SEwtODFiYnI4ZHJTZWZ2NmNURk84SnhiUVRWYlNGdEI4cS1namdlRUFVa0FPRy1GYk0zYVI5UTF6dHgzRUphZ0o4MEdiMUhtbHl0UGktZzJVWFHSAZsBQVVfeXFMTVB6ZkdGSmNTbGtFNGYyaU96SDBNMXJfcGM3bkRFY0R1ZW1LWWpBZUN2YVN1MTBpdUR5bmFKQnIwQnFkYVhZNFlSRHA2YzJDMnduQWJIX2RKM2dfajJ5VFZSOHRjbkJPYU4yQjhEWEViQ2JneDVWRmFOZm9rc2dDVEFNZUNBcElBMWtiTDB4YjZJQkJDQnctSHVnWms?oc=5",
+      "source": "TechPowerUp",
+      "published": "2026-10-07T16:28:32+00:00",
+      "summary": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU&nbsp;&nbsp;TechPowerUp"
+    },
+    {
+      "title": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs. - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbkM5UjVCUUp6VXJONnZaTFcyZHRlOFV6UkxKVHI4RzRSUE1YM1lIbU9xb0xXdDVFUm1na3FYd0hCaTQwOVVva1JoajVXZnI2bkJGWXJCSnNBaHh4eWRBRU1wOG1NODFhRDVkOXJ3THh5Y0Fma0o2Rk9Tdzh4dGRpTWNR?oc=5",
+      "source": "AOL.com",
+      "published": "2026-10-07T11:53:00+00:00",
+      "summary": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs.&nbsp;&nbsp;AOL.com"
     },
     {
       "title": "3 AI Infrastructure Stocks for Nvidia Data Center Spending - Simply Wall Street",
@@ -43,6 +57,13 @@
       "source": "Investor's Business Daily",
       "published": "2026-09-22T07:00:00+00:00",
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
+    },
+    {
+      "title": "AMD Explores Samsung Foundry Deal as AI Chip Demand Drives Supply Expansion - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rY2pvT1VpQkJLMHBpempLRWk3ZTRMLTJRYmNkUDRXZmt4SFNRcjZaQ2xSenNqU05WaXBEMmJaTUJiaGd5Vi1tRlBhRE5TZnNPY0p3VzJEcDVZMGI4VzF4R0EtU3VpOG5PVEhMWUpUWlFJTHlKdHc?oc=5",
+      "source": "The420.in",
+      "published": "2026-10-07T17:19:57+00:00",
+      "summary": "AMD Explores Samsung Foundry Deal as AI Chip Demand Drives Supply Expansion&nbsp;&nbsp;The420.in"
     },
     {
       "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
@@ -73,20 +94,6 @@
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
-      "title": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips - ForkLog",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWFIRGtKSFptb1IyYVljR3dUR0c4ZGtfLUltaFVIclV0aEZ5TS1hODZMWUhMbkhIU0Nqdi0xNDhFWEJ5OXk0eDJnUlhuWTZsZWRmNnBkTWdwc19CemR2Z2hoTkZlTHhvajB6LW5HQnpnODVrNUN2VGx3a2RxczB6dHBvU0tVdF8xUjAyUGdmY19zSGQxdmc?oc=5",
-      "source": "ForkLog",
-      "published": "2026-10-01T08:12:23+00:00",
-      "summary": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips&nbsp;&nbsp;ForkLog"
-    },
-    {
-      "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTE5WeU5BMGc5RHk5a2c0dEVZamNXeXlGbkxOVEZUd2RDanRmN09RMkhsXzk4TTBkeXVyb3BVS09rOTRnNTdteC1ZYjMxN0ZGYndyVWRibGEzU1B6aDFqNHpMSkk5Y05iU19WSlFueE1TaVdmdlEwQWdBX29JREg3MmYtTE5yLXFNYlBDV095RnZ1ZTNPTVlORg?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-01T18:23:04+00:00",
-      "summary": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
       "source": "OpenAI",
@@ -94,18 +101,18 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRPNmFIYlRLSE8xOUVHSndyN0Z6ZjM3LTllaUh4V1pMS05CV2RjUkxuV3BjNUxycXdYTlUzVEl6VTBjUDBUTHpNdVFYUUl0UW9DUUlTdzBOclZpLUpiMXUyaGQybU1DZzV2RUF5Z3ZqaU5QeXNZSm5ibUxNRk9fYXlyRkJXRnVoZW00NnBNMFE1ZXRVN0U1N2Y5WFA5RnhFVDA0bE5EYk9aZklvS2VWVVZaaUJQd1V6V1ZB?oc=5",
-      "source": "Nikkei Asia",
-      "published": "2026-09-17T07:00:00+00:00",
-      "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
-    },
-    {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczQ0bnRwU3FTN2NaN0wzbUVkbGxtYUZkcm5wa2F4R2E4T1VlYnJBTjVzR1VHWFJCelZ5ZHVSUFdyOU5YcjItRnd3aUQ3c2JsWjN2eFZSM0VHM1pONFdCYXRnNUc1cVpaVC1yOXdVR04yMDV5LW9oaGFjelJfclFTOG1EdkZ5LTQxb1RBbEl5Z2tmeklKUm5jdElUam1uN2ZZNmRlVGZjeW9QQ2tUY1R2RG9Kc09FNGg1b1Jid21NTFBheGdYTnNOdWZhVjhJVmJGWUF4bUI3VXV1eVVWa2ticXJsRFJoMl9qOHp4MTZPZw?oc=5",
       "source": "IBM Newsroom",
       "published": "2026-08-11T07:00:00+00:00",
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
+    },
+    {
+      "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTE5WeU5BMGc5RHk5a2c0dEVZamNXeXlGbkxOVEZUd2RDanRmN09RMkhsXzk4TTBkeXVyb3BVS09rOTRnNTdteC1ZYjMxN0ZGYndyVWRibGEzU1B6aDFqNHpMSkk5Y05iU19WSlFueE1TaVdmdlEwQWdBX29JREg3MmYtTE5yLXFNYlBDV095RnZ1ZTNPTVlORg?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-01T18:23:04+00:00",
+      "summary": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
@@ -136,6 +143,13 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRPNmFIYlRLSE8xOUVHSndyN0Z6ZjM3LTllaUh4V1pMS05CV2RjUkxuV3BjNUxycXdYTlUzVEl6VTBjUDBUTHpNdVFYUUl0UW9DUUlTdzBOclZpLUpiMXUyaGQybU1DZzV2RUF5Z3ZqaU5QeXNZSm5ibUxNRk9fYXlyRkJXRnVoZW00NnBNMFE1ZXRVN0U1N2Y5WFA5RnhFVDA0bE5EYk9aZklvS2VWVVZaaUJQd1V6V1ZB?oc=5",
+      "source": "Nikkei Asia",
+      "published": "2026-09-17T07:00:00+00:00",
+      "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD&nbsp;&nbsp;Nikkei Asia"
+    },
+    {
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnY2TGZfZ0R1ZWhudEFkblFtR05sdVYzTGFCVFFOd0Q4T3VlbXQtTUZWNUozcHRrcElUa1VXdU5zVEt0OXE1Z3lQdXBRWXF3dHUxZ3N4U0dPek9tNS0zVDc1T05nUW5JcmhIYUJFVGZ0NnM0SWw3VXd6MjVkS1FxWjFkdDB5S3MzSHVlUFJkQQ?oc=5",
       "source": "NVIDIA Developer",
@@ -157,25 +171,11 @@
       "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
-      "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx3dFFqWGM4Rk5zcS1SQjI0VHN1X1NfelJYdW4zMVYtdW5zVHJSZVhzREhiOGRvcnR1UnpkRGFPQkFkejdMVW5wYmQ3a0ZtV1ZFWENCeTE3RDdMTXQwNnYyVnYwZnlVSmQ1OV9BU2JuTTV5ZE1GekVvbURmUTI4Smg2cFdMbXJwLVE0c3ZFdEs?oc=5",
-      "source": "The Japan Times",
-      "published": "2026-09-29T03:26:00+00:00",
-      "summary": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion&nbsp;&nbsp;The Japan Times"
-    },
-    {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-04-14T07:00:00+00:00",
       "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race - Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEE5d1JzVVo5cmpvZ1ppV2ZRMmd1VTZZYzlLUUZsWEZNd2t5dFoxTm01UDM1ZnNFNjdVTjlkc0JrdEVpR2pkOGV2V2lsQ0RfMHRIMEpxOEtiR0NfMi1kOEllaWZab0NnZTh1dUlpeXA5OTF6NnhOcmR2ZmhPVU9udTZOR3h6ZVFsUGNhdG9ZdUw0MVlDOGFBbHFEb0lsMEhFbTdPWHFldmQ3azRMUVZJSmV6M0o1aVZ6WlBfa1ROeGQ0dXVGZkltbmIxMA?oc=5",
-      "source": "Spherical Insights",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race&nbsp;&nbsp;Spherical Insights"
     }
   ]
 }
