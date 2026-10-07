@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-06T22:30:38.148872+00:00",
+  "generated": "2026-10-07T05:09:25.273951+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
       "source": "NVIDIA Developer",
-      "published": "2026-10-06T16:16:13+00:00",
+      "published": "2026-10-06T16:15:56+00:00",
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
@@ -24,13 +24,6 @@
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-09-26T07:00:00+00:00",
-      "summary": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
-    },
-    {
       "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
       "source": "The Japan Times",
@@ -45,18 +38,18 @@
       "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
-      "title": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips - ForkLog",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWFIRGtKSFptb1IyYVljR3dUR0c4ZGtfLUltaFVIclV0aEZ5TS1hODZMWUhMbkhIU0Nqdi0xNDhFWEJ5OXk0eDJnUlhuWTZsZWRmNnBkTWdwc19CemR2Z2hoTkZlTHhvajB6LW5HQnpnODVrNUN2VGx3a2RxczB6dHBvU0tVdF8xUjAyUGdmY19zSGQxdmc?oc=5",
-      "source": "ForkLog",
-      "published": "2026-10-01T08:12:23+00:00",
-      "summary": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips&nbsp;&nbsp;ForkLog"
-    },
-    {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
       "source": "TechCrunch",
       "published": "2026-09-17T07:00:00+00:00",
       "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
+      "source": "KBRA",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
       "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog - NVIDIA Developer",
@@ -66,11 +59,11 @@
       "summary": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTY2c0REFUT1V0NzlkQm91OXhTMTU4SUJNa09lSTdOdUpfM2pUdlM4UWV1VWZKX25vYkp4VVZ5ZnQ1VGc2amxOVEI2a1phU2hXUjZMRg?oc=5",
-      "source": "KBRA",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+      "title": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWFIRGtKSFptb1IyYVljR3dUR0c4ZGtfLUltaFVIclV0aEZ5TS1hODZMWUhMbkhIU0Nqdi0xNDhFWEJ5OXk0eDJnUlhuWTZsZWRmNnBkTWdwc19CemR2Z2hoTkZlTHhvajB6LW5HQnpnODVrNUN2VGx3a2RxczB6dHBvU0tVdF8xUjAyUGdmY19zSGQxdmc?oc=5",
+      "source": "ForkLog",
+      "published": "2026-10-01T08:12:23+00:00",
+      "summary": "DeepSeek Unveils Open-Source Software Ecosystem for Huawei AI Chips&nbsp;&nbsp;ForkLog"
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
@@ -92,6 +85,13 @@
       "source": "IBM Newsroom",
       "published": "2026-08-11T07:00:00+00:00",
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
+    },
+    {
+      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
+      "source": "HP",
+      "published": "2026-07-28T02:46:34+00:00",
+      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
     },
     {
       "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion - The Japan Times",
@@ -143,13 +143,6 @@
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond - HP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDdkMm5odzQ5aFhkUzdCWXdnOXluaUl4N1JSLXQ0eG9ScXA5MElRaGVOQjFzR292Tk5XUzNENUZxVUpWakQwckJsU3hHbXRqdGo0YWVEbzRjckxSQW1iWVRoT0VncGpwWTNDNmdFZDdIbEx2eUxCVWxPdGlDb0E3bEpJdk9lTXNkcFlYNTNKSzZLUE5jMWZzeVV4cDY?oc=5",
-      "source": "HP",
-      "published": "2026-07-28T02:46:34+00:00",
-      "summary": "What to Know About AI Hardware Accelerators: NPUs, TPUs, and Beyond&nbsp;&nbsp;HP"
-    },
-    {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
       "source": "NVIDIA Newsroom",
@@ -164,6 +157,13 @@
       "summary": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race&nbsp;&nbsp;Spherical Insights"
     },
     {
+      "title": "The battle for the AI stack: Nvidia versus Huawei, with Europe watching from the sidelines - Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3RXSG9PN2doMVFWOFl0aU80OHkzbEQzbnRralc5b0F6SG1DcElFMWlwREUxVnZILThqZ0RINGNLbVA1MXFqTUJObVdPUEMyM0VjZFdEU2xnM2hDTzZqeDItcXJpdE96WGxNeEJ1U2lKUkx3ZVFTQWxhUG5ya0xRYzVJcHQ1ZHpHNnJFUGQ2dk5ENjczSjVtaG9tNFppdw?oc=5",
+      "source": "Bruegel",
+      "published": "2026-07-22T07:00:00+00:00",
+      "summary": "The battle for the AI stack: Nvidia versus Huawei, with Europe watching from the sidelines&nbsp;&nbsp;Bruegel"
+    },
+    {
       "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSW5oRnc4bWlJWUU3eW9NQmVrRTVQQ2hGNXV6TlNmX0U1RkplbHFpU3YxeUpLVUpGU1RkNHdrRUZhWGhpNTVrRG1USzJVNFBSdENzNGU2NFRScHktc0hOaExZUHFIeDlPNUR3R0h6M3Y2SEZ5MGlFaUVGbXRkbVowTTlrc0VhdE01QlZvN1dtb1dSSWs?oc=5",
       "source": "Yahoo Finance",
@@ -171,11 +171,11 @@
       "summary": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "The battle for the AI stack: Nvidia versus Huawei, with Europe watching from the sidelines - Bruegel",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3RXSG9PN2doMVFWOFl0aU80OHkzbEQzbnRralc5b0F6SG1DcElFMWlwREUxVnZILThqZ0RINGNLbVA1MXFqTUJObVdPUEMyM0VjZFdEU2xnM2hDTzZqeDItcXJpdE96WGxNeEJ1U2lKUkx3ZVFTQWxhUG5ya0xRYzVJcHQ1ZHpHNnJFUGQ2dk5ENjczSjVtaG9tNFppdw?oc=5",
-      "source": "Bruegel",
-      "published": "2026-07-22T07:00:00+00:00",
-      "summary": "The battle for the AI stack: Nvidia versus Huawei, with Europe watching from the sidelines&nbsp;&nbsp;Bruegel"
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlVFSFdPNzRSNnBiMkZZbElkcEkyejJTVUtmbDJUcTU0RlJYNjIwVzYyMWhiemxBUmIycVZEeWlUYWNlMi1IQkxxUXlnVi1DbUxPallBaWxpYnY5RG5EY0dwYU8wcWpyMDU1eS15T29iLV9UOXpiVHdCM3dMRkdjUU9OMllpOGNvYmdVUGZDTy1GUklLTFkxam1Cb2xiYXFyZHhZNmxFbUUtNTRBMXFxNm9uZGRhUQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-14T07:00:00+00:00",
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance&nbsp;&nbsp;TechCrunch"
     }
   ]
 }

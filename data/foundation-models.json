@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T22:30:38.148872+00:00",
+  "generated": "2026-10-07T05:09:25.273951+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,13 +45,6 @@
       "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - Konsulteer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
-      "source": "Konsulteer",
-      "published": "2026-09-30T15:14:18+00:00",
-      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;Konsulteer"
-    },
-    {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
       "source": "dicardiology.com",
@@ -64,6 +57,13 @@
       "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+    },
+    {
+      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - Konsulteer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
+      "source": "Konsulteer",
+      "published": "2026-09-30T15:14:18+00:00",
+      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;Konsulteer"
     },
     {
       "title": "Metis: Memory Foundation Model - alphaXiv",
@@ -80,18 +80,18 @@
       "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
