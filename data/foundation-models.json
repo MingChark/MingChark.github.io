@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T05:19:51.128510+00:00",
+  "generated": "2026-10-08T13:05:13.885316+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -80,18 +80,18 @@
       "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -122,11 +122,11 @@
       "summary": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026&nbsp;&nbsp;Medium"
     },
     {
-      "title": "Amalgam Rx Wins “Overall Large Language Model of the Year” - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUFUdkt1LWE0TU95QUhXZXN2Sm5RUjRfMjFTU29ST1ZwRnprdV9UUVJ5UFo4aGFUemRWcE9Od0VyZUNxTTluNnUxeDN5SWZYRjNZOVpxc203REN1Tml2UWhGZHJITTdlQlJ4X2RjTmppLTN3SnVxN2NNRXQ4RHdEN01jMG44X1BzdXVreVJzQ1N3dU1jb3d3YmtZeEtXMklNUU1FcG8zUWk4aGRGeUVTRWI3VQ?oc=5",
-      "source": "Business Wire",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Amalgam Rx Wins “Overall Large Language Model of the Year”&nbsp;&nbsp;Business Wire"
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -143,25 +143,11 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-03-16T07:00:00+00:00",
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "What to expect from Google this week - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXl2OVBoeE4wVVdjSWMwUjhaNFpQOXZHYWpRUXdrdnR5azdnT20wNUhVbmVhWWdfS2ZraW1jVEVhQ2hJYXJmcTVnTV82Umh3amZMRFJGUmktY19nWi11X3lWWG9IcVVVOG1pZG5nbDNjVzhibzd1ZmU0RUVLRkJCZU5YX0lSdGVUbmJFM3FJVUUxMXPSAZgBQVVfeXFMT1ItNzF5SjAxeDlYTFF4OXJ6WERNakRMbHEtOE1CYjVxel9nNWQtNzlLZ3A4N3FrX1FWUXZNRXVGejhnTGI0OUlzWkZNYVJRWVBhd3kybEcxcWxhdHhST08tbUpOYkx2U0taSERGUzk5amZiUXFJQmlnNGZEZkozSm50dHJ1Z3ZYZFZpTnFvXzZGTzlEdVlpdzM?oc=5",
-      "source": "MIT Technology Review",
-      "published": "2026-05-18T07:00:00+00:00",
-      "summary": "What to expect from Google this week&nbsp;&nbsp;MIT Technology Review"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert! Science News Releases",
@@ -176,6 +162,20 @@
       "source": "Medium",
       "published": "2026-07-04T07:00:00+00:00",
       "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHrAUFVX3lxTE1uemVtalkweXU3Y2xSQ3FjRmJrWjhJOGdPbmJwajVPSzZDZlgtSXN1eDk4MzdiN1Vsb3Q3NzhDd1JxZDhJa3VmeEVYeEp5YlZWdGVVald6bHp5Zm9ZYVl5T0loNkRwQ3h3aXRpdldGWmk0RE9xRlhQMTYza2VHMU50SE9MOEJDTTdlODh4VkZ6ZUs2bERiZVhuVWJXdGdSdzE4WUgta0IxRFBrQzVOT2U3Q09tTXNaRmpmU0poWlFmczdpUTFuNVZlbFdXdHJSVVhTY1NjdmtkX25wczlWQ3NBSmtyV2ExXzduMzQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
+      "source": "Towards Data Science",
+      "published": "2026-03-18T12:04:54+00:00",
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     }
   ]
 }
