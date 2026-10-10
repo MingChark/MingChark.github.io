@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T12:09:53.837496+00:00",
+  "generated": "2026-10-10T21:21:45.758247+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -45,13 +45,6 @@
       "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
     },
     {
-      "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
-      "source": "dicardiology.com",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
-    },
-    {
       "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
       "source": "Esri",
@@ -64,6 +57,13 @@
       "source": "shattered.io",
       "published": "2026-09-22T10:29:16+00:00",
       "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
+      "source": "dicardiology.com",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
