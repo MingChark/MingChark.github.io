@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T22:26:37.616104+00:00",
+  "generated": "2026-10-10T05:07:07.953984+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -17,18 +17,18 @@
       "summary": "Nvidia Is Opening the Door to Rival Chips&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "GlobalFoundries Can Profit From AI Without Making GPUs - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0plWUo2THViNFA0UUNfSjJjdFlJUW15M0JQM20tOXhHZTRKUlpiMGE4cTlsV2ZXdU8yOXhtVjFXLVB1Y3V6X1FSd1VzTU5PWnc5R2RYbHg0b0dUbV9WMDRZVUt6TjJQS1lEMktNRXF1VEJOazhRb3Y2bHh5V3ZuZVdJcFJKbHczTlVpcElMRXlxOVNCUFRCdllQSHRrUms?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-10-09T16:24:00+00:00",
-      "summary": "GlobalFoundries Can Profit From AI Without Making GPUs&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "Marvell's 0B Custom AI Chip Bet vs Nvidia [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SbldvOHhfR243ZXBhOGtRMkY5LWVlbW9VWVpsSksyMmFhT0xxYkk4TjhtVU8zZG5KbENSUmtIdldETHF1ZWV5UlRHY2FEQkhhMVhKVG1TRjFnTExKU1NOOTBDeE5HTk1SUmdFUGdLbnU3ZElySXR5bVp3?oc=5",
       "source": "shattered.io",
       "published": "2026-10-08T11:53:57+00:00",
       "summary": "Marvell's 0B Custom AI Chip Bet vs Nvidia [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "AMD Turned $10,000 Into More Than $1.2 Million. Can It Happen Again? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXFENFN5YzRwTnljWmJpVDEtR25wcG5EakxvX3gwbWpjMndfLW00eEVwQXZSVmdwY1JPQk9zWUlHZTRfYVNXRVY4TksySE12TnN1VVpFY240TV8tQjlOSEk3N21WRTJoajZMQ1liNjZtcUlVbUNkWUUtcXFuWE1tVEp6M0NZaHBjdE50cndFYjk0WER2OUluV0pYaE5hVlJEMFE0Q2FYY3RhTEE?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-10-09T12:45:00+00:00",
+      "summary": "AMD Turned $10,000 Into More Than $1.2 Million. Can It Happen Again?&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
@@ -66,20 +66,6 @@
       "summary": "The $500 Billion Question Causing Waves Across Every AI Stock: How Much Are Nvidia GPUs Actually Worth?&nbsp;&nbsp;The Motley Fool"
     },
     {
-      "title": "Dell expands AI Data Platform with shared data context and GPU acceleration - Tech Edition",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUxOa1dhZHJXa1lWOXNXMXN4QUR3c2pYcGZKS1VTNmlfdVhXNE9qZmFNaE14dTZreGdDSTNiekRQTmVaWEpONlBRLXBEYk1Cbm45c2xDN3RjZk4xd2ZVc3VYTmJVdjRLMURJNzZ5NDdWaXRDd29QQjhfR3pwUGlRSDJHbjMtR1pHd2gxTXFXVFlQRnRZV1BFVHdCaFR2WWJv?oc=5",
-      "source": "Tech Edition",
-      "published": "2026-10-09T01:02:05+00:00",
-      "summary": "Dell expands AI Data Platform with shared data context and GPU acceleration&nbsp;&nbsp;Tech Edition"
-    },
-    {
-      "title": "AMD Turned $10,000 Into More Than $1.2 Million. Can It Happen Again? - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXFENFN5YzRwTnljWmJpVDEtR25wcG5EakxvX3gwbWpjMndfLW00eEVwQXZSVmdwY1JPQk9zWUlHZTRfYVNXRVY4TksySE12TnN1VVpFY240TV8tQjlOSEk3N21WRTJoajZMQ1liNjZtcUlVbUNkWUUtcXFuWE1tVEp6M0NZaHBjdE50cndFYjk0WER2OUluV0pYaE5hVlJEMFE0Q2FYY3RhTEE?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-10-09T12:45:00+00:00",
-      "summary": "AMD Turned $10,000 Into More Than $1.2 Million. Can It Happen Again?&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
       "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNwcmVjVWZYRURJdk5vdm1TR082V2c3ZGlhVnhSRFktYjlOWUtBakk2aTdubndLYTZBMkU0RG9FanBDWEw1QXQ1ZDZyMkNBNElueUJXSXdmSUFjZTU0bUVVM2dzUEhfR0JTVDdQVnJ4SGdSV3JhTGtnTXJfZTlCV05CWFh5TmtzQ0p0NE5kWVdKaVNw?oc=5",
       "source": "Investor's Business Daily",
@@ -94,6 +80,13 @@
       "summary": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs.&nbsp;&nbsp;The Globe and Mail"
     },
     {
+      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-09-26T07:00:00+00:00",
+      "summary": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
       "title": "AMD CEO Discusses AI Collaboration with Samsung, SK Hynix - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQV9TZGlsaGhKbmZsdmItbk10QktvU1pad1pyVTgzVWpQb05WYXB3OFR4MHEydlc1N0JYM2NKaG5OZUstLVAwV0drZ2t2Z1g1UmlPZW9vUmw0RS14QXY0SXlsWmUzcWw3OWJHOVhaM1hyQ3hONFlYeDU4SXFSbDJvbnVCZjZXdTdh?oc=5",
       "source": "조선일보",
@@ -101,11 +94,11 @@
       "summary": "AMD CEO Discusses AI Collaboration with Samsung, SK Hynix&nbsp;&nbsp;조선일보"
     },
     {
-      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-09-26T07:00:00+00:00",
-      "summary": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD)&nbsp;&nbsp;Seeking Alpha"
+      "title": "Dell expands AI Data Platform with shared data context and GPU acceleration - Tech Edition",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUxOa1dhZHJXa1lWOXNXMXN4QUR3c2pYcGZKS1VTNmlfdVhXNE9qZmFNaE14dTZreGdDSTNiekRQTmVaWEpONlBRLXBEYk1Cbm45c2xDN3RjZk4xd2ZVc3VYTmJVdjRLMURJNzZ5NDdWaXRDd29QQjhfR3pwUGlRSDJHbjMtR1pHd2gxTXFXVFlQRnRZV1BFVHdCaFR2WWJv?oc=5",
+      "source": "Tech Edition",
+      "published": "2026-10-09T01:02:05+00:00",
+      "summary": "Dell expands AI Data Platform with shared data context and GPU acceleration&nbsp;&nbsp;Tech Edition"
     },
     {
       "title": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU - TechPowerUp",
@@ -164,6 +157,13 @@
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "title": "PhotoPrism AI-Powered Photos App Gets Better Image Recognition, NVIDIA GPU Support - Linuxiac",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVBuTjc3ZnNXSkxaemYxZVU1ZGxfVW54dWNqMjBSZW1yd29pNGw5akhycGw1c1BiNXVUTk1NOVdvUnB1aWt4WlhLNDNiWWh6OTFoWXpzUG8yUVdCbGM3eW53Q0oxWTJFdnhyNm5NTHpHeVhvaUxwSHhvWmhpSGVad1haU18?oc=5",
       "source": "Linuxiac",
@@ -171,11 +171,11 @@
       "summary": "PhotoPrism AI-Powered Photos App Gets Better Image Recognition, NVIDIA GPU Support&nbsp;&nbsp;Linuxiac"
     },
     {
-      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-19T07:00:00+00:00",
-      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
+      "title": "ChatGPT’s Chip Is Cheaper Than Nvidia’s. It’s Harder to Borrow On - Business Model Analyst",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVNHTW9BMFR1MG5YNHY4MnB0YlpCNERKQktzMmVTM0tiWGlpWGJXT0ZFOVZsTzN5VmlTbUEzODcybWdzSTNRWDljd3lMNEZDRUhrblhPTElxZXU3MThLZmNsai1ZejFxWTFOblEyWjJMWHN1NHdmWlBxWE1wdGtBUTZINmduTnZR?oc=5",
+      "source": "Business Model Analyst",
+      "published": "2026-10-08T12:21:59+00:00",
+      "summary": "ChatGPT’s Chip Is Cheaper Than Nvidia’s. It’s Harder to Borrow On&nbsp;&nbsp;Business Model Analyst"
     }
   ]
 }
