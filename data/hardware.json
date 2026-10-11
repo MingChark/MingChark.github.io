@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T21:21:45.758247+00:00",
+  "generated": "2026-10-11T04:57:01.967467+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -73,13 +73,6 @@
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "title": "Nvidia reportedly plans to invest in rival AI chip startup d-Matrix - Tbreak UAE",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTFd2NjJJeHRXVHYtVWgxSTNrRHJWYnBSazNUSXJtSFliWWtBbU9RV0dTaVpSdkdFQ0xXakpHLUJ5WTFXT2tBam16dVdWOERGeG1BNWlMc2NPZw?oc=5",
-      "source": "Tbreak UAE",
-      "published": "2026-10-10T06:31:00+00:00",
-      "summary": "Nvidia reportedly plans to invest in rival AI chip startup d-Matrix&nbsp;&nbsp;Tbreak UAE"
-    },
-    {
       "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
       "source": "Seeking Alpha",
@@ -143,13 +136,6 @@
       "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
       "source": "NVIDIA Newsroom",
@@ -157,11 +143,11 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
     },
     {
       "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
@@ -171,11 +157,25 @@
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
     },
     {
+      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-19T07:00:00+00:00",
       "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-09-17T07:00:00+00:00",
+      "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia&nbsp;&nbsp;TechCrunch"
     }
   ]
 }
