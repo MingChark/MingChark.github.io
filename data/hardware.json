@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-11T21:40:06.162312+00:00",
+  "generated": "2026-10-12T05:11:26.564708+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "How Is AMD Chasing Nvidia in AI Accelerators? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGFmanJZa1RWelF3c2FxaWc4QnA0Wl9yNUxmTDgxU1NYbmFIN2loamRiSHdSclpCZG8wXzdWZjFrTF9abjlzeHpCYlNYT3MtU284blV2V25nampZa3pIT1plWGdNWnBPVzdlT0sxQ0hqRFJVbnVQUU42WlJmVFlmTWp6VjVGUWdvOG9JS09BZUlVazN1WHZKb2pVZl9NWUdXTEh5TnhR?oc=5",
-      "source": "Kalkine Media",
-      "published": "2026-10-11T20:59:00+00:00",
-      "summary": "How Is AMD Chasing Nvidia in AI Accelerators?&nbsp;&nbsp;Kalkine Media"
+      "title": "NVIDIA-Backed Upscale AI Wants to Make Rival AI Chips Work Together - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkxvdWtiYWhIMEstUFRfMWNhSXBnVFUwbWF5Sm92RlZKMHQ5LXJYS1NXcVBTNk1EUThqbXhnTGRWX3RTMV9nYVNYY0hyeDVRY1BiWWc4UkpGRmFCcXhNLXR2UVpwdnlKOERWV3pZMGpyUl9UUUpDZ1VRUTg3X3MxTFEzSjFTLXo0WXduNkVfMGxNMi1oWUlIZzZfTFA3c3Ezc3lKMXBlanlUTFJJMTNtUFVB?oc=5",
+      "source": "HPCwire",
+      "published": "2026-10-09T15:12:56+00:00",
+      "summary": "NVIDIA-Backed Upscale AI Wants to Make Rival AI Chips Work Together&nbsp;&nbsp;HPCwire"
     },
     {
-      "title": "Nvidia-Backed Upscale AI Launches Token Fabric to Link Rival AI Chips - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSE5RUmV4dnlwVWZHd0czeU90VWlqMTlpZGU5S09iOUMwVnlDcG43elhPRGRNUk5zOXJOYzRjSEl3aGJHVGpnTmtVMklsV0VvSGRJTHF1VlllaGxER3NtbEMtMENWZnVtcmdwckNKOUlKVFQwcE1yWU5oVWtpcGdlLV95dFFHN0NtemxFVA?oc=5",
-      "source": "Technology Org",
-      "published": "2026-10-09T13:12:00+00:00",
-      "summary": "Nvidia-Backed Upscale AI Launches Token Fabric to Link Rival AI Chips&nbsp;&nbsp;Technology Org"
+      "title": "Azure Evolves Into Full-Stack AI Infrastructure Platform - Redmondmag.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOU5vT0x1R1NLclpwVU5CdzRaZmh2ZC1nc19NekhNREdFbGs1UkZKSGMtSGlMbWFTck1kMk5GeTVnSXBUTFhTNC1ZNl9EbnpJZm5JU3AyQ2hlNzFadnMzcUYwYWs3SDNFYU1IaWZOdnhtOGhrX25SaXBvTjJtWWFka0s1cUpKelFMcExqXzJhWXIxUTJ2bFRSU05XdnZ6QQ?oc=5",
+      "source": "Redmondmag.com",
+      "published": "2026-10-08T21:46:01+00:00",
+      "summary": "Azure Evolves Into Full-Stack AI Infrastructure Platform&nbsp;&nbsp;Redmondmag.com"
     },
     {
       "title": "Marvell's 0B Custom AI Chip Bet vs Nvidia [2026] - shattered.io",
@@ -24,18 +24,18 @@
       "summary": "Marvell's 0B Custom AI Chip Bet vs Nvidia [2026]&nbsp;&nbsp;shattered.io"
     },
     {
+      "title": "How Is AMD Chasing Nvidia in AI Accelerators? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGFmanJZa1RWelF3c2FxaWc4QnA0Wl9yNUxmTDgxU1NYbmFIN2loamRiSHdSclpCZG8wXzdWZjFrTF9abjlzeHpCYlNYT3MtU284blV2V25nampZa3pIT1plWGdNWnBPVzdlT0sxQ0hqRFJVbnVQUU42WlJmVFlmTWp6VjVGUWdvOG9JS09BZUlVazN1WHZKb2pVZl9NWUdXTEh5TnhR?oc=5",
+      "source": "Kalkine Media",
+      "published": "2026-10-11T20:59:00+00:00",
+      "summary": "How Is AMD Chasing Nvidia in AI Accelerators?&nbsp;&nbsp;Kalkine Media"
+    },
+    {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-10-06T16:15:56+00:00",
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Nvidia Is Opening the Door to Rival Chips - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWRIeGlFYVR2dVU0Q3hFMEhrWkw5dGRxdHMtNFVJZUdGSzlhZ29ndjdzVkZheGFnRzdHMVI4dVhzVE9VSzBvUnVDdE5oQ2lBc19RUjBYcUs1TnJramtlZkpxc29TZUlxMzlEdVVzemJhb25pMlVGZ2I0Mkc5MkRjVlhGZU5RWUp2cHhrMXE3U2NpZktZdVl5Q3N5LWFZTU5STmJN?oc=5",
-      "source": "TradingView",
-      "published": "2026-10-09T17:14:41+00:00",
-      "summary": "Nvidia Is Opening the Door to Rival Chips&nbsp;&nbsp;TradingView"
     },
     {
       "title": "AMD Turned $10,000 Into More Than $1.2 Million. Can It Happen Again? - 24/7 Wall St.",
@@ -87,11 +87,25 @@
       "summary": "Nvidia is no longer just an AI chip company. It is financing the revolution it built&nbsp;&nbsp;CTech"
     },
     {
+      "title": "Dell expands AI Data Platform with shared data context and GPU acceleration - Tech Edition",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUxOa1dhZHJXa1lWOXNXMXN4QUR3c2pYcGZKS1VTNmlfdVhXNE9qZmFNaE14dTZreGdDSTNiekRQTmVaWEpONlBRLXBEYk1Cbm45c2xDN3RjZk4xd2ZVc3VYTmJVdjRLMURJNzZ5NDdWaXRDd29QQjhfR3pwUGlRSDJHbjMtR1pHd2gxTXFXVFlQRnRZV1BFVHdCaFR2WWJv?oc=5",
+      "source": "Tech Edition",
+      "published": "2026-10-09T01:02:05+00:00",
+      "summary": "Dell expands AI Data Platform with shared data context and GPU acceleration&nbsp;&nbsp;Tech Edition"
+    },
+    {
       "title": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets - KBRA",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWURoMVZnNE83U252WEtFM2thVmJNY2EtQ0hiRGVaVDIwdVBsVlloMHRqZ1BPYmJRV010Q3lwUm1VWXo0VDZaYXo4MGxkV0l3a3d1bFExckpqRlJydXpPMzdFTVRVeFJpNnlDeGs3MUxlLVo0VVlHc0JCUTZHRmIzT3p3MGFBbUNRclFZQWJVS1FQb2xoMHI0WktHc05pRGtZY1JubDNjbFpJT1FhVEFBZ2tXdlE5R054Qzd0RXJPR3hJVUowQzU1eUt1MUFfQXlrc0N3N24tRVlTQm9Fbjl3Y2x3?oc=5",
       "source": "KBRA",
       "published": "2026-07-27T07:00:00+00:00",
       "summary": "AI Credit: AI Compute Infrastructure—Cross-Sector Credit Considerations for GPU-, TPU-, and Accelerator-Intensive Assets&nbsp;&nbsp;KBRA"
+    },
+    {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
@@ -106,13 +120,6 @@
       "source": "Kalkine Media",
       "published": "2026-10-08T03:57:00+00:00",
       "summary": "Is Advanced Micro Devices (NASDAQ:AMD) Just Pausing as AI Chips Cool?&nbsp;&nbsp;Kalkine Media"
-    },
-    {
-      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog - NVIDIA Developer",
@@ -136,11 +143,11 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
+      "title": "Nvidia’s AI CPU Push Threatens Intel and AMD - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY24tZFZJTE1qeE1vc3poSjFlSG9wTVdvZ3BKV1FwZ3hLRWd5QjVfNkRUanB2ZEhoNGNTdFhPdm55Q0VrbDRZbnJTenVFYlowcHVDVUZIUVpkVUVqZXZMQlZNRFUtTXUwTWtvdmw5ZmdaZlFhMEZBZ3g2T0V5eUhiS1hBSTFYUFFkelBXRVRvbGw?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Nvidia’s AI CPU Push Threatens Intel and AMD&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
@@ -150,6 +157,13 @@
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
       "source": "TechCrunch",
@@ -157,25 +171,11 @@
       "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
-      "source": "The Japan Times",
-      "published": "2026-09-17T07:00:00+00:00",
-      "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign&nbsp;&nbsp;The Japan Times"
-    },
-    {
       "title": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud - IBM Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczQ0bnRwU3FTN2NaN0wzbUVkbGxtYUZkcm5wa2F4R2E4T1VlYnJBTjVzR1VHWFJCelZ5ZHVSUFdyOU5YcjItRnd3aUQ3c2JsWjN2eFZSM0VHM1pONFdCYXRnNUc1cVpaVC1yOXdVR04yMDV5LW9oaGFjelJfclFTOG1EdkZ5LTQxb1RBbEl5Z2tmeklKUm5jdElUam1uN2ZZNmRlVGZjeW9QQ2tUY1R2RG9Kc09FNGg1b1Jid21NTFBheGdYTnNOdWZhVjhJVmJGWUF4bUI3VXV1eVVWa2ticXJsRFJoMl9qOHp4MTZPZw?oc=5",
       "source": "IBM Newsroom",
       "published": "2026-08-11T07:00:00+00:00",
       "summary": "IBM and Together AI Sign Multi-Year Agreement to Scale Open-Source AI Inference with NVIDIA AI Infrastructure on IBM Cloud&nbsp;&nbsp;IBM Newsroom"
-    },
-    {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-07-07T07:00:00+00:00",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
