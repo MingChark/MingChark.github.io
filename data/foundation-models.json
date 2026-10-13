@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T14:52:51.652510+00:00",
+  "generated": "2026-10-13T00:21:45.793594+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -122,18 +122,18 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHrAUFVX3lxTE1uemVtalkweXU3Y2xSQ3FjRmJrWjhJOGdPbmJwajVPSzZDZlgtSXN1eDk4MzdiN1Vsb3Q3NzhDd1JxZDhJa3VmeEVYeEp5YlZWdGVVald6bHp5Zm9ZYVl5T0loNkRwQ3h3aXRpdldGWmk0RE9xRlhQMTYza2VHMU50SE9MOEJDTTdlODh4VkZ6ZUs2bERiZVhuVWJXdGdSdzE4WUgta0IxRFBrQzVOT2U3Q09tTXNaRmpmU0poWlFmczdpUTFuNVZlbFdXdHJSVVhTY1NjdmtkX25wczlWQ3NBSmtyV2ExXzduMzQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
+    },
+    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -143,18 +143,18 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHrAUFVX3lxTE1uemVtalkweXU3Y2xSQ3FjRmJrWjhJOGdPbmJwajVPSzZDZlgtSXN1eDk4MzdiN1Vsb3Q3NzhDd1JxZDhJa3VmeEVYeEp5YlZWdGVVald6bHp5Zm9ZYVl5T0loNkRwQ3h3aXRpdldGWmk0RE9xRlhQMTYza2VHMU50SE9MOEJDTTdlODh4VkZ6ZUs2bERiZVhuVWJXdGdSdzE4WUgta0IxRFBrQzVOT2U3Q09tTXNaRmpmU0poWlFmczdpUTFuNVZlbFdXdHJSVVhTY1NjdmtkX25wczlWQ3NBSmtyV2ExXzduMzQ?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
-    },
-    {
       "title": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG5odDJBSG5RaHI4YmZJc0NzdkZCdklaQkMxeDcyR0NuczZqSnNaOFM2a0xmMjlLTzhzLUktV0VSeXVDVE1ZVnpLTmNpYm9wREc1VF8yenVwU3JXVnV0cExtdldvaDJobkhkMXpjS1lIS21kSkNLWm5DSU0wdnZveHVtV0N5RlpTUVhhaFduaS1hWTZFU210d21wRUFXOC01WkRpSW5OQUR6dzJPYmZjYzNJVmx2bDFQdHRpekl1elpLTUJkWTRndw?oc=5",
       "source": "PR Newswire",
       "published": "2026-03-24T07:00:00+00:00",
       "summary": "Feedzai Unveils RiskFM AI Foundation Model for Financial Crime Prevention&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert! Science News Releases",
