@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T11:05:48.343690+00:00",
+  "generated": "2026-10-15T16:36:51.078911+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "source": "Forbes",
       "published": "2026-10-13T09:09:50+00:00",
       "summary": "Startup Releases 50-Billion-Parameter Physical General Foundation Model For Instant Robot Intelligence&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
@@ -52,18 +59,18 @@
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
-      "title": "What are Large Language Models (LLM)? - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
-      "source": "Databricks",
-      "published": "2026-03-02T18:50:57+00:00",
-      "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
-    },
-    {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
       "source": "dicardiology.com",
       "published": "2026-07-23T07:00:00+00:00",
       "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
+    },
+    {
+      "title": "What are Large Language Models (LLM)? - Databricks",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
+      "source": "Databricks",
+      "published": "2026-03-02T18:50:57+00:00",
+      "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -129,18 +136,25 @@
       "summary": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026&nbsp;&nbsp;Medium"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
-    },
-    {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
+      "source": "AI at Meta",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
+    },
+    {
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
@@ -162,20 +176,6 @@
       "source": "EurekAlert! Science News Releases",
       "published": "2026-01-05T08:00:00+00:00",
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert! Science News Releases"
-    },
-    {
-      "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "Medium",
-      "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
-    },
-    {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "FICO",
-      "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
     }
   ]
 }
