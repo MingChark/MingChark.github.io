@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T21:25:06.624738+00:00",
+  "generated": "2026-10-15T03:55:43.354568+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,11 +24,18 @@
       "summary": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VW1pdjNUdnhwXzJMREExUzNncThnX1BmX0FXYlladFpYUnNaYWJoUkdNYjg1TWJydFdmaE9pTUdGWmRkU0xGSHo1LXdINWIzaHNMTXcxcE5kcXVudFhwWmNubGlqRWNURlc1eWxZanpuSDA?oc=5",
-      "source": "https://tech-insider.org/",
-      "published": "2026-10-14T15:46:25+00:00",
-      "summary": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026]&nbsp;&nbsp;https://tech-insider.org/"
+      "title": "Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JNVJSMHBtb0RuaDMyZU42Z1RpZ2Q1TmlqeUFYZ1pTcmV5WE9pai1kZk9HZXpsQmVrVC1Ra19RLXJ6MnVjaU9FVzlZQnJvamNXTVk0WkQ3OTh1bDF6OEw3WmtsTVMzbW4zTmNqM2VQcWFnRURH?oc=5",
+      "source": "Businesskorea",
+      "published": "2026-10-15T01:06:18+00:00",
+      "summary": "Microsoft Unveils Maia 300, Challenging Nvidia’s AI Chip Dominance&nbsp;&nbsp;Businesskorea"
+    },
+    {
+      "title": "NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing - EE Times Asia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHZYY1pGc08xUHQwSGhQN055UDdpY0lfN25oRWswUjM5bHByUmFSbFRpYjJCZlZ0SjZ2dzh3MEgwQkRDajZlNUpUSEVDaW9oNktvZHBieUFzNGlPWnk2U2JaTkZUVnBVTkgzelRpWW95MG5BYU1sUFByR0lDaFpfSE10dV9PZmQ2ZE1aNTQ5WDFhc0xaNlBWdW0yZw?oc=5",
+      "source": "EE Times Asia",
+      "published": "2026-10-15T02:11:17+00:00",
+      "summary": "NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing&nbsp;&nbsp;EE Times Asia"
     },
     {
       "title": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS - ASUS Pressroom",
@@ -36,6 +43,13 @@
       "source": "ASUS Pressroom",
       "published": "2026-10-13T01:39:52+00:00",
       "summary": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS&nbsp;&nbsp;ASUS Pressroom"
+    },
+    {
+      "title": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VW1pdjNUdnhwXzJMREExUzNncThnX1BmX0FXYlladFpYUnNaYWJoUkdNYjg1TWJydFdmaE9pTUdGWmRkU0xGSHo1LXdINWIzaHNMTXcxcE5kcXVudFhwWmNubGlqRWNURlc1eWxZanpuSDA?oc=5",
+      "source": "https://tech-insider.org/",
+      "published": "2026-10-14T15:46:25+00:00",
+      "summary": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
       "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth - Tom's Hardware",
@@ -66,13 +80,6 @@
       "summary": "AMD Stocks Fall 3.8% Although Helion Targets AI Agents With 32,768-Core Racks&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcmFwenlQdlYxYkxLTlJJaklrVzNfdTk4ZmROY3ZDb0tFeF9WRGFjNFkxQkk3MV85NzFJV256OGJUc3RzRGZTYmxOOEwtbUhWRVVj?oc=5",
-      "source": "36Kr",
-      "published": "2026-10-14T08:50:21+00:00",
-      "summary": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips&nbsp;&nbsp;36Kr"
-    },
-    {
       "title": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks - The Register",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb01VY2FSTlM0X2ZOQ2d1aEJMcG9CaFBVcVNSY0ZqN21odVpqTjhiaXZmNlkyU1FJb25fTlFDVzF1N2VDbEM3Sk8ySW1YV3VIQ0hXSzdRSE1JblpjQ1VqZllzX1F0VVFLLUNMOV9aSWtobkg1V3pZRVVoTWNjaXBzQWFIdC1HbWpRUmdjYWNwc085eFhsZzR1QXRGbE9uS2hHd0hIbnlqcG9GNGdJcDhxeUNpVmNsd3dDblhGbV9kSUJJcHl1MVZwYjBjMHJCMkRkdGpj?oc=5",
       "source": "The Register",
@@ -80,18 +87,11 @@
       "summary": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks&nbsp;&nbsp;The Register"
     },
     {
-      "title": "Server AI Chip Industry Insights: Computing Trends - SNS Insider",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RNzcxY1hfQWhqNTN1MW9sSGk5bXFTWkJaWEE5bkJrc3NuOHhpN3J5OWVtdWRPTEZSMVJWWi0xc3JlbFl2aWxTdy02OGY5cGVxX0F2djAtSG9IZjdQeGd5UkZrc191WVk?oc=5",
-      "source": "SNS Insider",
-      "published": "2026-10-14T08:01:46+00:00",
-      "summary": "Server AI Chip Industry Insights: Computing Trends&nbsp;&nbsp;SNS Insider"
-    },
-    {
-      "title": "Nvidia's China AI Chip Share Plunges to 34%; Huawei Closes Gap to 6 Points at 28% - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeHV2OWV5eVVOTXJldnZfWkw3bnRoNU5VMUlYMW43X1JDbllSaFk0bFpEQ2tyc3doR19LdnJQNUh1cVRFTWlvdVRWenBSTUZ0bkhqSlQxb0dCRTNOU2FqbURSWkRBN0xpRkloVUxuM21LWVZHZkE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-14T04:05:00+00:00",
-      "summary": "Nvidia's China AI Chip Share Plunges to 34%; Huawei Closes Gap to 6 Points at 28%&nbsp;&nbsp;BigGo Finance"
+      "title": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcmFwenlQdlYxYkxLTlJJaklrVzNfdTk4ZmROY3ZDb0tFeF9WRGFjNFkxQkk3MV85NzFJV256OGJUc3RzRGZTYmxOOEwtbUhWRVVj?oc=5",
+      "source": "36Kr",
+      "published": "2026-10-14T08:50:21+00:00",
+      "summary": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips&nbsp;&nbsp;36Kr"
     },
     {
       "title": "AMD unveils Helion as agentic AI fuels demand for data center CPUs - Network World",
@@ -104,8 +104,15 @@
       "title": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency - Ynetnews",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaW9GR0FyMklyc3piSVNLNDRRcEZ5M09yaXpaR3EzV05aUlZoRXEzQ2Q2X3I1bTBDZUg1NDJtaFE5RkNScl9XMG40cHFGRWZaakVJX3ozZzRZV3YzQ0R2MGR0b3FmZUw3bl9veA?oc=5",
       "source": "Ynetnews",
-      "published": "2026-10-12T14:08:08+00:00",
+      "published": "2026-10-12T14:12:18+00:00",
       "summary": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency&nbsp;&nbsp;Ynetnews"
+    },
+    {
+      "title": "Nvidia Loses Ground to Huawei in China AI Chip Market - StratNews Global",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTVaZDAyUHM3bmc3dnFWVUNCczBfQXdMTXBXeDFRN3BGUTRRRmhxSXJlNmhuOGdKVlNkR0lWajktNWRxMW8temlxbTJpbFd1M3JNUGRlM2Jmd0swd1N0WURidjBaZDdfRlprRHdjTG0zWHNtTTdrS2VkMG91ODY4VTdSeC0xd2tkU2hHdC13?oc=5",
+      "source": "StratNews Global",
+      "published": "2026-10-13T08:28:10+00:00",
+      "summary": "Nvidia Loses Ground to Huawei in China AI Chip Market&nbsp;&nbsp;StratNews Global"
     },
     {
       "title": "ASML: AI Demand Tops Chip-Tool Supply Through 2028 [2026] - https://tech-insider.org/",
@@ -122,13 +129,6 @@
       "summary": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "6% Gap Between NVIDIA & Huawei: China's AI Chip Market Competitive Landscape Shifts - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91bDJ2dU9tYnMtZ0Z6SVFTOUczYjBBWWRfM3FvZnZLRUNKOXV3SkNWcUhuc2Q3cEdlQTZIYlhYU01HYkZvaHY0ZUl1b0tIbnRqeHFv?oc=5",
-      "source": "36Kr",
-      "published": "2026-10-14T05:02:16+00:00",
-      "summary": "6% Gap Between NVIDIA & Huawei: China's AI Chip Market Competitive Landscape Shifts&nbsp;&nbsp;36Kr"
-    },
-    {
       "title": "Nvidia China Share Drops to 34% as Huawei Hits 28% [2026] - https://tech-insider.org/",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGtFX2k4d1dpUDUyUU9DMFpiNGZxeEpfdmtlemNLZjE0alpZS0MwX1RZOXFBaFhCdE5kTmllU1I4M044czNTbDBUeEVCTDA0bGIxSlZianBPNmgyZm9mdnZDY3dtRjNzLUs1M1RCQmRYQnlwSWMtMWFrWmd0eC1rQlo1ZWt6bmd3?oc=5",
       "source": "https://tech-insider.org/",
@@ -143,27 +143,6 @@
       "summary": "HBM4 Shortage: Price Jumps 117% as AMD Chases Supply [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
-      "title": "Nvidia Loses Ground to Huawei in China AI Chip Market - StratNews Global",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTVaZDAyUHM3bmc3dnFWVUNCczBfQXdMTXBXeDFRN3BGUTRRRmhxSXJlNmhuOGdKVlNkR0lWajktNWRxMW8temlxbTJpbFd1M3JNUGRlM2Jmd0swd1N0WURidjBaZDdfRlprRHdjTG0zWHNtTTdrS2VkMG91ODY4VTdSeC0xd2tkU2hHdC13?oc=5",
-      "source": "StratNews Global",
-      "published": "2026-10-13T08:28:10+00:00",
-      "summary": "Nvidia Loses Ground to Huawei in China AI Chip Market&nbsp;&nbsp;StratNews Global"
-    },
-    {
-      "title": "ASUS Unveils XA P2N-E2 Powered by NVIDIA Vera CPU for Agentic AI Workloads - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTBScnpiOEw4dm41cVhELU9uQVRyS29kdzlka2tGT0dNV2dyWi11c2kxWEcxV2hyQjVqV0ZnenZxWlB5Vm50dkJ1ZmtOOXFCVDFDZG9xYjkwNGx6d2syZ3ZMLVJxNGtiYUxOOTJMcEEwcjFyTEtIZVRmQXdCQWtWY1oybnFMNlBJRktoZVFib2Q2SVJncUE5dUNiaVB3ZFJySjZlTVc2MmFQM25wV3ZycVc2Q3hwSXZZ?oc=5",
-      "source": "HPCwire",
-      "published": "2026-10-13T18:35:56+00:00",
-      "summary": "ASUS Unveils XA P2N-E2 Powered by NVIDIA Vera CPU for Agentic AI Workloads&nbsp;&nbsp;HPCwire"
-    },
-    {
-      "title": "US Curbs Cut Nvidia’s China AI Chip Share to 34% as Huawei Gains Ground - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IYnBBalUybGhwaWs3ZWFGVFBDOFItOUMwRHNCTnBsQmdMUE5FVWUyV2o2Rmx2aWJQQjM3UUVHTld4TUpuajhwaVcwbVA3bGJVYTVEQw?oc=5",
-      "source": "bloomingbit",
-      "published": "2026-10-14T05:35:43+00:00",
-      "summary": "US Curbs Cut Nvidia’s China AI Chip Share to 34% as Huawei Gains Ground&nbsp;&nbsp;bloomingbit"
-    },
-    {
       "title": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44% - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFoWld0RzFpYUVpUHh5WHhZSE9rcGZnVkpRZEhQYWdNTUpodUdMdENwT2djcFZjWjA2Qi1MMlF4Mkd2UVZ3ajhXRG5HX1FOeFBfeWFWcmZzSWFNcU5BZU96cVVsNkVyTG85ZFBoMXZxSjg4ajVPU29Tc2d4ZHFXWHAzbHZaMG55djk3ZWNhY3VXNy15YnRMekFhU2dLVVBEZldqOU52TWlrYmZCOXh5M3E2TVZYN09Xb1Zr?oc=5",
       "source": "TradingView",
@@ -176,6 +155,27 @@
       "source": "Startup Fortune",
       "published": "2026-10-13T19:10:42+00:00",
       "summary": "Intel Names Its AI Inference Chip the GPU D270, With 480GB of Memory&nbsp;&nbsp;Startup Fortune"
+    },
+    {
+      "title": "Nvidia's China AI Chip Share Plunges to 34% as Huawei Closes In at 28% - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWmJZVjAyRDBBaUxkWmZpZlhoN3RHMG1lR2dDLUNQZmhfemhlbGhjdUp2UVFTRGplRjB5dU01SFpvQUhFLXQ1VUpIWTRmdWlhbnZiZGo4aWFTdEZhNHFUZjBjbklrWUdOV09IcVlJMmtLMk5JbXc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-10-13T05:25:00+00:00",
+      "summary": "Nvidia's China AI Chip Share Plunges to 34% as Huawei Closes In at 28%&nbsp;&nbsp;BigGo Finance"
+    },
+    {
+      "title": "Server AI Chip Industry Insights: Computing Trends - SNS Insider",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RNzcxY1hfQWhqNTN1MW9sSGk5bXFTWkJaWEE5bkJrc3NuOHhpN3J5OWVtdWRPTEZSMVJWWi0xc3JlbFl2aWxTdy02OGY5cGVxX0F2djAtSG9IZjdQeGd5UkZrc191WVk?oc=5",
+      "source": "SNS Insider",
+      "published": "2026-10-14T08:01:46+00:00",
+      "summary": "Server AI Chip Industry Insights: Computing Trends&nbsp;&nbsp;SNS Insider"
+    },
+    {
+      "title": "AMD unveils Helion racks for AI agents at OCP summit - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNG40VDRTdG9QUkFIdUtwTzJYWlJkVVpIbS1menp0bGtaWkNYbzNsOWtROVFhRVp3MUk1SmFrMWs4eW00VUJUWHJtY0VFWDRnNDF1a0VZc3NMT0owU0hwQzJvLURaaXF6QjFRRTRxeXM2VGRyVl9tZXFHQWQyRWlrU3Z6NzhkWlNmaXBSTXhUMllBMWV0MVU5bmtiZWRSd0N3MHFWUVFyMVgtb3M?oc=5",
+      "source": "The Register",
+      "published": "2026-10-12T15:51:36+00:00",
+      "summary": "AMD unveils Helion racks for AI agents at OCP summit&nbsp;&nbsp;The Register"
     }
   ]
 }
