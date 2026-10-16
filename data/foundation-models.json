@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T21:06:30.852057+00:00",
+  "generated": "2026-10-16T03:51:42.953854+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "Startup Releases 50-Billion-Parameter Physical General Foundation Model For Instant Robot Intelligence&nbsp;&nbsp;Forbes"
     },
     {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
-    },
-    {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -73,6 +73,13 @@
       "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
     },
     {
+      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
@@ -92,13 +99,6 @@
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
-    },
-    {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",

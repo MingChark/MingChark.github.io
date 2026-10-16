@@ -1,14 +1,7 @@
 {
-  "generated": "2026-10-15T21:06:30.852057+00:00",
+  "generated": "2026-10-16T03:51:42.953854+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-10-14T16:19:53+00:00",
-      "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
-    },
     {
       "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
@@ -17,18 +10,18 @@
       "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TFRqdC1sTjdmcmhrZXVsdGtFN21ZdHhKcEZPa0VqNE5XUVNzSEltUWVaSF9pWDM2YXRLSVVVZEl5QU1reWpRVUcxZ3RPM3pQckJ5ZE9Wcw?oc=5",
-      "source": "https://economy.ac/",
-      "published": "2026-10-15T03:27:27+00:00",
-      "summary": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization&nbsp;&nbsp;https://economy.ac/"
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-13T21:40:40+00:00",
+      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmU2RmR3bm5TaUl2RFgxcVZpTk4tNXNaN2xwdi1pdE1SQTdzenhsZ2d5UTlRVG5TczR1aXU5ZW9xcmRuTm1BSDFvaTNGbFBicGhfNU9iNTQ2am5nb0tISlZGUXc3RUs5alhsY1dhdVFDVFJpTkE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-15T07:26:00+00:00",
-      "summary": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time&nbsp;&nbsp;BigGo Finance"
+      "title": "Adobe, NVIDIA Expand Their AI Partnership - TVTechnology",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNER6cmtrUzU2TWxZMVhNM0pzbEZoVlRmM24tbE8zY0h0UFNGN2c2bk5GTDlEOUdrbkxrRExjc1R2bFlvVVcwaEdkUHl0bTRmV0ZZMko5YUZGbVIyYU9LUm1EZ0hBeWpUZWh1aW9MQ2VQaEdQbVZlLWxVZjhrNWh5QXdrQ2lvWkU?oc=5",
+      "source": "TVTechnology",
+      "published": "2026-10-15T20:34:55+00:00",
+      "summary": "Adobe, NVIDIA Expand Their AI Partnership&nbsp;&nbsp;TVTechnology"
     },
     {
       "title": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground - Mexico Business News",
@@ -45,39 +38,25 @@
       "summary": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS&nbsp;&nbsp;ASUS Pressroom"
     },
     {
-      "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOXd1M3pZdFA0UGZVOXF0RFhrM1YxdjAzakxEdFN5YWNUWmVoRlBkaEVPRUZnaXc1SGVEZlVQTmtreGVPd29sVDh3UkpQYWEzb1pHb1hZbUhOSUIxWEozb00xZFBUcTBRR3kzcVRuR2FabGRrS19YMUR0blhnSDdEbWlZLTVxbGxkNFMzSUNreUtBaUQ2aUpXZzBVUWtDWnlYU3g1Y0hhT0s2QTRPTXhjVnRmaWUyMVFsRElSdFNLTHBfYWdTZWpiYnZEMm5PbHFfQjY2NGx3eWpTVFZNUVFGSmJtc1BiYmluWks5UGFhNDgyUmFqUzJ5aHpaTWFEMk42cXcwU2oyT2dSamc5R1FMMGQwdDk3VFRKcm83bWlsaURaS0cxTmhaOHFvMzRxanBSOU5zU3k3VVYzb0pCQW1QN0UwUVZxNGZqZ0E?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-12T19:48:14+00:00",
-      "summary": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth&nbsp;&nbsp;Tom's Hardware"
+      "title": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmU2RmR3bm5TaUl2RFgxcVZpTk4tNXNaN2xwdi1pdE1SQTdzenhsZ2d5UTlRVG5TczR1aXU5ZW9xcmRuTm1BSDFvaTNGbFBicGhfNU9iNTQ2am5nb0tISlZGUXc3RUs5alhsY1dhdVFDVFJpTkE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-10-15T07:26:00+00:00",
+      "summary": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time&nbsp;&nbsp;BigGo Finance"
     },
     {
-      "title": "What Does Advanced Micro Devices (AMD) Helion Mean For Its AI Ambitions? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXFScUxqdWtjU3JiWUh2T2lBMllfYUxTQUQyejVWN3lrdzRmQ2hJMTRwWV9Pb1dFeWpCVi1aTDlNOWt6ejVuaWlnMndwdjdlXzRKdjRDeGctVEUtcVJJZkF6SG5XOVMwWnRGZG5jZmg2c3htOHdQMTZidF94c1FCeVQybkdjc0ZFcmwyNEg4ZTBiVklVWUR6c05HUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-15T03:15:00+00:00",
-      "summary": "What Does Advanced Micro Devices (AMD) Helion Mean For Its AI Ambitions?&nbsp;&nbsp;Yahoo Finance"
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-10-14T16:19:53+00:00",
+      "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-13T21:40:40+00:00",
-      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Nvidia's share of China's AI market falls to 34%, Huawei gains ground - IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1pjb2xDZVNjZ29SLThfMUJhM05rT1lPbElyazd3clhMRkFsc1dTa3ZBLXdHc1Z6R2RmbXhpVFZiU0IzTjkyaFp5VE9PMWJ3ZFNwamJnWHpJb2JqdnR5TzhrUVBtNGhVWldpYkcydnZNaDJOUW5EbzVacFo2aGFaSnVIWC1pNjlYeHJ2SVIySThJUjNlWUcwT1VVMllrUTRnZFpZLTFqMVhVQQ?oc=5",
-      "source": "IDNFinancials",
-      "published": "2026-10-15T09:20:00+00:00",
-      "summary": "Nvidia's share of China's AI market falls to 34%, Huawei gains ground&nbsp;&nbsp;IDNFinancials"
-    },
-    {
-      "title": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing - EE Times Asia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHZYY1pGc08xUHQwSGhQN055UDdpY0lfN25oRWswUjM5bHByUmFSbFRpYjJCZlZ0SjZ2dzh3MEgwQkRDajZlNUpUSEVDaW9oNktvZHBieUFzNGlPWnk2U2JaTkZUVnBVTkgzelRpWW95MG5BYU1sUFByR0lDaFpfSE10dV9PZmQ2ZE1aNTQ5WDFhc0xaNlBWdW0yZw?oc=5",
-      "source": "EE Times Asia",
-      "published": "2026-10-15T02:16:28+00:00",
-      "summary": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing&nbsp;&nbsp;EE Times Asia"
+      "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TFRqdC1sTjdmcmhrZXVsdGtFN21ZdHhKcEZPa0VqNE5XUVNzSEltUWVaSF9pWDM2YXRLSVVVZEl5QU1reWpRVUcxZ3RPM3pQckJ5ZE9Wcw?oc=5",
+      "source": "https://economy.ac/",
+      "published": "2026-10-15T03:27:27+00:00",
+      "summary": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization&nbsp;&nbsp;https://economy.ac/"
     },
     {
       "title": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC (NVDA:NASDAQ) - Seeking Alpha",
@@ -94,13 +73,6 @@
       "summary": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks&nbsp;&nbsp;The Register"
     },
     {
-      "title": "Intel Reveals GPU D-Series AI Inference Chip With 480GB Memory and 350W Power Design - Konsulteer",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYW9Ea0p2aU0wQmloSnROTXVpejNBY2xIMm1aUC1renRPa3QzaUFfc1BvR3BMU1hrSlY2XzRiLXNJekFhUDhwMVgwSjVuNWZSM19weWFFSy1OY2JrV2FZeU5vUWt6NmNLclpQdExDZnBvUHdoVlBqTnBTNS04YkZzRWRyYmIwUUgtVTVEaUtmTlNPc2FVTHpjd2REWlIwZlJ1UGpMck5rM3MybFZuYmhaWnd2ZXQ5dllBLTNv?oc=5",
-      "source": "Konsulteer",
-      "published": "2026-10-15T07:58:41+00:00",
-      "summary": "Intel Reveals GPU D-Series AI Inference Chip With 480GB Memory and 350W Power Design&nbsp;&nbsp;Konsulteer"
-    },
-    {
       "title": "AMD unveils Helion as agentic AI fuels demand for data center CPUs - Network World",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTJPeGMxb3I1YTZzZElBaWpkb0h0amxBZ2VCckppelJCWms4ZE56N2oxc0RjNEhUbEU3bW9lU1FiMVlBVDBHdEhTRXdwVndqVFEyMXlmNjl4RlJwQkhiRVRWeXBQdjNPUnU2bzY4ZWlBcnJGd25yczFMNk1rZEMyWjQ5ZUpLbGwxUUFCNmR2UDRCbkRWWTVheGRPVGRrYTZCLUpmeXJoQ1haempLMXpRWWlrWXk3d0E?oc=5",
       "source": "Network World",
@@ -108,11 +80,11 @@
       "summary": "AMD unveils Helion as agentic AI fuels demand for data center CPUs&nbsp;&nbsp;Network World"
     },
     {
-      "title": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaW9GR0FyMklyc3piSVNLNDRRcEZ5M09yaXpaR3EzV05aUlZoRXEzQ2Q2X3I1bTBDZUg1NDJtaFE5RkNScl9XMG40cHFGRWZaakVJX3ozZzRZV3YzQ0R2MGR0b3FmZUw3bl9veA?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-10-12T14:12:18+00:00",
-      "summary": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency&nbsp;&nbsp;Ynetnews"
+      "title": "Nvidia's share of China's AI market falls to 34%, Huawei gains ground - IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1pjb2xDZVNjZ29SLThfMUJhM05rT1lPbElyazd3clhMRkFsc1dTa3ZBLXdHc1Z6R2RmbXhpVFZiU0IzTjkyaFp5VE9PMWJ3ZFNwamJnWHpJb2JqdnR5TzhrUVBtNGhVWldpYkcydnZNaDJOUW5EbzVacFo2aGFaSnVIWC1pNjlYeHJ2SVIySThJUjNlWUcwT1VVMllrUTRnZFpZLTFqMVhVQQ?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-10-15T09:20:00+00:00",
+      "summary": "Nvidia's share of China's AI market falls to 34%, Huawei gains ground&nbsp;&nbsp;IDNFinancials"
     },
     {
       "title": "Nvidia Loses Ground to Huawei in China AI Chip Market - StratNews Global",
@@ -122,11 +94,32 @@
       "summary": "Nvidia Loses Ground to Huawei in China AI Chip Market&nbsp;&nbsp;StratNews Global"
     },
     {
+      "title": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaW9GR0FyMklyc3piSVNLNDRRcEZ5M09yaXpaR3EzV05aUlZoRXEzQ2Q2X3I1bTBDZUg1NDJtaFE5RkNScl9XMG40cHFGRWZaakVJX3ozZzRZV3YzQ0R2MGR0b3FmZUw3bl9veA?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-10-12T14:12:18+00:00",
+      "summary": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency&nbsp;&nbsp;Ynetnews"
+    },
+    {
+      "title": "What Does Advanced Micro Devices (AMD) Helion Mean For Its AI Ambitions? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXFScUxqdWtjU3JiWUh2T2lBMllfYUxTQUQyejVWN3lrdzRmQ2hJMTRwWV9Pb1dFeWpCVi1aTDlNOWt6ejVuaWlnMndwdjdlXzRKdjRDeGctVEUtcVJJZkF6SG5XOVMwWnRGZG5jZmg2c3htOHdQMTZidF94c1FCeVQybkdjc0ZFcmwyNEg4ZTBiVklVWUR6c05HUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-15T03:15:00+00:00",
+      "summary": "What Does Advanced Micro Devices (AMD) Helion Mean For Its AI Ambitions?&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "title": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44% - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFoWld0RzFpYUVpUHh5WHhZSE9rcGZnVkpRZEhQYWdNTUpodUdMdENwT2djcFZjWjA2Qi1MMlF4Mkd2UVZ3ajhXRG5HX1FOeFBfeWFWcmZzSWFNcU5BZU96cVVsNkVyTG85ZFBoMXZxSjg4ajVPU29Tc2d4ZHFXWHAzbHZaMG55djk3ZWNhY3VXNy15YnRMekFhU2dLVVBEZldqOU52TWlrYmZCOXh5M3E2TVZYN09Xb1Zr?oc=5",
       "source": "TradingView",
       "published": "2026-10-13T12:23:06+00:00",
       "summary": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing - EE Times Asia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHZYY1pGc08xUHQwSGhQN055UDdpY0lfN25oRWswUjM5bHByUmFSbFRpYjJCZlZ0SjZ2dzh3MEgwQkRDajZlNUpUSEVDaW9oNktvZHBieUFzNGlPWnk2U2JaTkZUVnBVTkgzelRpWW95MG5BYU1sUFByR0lDaFpfSE10dV9PZmQ2ZE1aNTQ5WDFhc0xaNlBWdW0yZw?oc=5",
+      "source": "EE Times Asia",
+      "published": "2026-10-15T02:16:28+00:00",
+      "summary": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing&nbsp;&nbsp;EE Times Asia"
     },
     {
       "title": "Intel Names Its AI Inference Chip the GPU D270, With 480GB of Memory - Startup Fortune",
@@ -136,13 +129,6 @@
       "summary": "Intel Names Its AI Inference Chip the GPU D270, With 480GB of Memory&nbsp;&nbsp;Startup Fortune"
     },
     {
-      "title": "AMD unveils Helion racks for AI agents at OCP summit - The Register",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNG40VDRTdG9QUkFIdUtwTzJYWlJkVVpIbS1menp0bGtaWkNYbzNsOWtROVFhRVp3MUk1SmFrMWs4eW00VUJUWHJtY0VFWDRnNDF1a0VZc3NMT0owU0hwQzJvLURaaXF6QjFRRTRxeXM2VGRyVl9tZXFHQWQyRWlrU3Z6NzhkWlNmaXBSTXhUMllBMWV0MVU5bmtiZWRSd0N3MHFWUVFyMVgtb3M?oc=5",
-      "source": "The Register",
-      "published": "2026-10-12T15:51:36+00:00",
-      "summary": "AMD unveils Helion racks for AI agents at OCP summit&nbsp;&nbsp;The Register"
-    },
-    {
       "title": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026] - https://tech-insider.org/",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VW1pdjNUdnhwXzJMREExUzNncThnX1BmX0FXYlladFpYUnNaYWJoUkdNYjg1TWJydFdmaE9pTUdGWmRkU0xGSHo1LXdINWIzaHNMTXcxcE5kcXVudFhwWmNubGlqRWNURlc1eWxZanpuSDA?oc=5",
       "source": "https://tech-insider.org/",
@@ -150,11 +136,18 @@
       "summary": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
-      "title": "Siemens transforms computational lithography with NVDIA - Siemens Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6ZzBad1ltSENaZ19BbVJlbzlNeFR2ZnZaNmtvSVNEMVZNS1RSRlhrdGZySDF0YnItUEc1ZFN2Vi05TldiTGItSXFTWnplYmp0eGVCVnI3MGtfWW5YcWg0c0dzV2M2SUwtczNQWVl6RQ?oc=5",
-      "source": "Siemens Newsroom",
-      "published": "2026-10-14T13:38:02+00:00",
-      "summary": "Siemens transforms computational lithography with NVDIA&nbsp;&nbsp;Siemens Newsroom"
+      "title": "Intel Reveals GPU D-Series AI Inference Chip With 480GB Memory and 350W Power Design - Konsulteer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYW9Ea0p2aU0wQmloSnROTXVpejNBY2xIMm1aUC1renRPa3QzaUFfc1BvR3BMU1hrSlY2XzRiLXNJekFhUDhwMVgwSjVuNWZSM19weWFFSy1OY2JrV2FZeU5vUWt6NmNLclpQdExDZnBvUHdoVlBqTnBTNS04YkZzRWRyYmIwUUgtVTVEaUtmTlNPc2FVTHpjd2REWlIwZlJ1UGpMck5rM3MybFZuYmhaWnd2ZXQ5dllBLTNv?oc=5",
+      "source": "Konsulteer",
+      "published": "2026-10-15T07:58:41+00:00",
+      "summary": "Intel Reveals GPU D-Series AI Inference Chip With 480GB Memory and 350W Power Design&nbsp;&nbsp;Konsulteer"
+    },
+    {
+      "title": "AMD unveils Helion racks for AI agents at OCP summit - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNG40VDRTdG9QUkFIdUtwTzJYWlJkVVpIbS1menp0bGtaWkNYbzNsOWtROVFhRVp3MUk1SmFrMWs4eW00VUJUWHJtY0VFWDRnNDF1a0VZc3NMT0owU0hwQzJvLURaaXF6QjFRRTRxeXM2VGRyVl9tZXFHQWQyRWlrU3Z6NzhkWlNmaXBSTXhUMllBMWV0MVU5bmtiZWRSd0N3MHFWUVFyMVgtb3M?oc=5",
+      "source": "The Register",
+      "published": "2026-10-12T15:51:36+00:00",
+      "summary": "AMD unveils Helion racks for AI agents at OCP summit&nbsp;&nbsp;The Register"
     },
     {
       "title": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips - 36Kr",
@@ -176,6 +169,13 @@
       "source": "ServeTheHome",
       "published": "2026-10-12T19:25:28+00:00",
       "summary": "Intel’s Crescent Island AI Server GPU Gets a Name and Specs: Meet the Intel GPU D-Series&nbsp;&nbsp;ServeTheHome"
+    },
+    {
+      "title": "AMD introduces open Helion rack blueprint for agentic AI - Engineering.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzNkaVdMa0RRR3NDV3Bob0U2MjlRdFhJcWExQTZkTm82Qi1VX0V6YWxVQmlfbmJRWWxHYWJMcmx1T3Z1NEZrOTFNOVFlbXB1eWI3WjRrMmR1Mi1jQ3MtcWtnb3lMOXJ0bXBnSkU2SkxRb2MyNmhIdHFKdG5ZR3VtbVAyV1ppQzJwUjZfUXV3?oc=5",
+      "source": "Engineering.com",
+      "published": "2026-10-13T07:18:09+00:00",
+      "summary": "AMD introduces open Helion rack blueprint for agentic AI&nbsp;&nbsp;Engineering.com"
     }
   ]
 }
