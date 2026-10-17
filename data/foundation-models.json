@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-17T03:41:47.134205+00:00",
+  "generated": "2026-10-17T10:22:09.076903+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
-    {
-      "title": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamxoblB5QWFZeS1JSUxHSWExMkRZeVJoMGhwWGFnR3BRRmI4ejVvLV9OR0RpQ0dyTUJhSjlIU3Jmd1JqeVBQeHM2RUIzWWxveXBFX191Z3pVM1ZfdG8zZThzU1lTazVsQUItbThDYjRTTHgyenNDZ1h3am1FTmttaEFsLVNvSWNxR3hqejQ4RzVqYnhfTFRzX1lYU2tTM2Q0R2Q2SUFTWjlmemYzWWZjNEdqWm9nd0dBaUE?oc=5",
-      "source": "HPCwire",
-      "published": "2026-10-16T21:45:00+00:00",
-      "summary": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model&nbsp;&nbsp;HPCwire"
-    },
     {
       "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
       "source": "Mistral AI",
       "published": "2026-10-15T15:08:22+00:00",
       "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
+    },
+    {
+      "title": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamxoblB5QWFZeS1JSUxHSWExMkRZeVJoMGhwWGFnR3BRRmI4ejVvLV9OR0RpQ0dyTUJhSjlIU3Jmd1JqeVBQeHM2RUIzWWxveXBFX191Z3pVM1ZfdG8zZThzU1lTazVsQUItbThDYjRTTHgyenNDZ1h3am1FTmttaEFsLVNvSWNxR3hqejQ4RzVqYnhfTFRzX1lYU2tTM2Q0R2Q2SUFTWjlmemYzWWZjNEdqWm9nd0dBaUE?oc=5",
+      "source": "HPCwire",
+      "published": "2026-10-16T21:50:03+00:00",
+      "summary": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model&nbsp;&nbsp;HPCwire"
     },
     {
       "title": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026] - shattered.io",
@@ -24,18 +24,18 @@
       "summary": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents - ITP.net",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0d3T0huZGZGMXQ1Sy1FUTdHc0JWY1c5R2JReTNDUGcwcFJ2TVhyOWdQQ1JfbXBlRUJlNnFXbEppdXpfcmt0QjZzNVppeERJaEJVYi1FT1NjYXI2Ul8yVmhFWTNoZ1A4Q0JVWldhSTNCdHZVRUUzUDVDVktHRFBIZEdtZ05SY2xzUVB5bWhHWEJPZ1VFUW9RUk1OWHpMQ3kyb0p1SzZ0Tk9WMnFuYlE?oc=5",
-      "source": "ITP.net",
-      "published": "2026-10-16T07:49:25+00:00",
-      "summary": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents&nbsp;&nbsp;ITP.net"
-    },
-    {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents - ITP.net",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0d3T0huZGZGMXQ1Sy1FUTdHc0JWY1c5R2JReTNDUGcwcFJ2TVhyOWdQQ1JfbXBlRUJlNnFXbEppdXpfcmt0QjZzNVppeERJaEJVYi1FT1NjYXI2Ul8yVmhFWTNoZ1A4Q0JVWldhSTNCdHZVRUUzUDVDVktHRFBIZEdtZ05SY2xzUVB5bWhHWEJPZ1VFUW9RUk1OWHpMQ3kyb0p1SzZ0Tk9WMnFuYlE?oc=5",
+      "source": "ITP.net",
+      "published": "2026-10-16T07:49:25+00:00",
+      "summary": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents&nbsp;&nbsp;ITP.net"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -52,18 +52,18 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
-    },
-    {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
       "source": "Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
+    },
+    {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     },
     {
       "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
@@ -80,18 +80,18 @@
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
-      "title": "What are Large Language Models (LLM)? - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
-      "source": "Databricks",
-      "published": "2026-03-02T18:50:57+00:00",
-      "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
-    },
-    {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
       "source": "dicardiology.com",
       "published": "2026-07-23T07:00:00+00:00",
       "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
+    },
+    {
+      "title": "What are Large Language Models (LLM)? - Databricks",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
+      "source": "Databricks",
+      "published": "2026-03-02T18:50:57+00:00",
+      "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
@@ -101,18 +101,18 @@
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -171,11 +171,11 @@
       "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
-      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBYaVJXVlVId0Y2WVpqTDRZSG1hN3A3TW1mMHp4a1h3a2x0ODJOT0RjT3J5QTRwZDlpYUFEWjNCS3UxR2pIZThyRUJNZlRtOWwtNk5xQ0hVbDlaU2xUUzNxME4xbF9KQXJmNHdjZzZzRWtFZFNMSDRJZUk1RE8wV0dKM3FVS3BjSm80SThPWTd6MFNRSXUwX0VidDJiR0Izb09rX0k4NVMwWTdFLVc1VWdaeVI3WmQ4cGhyY2VzbzlOM1BHYXJMYg?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
+      "source": "9to5Mac",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     }
   ]
 }
