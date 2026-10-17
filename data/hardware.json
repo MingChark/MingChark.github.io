@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T15:15:19.251047+00:00",
+  "generated": "2026-10-17T20:20:11.529533+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -31,11 +31,18 @@
       "summary": "NVIDIA Makes Strategic Investment in Key Chip Competitor&nbsp;&nbsp;36Kr"
     },
     {
-      "title": "Giga Computing Powers Scaleway's New AMD Instinct GPU Services to Accelerate AI Workloads - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnJUZ3V0UWhwNXdFYnNHT2JVT0ZlNzFrcjhhM2g2SktmdHpfZGZEMVl0dlZJMTU0d2g1MUdkNFp0V3R6aWJpMWtfODNYZGVwZlRXd3Z6TnZYNm42TEpMMXJ5Ql9XQm1zSmlON2VNTWR1R3NkZGpiOGNfWGJyUmZNeVN0YkpnbXgtdU5fazRvck5XMFZOZWMydkE4clpHcmZabG9yWTl3RzhHV3ZYOWR5Qmd5NnlIUDhNczNzTFBTT0pFZUFL?oc=5",
-      "source": "HPCwire",
-      "published": "2026-10-16T21:55:28+00:00",
-      "summary": "Giga Computing Powers Scaleway's New AMD Instinct GPU Services to Accelerate AI Workloads&nbsp;&nbsp;HPCwire"
+      "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-17T03:57:00+00:00",
+      "summary": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.&nbsp;&nbsp;The Motley Fool"
+    },
+    {
+      "title": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUxJdVNwblBhMC1rUU9TbGpZSW5OWFo5WmdHcGczYjBaeFJ0OWtKckV0dWRIUkR5LVJmRl8zTnI5UnlSSmhlM3R3MkdRUFNlZkRfY0RDLXdpd015N3Fqc0IwcHpmWjhFSXRnUkNVRVlXYWZuakpNaEVxOWY2LVp2cUpiTDVfQ0FGa25yMW01dzZmeXpxamlNdEd0NmtZQkN6SWtUdw?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-10-13T20:37:01+00:00",
+      "summary": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground&nbsp;&nbsp;Mexico Business News"
     },
     {
       "title": "Huawei’s China AI Chip Share Rose to 28% vs Nvidia’s 34%, YMTC Is the World’s No. 3 NAND Maker, and Alibaba Launches AI Glasses - Growth Dragons",
@@ -52,6 +59,13 @@
       "summary": "US chip startup Bolt Graphics seeks $100 million funding, sidesteps AI battlefield to take on Nvidia and AMD&nbsp;&nbsp;BigGo Finance"
     },
     {
+      "title": "Giga Computing Powers Scaleway's New AMD Instinct GPU Services to Accelerate AI Workloads - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnJUZ3V0UWhwNXdFYnNHT2JVT0ZlNzFrcjhhM2g2SktmdHpfZGZEMVl0dlZJMTU0d2g1MUdkNFp0V3R6aWJpMWtfODNYZGVwZlRXd3Z6TnZYNm42TEpMMXJ5Ql9XQm1zSmlON2VNTWR1R3NkZGpiOGNfWGJyUmZNeVN0YkpnbXgtdU5fazRvck5XMFZOZWMydkE4clpHcmZabG9yWTl3RzhHV3ZYOWR5Qmd5NnlIUDhNczNzTFBTT0pFZUFL?oc=5",
+      "source": "HPCwire",
+      "published": "2026-10-16T21:55:28+00:00",
+      "summary": "Giga Computing Powers Scaleway's New AMD Instinct GPU Services to Accelerate AI Workloads&nbsp;&nbsp;HPCwire"
+    },
+    {
       "title": "HPE Vera CPU Server vs AMD, Intel Rivals [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldnhibXdlaERuVVZIaE10NEQ5ZS1yNFg3U3N1dW1TR3JGaUFDZG1zX1lTOGRfSG80V1Y5Tnkxdng5OG5Jei15eUVCWHJQaUFueUJ1bHRBa1pIY1VvdUFtQmRDQTQ2UWRHVXlZTVVFeVBmQ295V3JIOA?oc=5",
       "source": "shattered.io",
@@ -59,11 +73,11 @@
       "summary": "HPE Vera CPU Server vs AMD, Intel Rivals [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground - Mexico Business News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUxJdVNwblBhMC1rUU9TbGpZSW5OWFo5WmdHcGczYjBaeFJ0OWtKckV0dWRIUkR5LVJmRl8zTnI5UnlSSmhlM3R3MkdRUFNlZkRfY0RDLXdpd015N3Fqc0IwcHpmWjhFSXRnUkNVRVlXYWZuakpNaEVxOWY2LVp2cUpiTDVfQ0FGa25yMW01dzZmeXpxamlNdEd0NmtZQkN6SWtUdw?oc=5",
-      "source": "Mexico Business News",
-      "published": "2026-10-13T20:37:01+00:00",
-      "summary": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground&nbsp;&nbsp;Mexico Business News"
+      "title": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS - ASUS Pressroom",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFBGZHFhM3dHaWZjcktYaDh2aC1lcklKcmc2MFBCV3ZhX1VRSWx3SjlzVi1PdDdRaEYxYjVRT0tyZWlLZE5BQmRxbVlZdTEyY1YxYXhZMVJCMEdvTnZ0QkhFWHo4MWFySGpxNDVlZUg1b3BHZ0ptQ0pFQXhxLUJlOUFfcHBHRWZrUnBGejlpeDNMaldI?oc=5",
+      "source": "ASUS Pressroom",
+      "published": "2026-10-13T01:39:52+00:00",
+      "summary": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS&nbsp;&nbsp;ASUS Pressroom"
     },
     {
       "title": "Siemens and NVIDIA speed up AI chip lithography by 12x ... - eeNews Europe",
@@ -71,13 +85,6 @@
       "source": "eeNews Europe",
       "published": "2026-10-16T16:21:39+00:00",
       "summary": "Siemens and NVIDIA speed up AI chip lithography by 12x ...&nbsp;&nbsp;eeNews Europe"
-    },
-    {
-      "title": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS - ASUS Pressroom",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFBGZHFhM3dHaWZjcktYaDh2aC1lcklKcmc2MFBCV3ZhX1VRSWx3SjlzVi1PdDdRaEYxYjVRT0tyZWlLZE5BQmRxbVlZdTEyY1YxYXhZMVJCMEdvTnZ0QkhFWHo4MWFySGpxNDVlZUg1b3BHZ0ptQ0pFQXhxLUJlOUFfcHBHRWZrUnBGejlpeDNMaldI?oc=5",
-      "source": "ASUS Pressroom",
-      "published": "2026-10-13T01:39:52+00:00",
-      "summary": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS&nbsp;&nbsp;ASUS Pressroom"
     },
     {
       "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
@@ -157,18 +164,11 @@
       "summary": "Siemens transforms computational lithography with NVDIA&nbsp;&nbsp;Siemens Newsroom"
     },
     {
-      "title": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcmFwenlQdlYxYkxLTlJJaklrVzNfdTk4ZmROY3ZDb0tFeF9WRGFjNFkxQkk3MV85NzFJV256OGJUc3RzRGZTYmxOOEwtbUhWRVVj?oc=5",
-      "source": "36Kr",
-      "published": "2026-10-14T08:50:21+00:00",
-      "summary": "Big Tech Giants Shift Focus: Large Model Development Competition Is Far Less Lucrative Than Selling AI Chips&nbsp;&nbsp;36Kr"
-    },
-    {
-      "title": "Nvidia's RTX Spark N1X Chips Hit Windows Laptops - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1hfNVkwUTFlZUoxM1hvYXV0aWswMnFNOENMSlM5T0NVczBFc1l0cFJ4WFhzcDAzbE5yU2pjVWJVbjZhU2p6UzJZckk3T1Z0a1BrS0dBcHdqZkpKUVV5WnlvcWk3bUhodWRpQW1zWlJ6Z1ZmMHY4SmROekJnNTBNVnp3MDN2SDJo?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-10-16T15:37:00+00:00",
-      "summary": "Nvidia's RTX Spark N1X Chips Hit Windows Laptops&nbsp;&nbsp;The Tech Buzz"
+      "title": "Key facts: NVIDIA (NVDA) Q2 $59.69B; $6.3B CoreWeave buy; Adobe AI tie - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzF6T3VYUzlPeG5MRmVtZ3ZfTWFLUGRiNHNqLV92STJCQTkxbjR3dnBPNl83U1N6a3ZKcUxreEtGRXQyUjNJamY2ZHBOa0UtbjNvb0dfME1Ibm9TVnRCMjdWTGk3dVh3eDM1UldvYjZFeU5kbGRBWlJwekwwcEIxY3RCVl91WEFZYUtxZ1ZoM3F3ODFCOVdXMlZSTGZUS0pEQlZvNm1qRHR2TXNLaWxLQV92S1YtTS0tT215T3dFY0xvOWM?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-16T07:00:00+00:00",
+      "summary": "Key facts: NVIDIA (NVDA) Q2 $59.69B; $6.3B CoreWeave buy; Adobe AI tie&nbsp;&nbsp;TradingView"
     },
     {
       "title": "AMD unveils Helion racks for AI agents at OCP summit - The Register",
