@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T20:20:11.529533+00:00",
+  "generated": "2026-10-18T03:48:18.176312+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+      "title": "Introducing Timestral - Mistral AI",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
       "source": "Mistral AI",
       "published": "2026-10-15T15:08:22+00:00",
-      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
+      "summary": "Introducing Timestral&nbsp;&nbsp;Mistral AI"
     },
     {
       "title": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026] - shattered.io",
@@ -52,13 +52,6 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
-    },
-    {
       "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
       "source": "PR Newswire",
@@ -71,6 +64,13 @@
       "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+    },
+    {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     },
     {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
@@ -108,13 +108,6 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined - vision2030.ai",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHBqS3hSdlNWRWpNMC1SNjM1a0VCNjlqeUFGamxCektMTFU0eENlUC1ndm9QX1dHOThCc0tXZ1RYNFozQ1lKZlNoMjFIUXcwdko4OGhIZnktSjBTSUFLUy1rS2tyVDJpNTlaejRnNEVWclhFRHZDdzE0cVpXNzY0S24teEUwaExhUFVlVjBlRVY3YVk?oc=5",
-      "source": "vision2030.ai",
-      "published": "2026-09-27T07:00:00+00:00",
-      "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
@@ -129,6 +122,13 @@
       "summary": "Robot Foundation Models: A Complete Technical Survey | by Adnan Masood, PhD. | Aug, 2026&nbsp;&nbsp;Medium"
     },
     {
+      "title": "The Future of Large Language Models - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-06-25T07:00:00+00:00",
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
+    },
+    {
       "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
       "source": "shattered.io",
@@ -141,13 +141,6 @@
       "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "The Future of Large Language Models - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
@@ -171,11 +164,18 @@
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert! Science News Releases",
+      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert! Science News Releases",
+      "source": "EurekAlert!",
       "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert! Science News Releases"
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHrAUFVX3lxTE1uemVtalkweXU3Y2xSQ3FjRmJrWjhJOGdPbmJwajVPSzZDZlgtSXN1eDk4MzdiN1Vsb3Q3NzhDd1JxZDhJa3VmeEVYeEp5YlZWdGVVald6bHp5Zm9ZYVl5T0loNkRwQ3h3aXRpdldGWmk0RE9xRlhQMTYza2VHMU50SE9MOEJDTTdlODh4VkZ6ZUs2bERiZVhuVWJXdGdSdzE4WUgta0IxRFBrQzVOT2U3Q09tTXNaRmpmU0poWlFmczdpUTFuNVZlbFdXdHJSVVhTY1NjdmtkX25wczlWQ3NBSmtyV2ExXzduMzQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     }
   ]
 }

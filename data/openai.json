@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T20:20:11.529533+00:00",
+  "generated": "2026-10-18T03:48:18.176312+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl9YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-10-16T20:59:01+00:00",
-      "summary": "OpenAI models hacked a crypto wallet and breached more websites&nbsp;&nbsp;Ars Technica"
+      "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
+      "source": "Fortune",
+      "published": "2026-10-16T16:05:00+00:00",
+      "summary": "OpenAI discloses four more rogue incidents involving financial, medical, and government data&nbsp;&nbsp;Fortune"
     },
     {
       "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task - Fortune",
@@ -17,18 +17,11 @@
       "summary": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task&nbsp;&nbsp;Fortune"
     },
     {
-      "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-17T12:00:00+00:00",
-      "summary": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-15T02:26:38+00:00",
-      "summary": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl9YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary": "OpenAI models hacked a crypto wallet and breached more websites&nbsp;&nbsp;Ars Technica"
     },
     {
       "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee - Bloomberg.com",
@@ -38,6 +31,20 @@
       "summary": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee&nbsp;&nbsp;Bloomberg.com"
     },
     {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "summary": "Replit makes OpenAI its default over Anthropic, CEO says&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Video: Opinion | Why the Anthropic and OpenAI I.P.O.s Are Unusual - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXFDUHZzY2Y5LU1yeTcxUjRVeVB4bGtuUTdEZnZVMk5kU3FUVVNOanVENF9RdGdQNDZXOW5pMDNxMzNJZHJLOEhKYlNtR19fUGpBUnZtcDBGbkR2a296QW56LUF4UHRrQTFIQk53TVY2NWZncDloNXBEUVBnVkxrZWN6Wl96ZU1qVHhNN0k5dmpqWkpTMUdHQWptV29KQ2dNZWQwTmtSWQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-16T23:31:14+00:00",
+      "summary": "Video: Opinion | Why the Anthropic and OpenAI I.P.O.s Are Unusual&nbsp;&nbsp;The New York Times"
+    },
+    {
       "title": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzQ0SDI3d0kxMkg3cmhGVlY2azI3RzF3aUs2aWtUWEloT0NoYlhtNlh3cGdDeEwxTjNxekRwT0owUWc0cWVTZTktbzFueG02LXB6VjRBaVdCUlJUYVdEcXhFd2lqOW9tcENHRTU0a3RwUWt6SXdXWU4wdndFbWVuSVBFQUE5MnM1cVFxWDBSLTBhR201Ymt0SjFkZGJVQjZNeHpwUDZMbkY1OGJtamdOZ004SzRPWnB0NXhfSw?oc=5",
       "source": "Los Angeles Times",
@@ -45,46 +52,11 @@
       "summary": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco&nbsp;&nbsp;Los Angeles Times"
     },
     {
-      "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
-      "source": "Fortune",
-      "published": "2026-10-16T16:05:00+00:00",
-      "summary": "OpenAI discloses four more rogue incidents involving financial, medical, and government data&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
-      "source": "AP News",
-      "published": "2026-10-16T18:46:00+00:00",
-      "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults&nbsp;&nbsp;AP News"
-    },
-    {
-      "title": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-14T21:09:20+00:00",
-      "summary": "OpenAI sued by 8 states over ChatGPT safety concerns&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVp4cENGNDFMRE5DcE5qYmdTMENJaFFETzdBdWRMRG1FRVZ1TGQ5MUNhMmp5NjFIcW5FYjhQOTJ5NVFLY2haZmpveVlHV1pYcGVUOS1wb0w3SEx2VjJyazFkdWxCaGtMSW5EYWJSUXl6NzZweFNaQzNjeXZRQVVpNENfVk5aSmFoTUt2SEZnZnYwaDhiWlVpZg?oc=5",
-      "source": "Business Insider",
-      "published": "2026-10-15T01:48:00+00:00",
-      "summary": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing.&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NYWVJdExzaWZ2OE04TGRrblVKZEtKN0c3NkE5WVhMN2FyZW91Z1VXZmgxWW00QlhjVDlVbmp6VDJXMHYxYV9aTEtBRk1QZ1RIazBvX3ExMTEzczZPNEljbVNtdkNuY3I2S1MwUkFVelJ0N3dkYlhLNdIBfkFVX3lxTE5jc3Z3a0dsUGF5dm9FYkVjT3Q3ZTFpY2E0U2o3WmU2S0JiSU1SRzB6WndGOGpmeFBxOEQ0U2lXUUwzNl8yS1dsWUJmYjViMEFFSmd4a0ZtRVRuT2JFUjRfTmlTX3d5NW1qQ2IyZXVKOVBYNThpNzRUYmp2U3Q0QQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-16T13:43:53+00:00",
-      "summary": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRSeDVnejk0andUdlFwN0pPdlg4ZXdyaVUzcHpXMFRCUTZBM0RlQjZmaWhjNVlvd0hHVWRwVHktYkxGLVhIT09iV09CUjlmSjdNdkdWVURRUFN0S1Q0czdYSnJrSnBwMEF6MDVfcGoybENrN3piTldnM3MwdkhvZFhGVjlNaW0yMDlya2ZMR3piRzQ3MkpPelljWndEeGVmdDdkcnBzZ1JrcG1CWUE1cURsdGFHdkNiUDVXUkdUWWkycGRpYnFjN0N5cw?oc=5",
-      "source": "MLive.com",
-      "published": "2026-10-17T10:00:00+00:00",
-      "summary": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures&nbsp;&nbsp;MLive.com"
+      "title": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazcwM2J4aXV5bl9WSEYya2Q1VGNVTXp3SmNnY3VJR0tvckxvVVVFUThGdmdJdGQ5bzU0a1czMks1SVY4LWh2UWRqcDNmeExzT3BoWGVrcHhxczlFYWl3UzFiN2RFd0NLaHRwdTE3LWdsRkMtdlBwem53MnotS0tVQ1ptbEtDRFowZ19GZm56Z1l5X19NYVE?oc=5",
+      "source": "Engadget",
+      "published": "2026-10-17T23:45:00+00:00",
+      "summary": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge&nbsp;&nbsp;Engadget"
     },
     {
       "title": "What Newsrooms Should Know Before They Take Money From OpenAI - The Atlantic",
@@ -94,32 +66,11 @@
       "summary": "What Newsrooms Should Know Before They Take Money From OpenAI&nbsp;&nbsp;The Atlantic"
     },
     {
-      "title": "What’s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help - The Colorado Sun",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDczV3RRbmxmWGU4T0t3WE5EOXBPdEcxb25HQnk0blRvRUZ3QVRvajRjbHNOOTd2ZjlOMklXNWc5LVNjRzlmZk1XWHpWZmlOdERoeW9HSm80RTVWcmF5UUxJQU1COHJBcUNILVNzclhiVUhOUEJON3RCeVNNUDg5dURVdVl2eVRyei15bVdncG1FVjFRY3VxQnRaSQ?oc=5",
-      "source": "The Colorado Sun",
+      "title": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRSeDVnejk0andUdlFwN0pPdlg4ZXdyaVUzcHpXMFRCUTZBM0RlQjZmaWhjNVlvd0hHVWRwVHktYkxGLVhIT09iV09CUjlmSjdNdkdWVURRUFN0S1Q0czdYSnJrSnBwMEF6MDVfcGoybENrN3piTldnM3MwdkhvZFhGVjlNaW0yMDlya2ZMR3piRzQ3MkpPelljWndEeGVmdDdkcnBzZ1JrcG1CWUE1cURsdGFHdkNiUDVXUkdUWWkycGRpYnFjN0N5cw?oc=5",
+      "source": "MLive.com",
       "published": "2026-10-17T10:00:00+00:00",
-      "summary": "What’s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help&nbsp;&nbsp;The Colorado Sun"
-    },
-    {
-      "title": "OpenAI Computing Chief to Depart - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
-      "source": "WSJ",
-      "published": "2026-10-14T16:06:00+00:00",
-      "summary": "OpenAI Computing Chief to Depart&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5",
-      "source": "Business Insider",
-      "published": "2026-10-15T23:31:00+00:00",
-      "summary": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-15T21:04:31+00:00",
-      "summary": "Bringing GPT-Rosalind to academic research labs&nbsp;&nbsp;OpenAI"
+      "summary": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures&nbsp;&nbsp;MLive.com"
     },
     {
       "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
@@ -129,11 +80,39 @@
       "summary": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Bipartisan coalition of states sues OpenAI over user safety - Politico",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHhfTkZFRW9fdDlJY0NRZmR0enVlbTBFZms2MGNXMGtmekthMHI0Y3JWTHR6MURZU0JXWk5ZbkRRdElMcW1LOEFELWVIcTNsU0tQaVhHdmtuMDFZbXNMYjA0cTRfbzVvY1B5VldvY1gzUmFWRzNVd01TTU03Wk9QTnV4dw?oc=5",
-      "source": "Politico",
-      "published": "2026-10-14T21:18:00+00:00",
-      "summary": "Bipartisan coalition of states sues OpenAI over user safety&nbsp;&nbsp;Politico"
+      "title": "OpenAI Computing Chief to Depart - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-14T16:06:00+00:00",
+      "summary": "OpenAI Computing Chief to Depart&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-10-17T12:00:00+00:00",
+      "summary": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas&nbsp;&nbsp;Tom's Hardware"
+    },
+    {
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-14T21:09:20+00:00",
+      "summary": "OpenAI sued by 8 states over ChatGPT safety concerns&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-15T02:44:34+00:00",
+      "summary": "Eight US states sue OpenAI, claiming ChatGPT harms young users&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Why are eight US states suing OpenAI? - Al Jazeera",
@@ -150,18 +129,25 @@
       "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents&nbsp;&nbsp;Axios"
     },
     {
-      "title": "The EU’s next chapter in AI is agentic - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-14T09:03:47+00:00",
-      "summary": "The EU’s next chapter in AI is agentic&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-15T02:26:38+00:00",
+      "summary": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-15T02:44:34+00:00",
-      "summary": "Eight US states sue OpenAI, claiming ChatGPT harms young users&nbsp;&nbsp;Reuters"
+      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+      "source": "AP News",
+      "published": "2026-10-16T18:46:00+00:00",
+      "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults&nbsp;&nbsp;AP News"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-15T21:04:31+00:00",
+      "summary": "Bringing GPT-Rosalind to academic research labs&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest - CNBC",
@@ -171,11 +157,25 @@
       "summary": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest&nbsp;&nbsp;CNBC"
     },
     {
+      "title": "The EU’s next chapter in AI is agentic - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-14T09:03:47+00:00",
+      "summary": "The EU’s next chapter in AI is agentic&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
       "source": "OpenAI",
       "published": "2026-10-14T15:19:43+00:00",
       "summary": "How Third Moment Research runs 10,000 agents for 36+ hours&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-16T18:34:49+00:00",
+      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin&nbsp;&nbsp;OpenAI"
     }
   ]
 }
