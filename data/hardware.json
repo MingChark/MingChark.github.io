@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T15:37:02.693628+00:00",
+  "generated": "2026-10-18T20:19:55.478568+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -45,13 +45,6 @@
       "summary": "Giga Computing Powers Scaleway's New AMD Instinct GPU Services to Accelerate AI Workloads&nbsp;&nbsp;HPCwire"
     },
     {
-      "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-10-17T03:57:00+00:00",
-      "summary": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.&nbsp;&nbsp;The Motley Fool"
-    },
-    {
       "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TFRqdC1sTjdmcmhrZXVsdGtFN21ZdHhKcEZPa0VqNE5XUVNzSEltUWVaSF9pWDM2YXRLSVVVZEl5QU1reWpRVUcxZ3RPM3pQckJ5ZE9Wcw?oc=5",
       "source": "https://economy.ac/",
@@ -59,11 +52,11 @@
       "summary": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization&nbsp;&nbsp;https://economy.ac/"
     },
     {
-      "title": "NVIDIA Makes Strategic Investment in Key Chip Competitor - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zSmdXZVhBVkFSTXdSOEJkMFppeTR3blF2OFNWQjZhWUl4NkV2V0VZZE4wTTFlT1pYc0lHU1RYSDRjUFZ5R3VhY19UanBWUk45em5r?oc=5",
-      "source": "36Kr",
-      "published": "2026-10-17T06:34:47+00:00",
-      "summary": "NVIDIA Makes Strategic Investment in Key Chip Competitor&nbsp;&nbsp;36Kr"
+      "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-17T03:57:00+00:00",
+      "summary": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.&nbsp;&nbsp;The Motley Fool"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
@@ -87,6 +80,13 @@
       "summary": "Could NVIDIA AI Acceleration Change The Bull Case For Adobe Stock (ADBE)?&nbsp;&nbsp;Simply Wall Street"
     },
     {
+      "title": "Adobe, NVIDIA Expand Their AI Partnership - TVTechnology",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNER6cmtrUzU2TWxZMVhNM0pzbEZoVlRmM24tbE8zY0h0UFNGN2c2bk5GTDlEOUdrbkxrRExjc1R2bFlvVVcwaEdkUHl0bTRmV0ZZMko5YUZGbVIyYU9LUm1EZ0hBeWpUZWh1aW9MQ2VQaEdQbVZlLWxVZjhrNWh5QXdrQ2lvWkU?oc=5",
+      "source": "TVTechnology",
+      "published": "2026-10-15T20:34:55+00:00",
+      "summary": "Adobe, NVIDIA Expand Their AI Partnership&nbsp;&nbsp;TVTechnology"
+    },
+    {
       "title": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmU2RmR3bm5TaUl2RFgxcVZpTk4tNXNaN2xwdi1pdE1SQTdzenhsZ2d5UTlRVG5TczR1aXU5ZW9xcmRuTm1BSDFvaTNGbFBicGhfNU9iNTQ2am5nb0tISlZGUXc3RUs5alhsY1dhdVFDVFJpTkE?oc=5",
       "source": "BigGo Finance",
@@ -108,11 +108,11 @@
       "summary": "SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing&nbsp;&nbsp;EE Times Asia"
     },
     {
-      "title": "Nvidia Pushes Deeper Into AI Agents, Open Source Infrastructure And Model Optimisation Across Latest Developer Updates – SMBtech - SMBtech",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1lKQmlxbWEtdGoxS0VUc1BINDROdHZvRjdrbnpVOHc3MC1Fdy1CejQ0MXBoN083RU9LWnhVOThPdzdLdXRXenpIaGdkSTFQV1pmMXVsSENRNEVSX1ZLUU5lQlVFQTd3UzZzNGEtMU54UTlQUjJzNXV4Mi1aaEwzRUl5eWVxQ19STzl1eEJfWEY2R3dJdGJJYmY4NUZfVGxjX25EdGhxZ1ZPSjdJdWQtSGh5NHM1REFONlhNX1JZQ1QxOXJ6c2JUMFBMWFZURktZQjFFbnIxZ0p4QQ?oc=5",
-      "source": "SMBtech",
-      "published": "2026-10-18T02:23:03+00:00",
-      "summary": "Nvidia Pushes Deeper Into AI Agents, Open Source Infrastructure And Model Optimisation Across Latest Developer Updates – SMBtech&nbsp;&nbsp;SMBtech"
+      "title": "AMD unveils Helion as agentic AI fuels demand for data center CPUs - Network World",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTJPeGMxb3I1YTZzZElBaWpkb0h0amxBZ2VCckppelJCWms4ZE56N2oxc0RjNEhUbEU3bW9lU1FiMVlBVDBHdEhTRXdwVndqVFEyMXlmNjl4RlJwQkhiRVRWeXBQdjNPUnU2bzY4ZWlBcnJGd25yczFMNk1rZEMyWjQ5ZUpLbGwxUUFCNmR2UDRCbkRWWTVheGRPVGRrYTZCLUpmeXJoQ1haempLMXpRWWlrWXk3d0E?oc=5",
+      "source": "Network World",
+      "published": "2026-10-13T10:26:47+00:00",
+      "summary": "AMD unveils Helion as agentic AI fuels demand for data center CPUs&nbsp;&nbsp;Network World"
     },
     {
       "title": "RTX 5070 vs RX 9070 XT: AMD Wins by Up to 18% [2026] - shattered.io",
@@ -122,11 +122,11 @@
       "summary": "RTX 5070 vs RX 9070 XT: AMD Wins by Up to 18% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "US chip startup Bolt Graphics seeks $100 million funding, sidesteps AI battlefield to take on Nvidia and AMD - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMFFzUERBdDlpWWdOVFB1R0lHYXZxMk5ic0FYVHV5eEtXdEphOFJNS1J0WmZGa3pJWFp0aDlPMlduNGtzX3puM0lUSTY1Q0g5SWN4VDM4MlhlMVRJVG1ITlZVeVpvaUR5OUFWQXNndmpvcGtOcUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-17T07:05:00+00:00",
-      "summary": "US chip startup Bolt Graphics seeks $100 million funding, sidesteps AI battlefield to take on Nvidia and AMD&nbsp;&nbsp;BigGo Finance"
+      "title": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VW1pdjNUdnhwXzJMREExUzNncThnX1BmX0FXYlladFpYUnNaYWJoUkdNYjg1TWJydFdmaE9pTUdGWmRkU0xGSHo1LXdINWIzaHNMTXcxcE5kcXVudFhwWmNubGlqRWNURlc1eWxZanpuSDA?oc=5",
+      "source": "https://tech-insider.org/",
+      "published": "2026-10-14T15:46:25+00:00",
+      "summary": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
       "title": "HPE Vera CPU Server vs AMD, Intel Rivals [2026] - shattered.io",
@@ -136,18 +136,11 @@
       "summary": "HPE Vera CPU Server vs AMD, Intel Rivals [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "AMD unveils Helion as agentic AI fuels demand for data center CPUs - Network World",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTJPeGMxb3I1YTZzZElBaWpkb0h0amxBZ2VCckppelJCWms4ZE56N2oxc0RjNEhUbEU3bW9lU1FiMVlBVDBHdEhTRXdwVndqVFEyMXlmNjl4RlJwQkhiRVRWeXBQdjNPUnU2bzY4ZWlBcnJGd25yczFMNk1rZEMyWjQ5ZUpLbGwxUUFCNmR2UDRCbkRWWTVheGRPVGRrYTZCLUpmeXJoQ1haempLMXpRWWlrWXk3d0E?oc=5",
-      "source": "Network World",
-      "published": "2026-10-13T10:26:47+00:00",
-      "summary": "AMD unveils Helion as agentic AI fuels demand for data center CPUs&nbsp;&nbsp;Network World"
-    },
-    {
-      "title": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VW1pdjNUdnhwXzJMREExUzNncThnX1BmX0FXYlladFpYUnNaYWJoUkdNYjg1TWJydFdmaE9pTUdGWmRkU0xGSHo1LXdINWIzaHNMTXcxcE5kcXVudFhwWmNubGlqRWNURlc1eWxZanpuSDA?oc=5",
-      "source": "https://tech-insider.org/",
-      "published": "2026-10-14T15:46:25+00:00",
-      "summary": "Intel GPU D-Series Debuts: 1.3 PFLOPS, 480GB RAM [2026]&nbsp;&nbsp;https://tech-insider.org/"
+      "title": "Nvidia's China AI chip share plunges to 34% as Huawei closes gap to just 6 points at 28% - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeHV2OWV5eVVOTXJldnZfWkw3bnRoNU5VMUlYMW43X1JDbllSaFk0bFpEQ2tyc3doR19LdnJQNUh1cVRFTWlvdVRWenBSTUZ0bkhqSlQxb0dCRTNOU2FqbURSWkRBN0xpRkloVUxuM21LWVZHZkE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-10-14T04:05:00+00:00",
+      "summary": "Nvidia's China AI chip share plunges to 34% as Huawei closes gap to just 6 points at 28%&nbsp;&nbsp;BigGo Finance"
     },
     {
       "title": "Nvidia's China AI Chip Share Plunges to 34% as Huawei Closes In at 28% - BigGo Finance",
@@ -157,13 +150,6 @@
       "summary": "Nvidia's China AI Chip Share Plunges to 34% as Huawei Closes In at 28%&nbsp;&nbsp;BigGo Finance"
     },
     {
-      "title": "Nvidia's China AI chip share plunges to 34% as Huawei closes gap to just 6 points at 28% - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeHV2OWV5eVVOTXJldnZfWkw3bnRoNU5VMUlYMW43X1JDbllSaFk0bFpEQ2tyc3doR19LdnJQNUh1cVRFTWlvdVRWenBSTUZ0bkhqSlQxb0dCRTNOU2FqbURSWkRBN0xpRkloVUxuM21LWVZHZkE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-14T04:05:00+00:00",
-      "summary": "Nvidia's China AI chip share plunges to 34% as Huawei closes gap to just 6 points at 28%&nbsp;&nbsp;BigGo Finance"
-    },
-    {
       "title": "Siemens transforms computational lithography with NVDIA - Siemens Newsroom",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6ZzBad1ltSENaZ19BbVJlbzlNeFR2ZnZaNmtvSVNEMVZNS1RSRlhrdGZySDF0YnItUEc1ZFN2Vi05TldiTGItSXFTWnplYmp0eGVCVnI3MGtfWW5YcWg0c0dzV2M2SUwtczNQWVl6RQ?oc=5",
       "source": "Siemens Newsroom",
@@ -171,11 +157,25 @@
       "summary": "Siemens transforms computational lithography with NVDIA&nbsp;&nbsp;Siemens Newsroom"
     },
     {
+      "title": "Key facts: NVIDIA (NVDA) Q2 $59.69B; $6.3B CoreWeave buy; Adobe AI tie - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzF6T3VYUzlPeG5MRmVtZ3ZfTWFLUGRiNHNqLV92STJCQTkxbjR3dnBPNl83U1N6a3ZKcUxreEtGRXQyUjNJamY2ZHBOa0UtbjNvb0dfME1Ibm9TVnRCMjdWTGk3dVh3eDM1UldvYjZFeU5kbGRBWlJwekwwcEIxY3RCVl91WEFZYUtxZ1ZoM3F3ODFCOVdXMlZSTGZUS0pEQlZvNm1qRHR2TXNLaWxLQV92S1YtTS0tT215T3dFY0xvOWM?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-16T07:00:00+00:00",
+      "summary": "Key facts: NVIDIA (NVDA) Q2 $59.69B; $6.3B CoreWeave buy; Adobe AI tie&nbsp;&nbsp;TradingView"
+    },
+    {
       "title": "Nvidia's RTX Spark N1X Chips Hit Windows Laptops - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1hfNVkwUTFlZUoxM1hvYXV0aWswMnFNOENMSlM5T0NVczBFc1l0cFJ4WFhzcDAzbE5yU2pjVWJVbjZhU2p6UzJZckk3T1Z0a1BrS0dBcHdqZkpKUVV5WnlvcWk3bUhodWRpQW1zWlJ6Z1ZmMHY4SmROekJnNTBNVnp3MDN2SDJo?oc=5",
       "source": "The Tech Buzz",
       "published": "2026-10-16T15:37:00+00:00",
       "summary": "Nvidia's RTX Spark N1X Chips Hit Windows Laptops&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
+      "title": "Nvidia Pushes Deeper Into AI Agents, Open Source Infrastructure And Model Optimisation Across Latest Developer Updates – SMBtech - SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1lKQmlxbWEtdGoxS0VUc1BINDROdHZvRjdrbnpVOHc3MC1Fdy1CejQ0MXBoN083RU9LWnhVOThPdzdLdXRXenpIaGdkSTFQV1pmMXVsSENRNEVSX1ZLUU5lQlVFQTd3UzZzNGEtMU54UTlQUjJzNXV4Mi1aaEwzRUl5eWVxQ19STzl1eEJfWEY2R3dJdGJJYmY4NUZfVGxjX25EdGhxZ1ZPSjdJdWQtSGh5NHM1REFONlhNX1JZQ1QxOXJ6c2JUMFBMWFZURktZQjFFbnIxZ0p4QQ?oc=5",
+      "source": "SMBtech",
+      "published": "2026-10-18T02:23:03+00:00",
+      "summary": "Nvidia Pushes Deeper Into AI Agents, Open Source Infrastructure And Model Optimisation Across Latest Developer Updates – SMBtech&nbsp;&nbsp;SMBtech"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-18T15:37:02.693628+00:00",
+  "generated": "2026-10-18T20:19:55.478568+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
-      "title": "Introducing Timestral - Mistral AI",
+      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
       "source": "Mistral AI",
       "published": "2026-10-15T15:08:22+00:00",
-      "summary": "Introducing Timestral&nbsp;&nbsp;Mistral AI"
+      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
     },
     {
       "title": "Startup Releases 50-Billion-Parameter Physical General Foundation Model For Instant Robot Intelligence - Forbes",
@@ -150,18 +150,18 @@
       "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
-      "title": "NeuroDx Previews Sphota, a Language Model Architecture Designed to Reduce Memory Needs - Analytics India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGdaOXFVTThkNmY0dkNDY0pvVmUyTDRaVHltSU5qeDNYTGs0R2g2eGp5OHRuYnh1QUd3WmVjRVluSlhyUG1SRnVqLVhabm94c0tvc0Q4UzZVX3hnMGxoNFlYc0gya0x5SUVrQ0hCWjRVWHhRaDhEWnNBaFl0VjNaOXNSd3NZSHpGYi1GLWdKWENIQVF3ZzI1UHdjcUVpZ205RFNBeUZ5NFEta3g3NXMtSF9qTnZENUN5UGxWYUQteWR3NHVWMFE?oc=5",
-      "source": "Analytics India Magazine",
-      "published": "2026-10-16T03:21:32+00:00",
-      "summary": "NeuroDx Previews Sphota, a Language Model Architecture Designed to Reduce Memory Needs&nbsp;&nbsp;Analytics India Magazine"
-    },
-    {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
       "source": "9to5Mac",
       "published": "2026-06-11T07:00:00+00:00",
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+    },
+    {
+      "title": "NeuroDx Previews Sphota, a Language Model Architecture Designed to Reduce Memory Needs - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGdaOXFVTThkNmY0dkNDY0pvVmUyTDRaVHltSU5qeDNYTGs0R2g2eGp5OHRuYnh1QUd3WmVjRVluSlhyUG1SRnVqLVhabm94c0tvc0Q4UzZVX3hnMGxoNFlYc0gya0x5SUVrQ0hCWjRVWHhRaDhEWnNBaFl0VjNaOXNSd3NZSHpGYi1GLWdKWENIQVF3ZzI1UHdjcUVpZ205RFNBeUZ5NFEta3g3NXMtSF9qTnZENUN5UGxWYUQteWR3NHVWMFE?oc=5",
+      "source": "Analytics India Magazine",
+      "published": "2026-10-16T03:21:32+00:00",
+      "summary": "NeuroDx Previews Sphota, a Language Model Architecture Designed to Reduce Memory Needs&nbsp;&nbsp;Analytics India Magazine"
     },
     {
       "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI - NVIDIA Newsroom",
