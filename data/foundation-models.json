@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T11:10:30.631470+00:00",
+  "generated": "2026-10-20T16:35:23.776536+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,13 +10,6 @@
       "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
     },
     {
-      "title": "Mistral Timestral: 209M Model Beats TimesFM-3 [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QlAzSXpwOFVZUXhqbmRwdHhmeEJGUi02bnU1NGU2UFA5djF2VEM2UHg1ZXVvZmF0cDltMkc1eWJZSU8ydWFiUjlpb0liQTRYOGl5OEZOakN6Z2p6WC03ZGVqVk1tWVhubERVZzZPN3c1c2M?oc=5",
-      "source": "shattered.io",
-      "published": "2026-10-19T14:46:03+00:00",
-      "summary": "Mistral Timestral: 209M Model Beats TimesFM-3 [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
       "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzVzS3RxRnlnSE4wUi13dzF0bmw1UmpfcjgyLTE1b1o2SzhCOXNibDAtNF9mck1PRGVwTmFZS18yQXFFWjBtOXBfMHlEb3JoQ19OYmt5aVExMGYyMVRxbE81UkM1bDVBV0t0Z1FMYk45N2o5azNpaDBpcWdLSGR2U0NVc3BNbjRLWjdMVlZndldhMjdWYVdlbtIBmAFBVV95cUxOUzVzS3RxRnlnSE4wUi13dzF0bmw1UmpfcjgyLTE1b1o2SzhCOXNibDAtNF9mck1PRGVwTmFZS18yQXFFWjBtOXBfMHlEb3JoQ19OYmt5aVExMGYyMVRxbE81UkM1bDVBV0t0Z1FMYk45N2o5azNpaDBpcWdLSGR2U0NVc3BNbjRLWjdMVlZndldhMjdWYVdlbg?oc=5",
       "source": "MarkTechPost",
@@ -24,18 +17,18 @@
       "summary": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3&nbsp;&nbsp;MarkTechPost"
     },
     {
-      "title": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndWpnTUNrVFpzNk5TeERyWDljVU14b3poWEcyalNkazJSZloyWmNCRTRNS0ZUNF9TSzJGNlpKQlZvM2lMQ0puRUlDcEh5c29DSFc3d0xUaHNrX0pnRXdyOVVqYm1KYTBVUmFsTTZKTXVwWEFZSUtJ?oc=5",
-      "source": "https://tech-insider.org/",
-      "published": "2026-10-19T15:47:55+00:00",
-      "summary": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]&nbsp;&nbsp;https://tech-insider.org/"
-    },
-    {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndWpnTUNrVFpzNk5TeERyWDljVU14b3poWEcyalNkazJSZloyWmNCRTRNS0ZUNF9TSzJGNlpKQlZvM2lMQ0puRUlDcEh5c29DSFc3d0xUaHNrX0pnRXdyOVVqYm1KYTBVUmFsTTZKTXVwWEFZSUtJ?oc=5",
+      "source": "https://tech-insider.org/",
+      "published": "2026-10-19T15:47:55+00:00",
+      "summary": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -59,18 +52,18 @@
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
-      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
-    },
-    {
       "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
       "source": "Esri",
       "published": "2026-07-12T07:00:00+00:00",
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
+    },
+    {
+      "title": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjgtT0pQY1B0ek0yRktuWXJGSVRYUWJfMDl0dTFwUEUwS3R3Q0xfMndVaVhqOXlMeTdPaGN6OWpPc3Q5SmttZnp1T2FQamNvajkyN3ZZYzA1UzkzRXl6MC1YNGs5a1d2TkZxQXpJU29UbWt3T19qeUh0ZlJqQjJOTWxfSUdrTzFURm5KZFJYWUZzUDY1WFV4S1d4T1E1NGtLSW1OQ0dyQ2w2TTI5dXhlNHFHSktQWnRmSzNUNjBOX0I0SFJLbmVyaW1JWVNjZU5tYU93LUx0OGZIQQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-08-24T07:00:00+00:00",
+      "summary": "Thomson Reuters Leverages its World-Class Data Assets to Launch Its Own Frontier Model&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - Diagnostic and Interventional Cardiology",
@@ -87,18 +80,18 @@
       "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
-    },
-    {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
       "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
+      "source": "VentureBeat",
+      "published": "2026-06-10T07:00:00+00:00",
+      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -108,18 +101,18 @@
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUjlBelBXTGdBTlVuWGpORl8tN1FyRG9uRkg0RzM3azAyRFczaWxFSUk3S2ZxU1ZhMWwzQkIxemlUSjlMYmZyQjVZNDA3QVBGUzBQYW91Y1AtWkpYSFV6MzRCV09UdVR3aUtUQmtZREtLT1R1VXU2UklESQ?oc=5",
       "source": "NASA Science (.gov)",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
-    },
-    {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
@@ -129,25 +122,25 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
       "title": "Robot Foundation Models: A Complete Technical Survey - Medium",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
       "source": "Medium",
       "published": "2026-08-17T07:00:00+00:00",
       "summary": "Robot Foundation Models: A Complete Technical Survey&nbsp;&nbsp;Medium"
+    },
+    {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
+    },
+    {
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
@@ -176,6 +169,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-03-16T07:00:00+00:00",
       "summary": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
+      "source": "EurekAlert!",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     }
   ]
 }
