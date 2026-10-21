@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T16:53:11.551448+00:00",
+  "generated": "2026-10-21T21:25:26.160118+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -101,18 +101,18 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "Saudi firm launches LLM based on Chinese AI model - Global Times",
@@ -122,11 +122,11 @@
       "summary": "Saudi firm launches LLM based on Chinese AI model&nbsp;&nbsp;Global Times"
     },
     {
-      "title": "Robot Foundation Models: A Complete Technical Survey - Medium",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
-      "source": "Medium",
-      "published": "2026-08-17T07:00:00+00:00",
-      "summary": "Robot Foundation Models: A Complete Technical Survey&nbsp;&nbsp;Medium"
+      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
+      "source": "AI at Meta",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -141,13 +141,6 @@
       "source": "Nature",
       "published": "2026-07-31T07:00:00+00:00",
       "summary": "End-to-end multimodal pathology foundation model with clinical dialogue&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
-      "source": "AI at Meta",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "The Future of Large Language Models - AIMultiple",
@@ -176,6 +169,13 @@
       "source": "www.wam.ae",
       "published": "2026-10-15T09:34:48+00:00",
       "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnplbWpZMHl1N2NsUkNxY0Zia1o4SThnT25icGo1T0s2Q2ZYLUlzdXg5ODM3YjdVbG90Nzc4Q3dScWQ4SWt1ZnhFWHhKeWJWVnRlVWpXemx6eWZvWWFZeU9JaDZEcEN4d2l0aXZXRlppNERPcUZYUDE2M2tlRzFOdEhPTDhCQ003ZTg4eFZGemVLNmxEYmVYblViV3RnUncxOFlILWtCMURQa0M1Tk9lN0NPbU1zWkZqZlNKaFpRZnM3aVExbjVWZWxXV3RyUlVYU2NTY3ZrZF9ucHM5VkNzQUprcldhMV83bjM00gHrAUFVX3lxTE1uemVtalkweXU3Y2xSQ3FjRmJrWjhJOGdPbmJwajVPSzZDZlgtSXN1eDk4MzdiN1Vsb3Q3NzhDd1JxZDhJa3VmeEVYeEp5YlZWdGVVald6bHp5Zm9ZYVl5T0loNkRwQ3h3aXRpdldGWmk0RE9xRlhQMTYza2VHMU50SE9MOEJDTTdlODh4VkZ6ZUs2bERiZVhuVWJXdGdSdzE4WUgta0IxRFBrQzVOT2U3Q09tTXNaRmpmU0poWlFmczdpUTFuNVZlbFdXdHJSVVhTY1NjdmtkX25wczlWQ3NBSmtyV2ExXzduMzQ?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     }
   ]
 }
