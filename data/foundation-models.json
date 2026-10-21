@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T21:24:15.713715+00:00",
+  "generated": "2026-10-21T03:58:37.328916+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -22,13 +22,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndWpnTUNrVFpzNk5TeERyWDljVU14b3poWEcyalNkazJSZloyWmNCRTRNS0ZUNF9TSzJGNlpKQlZvM2lMQ0puRUlDcEh5c29DSFc3d0xUaHNrX0pnRXdyOVVqYm1KYTBVUmFsTTZKTXVwWEFZSUtJ?oc=5",
-      "source": "https://tech-insider.org/",
-      "published": "2026-10-19T15:47:55+00:00",
-      "summary": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]&nbsp;&nbsp;https://tech-insider.org/"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -122,13 +115,6 @@
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
-    },
-    {
       "title": "Robot Foundation Models: A Complete Technical Survey - Medium",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
       "source": "Medium",
@@ -136,11 +122,25 @@
       "summary": "Robot Foundation Models: A Complete Technical Survey&nbsp;&nbsp;Medium"
     },
     {
+      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+      "source": "www.wam.ae",
+      "published": "2026-10-15T09:34:48+00:00",
+      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
+    },
+    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4aU5ITnRzejE4YkRfYkFacDNBWTVRM1hMeEVseUR6RG84UHpJbUgwS2hiZ0FWWm5GZzhobVQ4NnpRYmJEZk9lbEVzNkloMzFzaExiSl9ra2ZocUJ1Z0cw?oc=5",
+      "source": "Nature",
+      "published": "2026-07-31T07:00:00+00:00",
+      "summary": "End-to-end multimodal pathology foundation model with clinical dialogue&nbsp;&nbsp;Nature"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
