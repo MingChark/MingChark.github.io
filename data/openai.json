@@ -1,14 +1,7 @@
 {
-  "generated": "2026-10-21T21:25:26.160118+00:00",
+  "generated": "2026-10-22T03:59:15.353661+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82c0lqMFI4dFFfLWhRZ0VZbW9LeFpaVDVTM3kwR3BzWFlST3o4ZXFqcVJVVF9BT2JRM0dFcFN0YWNCcUJjOUVkUUFDZVFidUwyTFM0cHBPVHAtRXk3a2hCYVU4VFJqeDhBckpWNVJ1RjFlVEs5R1pHNXRhMNIBgAFBVV95cUxQbEVjZjZVOEZHSm1UelVuSmxTYnRPTDE3NFB2ZHJFTjBrUnBtejdCWTRVb0JWcXVmNW90R2R1RTBsZWx3Qkw3NXhwU3EzUHhQQ0hDbFg0emFvUkhTNlV0dWJCZm5FMzJQdHpzNTJrSm9ZenhtY1VUTng4UFVPOXp6SQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-21T07:03:48+00:00",
-      "summary": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it&nbsp;&nbsp;CNBCOpenAI ‘agents’ disabled company’s monitoring systems&nbsp;&nbsp;Financial TimesOpenAI Says Its Agents Weakened System That Flags AI Misbehavior&nbsp;&nbsp;Bloomberg.com"
-    },
     {
       "title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I?oc=5",
@@ -31,39 +24,39 @@
       "summary": "OpenAI to sell its top models on Google Cloud in latest enterprise push&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Anthropic answers Meta and OpenAI with a new personal agent, Claude Duet - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE?oc=5",
-      "source": "Business Insider",
-      "published": "2026-10-21T20:29:00+00:00",
-      "summary": "Anthropic answers Meta and OpenAI with a new personal agent, Claude Duet&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI ‘agents’ disabled company’s monitoring systems - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2dEWFkwS1pibEg1bTJ6UzJncExSTkdsLUVJZG5mVmlSa3U5OG9PNXM4UElSSjRlS1dzVG81aXd2Q0FxcU9MXzFDLThaSnpVWGYwSGJpYURmQUJTTWFQc2xiZEdrVW04UWZ1VUxPelVCOUpoUmVteGktSWhHR0RPMGV5czk?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-21T06:12:46+00:00",
+      "summary": "OpenAI ‘agents’ disabled company’s monitoring systems&nbsp;&nbsp;Financial TimesOpenAI says an AI agent lied about disabling its safety monitoring system&nbsp;&nbsp;The VergeOpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI Wants to ‘Patch the Planet’ (With Its Own AI) - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHZicGg4czk4X0FqVXF5NlRyY0EzaVIwU1MtNkNReFlvRXVSOWpSbkswclZCWWFUS3U1M0dwSE9EemNUV3B4YnZIT3FmVlJNcHRoWVEwbWdmQkFRdlFrMkppVl9hWnltelZjM2NWX0phVC14WUk1b3lZQkl4ZmUzdnJSNnJtQQ?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-10-21T20:55:39+00:00",
-      "summary": "OpenAI Wants to ‘Patch the Planet’ (With Its Own AI)&nbsp;&nbsp;Gizmodo"
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-22T01:05:00+00:00",
+      "summary": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI Says AI Found One Of The Biggest Web Weaknesses Ever - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVBka05zUW5zRG51aE1Nc1VLeHRrSXVGd3FkZWhkM2dqb3dqMEZLdENTcVF6cHJmMGNKdWlqNlV4WXFnNEg3YUgxNVdsT1NYTmZLZHp0dHdCWXE3Sk5rYURDcnMtUzk5N1l2bm5GeERmSVR3S3lVcE9PRmhBOXNlSnF1RktZQURLNkd0WFVMMFNBQUt4ZzFteVRGcjhXY251elY5cEV2VmZtSkdOc2g4?oc=5",
-      "source": "Forbes",
-      "published": "2026-10-21T15:01:42+00:00",
-      "summary": "OpenAI Says AI Found One Of The Biggest Web Weaknesses Ever&nbsp;&nbsp;Forbes"
+      "title": "AI uncovers massive flaw in web's foundational code - Axios",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yWTJaTHNWSEthd09VenZuMVhjNjBjb1ZjS2haLUZXb2xvNDhBWXQwUzY2YkJTbkplTHk4ektpVno5NFpJME04alZvaVJ3SjhCNXRURlJmQ0dreGd2RVdUbzBPUVVuY2F6cDdJd0xQVG51Y0s0eDN2V1lmMA?oc=5",
+      "source": "Axios",
+      "published": "2026-10-21T21:52:56+00:00",
+      "summary": "AI uncovers massive flaw in web's foundational code&nbsp;&nbsp;Axios"
     },
     {
-      "title": "AI Helped Find a Critical Bug Affecting Huge Swathes of the Internet - Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlZPR2ZjQXd6UzRub0dJRXd2OXZ1LThIY0Jvc3dCUFJwUDRmRWp2SDVlRmZBSVRqdnBqMDFEX3BIZVVtck9la3JQR3EyZ011TVQ2bFdnR21HSFhqd3ptLW1GLTNCVVVUNU9WU29SaVo3a3F3ZFpDVkl1WTZERERJaWlhRHpobWU2enZ0N0lIU0wzUVpYV2lNODl6Zw?oc=5",
-      "source": "Mother Jones",
-      "published": "2026-10-21T20:54:23+00:00",
-      "summary": "AI Helped Find a Critical Bug Affecting Huge Swathes of the Internet&nbsp;&nbsp;Mother Jones"
+      "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVhkbmJVQVEzWkd2YnJuNGZlRUtDdERWQUkyZVhGRTNiTHJmZjJlWU9lUXpBZmllQWtfelkwdF9kVzRJQXVPcDRSTWR0VnlpMWJEd0VqYkkxTVktUzVXMktnX2FXZEpfREdYMWFQbXlIY3NnZ25sQll5djdRcnJnOHNxZmc1anhfUTc0QzFiOC10aURCSUJKVg?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-21T19:04:36+00:00",
+      "summary": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlBtOHE4NVdQWHJKZUlOZzlJODlfX2tFQUJTYll1N3c1OFVEUGpQWDJncENMMGRjM3FvNThzVmkyNTdwSEQ0eGg0aWFvN19HdzlBeVdxM0lFbDdOVFVWdzVvelJlVVhYamdxZlJibzlqNlVKQl9oZzJZUW1LM0g1Tm1NZEhaWHJ1WG5LTkJTQmJKcU9Tb1lVN2lRckljbk15bm1yOHdZbC1mQzBzYllV?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-10-21T17:59:12+00:00",
-      "summary": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet&nbsp;&nbsp;TechCrunch"
+      "title": "Harvard Mathematicians Divided Over AI’s Role in Research and Teaching After OpenAI Breakthrough - The Harvard Crimson",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQzJEODcyZzRTdHl6d1ZxSFpSY01uNUdtMS04ODI4b19MZ0lSd0E4ZmJoeGFIWkhxODBmakJKUDF2dHNkYW02akJaWDcwTnl1aWhFOTZFOENvVTdKT0ZBdXhnTlR3LVJQWG0yT1lFeUhuVzM3WjIwRzFn?oc=5",
+      "source": "The Harvard Crimson",
+      "published": "2026-10-21T19:16:09+00:00",
+      "summary": "Harvard Mathematicians Divided Over AI’s Role in Research and Teaching After OpenAI Breakthrough&nbsp;&nbsp;The Harvard Crimson"
     },
     {
       "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
@@ -71,6 +64,13 @@
       "source": "Reuters",
       "published": "2026-10-21T17:22:06+00:00",
       "summary": "OpenAI president urges AI safeguards as group he funds opposes regulation&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Which Funds Have the Largest Stakes in Anthropic and OpenAI Ahead of Their IPOs? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3Nmc0JjTlJsV1cxeVFUUkNFU3RlS3J1YUVmTzAxSTlhU0FvNlQwblNfUk9UN2ZCYVY0ZXNKb2RGMUM0ZEpkakFjbXdzODlJV3NYanI0VzRwdUpLeHBvM0xtVjJPV3J0a3ZheWxzdHpIQ090Z282N19WbGNqRHJiWllMV2VYWGtEdEVxZ0ZQc3MxUDk1aXlBa1E1UHNWTWhx?oc=5",
+      "source": "Morningstar",
+      "published": "2026-10-22T00:11:15+00:00",
+      "summary": "Which Funds Have the Largest Stakes in Anthropic and OpenAI Ahead of Their IPOs?&nbsp;&nbsp;Morningstar"
     },
     {
       "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer - WIRED",
@@ -87,18 +87,18 @@
       "summary": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit&nbsp;&nbsp;BBC"
     },
     {
+      "title": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5",
+      "source": "Engadget",
+      "published": "2026-10-21T21:03:19+00:00",
+      "summary": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots&nbsp;&nbsp;Engadget"
+    },
+    {
       "title": "SDSU students call on university system to cancel contract with OpenAI - KPBS",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkZtRTJyd2l6cFpSTFRZWXJTWXVXdTdoa21YZ3Z2ZmtOVTFFQXZjU3VBLWVLZ2ctUU9vQ19pNDhaVkI4U1p6d0VuT1pseXI0X01MQ0VhV1NrdHk2MmFZT1JMSUpIOHBpVmg5R3lYcDlaaVpuaXJUT3BEYllMenZsbFFtZDBna1BZTlFiZkFrbW5LdHF6X2lNWlA0Tll6Rm03QXpscEZQLWVUQl82Y1REeF9rZ1ZtT29v?oc=5",
       "source": "KPBS",
       "published": "2026-10-20T23:51:00+00:00",
       "summary": "SDSU students call on university system to cancel contract with OpenAI&nbsp;&nbsp;KPBS"
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEtaa0V6cXgwMUtObVhKU1JyZEVTSDVyZkthb1pQaHFVN3BjM19rMl9HM25DckVCT1JwcVl0R1RoSG9nNU9PamRvaHlKNHlzMnRlc04zYjU0Z21sMXp2dzBTdm1fdnVEcUtYWHVjamROTF9ZV1c4ZW1wRkx4ZkFRdUpfZDVkbl9ERWRORkFuUktXdlBKblQ5cHF6UEs4WmNmZml4OTVzVUx3RXQ2Nmc?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-10-20T22:24:02+00:00",
-      "summary": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
@@ -108,32 +108,46 @@
       "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-21T12:00:02+00:00",
-      "summary": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft&nbsp;&nbsp;CNBC"
+      "title": "OpenAI says its AI agents disabled their own monitoring - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2Z1WmV6RXdLMWhzZ2U4ZnozN20tS25KVE1CT29UcGVJZFhXSWt2eUhGV3JuTXJuU2JnSHhiS0hkbEVqTFRpYUlHRm81WW9MOW1DZGt5WGZOek1Pak8zQnhOUllYd2dOWmgwMm9xckNpWVN0bmItOEl1bVNTVjFUbUpsOWZYem5nNzhsV9IBkgFBVV95cUxNZEw4eklJLUZfOC1VeGNmbVItT2JGWks5VnVRcGd2c2tBZUdsNzcyMDJZTy1MOWlCRTFJWmdiR2FnMkdoeXRQbWphb1NsVnZEUDhBUm9yUXdZTTRidHdNS0xHQ050c3p1SmJwbklrX3I1aHEwWVB0ZnlSdnEwZTlFeDQ5X3daZkpHVVdLQmFNZFFidw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-21T18:39:35+00:00",
+      "summary": "OpenAI says its AI agents disabled their own monitoring&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Exclusive: OpenAI has acquired Orchestra Bio - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkpaOUNKeWsxZVN1WXZhZkFCMkxUSnpCUWJtTTdKdDYtd2tycEdxU0RJbmgyR3QzQ2FfS1o2dVJqQ090VE9vZFJ5RVZyZ1loYTljWnVZalBTNEJuWlFCb0MycGFtcFZXeUNUTTFwYlBpQzVyRkZjclR2UzJDVDVsNVVTcGVCSTJidEE?oc=5",
-      "source": "Axios",
-      "published": "2026-10-21T13:58:55+00:00",
-      "summary": "Exclusive: OpenAI has acquired Orchestra Bio&nbsp;&nbsp;Axios"
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlBtOHE4NVdQWHJKZUlOZzlJODlfX2tFQUJTYll1N3c1OFVEUGpQWDJncENMMGRjM3FvNThzVmkyNTdwSEQ0eGg0aWFvN19HdzlBeVdxM0lFbDdOVFVWdzVvelJlVVhYamdxZlJibzlqNlVKQl9oZzJZUW1LM0g1Tm1NZEhaWHJ1WG5LTkJTQmJKcU9Tb1lVN2lRckljbk15bm1yOHdZbC1mQzBzYllV?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:59:12+00:00",
+      "summary": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "A major security flaw found using an OpenAI model is causing internet chaos - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmZaTHdxeUVfbDk2Y1hGWGwwMW5odTlPRXVvVWJrdEhxcURnOW5QVzZ3QnVIOHRMWlBjbG5TYnNPNGxva3FWWU1QOHVGRFdOaGFiMS1rZ2xSajhFR1R1bkF4aGxPdG9UNm5oWjU1cXJGaHpDZll6SF96dWtPN0xValZXa1hQUUZmMTBDeTg4TzZnNGZJX0xiY24yVFQ1dDFTRnNBMFZXcjZjWUMxVnc?oc=5",
       "source": "Business Insider",
-      "published": "2026-10-21T17:48:00+00:00",
+      "published": "2026-10-21T17:48:19+00:00",
       "summary": "A major security flaw found using an OpenAI model is causing internet chaos&nbsp;&nbsp;Business Insider"
     },
     {
-      "title": "OpenAI says its agents turned off own safeguards - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3RmVVZhOVFTdU5kNGFKUWVjN3M2UXBNeURwN2ZmRXlMcnZETk94b1VVdkd2dnBzc0tsdFZ3QWQ1cng1ZmNXRkZpS1BRVmxoUUdzWEN2T3U3SU0wR3JKSHpFcmZFbGlWWjM1TU1ZYmE1M2N4T2ZNQmY2Q2JDZ1JxZEJIUVpTUTRtdjJKMHBXX1JqN3B3Q1BnSdIBngFBVV95cUxNS095Tlp1ZE1nM0JJZ1RRVWtKNklETjRnb3hySHpERVlTVVVqeE9CWXdhOFpTZ093eGp1dlVhQ2p1eXM2cnJpTUcyTGp1NV9JRU5FdWdNRlhMSkZVMjZmQmZMLW9ZQVFfTEdpSzktNXR0VUMwS3I3T2UyemdKMjdQMkdZak9URHRVbW50Z3BHX2N1NnEtY1V1bGNHeHg3UQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T05:52:53+00:00",
-      "summary": "OpenAI says its agents turned off own safeguards&nbsp;&nbsp;Al Jazeera"
+      "title": "OpenAI Says AI Found One Of The Biggest Web Weaknesses Ever - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVBka05zUW5zRG51aE1Nc1VLeHRrSXVGd3FkZWhkM2dqb3dqMEZLdENTcVF6cHJmMGNKdWlqNlV4WXFnNEg3YUgxNVdsT1NYTmZLZHp0dHdCWXE3Sk5rYURDcnMtUzk5N1l2bm5GeERmSVR3S3lVcE9PRmhBOXNlSnF1RktZQURLNkd0WFVMMFNBQUt4ZzFteVRGcjhXY251elY5cEV2VmZtSkdOc2g4?oc=5",
+      "source": "Forbes",
+      "published": "2026-10-21T15:01:42+00:00",
+      "summary": "OpenAI Says AI Found One Of The Biggest Web Weaknesses Ever&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "What’s the point of MIT? OpenAI’s math proofs have thrown students and researchers into chaos. - Boston.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaHZtQURiQXFyZUJIQnY2ZFd3b2ltb2Z6eE04bDJ6M2ZJbDg5Ymx6ODV1ZTdfVU5FTXVCbEFzdjliWklBbmIzRFRoV3NqZnBGa2RzUTkzV2lWQTBtMnRnSnVqWVUtc3dOdTF6SEZwUmpXekdJZ2R5VW5DeXVQbXotSDdlUXVDbmpWQlo2NE5SN2xtZUN1WnIyZnFOU1RtVTBjdW04RW9nNW1oTFFiaXQ2WEFEV0thbTZqc2k2cllXeHB4eC1GLWVpVFFpaTlXY181ZnFXYldqUW10dkVHMlNCcw?oc=5",
+      "source": "Boston.com",
+      "published": "2026-10-21T13:58:00+00:00",
+      "summary": "What’s the point of MIT? OpenAI’s math proofs have thrown students and researchers into chaos.&nbsp;&nbsp;Boston.com"
+    },
+    {
+      "title": "OpenAI says GPT-5.6-Sol helped find the PHP flaws now shaking the internet - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib2dGYkx5WWZSeE5fRDZFcWtrTTZqRlFfUXhlbDR4M0RfckQyUnMzbmZndWV4UFA2eTRsMlZ6bnlBUi0xTENPbkVmRjlKVVVTZGZKMi12aFVhbzJnRDNvaE9pZ1ozdl9taUU5U2tUbTRVdmVLRUE?oc=5",
+      "source": "Mashable",
+      "published": "2026-10-22T00:37:36+00:00",
+      "summary": "OpenAI says GPT-5.6-Sol helped find the PHP flaws now shaking the internet&nbsp;&nbsp;Mashable"
     },
     {
       "title": "OpenAI models are coming to Google Cloud - OpenAI",
@@ -143,25 +157,11 @@
       "summary": "OpenAI models are coming to Google Cloud&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QdTVJU0xmSkhMaGJHUGVMRmF4N3I5QVl4UDVOd2d4QzBsN0t4bXNoamFudWVpZTJCNmF6b2ExVTB6OE9WZ1dZTzdSNXZqbThhUEhBNkJIUmRwdkxIQjcyREFLV1o4UkZDZXVxWVZBeFpJTW4xUDV1ZUJLWkk2UQ?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-10-21T16:33:00+00:00",
-      "summary": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So&nbsp;&nbsp;The Hacker News"
-    },
-    {
-      "title": "OpenAI says its AI agents disabled their own monitoring - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2Z1WmV6RXdLMWhzZ2U4ZnozN20tS25KVE1CT29UcGVJZFhXSWt2eUhGV3JuTXJuU2JnSHhiS0hkbEVqTFRpYUlHRm81WW9MOW1DZGt5WGZOek1Pak8zQnhOUllYd2dOWmgwMm9xckNpWVN0bmItOEl1bVNTVjFUbUpsOWZYem5nNzhsV9IBkgFBVV95cUxNZEw4eklJLUZfOC1VeGNmbVItT2JGWks5VnVRcGd2c2tBZUdsNzcyMDJZTy1MOWlCRTFJWmdiR2FnMkdoeXRQbWphb1NsVnZEUDhBUm9yUXdZTTRidHdNS0xHQ050c3p1SmJwbklrX3I1aHEwWVB0ZnlSdnEwZTlFeDQ5X3daZkpHVVdLQmFNZFFidw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-10-21T18:39:35+00:00",
-      "summary": "OpenAI says its AI agents disabled their own monitoring&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "OpenAI says its AI agents weakened internal monitoring system - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-21T02:37:00+00:00",
-      "summary": "OpenAI says its AI agents weakened internal monitoring system&nbsp;&nbsp;Reuters"
+      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-21T12:00:02+00:00",
+      "summary": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data - OpenAI",
@@ -171,11 +171,11 @@
       "summary": "Using thousands of AI agents to uncover new leads in biological data&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFERURfRDhCWENqMGowemlERzBvaU00S3pBbmRwNDFpcGNpWjZ6cFJIak1WTnVMN3NOemFlUE1nNVkweGk3V3NnNFlHa29UYUFjRVYzRGhGUjlWSEh4b09UWnEyN1V4bzJ6UmVBUkVRWkhHQVh1S1Z2MWdzTHlpUHJGWTlnNVd0dHNJekZfQk9PUWxCa1IwUFI0LTdnQUVhZGJ0eFpkUnlDclN3b3hFUWpzajF3MHFjZnREdVln?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-21T13:04:22+00:00",
-      "summary": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue&nbsp;&nbsp;Reuters"
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-21T13:08:10+00:00",
+      "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform&nbsp;&nbsp;OpenAI"
     }
   ]
 }

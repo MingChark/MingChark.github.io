@@ -1,14 +1,7 @@
 {
-  "generated": "2026-10-21T21:25:26.160118+00:00",
+  "generated": "2026-10-22T03:59:15.353661+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUgxQWJ2azdwU0ZZcWxDV3Z1MXBuUTVxcFRmb1FtdlBqUUtER3EwVDZOUk1TX1lsbm1VU24wTGJhYk9VcG51cWJCN2x6MzVjd3pJdG9aeXFzTXpCVDJGMUZXSlBJWTIteExWVkhFRFlQelM0cXFHdzl2NnNoRGJtR3d2Q25CSzZFZldhaFJMUWhLcjJUbUhrcWJTakZPZ9IBowFBVV95cUxOc2dNSnN3aEhzWGJScUVvcmE4RFJmVHJzNEVzZmNiVFl1MmFsZE5aSktUUjVZWDdDTUZzakd4RFlGaW05MXZ3R0ZHcWFJT2VnTTVrMnN5YU5ESGxUbjhfWGRiQTF6STdiQVhiVng4OHlQeE1tMHpuTGVKT2pkWTQyeldRTWg1eXlFZDdyWlJmRldDVkZnZmJDUDhaazRFbEZURHZB?oc=5",
-      "source": "Wccftech",
-      "published": "2026-10-21T11:26:54+00:00",
-      "summary": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders&nbsp;&nbsp;Wccftech"
-    },
     {
       "title": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sQVRNWUJWcVR1SFRwOEpmMVktR0VXSWt3dGNLQTZsQVJhVXU0NFhHM09VZ1dYVk9IRzh3cDQ5U2dXU0Q3MEx3M2tOUXMtZ0FKWHBqS1QtWERVMEhaVTVPTkwtQnB6UmYzejJETHBHNUh3c2M?oc=5",
@@ -17,32 +10,25 @@
       "summary": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026]&nbsp;&nbsp;shattered.io"
     },
     {
+      "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUgxQWJ2azdwU0ZZcWxDV3Z1MXBuUTVxcFRmb1FtdlBqUUtER3EwVDZOUk1TX1lsbm1VU24wTGJhYk9VcG51cWJCN2x6MzVjd3pJdG9aeXFzTXpCVDJGMUZXSlBJWTIteExWVkhFRFlQelM0cXFHdzl2NnNoRGJtR3d2Q25CSzZFZldhaFJMUWhLcjJUbUhrcWJTakZPZ9IBowFBVV95cUxOc2dNSnN3aEhzWGJScUVvcmE4RFJmVHJzNEVzZmNiVFl1MmFsZE5aSktUUjVZWDdDTUZzakd4RFlGaW05MXZ3R0ZHcWFJT2VnTTVrMnN5YU5ESGxUbjhfWGRiQTF6STdiQVhiVng4OHlQeE1tMHpuTGVKT2pkWTQyeldRTWg1eXlFZDdyWlJmRldDVkZnZmJDUDhaazRFbEZURHZB?oc=5",
+      "source": "Wccftech",
+      "published": "2026-10-21T11:26:54+00:00",
+      "summary": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
       "title": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk05UWUwOHJyRV84VUI1aF9xd1dVYlNRelR1V3VPdUs4dUU2dWlTMGtUbFBTVTJrRENOVGlnZjRuWFRkRnhpeTBXUHJ1elVwdXRZR1JpQjZGSFd4anFrWVk0NnBxel9HalFhQXhZa1l4Xzd5cVFDQ2JFS2kyX19TdU9TeHRua0thY1dWMHhyR3B4MC05MGd1Vw?oc=5",
       "source": "The Tech Buzz",
       "published": "2026-10-21T11:38:00+00:00",
       "summary": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
-      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-10-14T16:19:53+00:00",
-      "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips - Crowdfund Insider",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmVsaGRLcUl4WGoyY1NRYnJFdG1WcUpfSlFxYUZ4RlpwNHRlN1h0ZWhCc2E0NnFjNGJrTms1SW1DdWJzbno4ZndWRkJNTEExUnZpUFJVVzIzeXFNdHd4UmliX3pCczNGaDdsTFN6d1FpeEJNYmZwaGZaMWZ2bGNXOGZWN2gzTUtuc2YzaVBKMEN1N000VDlyOW9YdHIzRXhxcW9DenNHTm5hVWdPQmVaR0hvdmYzYjFYQV85NTZGaFItZzdZYktuQzdfQ1Q0U3AzWGpyNWNLcDExODVhVFc4RG9nazlkeWM1bC0tOWNB?oc=5",
-      "source": "Crowdfund Insider",
-      "published": "2026-10-21T04:41:31+00:00",
-      "summary": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips&nbsp;&nbsp;Crowdfund Insider"
-    },
-    {
-      "title": "Hitachi Solutions Collaborates with NVIDIA to Accelerate Enterprise Data and AI Readiness - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1I4U2FJOThaOUQxZTFMaHdlenFGNl9vNUVhVGdUWUtKU2hkN0o3TjMyNFg2WjBPYnE2YXlwdU9lVHNjSjZ6WHl4U2VPQXpocnNqSUZxTmRLLWhDWEhyUnhJMjlHZWp3MThjeXI2RkgwaFVKSFRzdEhMMGJRemNQQnljZ18xSUNmbFc2RFgxNFhNanJXVDZj?oc=5",
-      "source": "AOL.com",
-      "published": "2026-10-21T14:00:54+00:00",
-      "summary": "Hitachi Solutions Collaborates with NVIDIA to Accelerate Enterprise Data and AI Readiness&nbsp;&nbsp;AOL.com"
     },
     {
       "title": "Siemens and NVIDIA speed up AI chip lithography by 12x ... - eeNews Europe",
@@ -59,6 +45,20 @@
       "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Modesto Bee"
     },
     {
+      "title": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips - Crowdfund Insider",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmVsaGRLcUl4WGoyY1NRYnJFdG1WcUpfSlFxYUZ4RlpwNHRlN1h0ZWhCc2E0NnFjNGJrTms1SW1DdWJzbno4ZndWRkJNTEExUnZpUFJVVzIzeXFNdHd4UmliX3pCczNGaDdsTFN6d1FpeEJNYmZwaGZaMWZ2bGNXOGZWN2gzTUtuc2YzaVBKMEN1N000VDlyOW9YdHIzRXhxcW9DenNHTm5hVWdPQmVaR0hvdmYzYjFYQV85NTZGaFItZzdZYktuQzdfQ1Q0U3AzWGpyNWNLcDExODVhVFc4RG9nazlkeWM1bC0tOWNB?oc=5",
+      "source": "Crowdfund Insider",
+      "published": "2026-10-21T04:41:31+00:00",
+      "summary": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips&nbsp;&nbsp;Crowdfund Insider"
+    },
+    {
+      "title": "Hitachi Solutions Collaborates with NVIDIA to Accelerate Enterprise Data and AI Readiness - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWE5MTGk4NUNQMlZQRWpJTXNiVFhDZzktS3JjTHl0aUJNNDdNZ3c0anBPaTZJd3pJa3gxTk1TeHlRVjNJLXZydFBUU0R0SXdYRW9aa1FyM2M1OUJvbVN1a3hVZ05UY3VmRTFRY3I5RDZ3VnFKYmZ4QlJ0SmpZSWZYV29yalFMOHhTek9xOWFFY3pUcHZ0SW44QTQ3T1o3cnYyTWlZRGk2V2FvX0FoOE1lZncweThlaFFOelhNZVpZOFEyN21xSkJ1eFkybnFuRlo0dDYxbG9TTDhERGprSHc?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-10-21T14:00:00+00:00",
+      "summary": "Hitachi Solutions Collaborates with NVIDIA to Accelerate Enterprise Data and AI Readiness&nbsp;&nbsp;PR Newswire"
+    },
+    {
       "title": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground - Mexico Business News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUxJdVNwblBhMC1rUU9TbGpZSW5OWFo5WmdHcGczYjBaeFJ0OWtKckV0dWRIUkR5LVJmRl8zTnI5UnlSSmhlM3R3MkdRUFNlZkRfY0RDLXdpd015N3Fqc0IwcHpmWjhFSXRnUkNVRVlXYWZuakpNaEVxOWY2LVp2cUpiTDVfQ0FGa25yMW01dzZmeXpxamlNdEd0NmtZQkN6SWtUdw?oc=5",
       "source": "Mexico Business News",
@@ -66,25 +66,11 @@
       "summary": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground&nbsp;&nbsp;Mexico Business News"
     },
     {
-      "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TFRqdC1sTjdmcmhrZXVsdGtFN21ZdHhKcEZPa0VqNE5XUVNzSEltUWVaSF9pWDM2YXRLSVVVZEl5QU1reWpRVUcxZ3RPM3pQckJ5ZE9Wcw?oc=5",
-      "source": "https://economy.ac/",
-      "published": "2026-10-15T03:27:27+00:00",
-      "summary": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization&nbsp;&nbsp;https://economy.ac/"
-    },
-    {
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmU2RmR3bm5TaUl2RFgxcVZpTk4tNXNaN2xwdi1pdE1SQTdzenhsZ2d5UTlRVG5TczR1aXU5ZW9xcmRuTm1BSDFvaTNGbFBicGhfNU9iNTQ2am5nb0tISlZGUXc3RUs5alhsY1dhdVFDVFJpTkE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-15T07:26:00+00:00",
-      "summary": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time&nbsp;&nbsp;BigGo Finance"
+      "title": "RISC-V AI Chip Maker Tenstorrent Raises $1.5B Series E at $6.2B Valuation - Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0N05qZkNBNF9nczZwZVZ6bWZDbDRXR1ZKRGw3ZTV6S01HcW9WWHJPWkdTN3VTb0J6VWoyTW5RMUVpOEhoVm9FY093X0QxSGd1UVpJ?oc=5",
+      "source": "Wowtale",
+      "published": "2026-10-20T06:31:55+00:00",
+      "summary": "RISC-V AI Chip Maker Tenstorrent Raises $1.5B Series E at $6.2B Valuation&nbsp;&nbsp;Wowtale"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -101,6 +87,13 @@
       "summary": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC&nbsp;&nbsp;TradingView"
     },
     {
+      "title": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization - https://economy.ac/",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02TFRqdC1sTjdmcmhrZXVsdGtFN21ZdHhKcEZPa0VqNE5XUVNzSEltUWVaSF9pWDM2YXRLSVVVZEl5QU1reWpRVUcxZ3RPM3pQckJ5ZE9Wcw?oc=5",
+      "source": "https://economy.ac/",
+      "published": "2026-10-15T03:27:27+00:00",
+      "summary": "\"Even with accelerated localization, supply remains insufficient\" Continued Nvidia dependence amid China's AI chip shortage, including smuggling and overseas cloud utilization&nbsp;&nbsp;https://economy.ac/"
+    },
+    {
       "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWVITFJqMFB6NHJHUF9HRHBBYzdsQUhUYS0yb1FjU1VmNGM5cmx4QW1oaDlWQ216Zkk4akJNWV9EUFNBb2ZyMDY3cmRDQ3Nzd1VMcmxlS0prems5VFVwVnRVYnlCV3dMXzVfUGpvRWxIbmlla1l6SUp2eWRyMkFVU3RXTW9BN3VkOTB4ejZNdzdCWXV3akNN?oc=5",
       "source": "Yahoo Finance",
@@ -115,11 +108,25 @@
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
     },
     {
-      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5",
+      "title": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmU2RmR3bm5TaUl2RFgxcVZpTk4tNXNaN2xwdi1pdE1SQTdzenhsZ2d5UTlRVG5TczR1aXU5ZW9xcmRuTm1BSDFvaTNGbFBicGhfNU9iNTQ2am5nb0tISlZGUXc3RUs5alhsY1dhdVFDVFJpTkE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-10-15T07:26:00+00:00",
+      "summary": "China's AI chip market reshuffles as Nvidia shipments halve; domestic non-GPU accelerators overtake for the first time&nbsp;&nbsp;BigGo Finance"
+    },
+    {
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
       "source": "NVIDIA Newsroom",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI&nbsp;&nbsp;NVIDIA Newsroom"
+      "published": "2026-10-14T16:19:53+00:00",
+      "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
@@ -136,27 +143,6 @@
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia is no longer just an AI chip company. It is financing the revolution it built - CTech",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmdDJMVzIyMzM5TFlrMXNMM1dvVFljaTRyZVBkZlVhUlBDSHo3elQ3VlhyT3V2bmVqOVpmVGZjVGZyTWNnb28wUDNUUlJLRHVmczZMYnBudVRheTNjVXpCTEJ2dlhyRjg?oc=5",
-      "source": "CTech",
-      "published": "2026-09-06T07:00:00+00:00",
-      "summary": "Nvidia is no longer just an AI chip company. It is financing the revolution it built&nbsp;&nbsp;CTech"
-    },
-    {
-      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU2F2b2U4RmxFb1F4dV9qVjkzdXppbFdKYjVQTGxCM0U3ZzV1UUh1eUUzbzRjQ3hjbmJ2emc1V2ZzcGExMnpPZGZYaDFaY2ZnR2Q4eXE4UWZpNFB1YVhWV01wYXhHVGtIYkt2b2pEeTBnczV4dUFVWkFwUW9FeURzaXpwQnRLZWZaZ19oOTV4dXk3aVo5WnFlcHNVWmVjN1ZzdnZ5aGRCMGxSeVpDOGxDRW9pS2J2QnMtamZ1amlLUVdCMjh6Z0JMNVo4MjBUeGd6QUhrSXdKcnJoMVZ4NW1JdzRzWmtaOEtqeE1lSFh3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-19T07:00:00+00:00",
-      "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
       "title": "AMD: First AI Target Hit, Likely $1,000 Up Next (NASDAQ:AMD) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGtETVJfd0Y1X0xlMlJ1QjRRTTRnTUM3NmNUV1lNTWRXc0Qwc1dORFBFZE14U1NvRGlZN1ltRklvMXE1Uko2dTNJVDJtSXhGMXNiUU13TGJmbjRwd3JWQVUxTy1UalNyVjRvUTQ2TlJIVXMtU0t1WjJmOVltQUZEbEVScDFlS0V1ZlREQQ?oc=5",
       "source": "Seeking Alpha",
@@ -171,11 +157,25 @@
       "summary": "Nvidia Loses Ground to Huawei in China AI Chip Market&nbsp;&nbsp;StratNews Global"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-      "source": "OpenAI",
-      "published": "2026-08-25T07:00:00+00:00",
-      "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference&nbsp;&nbsp;OpenAI"
+      "title": "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkRNUnVZc0JGMVdRZVUtWW5aX3FIbGFUa2F4SlE5LUFyc0ttQ2E3WktDMktsY01mNWl6d2dTbC1RQWhlVXF2QU1GN0s4Zk1iRGo5MXZMTDBmRWtRc0lvRUVYMjJoS2R2RXo2SUlxdWg3Y2NpZkRnd0R2bFFiSW1haTNMcldaSTh5cGRPU3hGQVcwMXpQbjRHZw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "AMD unveils Helion as agentic AI fuels demand for data center CPUs - Network World",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTJPeGMxb3I1YTZzZElBaWpkb0h0amxBZ2VCckppelJCWms4ZE56N2oxc0RjNEhUbEU3bW9lU1FiMVlBVDBHdEhTRXdwVndqVFEyMXlmNjl4RlJwQkhiRVRWeXBQdjNPUnU2bzY4ZWlBcnJGd25yczFMNk1rZEMyWjQ5ZUpLbGwxUUFCNmR2UDRCbkRWWTVheGRPVGRrYTZCLUpmeXJoQ1haempLMXpRWWlrWXk3d0E?oc=5",
+      "source": "Network World",
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "AMD unveils Helion as agentic AI fuels demand for data center CPUs&nbsp;&nbsp;Network World"
+    },
+    {
+      "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx3dFFqWGM4Rk5zcS1SQjI0VHN1X1NfelJYdW4zMVYtdW5zVHJSZVhzREhiOGRvcnR1UnpkRGFPQkFkejdMVW5wYmQ3a0ZtV1ZFWENCeTE3RDdMTXQwNnYyVnYwZnlVSmQ1OV9BU2JuTTV5ZE1GekVvbURmUTI4Smg2cFdMbXJwLVE0c3ZFdEs?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-09-29T07:00:00+00:00",
+      "summary": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion&nbsp;&nbsp;The Japan Times"
     }
   ]
 }
