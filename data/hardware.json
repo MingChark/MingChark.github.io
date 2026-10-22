@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-22T16:53:13.237131+00:00",
+  "generated": "2026-10-22T21:20:27.630837+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD Helion Puts CPU Density at the Center of Agentic AI Infrastructure - Data Center Frontier",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQajg4enhWR3o4UzFRWXphcjhTMDNSZ1YtMFJRV0NXWG1vNTdVa0NEOWRmcnVYck1DalVkaldWSERfY2pCbTVFNHI2MldKbGlMQUxLWDNUd01wb0hsemJOd1ZjVTNGTk1VbFJvSHB0dlZCbFdVNW1CYWVLWUIzb1hYRlBZWDMtNTdudmdudU5oakFsQklXNndKOVBzd2c4X2ZWaVpYY1hGUndNVC1xVkpnLVJMdDZ0Zm10c3NpczBtZFJhaGtMQ1E1akU3QWZYcnBUbkllWWlB?oc=5",
+      "source": "Data Center Frontier",
+      "published": "2026-10-22T20:00:35+00:00",
+      "summary": "AMD Helion Puts CPU Density at the Center of Agentic AI Infrastructure&nbsp;&nbsp;Data Center Frontier"
+    },
     {
       "title": "Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTlzZjBDd2xnbnFoX1lqWHdnQzRxYk1BaTctZ2ZDTW1IOTQ4d2phVFQ3WG9VcnFmcE0tekNyNEZaR09NOUJfckkxa0YwOXpMQTZCUm1TeVl5Q3VlRnNvOWR6VnNyODNZSE1FTlBsNzh2SkRYZldNTjdMMnNOZnVreUZMSmQ2X0xGODlwcGZpa1FvZGlDNUJtdUZB?oc=5",
       "source": "The Tech Buzz",
       "published": "2026-10-22T05:41:00+00:00",
       "summary": "Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
-      "title": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA - 巴士的報",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLVdMc0doNFRWU21IRE9sSXdlYzV2NHFXODNCTWNJT0RPQ2RCOVVTUy1VeXF2ZTRKWkpSOFRCYVpkYnRod3ZNSUcxeExNbk12V04tYk9LYlJZLXFhajVhQUlpXzBsakJxWHZGUF9OSndtbWxKcDdQbkJNS2t1MVhQY0l5bXhjR2huVUN1cnR5ZUdDTjJVSk15eC1KTWRSV1hoREJjRk9NRjAzNi1IcU1qZEdwa0dzemc4Q19uTzdXNXdxMzZoUXEtOVY1YWZhUXV2TTlQR2JPMm9HQnZoQnVpZzVSdFRvVWVMczVwRDZHejB2STk1VWh2akdNaWJHRjA2N1E?oc=5",
-      "source": "巴士的報",
-      "published": "2026-10-22T14:15:10+00:00",
-      "summary": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA&nbsp;&nbsp;巴士的報"
     },
     {
       "title": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026] - shattered.io",
@@ -31,6 +31,20 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQnBYTmt0Z0ljNkxiSkpXRmtROFVNRWNLZmhsQVp6bG9sSGc2V3dZY0VpVFNsN0Q2cGRvczgxVUJlNGc5Nk5tYzJscHFUYm5fUjdidmdFNTh2X0d3X3pLU3BIanVJN2hlRjRzTXAxbXZxZ2NiZU15c24xcEtCd0RfMTNZNTFyMzFwYi1tXzQ0NGY2ZjNfYVQ3N01Mc3RfY2dqVnhmQnY1bm5CV1ZCVk1OdkRMd0N3RTk1Rk9BUE5jUmpaSUUzT283NjlnX1hDUzVNYVRWMW9OcEZhNXZyaEo2cXlsQ1JJMGJiMGcwcllYX3hvdFlleHp0eUxQUVVaYmFUb1c1WWxJTQ?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-10-22T12:00:00+00:00",
+      "summary": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA&nbsp;&nbsp;PR Newswire"
+    },
+    {
+      "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUgxQWJ2azdwU0ZZcWxDV3Z1MXBuUTVxcFRmb1FtdlBqUUtER3EwVDZOUk1TX1lsbm1VU24wTGJhYk9VcG51cWJCN2x6MzVjd3pJdG9aeXFzTXpCVDJGMUZXSlBJWTIteExWVkhFRFlQelM0cXFHdzl2NnNoRGJtR3d2Q25CSzZFZldhaFJMUWhLcjJUbUhrcWJTakZPZ9IBowFBVV95cUxOc2dNSnN3aEhzWGJScUVvcmE4RFJmVHJzNEVzZmNiVFl1MmFsZE5aSktUUjVZWDdDTUZzakd4RFlGaW05MXZ3R0ZHcWFJT2VnTTVrMnN5YU5ESGxUbjhfWGRiQTF6STdiQVhiVng4OHlQeE1tMHpuTGVKT2pkWTQyeldRTWg1eXlFZDdyWlJmRldDVkZnZmJDUDhaazRFbEZURHZB?oc=5",
+      "source": "Wccftech",
+      "published": "2026-10-21T11:26:54+00:00",
+      "summary": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders&nbsp;&nbsp;Wccftech"
+    },
+    {
       "title": "NVIDIA Unveils DSX POD for 14-Day AI Data Center Deployment - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWpJRG0tUGNIR2NrTkVJSjQ1a3RJdF9JcTU2M3NnUk8yUl9BQnQ2VFBwUmR2bGJZQXhIUWpfLTFWenRkaHJObTVDeEhqQWw0eXpsUmFOdE5sb2NpdHBOS0dVYVZ2TVI5ZVpNeFFHbW5FQzJKWnRCSlpfQWo5azBiNVNhN2VCMHh0?oc=5",
       "source": "조선일보",
@@ -43,13 +57,6 @@
       "source": "IT Brief UK",
       "published": "2026-10-22T14:16:00+00:00",
       "summary": "Park Place updates Entuity to monitor AI GPUs & cooling&nbsp;&nbsp;IT Brief UK"
-    },
-    {
-      "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUgxQWJ2azdwU0ZZcWxDV3Z1MXBuUTVxcFRmb1FtdlBqUUtER3EwVDZOUk1TX1lsbm1VU24wTGJhYk9VcG51cWJCN2x6MzVjd3pJdG9aeXFzTXpCVDJGMUZXSlBJWTIteExWVkhFRFlQelM0cXFHdzl2NnNoRGJtR3d2Q25CSzZFZldhaFJMUWhLcjJUbUhrcWJTakZPZ9IBowFBVV95cUxOc2dNSnN3aEhzWGJScUVvcmE4RFJmVHJzNEVzZmNiVFl1MmFsZE5aSktUUjVZWDdDTUZzakd4RFlGaW05MXZ3R0ZHcWFJT2VnTTVrMnN5YU5ESGxUbjhfWGRiQTF6STdiQVhiVng4OHlQeE1tMHpuTGVKT2pkWTQyeldRTWg1eXlFZDdyWlJmRldDVkZnZmJDUDhaazRFbEZURHZB?oc=5",
-      "source": "Wccftech",
-      "published": "2026-10-21T11:26:54+00:00",
-      "summary": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders&nbsp;&nbsp;Wccftech"
     },
     {
       "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Modesto Bee",
@@ -169,13 +176,6 @@
       "source": "Investor's Business Daily",
       "published": "2026-09-22T07:00:00+00:00",
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "title": "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkRNUnVZc0JGMVdRZVUtWW5aX3FIbGFUa2F4SlE5LUFyc0ttQ2E3WktDMktsY01mNWl6d2dTbC1RQWhlVXF2QU1GN0s4Zk1iRGo5MXZMTDBmRWtRc0lvRUVYMjJoS2R2RXo2SUlxdWg3Y2NpZkRnd0R2bFFiSW1haTNMcldaSTh5cGRPU3hGQVcwMXpQbjRHZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-11T07:00:00+00:00",
-      "summary": "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner&nbsp;&nbsp;Yahoo Finance"
     }
   ]
 }
