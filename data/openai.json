@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T04:02:32.074094+00:00",
+  "generated": "2026-10-23T11:16:09.385061+00:00",
   "query": "OpenAI",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "source": "WSJ",
       "published": "2026-10-23T01:00:00+00:00",
       "summary": "The Signal Chats That Cost OpenAI Researchers Their Jobs&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-22T21:50:16+00:00",
+      "summary": "OpenAI trims valuation target to $1.25tn after pitching higher price&nbsp;&nbsp;Financial Times"
     },
     {
       "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors - CNBC",
@@ -24,11 +31,39 @@
       "summary": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
-      "source": "Financial Times",
-      "published": "2026-10-22T21:50:16+00:00",
-      "summary": "OpenAI trims valuation target to $1.25tn after pitching higher price&nbsp;&nbsp;Financial Times"
+      "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-22T01:05:00+00:00",
+      "summary": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "At OpenAI’s Cyber Lab, Hackers Race To Protect The Internet From AI Attacks - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2ZnT0JQaEZ2alZMTnFJYVVNa0M3Z210T1ZSbFdKWi0wa25majdtYjVsR1RPVlIzc3ZZUDVPTmZxN0FpRnBhTE92S24tUzhkaVhMb2ZKNUg0VDhMMHhaX2wxcDRHbDZDU0pWZ3RWTFRFMlZCVDRzdWZPUlB5T2gwRk5VQUVRT0pDMEJaQ1pscTQ3S29yXzR5b1hBc2xKQmwzRFB2R2VwLTZRcFY5cHNQUDVBQnZtVk0wb3pQRk9qMEY?oc=5",
+      "source": "Forbes",
+      "published": "2026-10-23T10:30:11+00:00",
+      "summary": "At OpenAI’s Cyber Lab, Hackers Race To Protect The Internet From AI Attacks&nbsp;&nbsp;Forbes"
+    },
+    {
+      "title": "The PHP bug marks a dangerous new era for the internet. OpenAI’s poised to cash in - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzFNOElCNU5CMkxCRUtSRDlvU3dGM1BmOGN0TDdadFBxV1lwMkktWkFTY0hTTy1tQ1RCamxsbkhjc21zVExzTGZWVld3Vi0tcjY4SHpPRzUxY3RJendMMkRfdHF4T1M3T3dreWUxcEdMdXg2U0FKQkZrMjUwM2ZnWTJKSG0tVTFwTG5zRkhxTDAyd2NQQ3Nv?oc=5",
+      "source": "Fortune",
+      "published": "2026-10-22T18:37:00+00:00",
+      "summary": "The PHP bug marks a dangerous new era for the internet. OpenAI’s poised to cash in&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "OpenAI agents are shutting off ways to monitor misbehavior - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMwR04wc2hEeGUxaDBrd0FYd3FkamxjYjljQkFiS0RxX0RNOXh6NUVaUC1NR1JzSEZVT3pjclViUHo2M2dGWVRheElJNFVwZmhZcHptbmhpQm9uNzBCMERSTkdIUThhb1ZPWHYwRmtBVVN4UHhIUUVROXNuS1FDWVpnZkdkNDRaRVE4ZVdUZFFFWnN6dDVXU3ZkbExSbnBoeDJB?oc=5",
+      "source": "NBC News",
+      "published": "2026-10-22T21:01:02+00:00",
+      "summary": "OpenAI agents are shutting off ways to monitor misbehavior&nbsp;&nbsp;NBC NewsOpenAI says its AI agents disabled their own monitoring&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosOpenAI Says an AI Agent Blocked Itself From Being Monitored—Then Lied About It&nbsp;&nbsp;ExtremeTech"
+    },
+    {
+      "title": "The Leak Suspicions That Got Three OpenAI Staffers Fired - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnI0d2YzTXVkOVR3VEJUOV83R3FveURQU2pqeWNVS0xQdG83X3B3WUZmQ0swN0R3bXA4cXNKeGJ3cHFfZkVvMm9fZUMzX2RxVEdRaGVQWUd5SlF4QzdTNTZ6b2hnU1poSmY5V0Z1NVlFeUQ3aXhYQlE1ZXNTMkZ6QURHVDhNMXVidjRDRk5Sd29tMWdf?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-23T10:03:00+00:00",
+      "summary": "The Leak Suspicions That Got Three OpenAI Staffers Fired&nbsp;&nbsp;WSJ"
     },
     {
       "title": "The biggest wealth giveaway in modern history aims to transform the world - The Washington Post",
@@ -45,39 +80,11 @@
       "summary": "The Myth of Safe AI&nbsp;&nbsp;The Atlantic"
     },
     {
-      "title": "OpenAI says its AI agents disabled their own monitoring - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2Z1WmV6RXdLMWhzZ2U4ZnozN20tS25KVE1CT29UcGVJZFhXSWt2eUhGV3JuTXJuU2JnSHhiS0hkbEVqTFRpYUlHRm81WW9MOW1DZGt5WGZOek1Pak8zQnhOUllYd2dOWmgwMm9xckNpWVN0bmItOEl1bVNTVjFUbUpsOWZYem5nNzhsV9IBkgFBVV95cUxNZEw4eklJLUZfOC1VeGNmbVItT2JGWks5VnVRcGd2c2tBZUdsNzcyMDJZTy1MOWlCRTFJWmdiR2FnMkdoeXRQbWphb1NsVnZEUDhBUm9yUXdZTTRidHdNS0xHQ050c3p1SmJwbklrX3I1aHEwWVB0ZnlSdnEwZTlFeDQ5X3daZkpHVVdLQmFNZFFidw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-10-21T18:39:35+00:00",
-      "summary": "OpenAI says its AI agents disabled their own monitoring&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-22T18:14:36+00:00",
-      "summary": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-22T15:00:25+00:00",
-      "summary": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "On Main Street, Goldman Sachs makes a big bet on AI - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOERqdTZkVDBjdlRfQ0JFV3NpLURsZmtoUGhLMnJtck9PNTgteG9CclotdTMtYm9tYnJORU9HR01uWmFIU3EzS2xEZmJTcDRwQ3Z0RjVXUGlVS1hoZzBsY3R5TFdteGliUF9leFA2d0I5NElnNlQzNkdOekdzcll1cnhGM0JBMC1JZklkN2lqazBROG1lcm40aGtPX0otcmIzTnc?oc=5",
-      "source": "NBC News",
-      "published": "2026-10-22T20:43:15+00:00",
-      "summary": "On Main Street, Goldman Sachs makes a big bet on AI&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip - Key Context by Tae Kim",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZVJ6b0RyX3ZpVFFlWlN1N3R1dWt4dnFEb3hGQVItNUNlVUdTblN2Z2Y0WE1vRC1icHhqOHBKazdnTEN6RW5ISmxUWVhJclNfaHhCOGhBMUlOM1lhdlpTOFJKMFFNTGJxX3U3SnVwNGM?oc=5",
-      "source": "Key Context by Tae Kim",
-      "published": "2026-10-22T03:22:46+00:00",
-      "summary": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip&nbsp;&nbsp;Key Context by Tae Kim"
+      "title": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJiYzBMVmxxN21YUzR5SXJQLWF2SzVGTWdncU0zalRsR3dwcG9aLVZpSWdpTTdneW0zbU1Kalh0bHp0dDdwbWFYb0tIMnZ5N3pCblNnMTh6Z0FsWkFiWWc0d1Y2THMyTFJOYU1VdUl5a0dmNVhqSGlZSVp3VlVHbUFReHdUWXB5ajNJVHpld3V1ZXBSM3BQTGlCMGhqNGVybWU3Nw?oc=5",
+      "source": "Business Insider",
+      "published": "2026-10-22T16:38:00+00:00",
+      "summary": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI&nbsp;&nbsp;Business Insider"
     },
     {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up - TechCrunch",
@@ -87,46 +94,18 @@
       "summary": "OpenAI makes its Jev competitor widely available as decision model competition heats up&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "The inside story behind OpenAI’s million-dollar math proof - Scientific American",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjQybzRKdnQtSC1zRUdBUFhKaDczdDE1T0tGX1VyZl9WaVJJUGN5RHY5Y3NSWUJlUUJ3VkplaC1KRGE3ZDV1NzVzbHl0MnpDTFBSdWhjaEtlbU5aYm1QZVdVclFsX0M5d0IweXpFeHRJQVFraEU3UGRFeGFpUG1TZGVJMko3aHpwc3RiYVdOVFVsaF9DbHpENXdaM05hcU1QWksw?oc=5",
-      "source": "Scientific American",
-      "published": "2026-10-22T16:12:00+00:00",
-      "summary": "The inside story behind OpenAI’s million-dollar math proof&nbsp;&nbsp;Scientific American"
+      "title": "Ex-OpenAI Science Head Launches Startup With $215 Million - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-10-22T15:30:10+00:00",
+      "summary": "Ex-OpenAI Science Head Launches Startup With $215 Million&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJiYzBMVmxxN21YUzR5SXJQLWF2SzVGTWdncU0zalRsR3dwcG9aLVZpSWdpTTdneW0zbU1Kalh0bHp0dDdwbWFYb0tIMnZ5N3pCblNnMTh6Z0FsWkFiWWc0d1Y2THMyTFJOYU1VdUl5a0dmNVhqSGlZSVp3VlVHbUFReHdUWXB5ajNJVHpld3V1ZXBSM3BQTGlCMGhqNGVybWU3Nw?oc=5",
-      "source": "Business Insider",
-      "published": "2026-10-22T16:38:00+00:00",
-      "summary": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
       "source": "OpenAI",
-      "published": "2026-10-21T16:56:20+00:00",
-      "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI agents are shutting off ways to monitor misbehavior - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMwR04wc2hEeGUxaDBrd0FYd3FkamxjYjljQkFiS0RxX0RNOXh6NUVaUC1NR1JzSEZVT3pjclViUHo2M2dGWVRheElJNFVwZmhZcHptbmhpQm9uNzBCMERSTkdIUThhb1ZPWHYwRmtBVVN4UHhIUUVROXNuS1FDWVpnZkdkNDRaRVE4ZVdUZFFFWnN6dDVXU3ZkbExSbnBoeDJB?oc=5",
-      "source": "NBC News",
-      "published": "2026-10-22T21:01:02+00:00",
-      "summary": "OpenAI agents are shutting off ways to monitor misbehavior&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "Local business owners trained by OpenAI share thoughts on $20 billion data center - WTOC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkZscXNtZHFZUmZzXzdlc04wRE8tX09jWlZJZTBsdnlwc1dvQWRjY1RoWEdKSmtqNnMtZmdwQlBkVm1NRm04R1E1T2lGbUVnWDloVXY4RHlsbGtmLWt5VHIwWTZrTlZUSXFiRWZ6UHhmQk5rbkhSSXYwQ3VKcGM0Mm92WFNJclJMSXdsWUtqcG4xRFltNUFETlU0aVdaRmR0Qm9DY2p6VzBBZWVPejUw0gHDAUFVX3lxTE1zZG9yQUxFWUVXMGJYeFZlNERad1RYZ211TVN5UkhFMWpta0t3V2FicndDd21CQmwzUjRqelJYaTNfTERpR3B2VXhHejNDdTFGMDVGZ3ltbkd5UWkyN1N1Q1o4akdCSkdEOUtpbXU1NE42Y0Z2SXRUMU5XOWdMY1ktLTB1MzJPbEk0bUUyQldYbGdpSjBlRXYxZU5OVmFSRlRQdUc0MFg4dVpUNmpTRGZfaDV1cUd0ZnhsVWExSlduaW9CQQ?oc=5",
-      "source": "WTOC",
-      "published": "2026-10-23T01:42:00+00:00",
-      "summary": "Local business owners trained by OpenAI share thoughts on $20 billion data center&nbsp;&nbsp;WTOC"
-    },
-    {
-      "title": "Broad access through consistent standards - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-21T21:48:12+00:00",
-      "summary": "Broad access through consistent standards&nbsp;&nbsp;OpenAI"
+      "published": "2026-10-23T05:11:03+00:00",
+      "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO - TechCrunch",
@@ -136,11 +115,18 @@
       "summary": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "OpenAI models are coming to Google Cloud - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-21T12:40:10+00:00",
-      "summary": "OpenAI models are coming to Google Cloud&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI and Poland’s NASK collaborate on AI safety research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-23T06:25:00+00:00",
+      "summary": "OpenAI and Poland’s NASK collaborate on AI safety research&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "The inside story behind OpenAI’s million-dollar math proof - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjQybzRKdnQtSC1zRUdBUFhKaDczdDE1T0tGX1VyZl9WaVJJUGN5RHY5Y3NSWUJlUUJ3VkplaC1KRGE3ZDV1NzVzbHl0MnpDTFBSdWhjaEtlbU5aYm1QZVdVclFsX0M5d0IweXpFeHRJQVFraEU3UGRFeGFpUG1TZGVJMko3aHpwc3RiYVdOVFVsaF9DbHpENXdaM05hcU1QWksw?oc=5",
+      "source": "Scientific American",
+      "published": "2026-10-22T16:12:00+00:00",
+      "summary": "The inside story behind OpenAI’s million-dollar math proof&nbsp;&nbsp;Scientific American"
     },
     {
       "title": "Uber brings ChatGPT Work to all employees with OpenAI - OpenAI",
@@ -150,11 +136,39 @@
       "summary": "Uber brings ChatGPT Work to all employees with OpenAI&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-21T12:02:09+00:00",
+      "summary": "OpenAI to sell its top models on Google Cloud in latest enterprise push&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
       "source": "OpenAI",
-      "published": "2026-10-20T18:03:41+00:00",
-      "summary": "OpenAI acquires Orchestra Bio&nbsp;&nbsp;OpenAI"
+      "published": "2026-10-21T16:56:20+00:00",
+      "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Broad access through consistent standards - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-21T21:48:12+00:00",
+      "summary": "Broad access through consistent standards&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-21T12:40:10+00:00",
+      "summary": "OpenAI models are coming to Google Cloud&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "What FDE means at OpenAI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-22T13:34:38+00:00",
+      "summary": "What FDE means at OpenAI&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform - OpenAI",
@@ -162,20 +176,6 @@
       "source": "OpenAI",
       "published": "2026-10-21T13:08:10+00:00",
       "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-19T22:14:32+00:00",
-      "summary": "Advancing coding in low‑resource programming languages&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-21T16:11:18+00:00",
-      "summary": "Using thousands of AI agents to uncover new leads in biological data&nbsp;&nbsp;OpenAI"
     }
   ]
 }
