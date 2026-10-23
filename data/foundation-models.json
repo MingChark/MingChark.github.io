@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T11:16:09.385061+00:00",
+  "generated": "2026-10-23T16:44:56.311930+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
-      "source": "Mistral AI",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
-    },
-    {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
       "source": "Cisco Blogs",
       "published": "2026-07-21T07:00:00+00:00",
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+      "source": "Mistral AI",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -94,11 +94,11 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzVzS3RxRnlnSE4wUi13dzF0bmw1UmpfcjgyLTE1b1o2SzhCOXNibDAtNF9mck1PRGVwTmFZS18yQXFFWjBtOXBfMHlEb3JoQ19OYmt5aVExMGYyMVRxbE81UkM1bDVBV0t0Z1FMYk45N2o5azNpaDBpcWdLSGR2U0NVc3BNbjRLWjdMVlZndldhMjdWYVdlbtIBmAFBVV95cUxOUzVzS3RxRnlnSE4wUi13dzF0bmw1UmpfcjgyLTE1b1o2SzhCOXNibDAtNF9mck1PRGVwTmFZS18yQXFFWjBtOXBfMHlEb3JoQ19OYmt5aVExMGYyMVRxbE81UkM1bDVBV0t0Z1FMYk45N2o5azNpaDBpcWdLSGR2U0NVc3BNbjRLWjdMVlZndldhMjdWYVdlbg?oc=5",
-      "source": "MarkTechPost",
-      "published": "2026-10-19T01:18:17+00:00",
-      "summary": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3&nbsp;&nbsp;MarkTechPost"
+      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "source": "shattered.io",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "Saudi firm launches LLM based on Chinese AI model - Global Times",
@@ -106,13 +106,6 @@
       "source": "Global Times",
       "published": "2026-09-04T07:00:00+00:00",
       "summary": "Saudi firm launches LLM based on Chinese AI model&nbsp;&nbsp;Global Times"
-    },
-    {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
@@ -129,6 +122,13 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
+      "title": "The Future of Large Language Models - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-06-25T07:00:00+00:00",
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
+    },
+    {
       "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4aU5ITnRzejE4YkRfYkFacDNBWTVRM1hMeEVseUR6RG84UHpJbUgwS2hiZ0FWWm5GZzhobVQ4NnpRYmJEZk9lbEVzNkloMzFzaExiSl9ra2ZocUJ1Z0cw?oc=5",
       "source": "Nature",
@@ -141,13 +141,6 @@
       "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "The Future of Large Language Models - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -164,18 +157,25 @@
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     },
     {
-      "title": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI - FICO",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXhxS1ZIZnkwcVM1cGtxNnRRYzdtNTA1dHJ5eG9VajJxWGprZHF0T0JLLVZicFRxaTVRRzQyWFk2UTRnVWZyUk5sM21EcGFvZ3pMbkZNQlFyQkpFOXpKeTVpV2RSWG90X2lIOFB0S1MzVl95Ty16N2hvMFpEQlRoNDZXaVUycXJCVy02WEJ1TmhkcUlyTkNBVFNOYw?oc=5",
-      "source": "FICO",
-      "published": "2025-11-20T08:00:00+00:00",
-      "summary": "FICO Focused Foundation Model Delivers Trustworthy, Responsible GenAI&nbsp;&nbsp;FICO"
-    },
-    {
       "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
       "source": "www.wam.ae",
       "published": "2026-10-15T09:34:48+00:00",
       "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zbi1zbEx1RE9xZkEwWWk5QW82R0JvQk55SkdSajJBaGpueTc2UzM0QXd5NkJsTFZCWWthWlJsMkNYLUUxeElPd093RGpndmY1aTltellVekdxSDdOVUtBWXltb2tQbHY2Rmgw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-04-22T07:00:00+00:00",
+      "summary": "Introducing OpenAI Privacy Filter&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
+      "source": "Towards Data Science",
+      "published": "2026-03-18T12:04:54+00:00",
+      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
     }
   ]
 }
