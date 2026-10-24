@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T03:56:40.238969+00:00",
+  "generated": "2026-10-24T10:35:24.736012+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -10,18 +10,11 @@
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
-      "source": "Mistral AI",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
-    },
-    {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "Cisco Blogs",
-      "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+      "title": "An open vision-language model for diverse medical applications - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12S1R2MXpxNnpkQnEzUHVlcEtBNmxpdnNueFB6ck13Nmx4UkowTVpqMXVRb0VlZ0xLcW5LbEZkWGlSaTBOdV9pWkFFQTVrMnJJRU1mNzV3MDFtOERTREFZ?oc=5",
+      "source": "Nature",
+      "published": "2026-10-06T07:00:00+00:00",
+      "summary": "An open vision-language model for diverse medical applications&nbsp;&nbsp;Nature"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -31,11 +24,18 @@
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
+      "source": "Cisco Blogs",
+      "published": "2026-07-21T07:00:00+00:00",
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+      "source": "Mistral AI",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -66,13 +66,6 @@
       "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
       "source": "VentureBeat",
@@ -85,6 +78,13 @@
       "source": "Mastercard",
       "published": "2026-03-17T07:00:00+00:00",
       "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-04-02T07:00:00+00:00",
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -122,11 +122,11 @@
       "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
     },
     {
-      "title": "The Future of Large Language Models - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
@@ -141,6 +141,13 @@
       "source": "Nature",
       "published": "2026-06-09T07:00:00+00:00",
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "The Future of Large Language Models - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-06-25T07:00:00+00:00",
+      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
@@ -169,13 +176,6 @@
       "source": "OpenAI",
       "published": "2026-04-22T07:00:00+00:00",
       "summary": "Introducing OpenAI Privacy Filter&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
-      "source": "www.wam.ae",
-      "published": "2026-10-15T09:34:48+00:00",
-      "summary": "MBZUAI, Inception42 launch Jais 3 Arabic AI models&nbsp;&nbsp;www.wam.ae"
     }
   ]
 }
