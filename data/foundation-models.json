@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T15:38:19.889222+00:00",
+  "generated": "2026-10-24T20:28:35.291917+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -157,6 +157,13 @@
       "summary": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression&nbsp;&nbsp;MarkTechPost"
     },
     {
+      "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVHSAfYBQVVfeXFMT3dtSEpKbUcxREU3MnpMN2R0dE42SFE3eWlDVFlja25DdHJDLW9CV1lveUtzMTVGb1BtLXFfSHBhU0ppNS1zNUV4RG80UXVJOHFwNWNIQnFva3dQMVBaY3lsRV9rVGZWR3JLd2RQTVNqSkZSdExZUjUzYUlrOVBHQkYwTXFmUmY5T1JnRFg3U0cteko4MFR5TFN6ZEFqdzhfM3lNYjZTTldtVG9iQU16TC1kSW9mRjN6QkYxT0hDTU1McWFnaXExZzF6cFdHSloxNi1sTjNUOGNfYnVBdjBxakxaX1NHY2NRN3EwbzRYOXJYTHhyYWFR?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-07-07T07:00:00+00:00",
+      "summary": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception&nbsp;&nbsp;MarkTechPost"
+    },
+    {
       "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVNBQkhMRlB3bXhWemRNUUo2Znc2R3puWm9RWmgxYjc0VF9TbGZCTVFsQ1E3bmhTYi1jeC1hbHhoNzVDa0ROZU85aS1lOS1MMDZJTnJyUEsyTUxXX2NuWHU0V1BRc2ZXemoybGdqajBTS182SC1xNElFYTBGTE1sc2ZjRUZsLTcxaTVXVWxaMDlna2NOeVVpVGkxNUJmVzk3Y041c0w1aVNqU1V1SDRwcndZOXZ3c0dWNzhwQlZDejBKYWhjTUg4RjNZVmZTY1FCWGxjRnZlWmxiUWtsNGVJV0c0d3ZGT0psREF4emVSaE5waVR1LVhkZktB0gH6AUFVX3lxTE9JU0FCSExGUHdteFZ6ZE1RSjZmdzZHem5ab1FaaDFiNzRUX1NsZkJNUWxDUTduaFNiLWN4LWFseGg3NUNrRE5lTzlpLWU5LUwwNklOcnJQSzJNTFdfY25YdTRXUFFzZld6ajJsZ2pqMFNLXzZILXE0SUVhMEZMTWxzZmNFRmwtNzFpNVdVbFowOWdrY055VWlUaTE1QmZXOTdjTjVzTDVpU2pTVXVINHByd1k5dndzR1Y3OHBCVkN6MEphaGNNSDhGM1lWZlNjUUJYbGNGdmVabGJRa2w0ZUlXRzR3dkZPSmxEQXh6ZVJoTnBpVHUtWGRmS0E?oc=5",
       "source": "MarkTechPost",
@@ -169,13 +176,6 @@
       "source": "Cloudflare Blog",
       "published": "2026-04-16T07:00:00+00:00",
       "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
-    },
-    {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     }
   ]
 }
