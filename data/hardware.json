@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:36:21.843200+00:00",
+  "generated": "2026-10-26T04:00:28.576710+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -15,6 +15,13 @@
       "source": "NVIDIA Developer",
       "published": "2026-10-22T16:48:11+00:00",
       "summary": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Custom HBM Era Begins as Semiconductor Alliances Accelerate - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWNxMlJDS0FxQlFqbHlYZVJuMnZ3RVN1UDY4R1VDbzEtcnM2QWttSksxV1pMbm9jX2NuNGNFSGVnTkdyM010enp0SFRld09DQmhBLU9nQktWb3d2Z1dFSkd3TVZMMHlzeVMxdV9YS3VwejJjRVgzSEF4Mm1HZTFsVC1FVTFidHk3?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-25T22:04:50+00:00",
+      "summary": "Custom HBM Era Begins as Semiconductor Alliances Accelerate&nbsp;&nbsp;조선일보"
     },
     {
       "title": "AMD Helion Puts CPU Density at the Center of Agentic AI Infrastructure - Data Center Frontier",
@@ -59,11 +66,11 @@
       "summary": "Google’s $250 Billion AI Chip Opportunity Takes Aim at Nvidia&nbsp;&nbsp;I/O Fund"
     },
     {
-      "title": "Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTlzZjBDd2xnbnFoX1lqWHdnQzRxYk1BaTctZ2ZDTW1IOTQ4d2phVFQ3WG9VcnFmcE0tekNyNEZaR09NOUJfckkxa0YwOXpMQTZCUm1TeVl5Q3VlRnNvOWR6VnNyODNZSE1FTlBsNzh2SkRYZldNTjdMMnNOZnVreUZMSmQ2X0xGODlwcGZpa1FvZGlDNUJtdUZB?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-10-22T05:41:00+00:00",
-      "summary": "Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models&nbsp;&nbsp;The Tech Buzz"
+      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Modesto Bee",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ocmd3V1FNZGc1OTdROHR0cDhDOUMwNGw2VVRYaDhWS1U2VDZMWV9uTWU1d3hGWE5ERjE3ajhzT3VUUG53b0plbGNZU19RUHF5b3Bvcm1iM0xHS0lOUGJRdFd3OE1uTzV3a2c?oc=5",
+      "source": "Modesto Bee",
+      "published": "2026-10-12T07:00:00+00:00",
+      "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Modesto Bee"
     },
     {
       "title": "AMD Has a High Floor, High Volatility Trajectory Through the End of 2026 - 24/7 Wall St.",
@@ -71,13 +78,6 @@
       "source": "24/7 Wall St.",
       "published": "2026-10-23T11:15:00+00:00",
       "summary": "AMD Has a High Floor, High Volatility Trajectory Through the End of 2026&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Modesto Bee",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ocmd3V1FNZGc1OTdROHR0cDhDOUMwNGw2VVRYaDhWS1U2VDZMWV9uTWU1d3hGWE5ERjE3ajhzT3VUUG53b0plbGNZU19RUHF5b3Bvcm1iM0xHS0lOUGJRdFd3OE1uTzV3a2c?oc=5",
-      "source": "Modesto Bee",
-      "published": "2026-10-12T07:00:00+00:00",
-      "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Modesto Bee"
     },
     {
       "title": "Chinese Technology Giants Reject Huawei’s Inferior AI Accelerators As They Show Affinity Towards RTX PRO 5500, Despite NVIDIA’s Uncertainty In Fulfilling Orders - Wccftech",
@@ -136,32 +136,11 @@
       "summary": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk05UWUwOHJyRV84VUI1aF9xd1dVYlNRelR1V3VPdUs4dUU2dWlTMGtUbFBTVTJrRENOVGlnZjRuWFRkRnhpeTBXUHJ1elVwdXRZR1JpQjZGSFd4anFrWVk0NnBxel9HalFhQXhZa1l4Xzd5cVFDQ2JFS2kyX19TdU9TeHRua0thY1dWMHhyR3B4MC05MGd1Vw?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-10-21T11:38:00+00:00",
-      "summary": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure&nbsp;&nbsp;The Tech Buzz"
-    },
-    {
       "title": "Chinese Factory Production Line Strips Down RTX 5090, Transplants Chips to Build AI Server Accelerator Cards - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINll4cFJLX1hsZnpYZUU2eGxHWWxhaXYtYVBLN200bU1CNndQa1RzNE5uMkQtUkZtTERhX2dTWUpQYmp2Y1NNcHFHdTduTVVtSHhNOTZBZjFxbVdoWm5McFo3SXR2aGhHNmZJZi1fV3RORTdjN1E?oc=5",
       "source": "BigGo Finance",
       "published": "2026-10-24T15:35:00+00:00",
       "summary": "Chinese Factory Production Line Strips Down RTX 5090, Transplants Chips to Build AI Server Accelerator Cards&nbsp;&nbsp;BigGo Finance"
-    },
-    {
-      "title": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips - Crowdfund Insider",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmVsaGRLcUl4WGoyY1NRYnJFdG1WcUpfSlFxYUZ4RlpwNHRlN1h0ZWhCc2E0NnFjNGJrTms1SW1DdWJzbno4ZndWRkJNTEExUnZpUFJVVzIzeXFNdHd4UmliX3pCczNGaDdsTFN6d1FpeEJNYmZwaGZaMWZ2bGNXOGZWN2gzTUtuc2YzaVBKMEN1N000VDlyOW9YdHIzRXhxcW9DenNHTm5hVWdPQmVaR0hvdmYzYjFYQV85NTZGaFItZzdZYktuQzdfQ1Q0U3AzWGpyNWNLcDExODVhVFc4RG9nazlkeWM1bC0tOWNB?oc=5",
-      "source": "Crowdfund Insider",
-      "published": "2026-10-21T04:41:31+00:00",
-      "summary": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips&nbsp;&nbsp;Crowdfund Insider"
-    },
-    {
-      "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
-      "source": "Axios",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip&nbsp;&nbsp;Axios"
     },
     {
       "title": "Chinese labs turn “discontinued” GeForce RTX 5090 cards into AI accelerators - Notebookcheck",
@@ -176,6 +155,27 @@
       "source": "Ynetnews",
       "published": "2026-10-12T14:12:18+00:00",
       "summary": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency&nbsp;&nbsp;Ynetnews"
+    },
+    {
+      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-10-14T07:00:00+00:00",
+      "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }

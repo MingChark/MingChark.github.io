@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:36:21.843200+00:00",
+  "generated": "2026-10-26T04:00:28.576710+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -24,18 +24,18 @@
       "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
     },
     {
-      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
-      "source": "Cisco Blogs",
-      "published": "2026-07-21T07:00:00+00:00",
-      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
-    },
-    {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
       "source": "Google Research",
       "published": "2026-06-30T19:46:52+00:00",
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+    },
+    {
+      "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
+      "source": "Cisco Blogs",
+      "published": "2026-07-21T07:00:00+00:00",
+      "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -150,13 +150,6 @@
       "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
-      "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models - Towards Data Science",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF6UFprZ2p3NkJkVUpTUGZhVENRcWgydHA3a2FTRHpFYlpaY1pfbzVrOENJbnJZdWhwT2RUNGdhNFVDU25Ud21qZ1h1cWlfWjdzTlJvOFdiQUpLRU9TZFYwWXh2VTY4NmRqRDB6ZjZWMmlhc25xbXg5bzljclNJaG1SeTNvR3p3VEMtUW5QbG1lbFd4NEQwcjFNcmI0dEpKUFhvLU9Tck0xdzBTYjdCeDdn?oc=5",
-      "source": "Towards Data Science",
-      "published": "2026-03-18T12:04:54+00:00",
-      "summary": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models&nbsp;&nbsp;Towards Data Science"
-    },
-    {
       "title": "Introducing OpenAI Privacy Filter - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zbi1zbEx1RE9xZkEwWWk5QW82R0JvQk55SkdSajJBaGpueTc2UzM0QXd5NkJsTFZCWWthWlJsMkNYLUUxeElPd093RGpndmY1aTltellVekdxSDdOVUtBWXltb2tQbHY2Rmgw?oc=5",
       "source": "OpenAI",
@@ -176,6 +169,13 @@
       "source": "24/7 Wall St.",
       "published": "2026-07-17T07:00:00+00:00",
       "summary": "NVIDIA Just Released a Seriously Impressive AI Model for Robots—This Could Be the Big Catalyst&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications - Stanford HAI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0hQRmUyZTBfTDllbWlYQV9HclRlaUNrWjdlMXM5dk1qQ3FPbVVVMTFkUnlOTUR0enBncV9JS2tsanJScXFFNWJEczZ2bGhWNUlsN0tMN0t3RlBYUDdER2Y0Q2IxVGkxN2M4b21yVmxPOFlXeXBLT19NdS1ZQWNZWFJBSTBfOWNCSG9PZjJwVUFMYkxNUUJpNHAzdkJFdWZRMEkxdzQ0TUQtWHBwZzc2QV92ME93UQ?oc=5",
+      "source": "Stanford HAI",
+      "published": "2025-12-16T08:00:00+00:00",
+      "summary": "Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications&nbsp;&nbsp;Stanford HAI"
     }
   ]
 }
