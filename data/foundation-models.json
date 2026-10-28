@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T21:57:56.480931+00:00",
+  "generated": "2026-10-28T04:51:58.472025+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -17,11 +17,11 @@
       "summary": "An open vision-language model for diverse medical applications&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
-      "source": "Google Research",
-      "published": "2026-06-30T19:46:52+00:00",
-      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
+      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
+      "source": "Cloudflare Blog",
+      "published": "2026-04-16T07:00:00+00:00",
+      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
     },
     {
       "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
@@ -31,18 +31,18 @@
       "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization&nbsp;&nbsp;Cisco Blogs"
     },
     {
-      "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5",
-      "source": "Cloudflare Blog",
-      "published": "2026-04-16T07:00:00+00:00",
-      "summary": "Building the foundation for running extra-large language models&nbsp;&nbsp;Cloudflare Blog"
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREYtTFhQT3lGcDlIMEVnWEJaX3hRLWZNVjNLWXFtWW9ncWxqcS13QzZ1am5yRHpEVG1wWG15dWgxVEUyWW1OVmVEbVpwa1V3S3hFMzEzR0xfdGI1VUhuZ09lYnFna191VUVFejJQdEU2VnZlUG5lLWN6ZENqTHpreE91aXpVNktUT3NYc1VhZl8yUkhpM25FUg?oc=5",
+      "source": "Google Research",
+      "published": "2026-06-30T19:46:52+00:00",
+      "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
     },
     {
-      "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
-      "source": "dicardiology.com",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
+      "title": "What are Large Language Models (LLM)? - Databricks",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
+      "source": "Databricks",
+      "published": "2026-03-02T18:50:57+00:00",
+      "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
       "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
@@ -52,11 +52,25 @@
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
+      "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
+      "source": "dicardiology.com",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
+    },
+    {
       "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
       "source": "VentureBeat",
       "published": "2026-06-10T07:00:00+00:00",
       "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
+    },
+    {
+      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-04-02T07:00:00+00:00",
+      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -73,11 +87,11 @@
       "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
+      "title": "Institute of Foundation Models and Inception42 Launch Jais 3: The World's Leading Arabic-Native AI for Speech, Writing and Agents - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaU9ITHJLdlRFUWo2bUlwYVpxOGpJbEhTZlRjLWtEYlVXTjdyTWt0blZsaGp3bUljZzl4MUVWQ1lLclVsbU96dWM4Nm9iQkhyT0NjWEtxTmNTTlgzMEJUMHQ0NWFXSnkwNTFDTmRhYnRPb3Ita0l1RmJuTzBDTV9EbTVkdkIweGd0SWR0bEVXZDZ0YVRDRXByZWRfQmtmTnloN05XbGpBZWsydUM1TlpiTlpNOGgyeUYxaEZlTEJvNnlNcHpRdmJxLVBfVXFfU1QtQzFaSnFRYjJyMTZrOFlrSUR6cHpha19naE1fWHpJVklMbEM0MmlvRUl4ZUo5cjlWQUpOb1RUQ0pFdHJMbUFj?oc=5",
+      "source": "PR Newswire",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Institute of Foundation Models and Inception42 Launch Jais 3: The World's Leading Arabic-Native AI for Speech, Writing and Agents&nbsp;&nbsp;PR Newswire"
     },
     {
       "title": "Saudi firm launches LLM based on Chinese AI model - Global Times",
@@ -87,18 +101,18 @@
       "summary": "Saudi firm launches LLM based on Chinese AI model&nbsp;&nbsp;Global Times"
     },
     {
-      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
-      "source": "AI at Meta",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
-    },
-    {
       "title": "The Future of Large Language Models - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
       "source": "AIMultiple",
       "published": "2026-06-25T07:00:00+00:00",
       "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
+      "source": "AI at Meta",
+      "published": "2026-03-26T07:00:00+00:00",
+      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
@@ -115,25 +129,11 @@
       "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
     },
     {
-      "title": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise - IBM",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVNZT0REMmVHSGVaYlpiSTh1WlRiOTJZU3RDV0tGMFFuM1R5NlI1OGxWWlh5UWhjWkVIemJuZ2dVTlN6Z0xGbHRnZDNqYllZczViYkNTT3JvVWxFZ3Rxa19ZNEgxQ1ZSTS1JR0hGQlBwT2t4SmdoaWgzMTliLXY1U1lmVE1sRExqeVVQRnZmZW5fd1lSUDZZdjM2WXdpLWhENzlmbUNONGxKNllZYkQ0?oc=5",
-      "source": "IBM",
-      "published": "2026-06-19T07:00:00+00:00",
-      "summary": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise&nbsp;&nbsp;IBM"
-    },
-    {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
       "source": "Nature",
       "published": "2026-03-03T08:00:00+00:00",
       "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4aU5ITnRzejE4YkRfYkFacDNBWTVRM1hMeEVseUR6RG84UHpJbUgwS2hiZ0FWWm5GZzhobVQ4NnpRYmJEZk9lbEVzNkloMzFzaExiSl9ra2ZocUJ1Z0cw?oc=5",
-      "source": "Nature",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "End-to-end multimodal pathology foundation model with clinical dialogue&nbsp;&nbsp;Nature"
     },
     {
       "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
@@ -143,11 +143,11 @@
       "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
     },
     {
-      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
-      "source": "EurekAlert!",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
+      "title": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise - IBM",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVNZT0REMmVHSGVaYlpiSTh1WlRiOTJZU3RDV0tGMFFuM1R5NlI1OGxWWlh5UWhjWkVIemJuZ2dVTlN6Z0xGbHRnZDNqYllZczViYkNTT3JvVWxFZ3Rxa19ZNEgxQ1ZSTS1JR0hGQlBwT2t4SmdoaWgzMTliLXY1U1lmVE1sRExqeVVQRnZmZW5fd1lSUDZZdjM2WXdpLWhENzlmbUNONGxKNllZYkQ0?oc=5",
+      "source": "IBM",
+      "published": "2026-06-19T07:00:00+00:00",
+      "summary": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise&nbsp;&nbsp;IBM"
     },
     {
       "title": "Electric Plant Company Launches From Stealth With $11.2M in Funding and a Foundation AI Model for Plants, Bombadil - Business Wire",
@@ -155,6 +155,13 @@
       "source": "Business Wire",
       "published": "2026-10-20T16:00:00+00:00",
       "summary": "Electric Plant Company Launches From Stealth With $11.2M in Funding and a Foundation AI Model for Plants, Bombadil&nbsp;&nbsp;Business Wire"
+    },
+    {
+      "title": "ETRI begins development of a 100B-scale large foundation model - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTWZ5UkE3NGRMVDRsRmhGaEFDU244WE80WkQyWUdZazNlREZBWEUzTmtKLUF4dUZWeWdMMnBHMmQtNFh4SWtmMmp4TXJ4cm96Rkw0TVBNU19jNmVQ?oc=5",
+      "source": "EurekAlert!",
+      "published": "2026-01-05T08:00:00+00:00",
+      "summary": "ETRI begins development of a 100B-scale large foundation model&nbsp;&nbsp;EurekAlert!"
     },
     {
       "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
@@ -169,13 +176,6 @@
       "source": "OpenAI",
       "published": "2026-04-22T07:00:00+00:00",
       "summary": "Introducing OpenAI Privacy Filter&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzE2aUVaa2FrWGpodm5LNl9zdDVQOXIxSE8wVnFscTZHVW0xLVhCdEdPNXNxeHV1V1pxMmFlUlZHMnZOSmtKNTU3MjhyaFk4UzV2N2RvQ3NyNlNQcFdXMG9mNGRqdjFiNVcyeVJaUi1yWmpLX0loTzlFUGg0ZzB1eTdLRVU4NnVSM2l2MlJRRmljZ0JDZXpjdVFMR0ZhTlcxRkpDX3BEQlE?oc=5",
-      "source": "The Robot Report",
-      "published": "2026-05-11T07:00:00+00:00",
-      "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
     }
   ]
 }
