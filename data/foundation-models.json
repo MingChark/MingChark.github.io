@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T05:01:15.252173+00:00",
+  "generated": "2026-10-30T12:25:41.940681+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "An open vision-language model for diverse medical applications - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12S1R2MXpxNnpkQnEzUHVlcEtBNmxpdnNueFB6ck13Nmx4UkowTVpqMXVRb0VlZ0xLcW5LbEZkWGlSaTBOdV9pWkFFQTVrMnJJRU1mNzV3MDFtOERTREFZ?oc=5",
-      "source": "Nature",
-      "published": "2026-10-06T07:00:00+00:00",
-      "summary": "An open vision-language model for diverse medical applications&nbsp;&nbsp;Nature"
     },
     {
       "title": "Building the foundation for running extra-large language models - Cloudflare Blog",
@@ -45,39 +38,11 @@
       "summary": "What are Large Language Models (LLM)?&nbsp;&nbsp;Databricks"
     },
     {
-      "title": "Introducing Geospatial Foundation Models in ArcGIS - Esri",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVvSlk4Q1RJZlhEc3R2UnYwMmlod0x0N3d3ZTBxUU5CLUxxMl9oVU1oeWtDc0FyM0x6bktaSTlmM1dKUWR6cy1Ncnlia0o1czBKajRSdlJ2VE9ERDZjZG1PdGtsT2pfRUFLUWZpNWpPSEZYZmtycVlPLU4zZjluNFpjUzNDSkMweHNpT1AyazF0SHIyQVFFRVhQQXBkSW81Rjdqcm5HTEFhTU9JbFE?oc=5",
-      "source": "Esri",
-      "published": "2026-07-12T07:00:00+00:00",
-      "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
-    },
-    {
-      "title": "HOPPR Introduces New AI Model for Chest CT Exams - dicardiology.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
-      "source": "dicardiology.com",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "HOPPR Introduces New AI Model for Chest CT Exams&nbsp;&nbsp;dicardiology.com"
-    },
-    {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
-    },
-    {
-      "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-04-02T07:00:00+00:00",
-      "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
-      "source": "Mistral AI",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
+      "source": "Nature",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
     },
     {
       "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit - NASA Science (.gov)",
@@ -87,62 +52,6 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
-      "source": "shattered.io",
-      "published": "2026-09-22T10:29:16+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
-      "title": "Saudi firm launches LLM based on Chinese AI model - Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vdUVONnM2Y1JQelE5S3E3MGRCOUxPQ25iRnJ6ZjNJdk1JV2gwdXRYV243UmVxSE8yeXlQdVFyTVhTcW94T3JLM241SEthckwxNVQ3S3RnWmZ1dUtmNFVMc0Jn?oc=5",
-      "source": "Global Times",
-      "published": "2026-09-04T07:00:00+00:00",
-      "summary": "Saudi firm launches LLM based on Chinese AI model&nbsp;&nbsp;Global Times"
-    },
-    {
-      "title": "Institute of Foundation Models and Inception42 Launch Jais 3: The World's Leading Arabic-Native AI for Speech, Writing and Agents - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaU9ITHJLdlRFUWo2bUlwYVpxOGpJbEhTZlRjLWtEYlVXTjdyTWt0blZsaGp3bUljZzl4MUVWQ1lLclVsbU96dWM4Nm9iQkhyT0NjWEtxTmNTTlgzMEJUMHQ0NWFXSnkwNTFDTmRhYnRPb3Ita0l1RmJuTzBDTV9EbTVkdkIweGd0SWR0bEVXZDZ0YVRDRXByZWRfQmtmTnloN05XbGpBZWsydUM1TlpiTlpNOGgyeUYxaEZlTEJvNnlNcHpRdmJxLVBfVXFfU1QtQzFaSnFRYjJyMTZrOFlrSUR6cHpha19naE1fWHpJVklMbEM0MmlvRUl4ZUo5cjlWQUpOb1RUQ0pFdHJMbUFj?oc=5",
-      "source": "PR Newswire",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Institute of Foundation Models and Inception42 Launch Jais 3: The World's Leading Arabic-Native AI for Speech, Writing and Agents&nbsp;&nbsp;PR Newswire"
-    },
-    {
-      "title": "The Future of Large Language Models - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "The Future of Large Language Models&nbsp;&nbsp;AIMultiple"
-    },
-    {
-      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
-      "source": "AI at Meta",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
-    },
-    {
-      "title": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies - CTech",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZVpwdEVGRC1FbTZmTUtOU2hvRlJ1N2IwN1AxWUVMS3B5djMtVnFwUEVFSFZrS0FTRDA3SnN6VF9wVjh2Y1ZjRU9PRHVydE5GbFdEaWYwZHQ3VmFkeWFiWFBCckQ4UEZN?oc=5",
-      "source": "CTech",
-      "published": "2026-06-29T07:00:00+00:00",
-      "summary": "Wix's Base44 builds its own AI model as race for specialized LLMs intensifies&nbsp;&nbsp;CTech"
-    },
-    {
-      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tY3NqcXFldW5IOXE3WnJTd0I4b0h2Z3FqY3Y1elJuYWxqMHZZbzhJcGJKLWdUTjhWYzVQZXlhMHItaWtFdjZQLWw2WUNEd192WDhiNWh2YTVrU2FPdlg4?oc=5",
-      "source": "Nature",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HaERtODVYb25YX1ZnM3FNN2tQNFFvQ0h0V2JjallfdzhfdnEzNlVFaTBhN1hhd1IzY19qRERmRmFKNk5FYkVnSEFoYUlkMmdudkluSW1HdGI2NzFrdTFR?oc=5",
-      "source": "Nature",
-      "published": "2026-06-09T07:00:00+00:00",
-      "summary": "Scaling up training dataset size for transcriptomic AI models is much pain with little gain&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "30 of the best large language models in 2026 - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0pWNVg1aEZqYndCYTFlUUFoemRFOWZxMDlqXzVIODY4OWdfZFh6YklpdnRyaFE0amcxdzdSLW5kWl9JY2dMZk5KQlVXLVJSbV9JUFB5Q3VtUGRvUVpLY29rSkVlczlHWi16YjQ4T0lJSXRzV1k5aWhWYjBPU2FJc25n?oc=5",
       "source": "TechTarget",
@@ -150,32 +59,123 @@
       "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
     },
     {
-      "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnVNbksyX2MxcEdhZVdMQmQwLWlKc3dWYjNiQ19ibmtfaW5zcF8zWDNoVjd2T1psRXo0LTdsTGZHUllNVXUwM0dENHdVZU1wSWNDejVaNWNzeFVtY3BjYzV3VVZRWXdFMDRWSkdWbVBCQ1ZPNVJfQXVzRGFSMmpXWktJZW44X1A5aUNqdFQwck9zWGlmdU1pZG9ualZ4VE9UOEtXYmh0Z2FabnE4TGxMTVNBX25iVGxIYXc?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-06-11T07:00:00+00:00",
-      "summary": "Apple’s third-generation Foundation Models explained&nbsp;&nbsp;9to5Mac"
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     },
     {
-      "title": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined - vision2030.ai",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHBqS3hSdlNWRWpNMC1SNjM1a0VCNjlqeUFGamxCektMTFU0eENlUC1ndm9QX1dHOThCc0tXZ1RYNFozQ1lKZlNoMjFIUXcwdko4OGhIZnktSjBTSUFLUy1rS2tyVDJpNTlaejRnNEVWclhFRHZDdzE0cVpXNzY0S24teEUwaExhUFVlVjBlRVY3YVk?oc=5",
-      "source": "vision2030.ai",
-      "published": "2026-09-27T07:00:00+00:00",
-      "summary": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined&nbsp;&nbsp;vision2030.ai"
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise - IBM",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVNZT0REMmVHSGVaYlpiSTh1WlRiOTJZU3RDV0tGMFFuM1R5NlI1OGxWWlh5UWhjWkVIemJuZ2dVTlN6Z0xGbHRnZDNqYllZczViYkNTT3JvVWxFZ3Rxa19ZNEgxQ1ZSTS1JR0hGQlBwT2t4SmdoaWgzMTliLXY1U1lmVE1sRExqeVVQRnZmZW5fd1lSUDZZdjM2WXdpLWhENzlmbUNONGxKNllZYkQ0?oc=5",
+      "title": "A list of large language models (LLMs) - IBM",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
       "source": "IBM",
-      "published": "2026-06-19T07:00:00+00:00",
-      "summary": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise&nbsp;&nbsp;IBM"
+      "published": "2025-03-10T07:00:00+00:00",
+      "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
     },
     {
-      "title": "Electric Plant Company Launches From Stealth With $11.2M in Funding and a Foundation AI Model for Plants, Bombadil - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVGl6SUFuNDhKOGlUSDJid29NWFlaZDR4bGhqdE40aVRZejRvbEkwTkNLblV6SlpPa0NqdjR5TUFtU2ktaDdDZzh0RXR4MTlQcUpuaFFPZDNJeDE3SnhLSUVZUjZrTkVtc3lxTng5SjlsT3AzS0N6Y2JuRnZWbnVjanVCYktMdy1wLUpuMTY0WHd6REpFak5WTTJRODYtYjlMQkpwbHFLYkxLckZqVTBIZFJBX3ZrWFRvSUx6MGE1cks5QlUtYVp4elVlb25tVzVGTTVHQmhTeFVBSFM0OTd2bVV5RnJzWWNaTHI2dEpmTEttNlMtMlhJR3hVamo0SWRzemc?oc=5",
-      "source": "Business Wire",
-      "published": "2026-10-20T16:00:00+00:00",
-      "summary": "Electric Plant Company Launches From Stealth With $11.2M in Funding and a Foundation AI Model for Plants, Bombadil&nbsp;&nbsp;Business Wire"
+      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
+      "source": "AI at Meta",
+      "published": "2024-04-18T07:00:00+00:00",
+      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
+    },
+    {
+      "title": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics - Menlo Ventures",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oTDJmOExVMks2SWxFYlZsVE5PRGgyclotWjE2bXJTaWRmak1EczRrQTFLa0RrbldNTTBSTHB3bC1QSjR5c1ZwQldkT2d0MXlPUkdWSnp0MHl0MWpYaXRHYWRaa2wzLUJYRDRHNTlJYVB5dw?oc=5",
+      "source": "Menlo Ventures",
+      "published": "2025-07-31T07:00:00+00:00",
+      "summary": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics&nbsp;&nbsp;Menlo Ventures"
+    },
+    {
+      "title": "Updates to Apple’s On-Device and Server Foundation Language Models - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFJQV2J4MUg5TUdyT1hYQ3V4TFhJQmJxQ2ZkWk1OLUVBencxRjNQRHVDZnZoTjJNcEFvLWpGNS1fUWVQeHpFUlBMSlBzclNwSFN3M0dEZjMyZDUyYURqYTlkS3RQQm10WS1ncGxab2ZuNzRJLWk5NnBEblB4dUdtaGJxSG9kUQ?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2025-06-09T07:00:00+00:00",
+      "summary": "Updates to Apple’s On-Device and Server Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "What Are Foundation Models? - IBM",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZWdMU1VFRFBuWFoxdXJITVE2Sk5mdzY3RE5DRGFRLWg1Q0NIQmtZQWZmdC1wcllDQlhsRTc3ckNlTy1CelpHdVBMdXdsUTdNSHJrMTZEZTNmUmo1R19Z?oc=5",
+      "source": "IBM",
+      "published": "2024-10-11T07:00:00+00:00",
+      "summary": "What Are Foundation Models?&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "The shaky foundations of large language models and foundation models for electronic health records - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BQ1lMN3pDNTN6RHJCZ3hLdlhYMldzbExGdl9YVFNGOU5UR05pT3ZlQm5YanhCMG5OTWMxM0tBeEVRTkNlQzUyb21sRE5XSkp6U0hzR09YZkRuSHJHaVB3?oc=5",
+      "source": "Nature",
+      "published": "2023-07-29T07:00:00+00:00",
+      "summary": "The shaky foundations of large language models and foundation models for electronic health records&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Foundation Models Explained: Everything You Need to Know - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0JRMmRVczFQVFVvNTFyeFVCSktTYW12a2RjZjhfa0t2QlVzcG5PaTBzT2Q5Rkh3RnNxVF9PdmFrV1JRaVJtdHVNR21WX3pYeDRLOXFTSV9TZVEyWExrczNFcC1SZWhxX1dOakZMV2huZWYtOGJYNnpxZVI5bVJlZ05HLWRiYl9HdzlZVkpiSENtQURvWVQ2RWt3blV6dw?oc=5",
+      "source": "TechTarget",
+      "published": "2025-01-06T08:00:00+00:00",
+      "summary": "Foundation Models Explained: Everything You Need to Know&nbsp;&nbsp;TechTarget"
+    },
+    {
+      "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2FDckIwOTdOZWJNWTJFUm5Qc1BaOHpwcjhsRkNsNC1HRUxjYnFkMlk0X2VWWm92eEdGRk1fTU5WOHk5VEJKa0ZEcEl1TUhpd2c0Sm55NEoxYzNvb01nY3RWMjR6d0lUSlB0UHpDVlg5ek9EeTI2Y3FuUmhuYW5oNmZxSlVDU1ctX0pj?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2025-07-17T18:13:17+00:00",
+      "summary": "Apple Intelligence Foundation Language Models Tech Report 2025&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FaWhjZWJGQnRyQ2xmRUZSenJRaEh2aUdTUkQ0NlhGbW52MEpyMWZqTFdEazE0WXFoN04yR0NxRllZRFBuUkJleUViVE9rbWpVOENYQjBXYTM5OEhNVVo4?oc=5",
+      "source": "Nature",
+      "published": "2025-03-05T08:00:00+00:00",
+      "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3FFVmgySGpTbHY1aER0cGVoekJJaXJQWFhfNjNZMVJjSEl4Q1hVbVJQRzR4bkxxSGlsdzRFeTU0Zl9QU3BCMWxwZTZEb0Z6MmdpVDh5Q0ZkYmcxQmlIeC1kMTM3TGh4M25TV1BJY2lKd2V4QmN3cmpaZG1lSGFnbXZxZk4?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2024-06-10T07:00:00+00:00",
+      "summary": "Introducing Apple’s On-Device and Server Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data - NASA Earthdata (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjBpbUZxVUFibTE2amlRbXJDVnprUy1OTm5sekpBWl9tS2dWMWp5R2xfdlF0N2UxZ2NBWUlQRVhzME9QYW13V2xhcE4zMU1LNUxwc3MzVlpWYUtaWW1ieE1CV2JwNHRydXlNcEF4UWMzUHhHTUVSRU9KRlZzcFMya0xobF9uakhiQ0xPYnRMQlJ3NDR0LVJXNkE1aWsxNkFZb2Q1eUFKVkJXMGJ0bl9RY1lzVHYySjI4d2c?oc=5",
+      "source": "NASA Earthdata (.gov)",
+      "published": "2023-08-03T07:00:00+00:00",
+      "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
+    },
+    {
+      "title": "Accurate predictions on small data with a tabular foundation model - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XOGNtZXRnYjRfbVFYQzZqNE5uY19BWk8wNkQ3QVZHRTYxWS1Gdl9oSjNzY2g0RU5vTzQ4YmtUNDV4eG1KMm8zamZrNmZncmxJVDF6Xy1OZ1pqTTNpT3dz?oc=5",
+      "source": "Nature",
+      "published": "2025-01-08T08:00:00+00:00",
+      "summary": "Accurate predictions on small data with a tabular foundation model&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "What Is a Reasoning Model? - IBM",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMDhqcTdaZENvdXlzOFFYR2trOFRTb2s2VW9hcFRkeE5GTml1R0FtMUtITkFpdTFsOXlibmQ3c01Tc1ZVeXBBLU1mRmdDcUM4eWh3dlMyNzMxeDNZ?oc=5",
+      "source": "IBM",
+      "published": "2025-08-07T07:00:00+00:00",
+      "summary": "What Is a Reasoning Model?&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tc2NIZFNDM1dXVWpJVzJtYlNMZ2hVV2UydlhTWnN5MWY0eV9vMjY4ZnJ3LUpvQjBJVVdJZjRYRFpEOWh1X3dTbV9ZVDZVR2xWaXlzdUlBd1o0REZfWk1F?oc=5",
+      "source": "Nature",
+      "published": "2025-08-23T07:00:00+00:00",
+      "summary": "Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Introducing Mistral 3 - Mistral AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44VzJRSjFJc2dXT3FiMHJuenBhb0RidlhCU01WOHBZam5CbFFfMlBvMV9nM190dTJoQXp2S1QtVEpFLV9TM1JaMzZn?oc=5",
+      "source": "Mistral AI",
+      "published": "2025-12-02T08:00:00+00:00",
+      "summary": "Introducing Mistral 3&nbsp;&nbsp;Mistral AI"
     }
   ]
 }
