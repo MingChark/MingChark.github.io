@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-31T11:55:20.465731+00:00",
+  "generated": "2026-10-31T17:03:19.405494+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFlhSnU1eDduUF9uZ3RhZnVMVWlPU3dqemR2V2R2WFVNajBuelVEYWNaMXItSldteGlGWGdkdHJVdmVOdzFLQnlJVWZZZmE2djg3TDNjQV9fUHNVcGU3RVRvTjBDNnFhWnk2MDNFb3ZLN2R2U3FMWUtHT3JuZDBMMlFrRXg?oc=5",
+      "source": "tech-insider.org",
+      "published": "2026-10-31T12:33:33+00:00",
+      "summary": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026]&nbsp;&nbsp;tech-insider.org"
+    },
+    {
+      "title": "Iluvatar CoreX Claims Tiangai 300 Matches Nvidia H200 Performance - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcjNwTVU1Vlc5Q3NoN0V2T3UtLWpUSEd6NUVsRFM3cS1hX3FhdlVObzBuMFZQWVctekJIbnpGcXExbm9lQVQtSHhwZjJhcU16R0lyMlZucnJFbUhzVDJXd2JzNHllX2l2MjdmUUY0eW1kLWFMUFkzSjBaYld4aGdkWmlnYV9YaEJKYVp2RDRvNUZNWFU?oc=5",
+      "source": "ForkLog",
+      "published": "2026-10-31T10:43:02+00:00",
+      "summary": "Iluvatar CoreX Claims Tiangai 300 Matches Nvidia H200 Performance&nbsp;&nbsp;ForkLog"
+    },
     {
       "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWtUUzhIa2JWRUo1ZUtLOFZUNU5PTFlsaUtyXzk4UkQ0a1NETHN0MG9vaTFUUnVXMFQ0Q3ROaC13emtucFhCcWFYYUpONnBwV25iLTBhXzZaWUZodzJZZ1E2S09Ub1N2NE5qazlnTjczSVlKd1pjbXVSYkpQZnNFeVpjOF8?oc=5",
@@ -101,13 +115,6 @@
       "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
     },
     {
-      "title": "Google's TPU Chips to Enter Oracle Data Centers Next Year - Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3pGTlIwTkcyQTQyeW1nOGJpaFdFMDZXeEdTTEVuU2xJNXB1T2RQWGdZTThkbllXZXhsTWV1aFFZR1VJZnl6OURnQW5fSGRLdDVRUDVjamdHX05NSzdHVTFmaGxpN2J4N19nZFF0VzBkeGhiQUpDNklNLWE5U3NpQ1QxREF0QnRLbFB5NGdvX1k3MldIbXpHWTJXMWY4VEx4VDVkWlptTQ?oc=5",
-      "source": "Seoul Economic Daily",
-      "published": "2026-10-28T09:26:31+00:00",
-      "summary": "Google's TPU Chips to Enter Oracle Data Centers Next Year&nbsp;&nbsp;Seoul Economic Daily"
-    },
-    {
       "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
       "source": "NVIDIA Newsroom",
@@ -169,13 +176,6 @@
       "source": "AMD",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure&nbsp;&nbsp;AMD"
-    },
-    {
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Z211SnRyd196S3dfLWM3R1hyVy01a0RSYmNpMzgxNzVRM093ejhiTWZZN29yUnhOOFk1NmEyVERrVE43TThrNTBCMzlxMFBrSEJaa0prYw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-03-19T07:00:00+00:00",
-      "summary": "NVIDIA GTC 2026: Live Updates on What’s Next in AI&nbsp;&nbsp;NVIDIA Blog"
     }
   ]
 }

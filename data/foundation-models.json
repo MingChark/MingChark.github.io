@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T11:55:20.465731+00:00",
+  "generated": "2026-10-31T17:03:19.405494+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -157,13 +157,6 @@
       "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
     },
     {
-      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - Konsulteer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
-      "source": "Konsulteer",
-      "published": "2026-09-30T07:00:00+00:00",
-      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;Konsulteer"
-    },
-    {
       "title": "HUMAIN M3: Saudi Arabia’s Arabic AI Model, Examined - vision2030.ai",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHBqS3hSdlNWRWpNMC1SNjM1a0VCNjlqeUFGamxCektMTFU0eENlUC1ndm9QX1dHOThCc0tXZ1RYNFozQ1lKZlNoMjFIUXcwdko4OGhIZnktSjBTSUFLUy1rS2tyVDJpNTlaejRnNEVWclhFRHZDdzE0cVpXNzY0S24teEUwaExhUFVlVjBlRVY3YVk?oc=5",
       "source": "vision2030.ai",
@@ -176,6 +169,13 @@
       "source": "IBM",
       "published": "2026-06-19T07:00:00+00:00",
       "summary": "IBM watsonx.ai v2.4: Expanding governed AI development for the enterprise&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction - Konsulteer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX29tejBkN0VXcUhfNG56N2t5MkhId01heHJSclgzT2x2X1dkUVl3eEtUTTNoYWlaQ2dKd19WM2xYTm8wWG1pUU12VWsydzhLNUFtYzdPU0l1eWhNOFlFTmxZNGNoVmRfRXpPYkVwYUdXaER3b1ZMeFFtTUNzVnNXODVCSkY2bE15U3FySlkwUlNKNGN5QlFsQlV5dDRSel9lN1pHZVl4b0U4MEwyRGQtWQ?oc=5",
+      "source": "Konsulteer",
+      "published": "2026-09-30T07:00:00+00:00",
+      "summary": "NVIDIA Releases Kumo Tabular Foundation Model for Enterprise Data Prediction&nbsp;&nbsp;Konsulteer"
     }
   ]
 }
