@@ -1,34 +1,48 @@
 {
-  "generated": "2026-10-30T22:04:00.190272+00:00",
+  "generated": "2026-10-31T04:49:24.740295+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-31T02:56:00+00:00",
+      "summary": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-31T00:06:45+00:00",
+      "summary": "OpenAI slashes funding target by $10bn as tech anxieties mount&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-31T00:17:00+00:00",
+      "summary": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports&nbsp;&nbsp;Reuters"
+    },
     {
       "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV0JjNVJDNmxJSXdsWk4ySjhKVDRmdkhPTlNBWlliM28tbG1JM055YkdpYUhQUHZHazFIYjJyWXd0LU54NU9FUEpPNGU4REFDLUJpQmx4QlRwWjdDaU1MeTZhUDQwdmdHQ1RvTVdJYnRlMko4WlUxNXJpR2tNZVQwWDFwdXBUMGQyaWF1dkNyUzQzNDctMWdQci1aWjkxb2JjdlFLenNBdHpmMDc3eEEzUWFYY05WZ1dPblhHXzJwcVlua19ic1RqVzFMUXN4UnRwYUgyaEppM3h2TVQ2MEFsMFRyZTZxWWpYZlRGbGJ0ZkhoV1lHd2JyN3hsMko?oc=5",
       "source": "Tom's Hardware",
       "published": "2026-10-30T16:28:11+00:00",
-      "summary": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization&nbsp;&nbsp;Tom's HardwareSam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop&nbsp;&nbsp;The VergeSam Altman Reveals Internal Model Name Was 'Hold "
+      "summary": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization&nbsp;&nbsp;Tom's HardwareSam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers&nbsp;&nbsp;FuturismSam Altman: All th"
     },
     {
-      "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
       "source": "Reuters",
-      "published": "2026-10-30T09:48:16+00:00",
-      "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble&nbsp;&nbsp;Reuters"
+      "published": "2026-10-29T02:11:00+00:00",
+      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods - NPR",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21pMGMxQzRXZzVBYndjSUkzZlRReHVwLVFWRnA4VWsxMjNGNnFtZW44Vl9rbm14WkdCd0tzWmZoUHA3LU9CRFB4d1VxQXFEUm9SeUdVWkdmdTRrejE0aUNJUUdnT2pkZzJKcEMxbVJzVDdlYlhpOEJXR2ZJb3FKcjhLUU1mX2ozdlpNaDFQeEdiYWdseG5ia2ZET3oySVdDRVZwMkZtZGR0RlgwTVE?oc=5",
-      "source": "NPR",
-      "published": "2026-10-30T11:00:00+00:00",
-      "summary": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods&nbsp;&nbsp;NPR"
-    },
-    {
-      "title": "The Wikimedia Foundation files to protect open knowledge in New York Times v OpenAI case - Wikimedia Foundation",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUi15el9VblRQZFZrRUZScEdkODZJUlFDemF1aTNFYzFjcm1qUk53d1FBbHQyOFZwQXJxQjMwamFRN3l6b0ZCSHExdVFLQjh1MVRYRmxEWmpWQXU3MG5sOVJXN0NMZTc0Nk9ScmtobGhmVXZDMFc3LXpKVUlQdGk4UHFRMmZiSS1qVlhNRFlnYWstV1pWVTE2OGw3SUpJYVd1MmhMNGZwdmo2TUlzOVpHY2tn?oc=5",
-      "source": "Wikimedia Foundation",
-      "published": "2026-10-30T09:00:29+00:00",
-      "summary": "The Wikimedia Foundation files to protect open knowledge in New York Times v OpenAI case&nbsp;&nbsp;Wikimedia Foundation"
+      "title": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGdqcGlhU3JmdWMwNDBkSzBhajl6LWZ0S0twZmx1RXk2SDVDc1A1NlNIUkZCcWlsRC1xa1p2SEJzWVIzSmJfZnRicUJ5dUFodUdFQ3UtekVNMURxOWZWTWdDSWRNa1FXb1E4djl5TlNraVVSTGVqanZvZnphNUpodjhlVjVXY043aV9DcDNyNnZBU1RvQkFWcDl3S2dycG9zc2tV?oc=5",
+      "source": "Variety",
+      "published": "2026-10-30T23:52:00+00:00",
+      "summary": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit&nbsp;&nbsp;Variety"
     },
     {
       "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit - The New York Times",
@@ -38,18 +52,18 @@
       "summary": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkVOOUpVczBOcmV1ODlOcVVYVEp1WGNxX2FlS0ZDOXVaSjd1OWlmZjNNWXRvWkY5aFNZLTE5eWpVSUozaTlSSERMNHJQQmVEV2lPV0NXZ1dfaS1KR211dHQyLS1QblhJM19YZGhHdmRtUVdRdENhSmotN0dFOXlGWXdsb2xiR29XNHFaQUlmYW5JSzluYlhKX2hXcXE?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-30T13:40:44+00:00",
-      "summary": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit&nbsp;&nbsp;Yahoo"
+      "title": "The Wikimedia Foundation files to protect open knowledge in New York Times v OpenAI case - Wikimedia Foundation",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUi15el9VblRQZFZrRUZScEdkODZJUlFDemF1aTNFYzFjcm1qUk53d1FBbHQyOFZwQXJxQjMwamFRN3l6b0ZCSHExdVFLQjh1MVRYRmxEWmpWQXU3MG5sOVJXN0NMZTc0Nk9ScmtobGhmVXZDMFc3LXpKVUlQdGk4UHFRMmZiSS1qVlhNRFlnYWstV1pWVTE2OGw3SUpJYVd1MmhMNGZwdmo2TUlzOVpHY2tn?oc=5",
+      "source": "Wikimedia Foundation",
+      "published": "2026-10-30T09:00:29+00:00",
+      "summary": "The Wikimedia Foundation files to protect open knowledge in New York Times v OpenAI case&nbsp;&nbsp;Wikimedia Foundation"
     },
     {
-      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUZwci12S2x3U1g0M19pWWl1RjY0clg0MFhoQVc0Z3ZkQXFfaWZFZE5IV0pqd0xoV3J3R0VSWnk0OTlJeGdBNWVTc1JyZ3JHcWw1WXZQSkF3b2ZEUVptQ00tZnFVWnJrOXE3djNfc2F3THJtQnNuX3VmVXNYVGtPM3R2T29Ja0Ytc2JkYw?oc=5",
-      "source": "WIRED",
-      "published": "2026-10-29T10:45:00+00:00",
-      "summary": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’&nbsp;&nbsp;WIRED"
+      "title": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods - NPR",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21pMGMxQzRXZzVBYndjSUkzZlRReHVwLVFWRnA4VWsxMjNGNnFtZW44Vl9rbm14WkdCd0tzWmZoUHA3LU9CRFB4d1VxQXFEUm9SeUdVWkdmdTRrejE0aUNJUUdnT2pkZzJKcEMxbVJzVDdlYlhpOEJXR2ZJb3FKcjhLUU1mX2ozdlpNaDFQeEdiYWdseG5ia2ZET3oySVdDRVZwMkZtZGR0RlgwTVE?oc=5",
+      "source": "NPR",
+      "published": "2026-10-30T11:00:00+00:00",
+      "summary": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods&nbsp;&nbsp;NPR"
     },
     {
       "title": "OpenAI-backed Thrive Holdings acquires ADT - TechCrunch",
@@ -59,46 +73,39 @@
       "summary": "OpenAI-backed Thrive Holdings acquires ADT&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "SAG-AFTRA, WGA & AFM Warn Of \"Harms\" Of Unlicensed AI Training - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnhoWUpWTDg4M2x2VXpiZ0I5WEloOTBKcmxiRUZReXFPWjFfMDhoNGdmckpLLW5LYUlmbG5VLXB3Sll4RmRQZExLYU9VX1pNSWJsREprMk9kRERGeC0wT0YtdUpzM3NCbFpPN3pCT3oyb0hzaU14ZXB2aVFXeXhVNFZMQ0hWNWFtT0xCcUdoUTZoUnp6T3NhM3lB?oc=5",
-      "source": "Deadline",
-      "published": "2026-10-30T00:13:00+00:00",
-      "summary": "SAG-AFTRA, WGA & AFM Warn Of \"Harms\" Of Unlicensed AI Training&nbsp;&nbsp;Deadline"
-    },
-    {
-      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDBZYU5EcXJ6REtrNXp1OUNKMjhnN3lQdGoyV1pHMHcyN0FCQ1haaHIxTnl3YXpLOUZhblMtck9kZE1yRGFfXzFBSkR4dlQzTzlGQm5yM0xObGZ5YnNOd3hQQTdmT0NlVkFNa3FRLUc0VkhXLUhtMzBtd1VxN3ViQW50QW1WYlRReG95aDJZSTFJUzl3a0gzWWhZUUJLcnhMQ2stajBubmRBNjJ5SlVTSHFqdVR3Yzdsdm1Qd3dyVXQ0THVhc29sejB1U2lBZmhMbW5UZFFqMlZ5andmb2dMYm5CNA?oc=5",
-      "source": "The Register",
-      "published": "2026-10-29T23:12:26+00:00",
-      "summary": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEVBUDZXR21CUHp1THRHZVpfVVA0OXhTTDZ3eE9SRFdxMWhpdXZTN2hEaWVaTHVuOUJ3X2FZdmh6UzhTcGdqTFAyckZpS2wzYUIwLXh4WU1QUFJXUHc2a3p5WkFnY2FkcFJ4SzNyelNtWFVPQXh5VTlVMXNsbXFxbEx0ZVk2RHVvZmFValFUOGQ1SFRkbC1F?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-30T17:44:36+00:00",
-      "summary": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnFyY1h2WWxZUlY2MDRtdzFBM3ltMkNNWXdPRlR5bHlKTUgtWk5iYlZnTmZCWXJ1X05iTWlUdzM4U204MHpIRnAxekRtNi1mU2lpeWlRSDVLTnRDVDAwMzJuMEZCSk4yOWFiQlJsZUZnMXVrS2V2cERjbG14eThnTjBR?oc=5",
-      "source": "The Next Web",
-      "published": "2026-10-30T19:20:13+00:00",
-      "summary": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push&nbsp;&nbsp;The Next Web"
-    },
-    {
-      "title": "The future of the firm - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-30T20:58:57+00:00",
-      "summary": "The future of the firm&nbsp;&nbsp;OpenAI"
-    },
-    {
       "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO - New York Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFpjcThnRVFQUUswdEQ3M3BEM0lMakpRZFBKakF0QkkwNHlTTWIyRkZyU0xwYnZTRjBmd1FwbUR3WUJ2X0VDLUFuRm5CbjZObGV4OEI2ZTdoVFlmYkhyTEF4ajZzV1l6ODNLM3N3eGp6M0dicGhVbFhncy1XckNLc0ZCQ09JQnk4QmVXbWVyZUxzSVdiQy1XdHd4Y0N4Y3RkWG5pNEJjNlJ3Y3JvbVZYeFNCeFZzd3NYaVJVdHN2UWc?oc=5",
       "source": "New York Post",
       "published": "2026-10-30T11:00:00+00:00",
       "summary": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO&nbsp;&nbsp;New York Post"
+    },
+    {
+      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+      "source": "The Information",
+      "published": "2026-10-27T23:59:00+00:00",
+      "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "OpenAI just scooped mathematicians’ work on another million-dollar problem - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdUg5dk1RazhjTnp2UnNOYlNKa1RMUEdHTjF1OUVneXp0d2hRdVFrQlotNHI2VmxBZG41ZVRJeDBDMEZJaW5LZ3hvbkpHZWxrNDEwZ0pISFo1d2Z3eUprME1TVm9TQ1ZyLXVwcm01UkZsWm8ydlZiUVV1VmdURHFmMnVrdXJraENUTnFRUTJ2cS05S21rdF9GWjQzalVJSUViemJjY1RLQnFRQUhPUHc4SEV2YVEzckE1M0tYaDllNA?oc=5",
+      "source": "Scientific American",
+      "published": "2026-10-27T18:10:00+00:00",
+      "summary": "OpenAI just scooped mathematicians’ work on another million-dollar problem&nbsp;&nbsp;Scientific American"
+    },
+    {
+      "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8% - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONDA3Z0RHYkNET1dzQXpxODIxanAyc2hqSU11VGhlZ3E5dUdwTTJrQzR3bl9sWXVPWGRGaWprVWZNdjJWS3d4SURzY0VzaXdZNnpkQTNRbThsYkpRVUZwQjlzOEZfcHFIdk9YUlpXeEd6aHljd21KQlo2amtsTmNyUFR4SDZsaTZMcjBjNkh5YXBrOHhtcnpBLW1UZkU1RnFHNHRza2MwMUNvT1hYZzZadkhuWHh0aXNmMV8wSi01RVVGZzUyM3E1S3llNlNnNG5lU2NDTldJUXAzUGNuT1RMOHA3aERBVXBnZHhNdm5DVEE5WEg4Rmc?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-10-30T15:56:00+00:00",
+      "summary": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
+      "title": "The future of the firm - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-31T03:03:53+00:00",
+      "summary": "The future of the firm&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
@@ -108,6 +115,20 @@
       "summary": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development&nbsp;&nbsp;ServiceNow Newsroom"
     },
     {
+      "title": "OpenAI reportedly cuts fundraising target amid AI jitters - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzFXQlRxUVpERHJoTktMZUxRaGJVVHNuV3FOS1diMndTUFdiQnVWSDR2X052X2QxY0Y4M2RwcXdaZWRSN1hleHU1NUVhUjY1UDhvcTJyTjRRS1hPZVdfaHV5eXMwY3M4Rmpoem9Kb1cwRFB5OG01VWRyaTZocmJjVEt4X0xKVnJLVGpLZ3pHMmJjcUFCTy1zNFR2YXRBSkdBcDFaaw?oc=5",
+      "source": "CoinDesk",
+      "published": "2026-10-31T00:48:00+00:00",
+      "summary": "OpenAI reportedly cuts fundraising target amid AI jitters&nbsp;&nbsp;CoinDesk"
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEVvR3N2NnpqOWROaGJScVNkamw3Nk9OZWxIMTIxTGd0b25uRnBOamFuSUlrb1lfa1F3SE9WdXdIY2lVekNuVkRtTTBjTzBNcGw4aHU4QUJobzBmYVhhZ1VOX0w3UFJSUVFmR1VFOXd1WS1pQVJ1SDYtMURweUpXRk1MNjRUcmx4enlfRWxmQXNGZUVoa2VqdEZScVk?oc=5",
+      "source": "The Verge",
+      "published": "2026-10-30T13:01:14+00:00",
+      "summary": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop&nbsp;&nbsp;The Verge"
+    },
+    {
       "title": "Making it easier for websites to express AI training preferences - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
       "source": "OpenAI",
@@ -115,11 +136,11 @@
       "summary": "Making it easier for websites to express AI training preferences&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Democrats press OpenAI over safety researcher firings, security incidents - Nextgov/FCW",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSlJTMXZqSFUxU0tyWTdlUV9WWUQ5Tk9aOUVYVnEyZzdsLVktTl9VRVBnVnJuc1M4RlhDcG45RXlvTklqemsteElCM1BPeW9zN1VxTFplaVdpRFBUTkxiTEp3RkRlMjVKUmtoX1VRX3FUNnItOWhmX19mdTlTMXc2RFlnQ2hLcldwLWpJakRqbnQ5N3lEOGxaMUluMUhlYzcybjZpNWtqNW5WVmhXOEJnMmJvVzgyV2JWRUdvUzIzMjNHSzgwQXE1OGYzZUdTdkpnd2NkbXpzRkZiT1NBRkxYZHNHZFpLUEt2bFNtQ0hsUjc?oc=5",
-      "source": "Nextgov/FCW",
-      "published": "2026-10-30T20:01:00+00:00",
-      "summary": "Democrats press OpenAI over safety researcher firings, security incidents&nbsp;&nbsp;Nextgov/FCW"
+      "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-30T09:48:16+00:00",
+      "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Community safety report and new protections for teens - OpenAI",
@@ -129,11 +150,11 @@
       "summary": "Community safety report and new protections for teens&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-29T17:05:44+00:00",
-      "summary": "An updated Model Spec for more capable and beneficial AI&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXotdk1SQjNVV0I0cTY5SF8wakFYNk9Za3pJM3JlOFF3YjBOR25PUnB6SnBFUmlzR2dSQXl4c3E2RjFzbVFGNXJSR2dyYUJwZnI3OU10MXY1SENMN2Uwd0h3QzJZaFkwVnZ4SGlGbWQtNlpXcEVUUUYtMDRiVXNILU91OVBpZmszZVZnUXUwanlxNFNod2Nfa3Z3eEYyRjdVTG9EVnZVSW1BUlM4Y3dfYVR1NkdJRVduZklvUmhkVXFVcVAwTnJST0pR?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-30T17:45:19+00:00",
+      "summary": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push&nbsp;&nbsp;Reuters"
     },
     {
       "title": "How we detect frontier model misalignment - OpenAI",
@@ -143,39 +164,18 @@
       "summary": "How we detect frontier model misalignment&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "An updated Model Spec for more capable and beneficial AI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-29T17:05:44+00:00",
+      "summary": "An updated Model Spec for more capable and beneficial AI&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "Fair use benefits everyone - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5",
       "source": "OpenAI",
       "published": "2026-10-30T21:33:00+00:00",
       "summary": "Fair use benefits everyone&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-28T17:18:00+00:00",
-      "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-27T16:12:24+00:00",
-      "summary": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-26T21:42:50+00:00",
-      "summary": "Working with academic communities to build scientific understanding&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "ChatGPT’s expanding world of work - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S3BlOGdkTVotcDU2MWFVcENVZE9wS1lCSmduRGQ1WUIzNV9BSkN0Y2ZzSlpscS1nQzFiMTRrcFpwQVBZZC1BZmdhWEtKdXFZZTRTX0dNa19CcHRCQ2w2YnRHaG1kMHZI?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-26T17:28:05+00:00",
-      "summary": "ChatGPT’s expanding world of work&nbsp;&nbsp;OpenAI"
     }
   ]
 }
