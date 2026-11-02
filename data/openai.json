@@ -1,34 +1,69 @@
 {
-  "generated": "2026-11-02T05:13:28.116695+00:00",
+  "generated": "2026-11-02T15:10:57.132251+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "Behind the Curtain: OpenAI's post-election power play - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5",
-      "source": "Axios",
-      "published": "2026-11-01T14:07:09+00:00",
-      "summary": "Behind the Curtain: OpenAI's post-election power play&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0lSNHluMFlFVW5hU1EzZERpMDVPYV9GUkFUZWdPclUwdW9fRGxQdERBN1hYS3ZrdTh5NGlTNHF2WmRpTmRYU2dHdTFMMWt2U0JNQVlWTE02ZFY1OFBiWDF3aTlvUlVHMFhmYUpabGlOZjhvVnNvRUdkNERzVjVUOHU5b0hhcVpRMVdaaHhDVHdzR2lacUp3WVRzTzV0MDM4dDh3WjVPTTVjYTRUYlE?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-11-02T00:11:54+00:00",
-      "summary": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers&nbsp;&nbsp;Gizmodo"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’ - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0d0SlJKOGprSFF2OXRFN0lTM19NN1NQSjFnUFdERTdPWDU5V2NOeVdSV0tMbVJOWEI4djVYMm9XWmV6UlIyYU5ZcktjMDBxMF95RVIwRVkxV0dvMmtiblJFMU5sd1FiSVgtdXBaS0ZaeEpDYW45OV8ta29ycHRhWUxIQjkxREU0bEN4a1FtNjdNUHBSQ0tNbmYtbw?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-11-01T21:55:23+00:00",
-      "summary": "OpenAI might rebrand its data centers as ‘AI compute campuses’&nbsp;&nbsp;TechCrunch"
-    },
     {
       "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1BpVmV2di1BOHI2NHZrV3RFTWY3LUw1NG5VVklTNVd5WTdPUmp5djEyNHNqNTkyVHpqMHhiR3FsT1BwbjdzZ3hxMXM4VmpCTDNYY2x2cGhrcmlac2lyZXZ1WG1hYi13Y3R3NkpwV0l1RmNEQU1PcEtvZ0dXa3NzM0xHd3Q0cVdZNXpINg?oc=5",
       "source": "The Guardian",
       "published": "2026-11-01T22:02:00+00:00",
       "summary": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDB2b0M4TF9RNnhlZWxmdFVLWFRGQU1GcTVxcDUwbTVDcThhM3UtclBXU2QyYnp3WjM3MFgxN3JIa1hwbVR4NTVua01Sa25JN1A2X3JDWi0tbGZtLVI2aXBKUHZadWRCRXIzc25BbU94RlJna0F4OXAxX3ZmeC1YS3FQclFhM1hsYTRPQmZsWVBVRUFFNUhpMDhmZ1c?oc=5",
+      "source": "Business Insider",
+      "published": "2026-11-01T22:28:00+00:00",
+      "summary": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'&nbsp;&nbsp;Business InsiderOpenAI might rebrand its data centers as ‘AI compute campuses’&nbsp;&nbsp;TechCrunchOpenAI is already pitching 2028 hopefuls on how to talk about AI&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI pledges data center power cuts - Axios",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5LUVOUjVhX0s5eG54YkRfRVR6MGxlTVpweC1QVzluaVlpQjBIanA4Wk9WbE05S1dkZlpwbGh5UG1sRjRaWDJ6N1c0cDVGY1dpZHhLZDhYQjVrVnVpMWxQQWg4dDJzRzNxblpoYU5EQQ?oc=5",
+      "source": "Axios",
+      "published": "2026-11-02T13:30:42+00:00",
+      "summary": "OpenAI pledges data center power cuts&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "Expert warns on AI valuations, OpenAI's fundraising cut - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yb0VVRDk3UFFhNkxkMjNUa2lnd0RVdTJGMU1xRmtMcGZpQUtKZWdrb2I4V3B5bDFvUG1pLUxvRkI5QmUzQl9KWWhkNUkyT2dUYUY1YlVwU2ZGVTg?oc=5",
+      "source": "Fox Business",
+      "published": "2026-11-02T14:55:49+00:00",
+      "summary": "Expert warns on AI valuations, OpenAI's fundraising cut&nbsp;&nbsp;Fox Business"
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVR0eUlPQnZkWXRha202OEZuMUYwRmtmQzl6dWU4Vm9yQTlQRkI3LUxEcG9mTEl6WkwwMGVBWWpsbGVybDlYUk9HMXFOS0dNd2JtekNzSHhVc3F4Y0dIY3pJeGlsaDZMdF90N1pBdVZCWjdMaGgtaUk0ZDlDVkpWWEhFT0VfOHhfYUd2eFlFOERtdw?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-11-02T13:57:53+00:00",
+      "summary": "OpenAI is finally merging ChatGPT’s chat and Work tabs&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Charles Porch Is OpenAI’s Hollywood Whisperer - New York Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbG9zY3Zvb0VGZENGZmVJZVhSaEJWc2ZuV3dlcVBibk01VFh0VUZ1VVM1cHNEZl9MTTJjelM4MlhuR1NkTGlSTEIyR3hOVkctVXJHZE1JNzk4X2Uwa21zY1J2RGJINDlsZ24xd18wOVVsUWJWTmNMWnFPdkJ1OWZJcE9FVEUxUE5TTmVGd0hwQzVZZEhzMjVQSXJQNVdNRHVZenNoWA?oc=5",
+      "source": "New York Magazine",
+      "published": "2026-11-02T10:00:21+00:00",
+      "summary": "Charles Porch Is OpenAI’s Hollywood Whisperer&nbsp;&nbsp;New York Magazine"
+    },
+    {
+      "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02T06:40:00+00:00",
+      "summary": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUjRZTkJfQlQyYTZaZXpoY2I1VHF4c2tfbnBYVFZYSFN6OVdnd2ZBbklvbGpQbTBLN0w2cFd3QmpkTTFRdmg5R2V6SW1WaE10cGthc3d3dExXNEZsbEhORDFZUXhMMkdYakhTZWZmRdIBdEFVX3lxTE80dkJmcFRkS2MyMG9iRWlVcXpRQjVqc0pPcmRZQVdyUmFkdXhENERaNEx6T0VWOThSRVZjTkwwZmNnNW95dHljUkdPbmVEQ2FXUll3ZjhVV0pzcWRraHFEb0VaLVlwSlFPWkRFTG9jNnQ4WFFi?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-02T11:02:08+00:00",
+      "summary": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI’s Altman Signs Energy, Investment Deals in the UAE - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSU5MS1pBdVgwVlV3Ul9zdWFEZUtWM0V2TW9wQWlRSEFHNkwzSGlybF9CS3FRRFB6X2NKRE11TjY0SGYyazhnclNnenc3bTBveklJam1XMWhvRG9yQUJfRWViVUU5R0ZNT0hweEFFNGc0dHVhcTZjWnYxenZncW5MNWNKM0JWVnFmeURNTkM3R3VSMlMwdGNFXzJhWnlQNjVqYW93UXJDa08yRGV1d0pZaHRLaw?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-11-02T07:52:00+00:00",
+      "summary": "OpenAI’s Altman Signs Energy, Investment Deals in the UAE&nbsp;&nbsp;Bloomberg"
     },
     {
       "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships - CNBC",
@@ -38,32 +73,11 @@
       "summary": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV0JjNVJDNmxJSXdsWk4ySjhKVDRmdkhPTlNBWlliM28tbG1JM055YkdpYUhQUHZHazFIYjJyWXd0LU54NU9FUEpPNGU4REFDLUJpQmx4QlRwWjdDaU1MeTZhUDQwdmdHQ1RvTVdJYnRlMko4WlUxNXJpR2tNZVQwWDFwdXBUMGQyaWF1dkNyUzQzNDctMWdQci1aWjkxb2JjdlFLenNBdHpmMDc3eEEzUWFYY05WZ1dPblhHXzJwcVlua19ic1RqVzFMUXN4UnRwYUgyaEppM3h2TVQ2MEFsMFRyZTZxWWpYZlRGbGJ0ZkhoV1lHd2JyN3hsMko?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-30T16:28:11+00:00",
-      "summary": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization&nbsp;&nbsp;Tom's Hardware"
-    },
-    {
-      "title": "‘Quite terrible’: Sam Altman says the RAM in your PC is a waste. OpenAI could soak up as much as 40% of supply - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmczM2QxUWFDbUJ3WEF1OV8tb1RMSmU3LV9fcW5mWWQ1R2p2RUZuM0FYS003WEY4VkZlZmFRZ01QblI0LTBhTjhoSElDZkFWaGRILWhVRDFLa2dCRTRLYVdQa0tMY3hwZzU0VGFqOXdad2ZfVjBjZERiREJkU214RUpYTjN5N1lsZWg0UmRIY3pRSmxNQkZGbnR3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-31T18:45:00+00:00",
-      "summary": "‘Quite terrible’: Sam Altman says the RAM in your PC is a waste. OpenAI could soak up as much as 40% of supply&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "source": "WSJ",
-      "published": "2026-10-31T02:56:00+00:00",
-      "summary": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2hwU1RZMjNaMVpkcW13aDRGb3M0UGlMb21CRTI4dDU5STc4eEJkZHNMc2VPQjVnYm80MEEzWm80RDFZdElReXNmbG1sS0xBYjNnNWNOZVJsSUhySmhIUTJfV0tEZjJncTFLSHJFbDVqU2FrdmlSVW1hNzdxZG8tbktn0gGHAUFVX3lxTFBEd2ZuVFNJR09vWjBBWUtDMF80c1luQkFnVWRkN2RWMG1DWmZJd3Z4clZwcjNIeEcwaExPcjc5MWt2MkZ1SW9KUHdZODhtV3NGanVTSVkzdFl0aTQtUmxZa1V6dHpDUkxacTNhTk1PWXFDbnVIR3NraVRJODh3MjFGdUhBNl9rTQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-31T19:56:23+00:00",
-      "summary": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round&nbsp;&nbsp;CNBC"
+      "title": "Hackers are running riot with AI. Its makers want to cash in - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdF80NkpLZHJxNVlWX0s0UEhLMlRKVnVqZldzN2tjY2tveUJ1NTdqeEtTeW9kWnBnakZzcEd1ZURSemt1dFR1RXdpYUNRSVp2ZFg5VGxuOTBfOE5uMEZfbl9raVB4Ym5SZ0JpdVd0MU9Xa1RpdWxrRml3aHVnN21HYTBaNnhmU292RS1XaDBYYVNqa3BoZVBMYk45aXpKVXhtM295VGZQelE?oc=5",
+      "source": "The Economist",
+      "published": "2026-11-01T21:41:42+00:00",
+      "summary": "Hackers are running riot with AI. Its makers want to cash in&nbsp;&nbsp;The Economist"
     },
     {
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times",
@@ -73,95 +87,53 @@
       "summary": "OpenAI slashes funding target by $10bn as tech anxieties mount&nbsp;&nbsp;Financial Times"
     },
     {
-      "title": "Hackers are running riot with AI. Its makers want to cash in - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdF80NkpLZHJxNVlWX0s0UEhLMlRKVnVqZldzN2tjY2tveUJ1NTdqeEtTeW9kWnBnakZzcEd1ZURSemt1dFR1RXdpYUNRSVp2ZFg5VGxuOTBfOE5uMEZfbl9raVB4Ym5SZ0JpdVd0MU9Xa1RpdWxrRml3aHVnN21HYTBaNnhmU292RS1XaDBYYVNqa3BoZVBMYk45aXpKVXhtM295VGZQelE?oc=5",
-      "source": "The Economist",
-      "published": "2026-11-01T21:41:42+00:00",
-      "summary": "Hackers are running riot with AI. Its makers want to cash in&nbsp;&nbsp;The Economist"
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30) - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-31T00:17:00+00:00",
+      "summary": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-01T10:00:26+00:00",
-      "summary": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic&nbsp;&nbsp;South China Morning Post"
-    },
-    {
-      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDJjcmgwOU5XQWxTcFY5UExVcVV6VVpXSFdlZ25MRjRTRUI1eHJmM0hyTHQ3OGprVDRZaDM5Y09neE1adFBjWEpmQzRseHFqZkV1bTJLeUE1azJnZ0d4QlFzMnZVVFFkYUg4WHc2eVNMalZpSlN3WnBMVXVES2o0VGhfaGRiSzRDY1llZXVNUWRFTzVRNExWcUpn?oc=5",
-      "source": "Search Engine Journal",
-      "published": "2026-11-01T08:00:00+00:00",
-      "summary": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out&nbsp;&nbsp;Search Engine Journal"
-    },
-    {
-      "title": "OpenAI Adds Stricter Limits For Teens Asking About Firearms - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXRJaXBhOUM0NjZMUzN0dDF5SnpQaHQ1Uy15U0c3dDlZNTlTZmZETkx1eHRJUG11VDFsQmRISEJKMV9sWEtrNy03aTdZUTlVdU5aZy0tZERXemZLS0pMZ3V3NWhxSG94eEZsaGZhMW85QkwzUWd4UUZLeGVDTXRYR1J3d2ZzNG1kbHNPMmVJazJXSmdJbmpGbg?oc=5",
-      "source": "Engadget",
-      "published": "2026-11-01T16:03:12+00:00",
-      "summary": "OpenAI Adds Stricter Limits For Teens Asking About Firearms&nbsp;&nbsp;Engadget"
-    },
-    {
-      "title": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit - The Observer",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUG10RTQ0U1NqUk5hQlJ6R3Rkbnl0V2YxamNUYm9hWE9DMmdGRk9LRG8zaFYwZExhWWpfc19pd25uMWkwNlc5QnVvNUZmQ0loN1c1QVp2OTBXMEd6ZFVNanMtVkZ1NGR5NWwwcW53bUVzSUc0OVlPdzI1MW9jRzBfakllS2lCX0xOTjdCamk0NE81NzhfY2NUTnVkSFJsOUhtQk03b0tVd0lNODdBczBkSmhtdnZzTmpwakx0QjY5MFF1Vm5GdUVLVg?oc=5",
-      "source": "The Observer",
-      "published": "2026-11-01T09:04:49+00:00",
-      "summary": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit&nbsp;&nbsp;The Observer"
-    },
-    {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQUpmY2NkUFB6Y0R0cHgtQ2VHSFAteUNiNDA4VkZSSC1HV1ppSzMtWmlqZ0pyZWY3SUM2OW5Pa1N0Z3R3a2dBX0l1clE4a1gwbFBYQWR2SUFDUEF6SFlBd0Y5dUd2T190UzVmNDVwQU0yVG9GZXR0bl9WZV9kVjVzeUJKSUZXYlpsVGQ2TGhKOFllbEpZcnVXVFZqVTNwUE81NW8zN2hkUVBNSWlmY3ZxYkp5VVJXRi1waFRIU21HQ28xXzlCNEdZTlo0MGdSMk8yS3hIUXNybmdhUTTSAdsBQVVfeXFMTUFKZmNjZFBQemNEdHB4LUNlR0hQLXlDYjQwOFZGUkgtR1daaUszLVppamdKcmVmN0lDNjluT2tTdGd0d2tnQV9JdXJROGtYMGxQWEFkdklBQ1BBekhZQXdGOXVHdk9fdFM1ZjQ1cEFNMlRvRmV0dG5fVmVfZFY1c3lCSklGV2JabFRkNkxoSjhZZWxKWXJ1V1RWalUzcFBPNTVvMzdoZFFQTUlpZmN2cWJKeVVSV0YtcGhUSFNtR0NvMV85QjRHWU5aNDBnUjJPMkt4SFFzcm5nYVE0?oc=5",
-      "source": "BleepingComputer",
-      "published": "2026-11-01T13:53:11+00:00",
-      "summary": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat&nbsp;&nbsp;BleepingComputer"
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2hwU1RZMjNaMVpkcW13aDRGb3M0UGlMb21CRTI4dDU5STc4eEJkZHNMc2VPQjVnYm80MEEzWm80RDFZdElReXNmbG1sS0xBYjNnNWNOZVJsSUhySmhIUTJfV0tEZjJncTFLSHJFbDVqU2FrdmlSVW1hNzdxZG8tbktn0gGHAUFVX3lxTFBEd2ZuVFNJR09vWjBBWUtDMF80c1luQkFnVWRkN2RWMG1DWmZJd3Z4clZwcjNIeEcwaExPcjc5MWt2MkZ1SW9KUHdZODhtV3NGanVTSVkzdFl0aTQtUmxZa1V6dHpDUkxacTNhTk1PWXFDbnVIR3NraVRJODh3MjFGdUhBNl9rTQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-31T19:56:23+00:00",
+      "summary": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round&nbsp;&nbsp;CNBC"
     },
     {
       "title": "The future of the firm - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-02T01:22:02+00:00",
+      "published": "2026-11-02T12:49:16+00:00",
       "summary": "The future of the firm&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDB2b0M4TF9RNnhlZWxmdFVLWFRGQU1GcTVxcDUwbTVDcThhM3UtclBXU2QyYnp3WjM3MFgxN3JIa1hwbVR4NTVua01Sa25JN1A2X3JDWi0tbGZtLVI2aXBKUHZadWRCRXIzc25BbU94RlJna0F4OXAxX3ZmeC1YS3FQclFhM1hsYTRPQmZsWVBVRUFFNUhpMDhmZ1c?oc=5",
-      "source": "Business Insider",
-      "published": "2026-11-01T22:28:00+00:00",
-      "summary": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-02T14:42:25+00:00",
+      "summary": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-31T00:17:00+00:00",
-      "summary": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports&nbsp;&nbsp;Reuters"
+      "title": "Behind the Curtain: OpenAI's post-election power play - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5",
+      "source": "Axios",
+      "published": "2026-11-02T04:10:15+00:00",
+      "summary": "Behind the Curtain: OpenAI's post-election power play&nbsp;&nbsp;Axios"
     },
     {
-      "title": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2026-11-01T23:09:55+00:00",
-      "summary": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets&nbsp;&nbsp;PYMNTS.com"
+      "title": "OpenAi's site plans for data center up for vote Tuesday - Savannah Morning News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0l5WThIUEpqbk4wVHpfOVhXdE42WmtnaG5SMkx4SnNiTDlEQ0hhbHA1U2dkMmplOG5RVTlPcnhhS0Jham9rMjJQMkdYNUVjazI5NWdZNVVqOWRrc0JxWHdVZ0xmRlZ2MG83dU92bDVYekszQ0NhZ2lQYkd4MFpUTWhXZ2djQl81T2I5QWtjU2o1UDctQXNlQzJDeUxrdXJVcnN5R3ZuZ2Rycm14Vzc2V2IxVWc?oc=5",
+      "source": "Savannah Morning News",
+      "published": "2026-11-02T10:08:00+00:00",
+      "summary": "OpenAi's site plans for data center up for vote Tuesday&nbsp;&nbsp;Savannah Morning News"
     },
     {
-      "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTmJmZ3lwWmpKMlowZmpaNEx4ZlJWbW9YTjZDZU1MUDEzZnJYVzhlS0g4emQxdVFxZXJGWWRDTnlIdGRMT0lNOElxWjBNUjZ5UWFTQ2l5RVFCWG1ScEVTYi1sY0dtbnhNME9YMktSYmFmR1dtcWVISHhqakhyRGlBbnU1aFpTOTRpczRaMHh5SjVGV2piQ3pXdFNPVjcyU1ZtcXl5RkxtRG55M0F6bnhTek50YzdPc1p5V3FPREVfSm9ncmxzZ2NKUXAyRThBTEstUWpKVjlic0w2bE5ZdXVtcS1aV2Zkc1RwRml5V1pLbzRLMXVKYXdaelpYTlpkVjhsZmdFdHpsLTBVSUJZMjgyOEdyX3dtUQ?oc=5",
-      "source": "ServiceNow Newsroom",
-      "published": "2026-10-28T20:11:02+00:00",
-      "summary": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development&nbsp;&nbsp;ServiceNow Newsroom"
-    },
-    {
-      "title": "Community safety report and new protections for teens - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-10-30T16:24:53+00:00",
-      "summary": "Community safety report and new protections for teens&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVZ2ZXhJa3pETjlVa2l6S3pGbnpkQUVaUnl6emEzQU95X3ZaY2FuU093Zk5PWHJZU2tEbGtrakFpVDdTZmlTTmFlaXpwVFdtd19DS3N2TzJCVklrNEx5dXowTFh0QTNzZXo0NmxwaXIxb2ZoN1F5VmlUTk91RzBqeEQ5M01iZzVVMWxPQUZqaTl6Zw?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-10-31T16:12:55+00:00",
-      "summary": "OpenAI reportedly lowers funding target for new round&nbsp;&nbsp;TechCrunch"
+      "title": "WME Joins New York Times Copyright Battle Again OpenAI - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQME9IQ2sxOG5lNUNoR0tqdFhiLWZsQXNNM1R5M2drN2hMZ2dQei1iRkI4NTN5a1FiUUtEX0RRU05IUXE3SnBPSHp2UEh4WHJNM2NGcG9oX3FqTWVWTG1KRFlqM3BDNUxWbVRlVlVCaTR1US02cll6M2dlREdBVHZuTENlUzhveGRCSjllYWFLMGw?oc=5",
+      "source": "Deadline",
+      "published": "2026-11-02T14:10:00+00:00",
+      "summary": "WME Joins New York Times Copyright Battle Again OpenAI&nbsp;&nbsp;Deadline"
     },
     {
       "title": "Making it easier for websites to express AI training preferences - OpenAI",
@@ -171,11 +143,39 @@
       "summary": "Making it easier for websites to express AI training preferences&nbsp;&nbsp;OpenAI"
     },
     {
+      "title": "Community safety report and new protections for teens - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDdEeGdlVEw2QWdWT1RQT2hqeWUwQVVmY2FvZl9YRXh5WUdycG1aZHR3XzhxT3FhOXhqb0tBVDlVeFppUlBMaTg3SFRBMHM4Z29ORkF3MDI3bklrYTR2QmYwQWNBekxVSklqWXFZdkRBSEllTnc3SlNWRXNDUDJoc1p4eTBfdw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-30T16:24:53+00:00",
+      "summary": "Community safety report and new protections for teens&nbsp;&nbsp;OpenAI"
+    },
+    {
       "title": "An updated Model Spec for more capable and beneficial AI - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
       "source": "OpenAI",
       "published": "2026-10-29T17:05:44+00:00",
       "summary": "An updated Model Spec for more capable and beneficial AI&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "How we detect frontier model misalignment - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-29T16:15:43+00:00",
+      "summary": "How we detect frontier model misalignment&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-10-28T17:18:00+00:00",
+      "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI Cuts Round To $20 Billion As UAE Investors Pair Capital With Compute Capacity - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGlhakQzenVjemZjMTRqTC11MlItWkFLZ3VMREZBV05TMTdMQ0dtb1lpeHRSMmdaZXNRNnlCZlhna3dJMV9JelZSdVlwNTkzTWNRODh5Z1F6TXo2YVFsZjFKQ0JLcjRkMmRISHVwOUZTZmJxU253SXB3Zm1rNmVsUVFkRVNJREdTWE9NVkJ6OVh2QnprMmJLTFJPZmhVTnU5ekktMEhsc28ybENQSjY4VTFJNG5udmFXWHJjLW8wR19uNnFXQlhldEhyYkQ0VC10d3c?oc=5",
+      "source": "Forbes",
+      "published": "2026-11-02T11:46:44+00:00",
+      "summary": "OpenAI Cuts Round To $20 Billion As UAE Investors Pair Capital With Compute Capacity&nbsp;&nbsp;Forbes"
     }
   ]
 }
