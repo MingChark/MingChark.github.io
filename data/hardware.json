@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T21:51:00.691377+00:00",
+  "generated": "2026-11-02T05:13:28.116695+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,18 +10,18 @@
       "summary": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dTUWE5QmQtaG56WUdQaEhsbmRNcFVpX1lhOWs4VjQzeWVUUzZ4ZEtUWmRsQ2ZBSkNkU1pqdVRkRkVMQ0xMOThnN29tb0tmZzVkT0lYN0R4MWR2cjZGN2V4ZkJJVExZM3J4TEw3ZXVJMjhIbktta0phYlExYWNhU3UtSExRZG5JUEUtUFBXeXk3a0FOT1lJbkxFaGNNQQ?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-11-01T03:00:28+00:00",
-      "summary": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives&nbsp;&nbsp;ServeTheHome"
+      "title": "Commentary: China's Nvidia H200 challengers look beyond GPU power, with Huawei and T-Head targeting system-scale AI - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0lvUjNZbzNBb0lBcmR3S2xFM1VjaEZxTFJmRWx4a3VTbWk4SlJGZFphZ3BMczQ0eTYwNWJKeEhEM1VYd1JMUEJkSU5iTU1BaDk4bmxVbkxIRUNlRTZWZGl2YWYxLWdWSFE5Y2NIYzVENmVPc3AwVVpFN3ZiN0lVbQ?oc=5",
+      "source": "digitimes",
+      "published": "2026-11-02T02:08:22+00:00",
+      "summary": "Commentary: China's Nvidia H200 challengers look beyond GPU power, with Huawei and T-Head targeting system-scale AI&nbsp;&nbsp;digitimes"
     },
     {
-      "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWtUUzhIa2JWRUo1ZUtLOFZUNU5PTFlsaUtyXzk4UkQ0a1NETHN0MG9vaTFUUnVXMFQ0Q3ROaC13emtucFhCcWFYYUpONnBwV25iLTBhXzZaWUZodzJZZ1E2S09Ub1N2NE5qazlnTjczSVlKd1pjbXVSYkpQZnNFeVpjOF8?oc=5",
-      "source": "Oracle Blogs",
-      "published": "2026-10-27T17:24:43+00:00",
-      "summary": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale&nbsp;&nbsp;Oracle Blogs"
+      "title": "ASUS Unveils AI Server XA P2N-E2 - Inven Global",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakNCY25ZWjZBS2JMdWRpTWxJUDRCVGRiZlRQWHdzUDZiemRHcjdadS05V19wTHR2eXlseUFNbDRmSHJBc2ZQZmNOaWdjNEhMS2NZM3ZUaUhVdWp5NDVYWjY3cWNMZWl0S2NzQkNDUDhNNjRaM1RZTm5Nb3ZNZFdOQw?oc=5",
+      "source": "Inven Global",
+      "published": "2026-11-02T01:28:05+00:00",
+      "summary": "ASUS Unveils AI Server XA P2N-E2&nbsp;&nbsp;Inven Global"
     },
     {
       "title": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026] - tech-insider.org",
@@ -31,6 +31,13 @@
       "summary": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026]&nbsp;&nbsp;tech-insider.org"
     },
     {
+      "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWtUUzhIa2JWRUo1ZUtLOFZUNU5PTFlsaUtyXzk4UkQ0a1NETHN0MG9vaTFUUnVXMFQ0Q3ROaC13emtucFhCcWFYYUpONnBwV25iLTBhXzZaWUZodzJZZ1E2S09Ub1N2NE5qazlnTjczSVlKd1pjbXVSYkpQZnNFeVpjOF8?oc=5",
+      "source": "Oracle Blogs",
+      "published": "2026-10-27T17:24:43+00:00",
+      "summary": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale&nbsp;&nbsp;Oracle Blogs"
+    },
+    {
       "title": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj?oc=5",
       "source": "shattered.io",
@@ -38,11 +45,18 @@
       "summary": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "An entire NVIDIA A100 AI cluster hit eBay at a staggering price, but at least shipping is free - TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaThha0k1M2pyMThqaFNJc29vNTdyWkROdkNGNzBVdFBLTnNpelh1d2tPRXVxUE9DWkZ2TmZDRnNEeVFDaW9wSG00TG5LVDJUendFbS14RF81cGpGV29yZDNkdWVMcDJPS1N1Yi0yRjJ4RDdoakRfS3ZxeU5wNlROYmxvVWViWDc3SlhCdjAzeDRycUMxNkx2NzRMWmdJNVRHMDMtVEhnWEV6VWlMOVlwRnM2MFdwMTFvdEhZUWVrUnktRmJDUGJKbFhOaXp5R0g3dTlBY01WSkZvdw?oc=5",
-      "source": "TweakTown",
-      "published": "2026-10-29T16:34:11+00:00",
-      "summary": "An entire NVIDIA A100 AI cluster hit eBay at a staggering price, but at least shipping is free&nbsp;&nbsp;TweakTown"
+      "title": "FuriosaAI raises $620 mn in Series D at $2.9 bn valuation to scale AI chips - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYmhQdGpLbXZHdzNoREZ5Q19Fb3h5c3JfVTQwOEsydW1BZUw1SDVGU3FOQ0Vmd3I3eC1PbVUtOTlleEIxdjVERFFkUTd3c2ZKX3ZTZWZTZktfY1JWUUJZRGc0TUtkX1h6TlFWMmdR?oc=5",
+      "source": "Beinsure",
+      "published": "2026-10-30T00:24:20+00:00",
+      "summary": "FuriosaAI raises $620 mn in Series D at $2.9 bn valuation to scale AI chips&nbsp;&nbsp;Beinsure"
+    },
+    {
+      "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dTUWE5QmQtaG56WUdQaEhsbmRNcFVpX1lhOWs4VjQzeWVUUzZ4ZEtUWmRsQ2ZBSkNkU1pqdVRkRkVMQ0xMOThnN29tb0tmZzVkT0lYN0R4MWR2cjZGN2V4ZkJJVExZM3J4TEw3ZXVJMjhIbktta0phYlExYWNhU3UtSExRZG5JUEUtUFBXeXk3a0FOT1lJbkxFaGNNQQ?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-11-01T03:00:28+00:00",
+      "summary": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives&nbsp;&nbsp;ServeTheHome"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -50,6 +64,13 @@
       "source": "AIMultiple",
       "published": "2026-10-13T07:00:00+00:00",
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
+    },
+    {
+      "title": "An entire NVIDIA A100 AI cluster hit eBay at a staggering price, but at least shipping is free - TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaThha0k1M2pyMThqaFNJc29vNTdyWkROdkNGNzBVdFBLTnNpelh1d2tPRXVxUE9DWkZ2TmZDRnNEeVFDaW9wSG00TG5LVDJUendFbS14RF81cGpGV29yZDNkdWVMcDJPS1N1Yi0yRjJ4RDdoakRfS3ZxeU5wNlROYmxvVWViWDc3SlhCdjAzeDRycUMxNkx2NzRMWmdJNVRHMDMtVEhnWEV6VWlMOVlwRnM2MFdwMTFvdEhZUWVrUnktRmJDUGJKbFhOaXp5R0g3dTlBY01WSkZvdw?oc=5",
+      "source": "TweakTown",
+      "published": "2026-10-29T16:34:11+00:00",
+      "summary": "An entire NVIDIA A100 AI cluster hit eBay at a staggering price, but at least shipping is free&nbsp;&nbsp;TweakTown"
     },
     {
       "title": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia - Yahoo Finance",
@@ -64,13 +85,6 @@
       "source": "ForkLog",
       "published": "2026-10-31T10:43:02+00:00",
       "summary": "Iluvatar CoreX Claims Tiangai 300 Matches Nvidia H200 Performance&nbsp;&nbsp;ForkLog"
-    },
-    {
-      "title": "Google Cloud and NVIDIA unveil Vera Rubin AI systems and new sovereign cloud tools - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkxHUjZ2YVpiSUFiQktPemJQdG1SOTBFNEpEWUtZM1JMcXdmQmkzNXJJbjZnM0RBNmQ3TnVlZms3SE5KWDlsenlnZFpSTEZnN1djRnRLLUFqbjAzeEZwTjdPcjlTNk9rRzR4Uy12RjdkdlV1RUV5amJ3SllqUm1fc1pOcmFhUnc1TVJBa1cyUXAzR2lnUExIbmVGdlNzX1duUFczTVQwYWVNalI5RlR2dVhkMGJVSS1wbnJSbVV4Rk8?oc=5",
-      "source": "EdTech Innovation Hub",
-      "published": "2026-10-28T00:30:53+00:00",
-      "summary": "Google Cloud and NVIDIA unveil Vera Rubin AI systems and new sovereign cloud tools&nbsp;&nbsp;EdTech Innovation Hub"
     },
     {
       "title": "AMD Helion Puts CPU Density at the Center of Agentic AI Infrastructure - Data Center Frontier",
@@ -94,13 +108,6 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Oracle Cloud Infrastructure to Offer Google’s TPU Accelerators - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXhybGlGbWNrRWxzZFdPanYwbGZJOW5RelZMa1B6Ykdwck5PVWV6amdyM2U0VDlScmRCUEJvc1FLZE5ROHlJRXNaVUF4SGNoZGJscHZwQmlQWlFXX0haSmZfQlFuclF4T0NmUV8yTmZWTWhCWFAwWlViR1p3dTd5RXBVNi1fYXdNcVJr?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-10-27T16:46:05+00:00",
-      "summary": "Oracle Cloud Infrastructure to Offer Google’s TPU Accelerators&nbsp;&nbsp;Unite.AI"
-    },
-    {
       "title": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sQVRNWUJWcVR1SFRwOEpmMVktR0VXSWt3dGNLQTZsQVJhVXU0NFhHM09VZ1dYVk9IRzh3cDQ5U2dXU0Q3MEx3M2tOUXMtZ0FKWHBqS1QtWERVMEhaVTVPTkwtQnB6UmYzejJETHBHNUh3c2M?oc=5",
       "source": "shattered.io",
@@ -120,13 +127,6 @@
       "source": "NVIDIA Developer",
       "published": "2026-10-22T07:00:00+00:00",
       "summary": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-02T07:00:00+00:00",
-      "summary": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
@@ -150,18 +150,18 @@
       "summary": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency&nbsp;&nbsp;Ynetnews"
     },
     {
-      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-06T07:00:00+00:00",
-      "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
       "title": "Google’s $250 Billion AI Chip Opportunity Takes Aim at Nvidia - I/O Fund",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVdXLUJZTUxqMGpEamllS0tKMmx3MERqZnUyMnZQem1GYmNraVl4YWdlZTRzNl9aZERRVHprM3JTV3o1QkRidktIcE0tTkFBakwzcDk0U2h3WEM4YlpDOVRQS3hnVG9OeU1HNWRoMlZqUVU4UHpkTVdiTjZmYnhKZnpNemk?oc=5",
       "source": "I/O Fund",
       "published": "2026-10-23T07:00:00+00:00",
       "summary": "Google’s $250 Billion AI Chip Opportunity Takes Aim at Nvidia&nbsp;&nbsp;I/O Fund"
+    },
+    {
+      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-06T07:00:00+00:00",
+      "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
@@ -171,11 +171,11 @@
       "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44% - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTJpTFNKZmotaVJ2NWthY09RS3BrV3g4NXNWR3dMa0g2Z2ExdDlVakNac0tvM00xMFF6TmxZeEJRM2Etb1FBRm5XM3BUaFJvd0Rqby1sc0NSMTg0M0EtN0xhSllvOVAtcjh0X21uNHh0eTRsRTRfR0JOUmszSmtucXV2NjlhWW1xRXhRRlpQRFRPYS1ZZVZr?oc=5",
+      "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%&nbsp;&nbsp;Yahoo Finance"
+      "published": "2026-10-02T07:00:00+00:00",
+      "summary": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High&nbsp;&nbsp;Yahoo Finance"
     }
   ]
 }
