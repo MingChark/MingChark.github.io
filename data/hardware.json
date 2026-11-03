@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-03T13:52:18.069942+00:00",
+  "generated": "2026-11-03T23:01:23.915218+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlpMbU1JV05ickdjUmpRZ2JzcEpsNTFnLVY5WTd5X3JjYzZBeFY1QzNjRHhnVE8tcVNjc01hNVNNdFVuT1I1UlAydDBMMGlwT0FYb1U3VUpkb3AzcmFqYmg3ejZybldYZUxoZy12S2l6S2Y4NTlqbER0emI0eWctRkVQSGdPeFlWcHJDQVhycjVaT3ZXaERqcVU5QQ?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-11-03T21:37:14+00:00",
+      "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
+    },
     {
       "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-11-02T18:20:34+00:00",
       "summary": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFlhSnU1eDduUF9uZ3RhZnVMVWlPU3dqemR2V2R2WFVNajBuelVEYWNaMXItSldteGlGWGdkdHJVdmVOdzFLQnlJVWZZZmE2djg3TDNjQV9fUHNVcGU3RVRvTjBDNnFhWnk2MDNFb3ZLN2R2U3FMWUtHT3JuZDBMMlFrRXg?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-10-31T12:33:33+00:00",
-      "summary": "Google TPU on Oracle OCI: 5 Chip Vendors Join [2026]&nbsp;&nbsp;tech-insider.org"
     },
     {
       "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
@@ -38,13 +38,6 @@
       "summary": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dTUWE5QmQtaG56WUdQaEhsbmRNcFVpX1lhOWs4VjQzeWVUUzZ4ZEtUWmRsQ2ZBSkNkU1pqdVRkRkVMQ0xMOThnN29tb0tmZzVkT0lYN0R4MWR2cjZGN2V4ZkJJVExZM3J4TEw3ZXVJMjhIbktta0phYlExYWNhU3UtSExRZG5JUEUtUFBXeXk3a0FOT1lJbkxFaGNNQQ?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-11-01T03:00:28+00:00",
-      "summary": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives&nbsp;&nbsp;ServeTheHome"
-    },
-    {
       "title": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj?oc=5",
       "source": "shattered.io",
@@ -64,13 +57,6 @@
       "source": "Data Center Frontier",
       "published": "2026-10-22T07:00:00+00:00",
       "summary": "AMD Helion Puts CPU Density at the Center of Agentic AI Infrastructure&nbsp;&nbsp;Data Center Frontier"
-    },
-    {
-      "title": "Commentary: China's Nvidia H200 challengers look beyond GPU power, with Huawei and T-Head targeting system-scale AI - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0lvUjNZbzNBb0lBcmR3S2xFM1VjaEZxTFJmRWx4a3VTbWk4SlJGZFphZ3BMczQ0eTYwNWJKeEhEM1VYd1JMUEJkSU5iTU1BaDk4bmxVbkxIRUNlRTZWZGl2YWYxLWdWSFE5Y2NIYzVENmVPc3AwVVpFN3ZiN0lVbQ?oc=5",
-      "source": "digitimes",
-      "published": "2026-11-02T02:08:22+00:00",
-      "summary": "Commentary: China's Nvidia H200 challengers look beyond GPU power, with Huawei and T-Head targeting system-scale AI&nbsp;&nbsp;digitimes"
     },
     {
       "title": "Nvidia’s China AI Chip Share Drops to 34% as Huawei Gains Ground - Mexico Business News",
@@ -101,11 +87,11 @@
       "summary": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS09ILWhobGlaNFpVM21hd05hUnpINXpMY3lnYzFnYThkcEliODlPc0JLSmZPVVlKdkhPa2d5R1dQVVNxbWVqdk5jT3RhTXBuSkh5N25fN2pqM1lUZlVqRWFqYnhNalBndTA3dHZQVEdRc0ZYQ2UyYlpOU0l5UjZmQUh3RmRoRUdERlp5WFpIR0R4dm9SQmhwLWIxSXNQMTFOd3pxLUhKTQ?oc=5",
+      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA&nbsp;&nbsp;Yahoo Finance"
+      "published": "2026-10-12T07:00:00+00:00",
+      "summary": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
@@ -115,11 +101,11 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
+      "title": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS09ILWhobGlaNFpVM21hd05hUnpINXpMY3lnYzFnYThkcEliODlPc0JLSmZPVVlKdkhPa2d5R1dQVVNxbWVqdk5jT3RhTXBuSkh5N25fN2pqM1lUZlVqRWFqYnhNalBndTA3dHZQVEdRc0ZYQ2UyYlpOU0l5UjZmQUh3RmRoRUdERlp5WFpIR0R4dm9SQmhwLWIxSXNQMTFOd3pxLUhKTQ?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-10-02T07:00:00+00:00",
-      "summary": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High&nbsp;&nbsp;Yahoo Finance"
+      "published": "2026-10-22T07:00:00+00:00",
+      "summary": "Entuity Software from Park Place Technologies Launches AI Accelerator and Cooling Monitoring Across AMD, Intel, and NVIDIA&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog - NVIDIA Developer",
@@ -129,18 +115,18 @@
       "summary": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-02T07:00:00+00:00",
+      "summary": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
       "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-10-14T07:00:00+00:00",
       "summary": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia - Yahoo Finance",
@@ -150,18 +136,18 @@
       "summary": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
       "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNwcmVjVWZYRURJdk5vdm1TR082V2c3ZGlhVnhSRFktYjlOWUtBakk2aTdubndLYTZBMkU0RG9FanBDWEw1QXQ1ZDZyMkNBNElueUJXSXdmSUFjZTU0bUVVM2dzUEhfR0JTVDdQVnJ4SGdSV3JhTGtnTXJfZTlCV05CWFh5TmtzQ0p0NE5kWVdKaVNw?oc=5",
       "source": "Investor's Business Daily",
       "published": "2026-09-22T07:00:00+00:00",
       "summary": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge&nbsp;&nbsp;Investor's Business Daily"
-    },
-    {
-      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-06T07:00:00+00:00",
-      "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44% - Yahoo Finance",
@@ -171,11 +157,25 @@
       "summary": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%&nbsp;&nbsp;Yahoo Finance"
     },
     {
+      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-06T07:00:00+00:00",
+      "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
       "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
       "source": "Axios",
       "published": "2026-10-13T07:00:00+00:00",
       "summary": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "Siemens and NVIDIA speed up AI chip lithography by 12x ... - eeNews Europe",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSTBRUWZJRGRWaFpSb2VRUXVRVlpVVS1BTmlGcWFYMWctVVFCc3RnRkJiYnduY0drZWx3d1ZRd2FBenQtMnBuSU5pOFBwMUIwcU1KYUZ0YVBNQVVLTTRaNzNpQWVLa0pCS0VGZUZzQ0hUNzN0ZDYyOTBoX0JwMXVJbzdodDdZVWZiMGRJQkVjRnU?oc=5",
+      "source": "eeNews Europe",
+      "published": "2026-10-16T07:00:00+00:00",
+      "summary": "Siemens and NVIDIA speed up AI chip lithography by 12x ...&nbsp;&nbsp;eeNews Europe"
     }
   ]
 }
