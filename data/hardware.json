@@ -1,7 +1,28 @@
 {
-  "generated": "2026-11-04T14:00:04.227059+00:00",
+  "generated": "2026-11-04T23:25:17.413681+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money - The Next Platform",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW04M29UeV80VTQ5ZmpFXy1NQjRacjhsSklob2pib0o1WU9qNWcwMEhRd01SM0FVbWVDcHR3b1V6ZXdIdG9tQy0zanBvZVhYY3lON0Z6WDhYWDFZMWZEM1pSWFJOclRtR0h1WDU5MklqM1U0aEhNdmV2TmxEeTJJaUhBUkN3NHR6NW1YRGM1NGVKeldDcDBTVVpzdDZUUXJVMENHbTNYMUxodFA5UFVsNQ?oc=5",
+      "source": "The Next Platform",
+      "published": "2026-11-04T20:31:15+00:00",
+      "summary": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money&nbsp;&nbsp;The Next Platform"
+    },
+    {
+      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-11-02T18:20:34+00:00",
+      "summary": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-04T16:02:00+00:00",
+      "summary": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere&nbsp;&nbsp;24/7 Wall St."
+    },
     {
       "title": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlpMbU1JV05ickdjUmpRZ2JzcEpsNTFnLVY5WTd5X3JjYzZBeFY1QzNjRHhnVE8tcVNjc01hNVNNdFVuT1I1UlAydDBMMGlwT0FYb1U3VUpkb3AzcmFqYmg3ejZybldYZUxoZy12S2l6S2Y4NTlqbER0emI0eWctRkVQSGdPeFlWcHJDQVhycjVaT3ZXaERqcVU5QQ?oc=5",
@@ -10,11 +31,11 @@
       "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
       "source": "NVIDIA Developer",
-      "published": "2026-11-02T18:20:34+00:00",
-      "summary": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "OpenAI’s Own-Chip Plan Is 10 GW, 1.7x Its AMD GPU Deal - FourWeekMBA",
@@ -36,13 +57,6 @@
       "source": "FourWeekMBA",
       "published": "2026-11-03T23:17:11+00:00",
       "summary": "AMD Says OpenAI’s First Custom AI Chips Run on EPYC CPUs&nbsp;&nbsp;FourWeekMBA"
-    },
-    {
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -157,25 +171,11 @@
       "summary": "NVIDIA Groq 3 LPX: Interactive AI Inference Accelerator for Agentic AI&nbsp;&nbsp;NVIDIA"
     },
     {
-      "title": "Nvidia stock loses China ground as Huawei reaches 28% share - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEd4a1VSVzNfcmx1Sk9Pd0FXeTFSTldPQ0FGdUk1NHhMejZWMHk3bVlKY3p2dXE2QjFTd3FZRTFNeXpDYlZtaFVnTExxZ2RWanhzdFB1VFp5WXRzVlRYam95R1RvRlVpY0JSVGpMQVo1Q25mVktDYjJUbE04Q2ZhNzRNcEJNaEwxc1I1OWFWcEViQ2pzRlhEd0Z6eExZYUZQa0ljQzFMNGhBWTQ3NFlfWXB4eDRvSU11TTZXVmp3?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-03T15:41:03+00:00",
-      "summary": "Nvidia stock loses China ground as Huawei reaches 28% share&nbsp;&nbsp;ad-hoc-news.de"
-    },
-    {
       "title": "Siemens and NVIDIA Expand Partnership to Build the Industrial AI Operating System - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmJMaENXQXFzZHJTamNqcmtXT3E0bHNyM2RjZ1VnSEIzYUFXU2s0RGZ1MmZoWWlBMGY4OWlkbFJhUVdkNnNESTB4TWxqZkttZUtadWhGbWJaWHVQNGNzMnVsaXNTUzFIRnk3V1FpNVk0U3NjUk5kLVZXb3FjbzhGaGZVVlVNaXI4WjZLQWk5eDZlV2JYNzV5SHVWRHBwY1FSNDd5Z0Jn?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-01-06T08:00:00+00:00",
       "summary": "Siemens and NVIDIA Expand Partnership to Build the Industrial AI Operating System&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia stock loses China ground as Huawei reaches 28% share - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFNQaE5FYmJoQzdsb3l4Y21qNjZmUFpib081TXVfOGcySWVvS0hCeWxvcEtHMXlvc2Z1WGpSaXJpR0U1b1Q2a3NvcnpZTlZyc2U5elBOYm04ejNQc1JKNzFnTFFCOTFuZE1zanFTa0k5VnQ3NWxqazBBc0VKUXl0ZnE3Q2x0VTYzNGJVZ0dud20xT1VpVTVqamtEQ2xtODRWZDJUZTJ4UHhXd1paNnRPLWlud3l1YThXNGl6YWJR?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-03T13:03:07+00:00",
-      "summary": "Nvidia stock loses China ground as Huawei reaches 28% share&nbsp;&nbsp;ad-hoc-news.de"
     }
   ]
 }
