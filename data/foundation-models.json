@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-04T05:33:12.317663+00:00",
+  "generated": "2026-11-04T14:00:04.227059+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
+    {
+      "title": "IndiaAI Mission Releases Foundation Models - https://www.fintechbiznews.com/",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHVmWDJ3X1BBUVROSGxOOUt0TGxLR25QQWRLUGJOTUpSYUF0WmgzOU1EcUUxSl95Y1pBWGc4dWJDMXdyVGJtbTBzczBsTFBjMzBjMjVuaUZoWm1WUk5heFBkQzNQN2ZCOS1xOTRxY1NJR0VQX2VGeUVJUS1oZzdGaURfYUs4Vi11UXplOFFhNXBtcjFoZm4w?oc=5",
+      "source": "https://www.fintechbiznews.com/",
+      "published": "2026-11-04T08:39:50+00:00",
+      "summary": "IndiaAI Mission Releases Foundation Models&nbsp;&nbsp;https://www.fintechbiznews.com/"
+    },
     {
       "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWFwVWV1S21nVERzdE5Zb2Q4UldqWkFFRjBBQ3cxWXRoSUtPcXc5N25VQU45N3Fma09fSGpKd2E5QUNwOXFjZFd0MEdVOUZiZU4telJOTzA5TWp3dmdSbDk2MllkZW1MS3pHbUZPbDIxUlNMVjBnZVpKaFhoM2J0NXF2Q1lfY2NBMHdzTnpBc3BBdHVKR19oaUxrdU9kX1k?oc=5",
@@ -15,13 +22,6 @@
       "source": "Google Research",
       "published": "2026-06-30T19:46:52+00:00",
       "summary": "Introducing TabFM: A zero-shot foundation model for tabular data&nbsp;&nbsp;Google Research"
-    },
-    {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
       "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design - Nature",
@@ -52,11 +52,32 @@
       "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
     },
     {
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
+    },
+    {
       "title": "What Are Foundation Models? - IBM",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZWdMU1VFRFBuWFoxdXJITVE2Sk5mdzY3RE5DRGFRLWg1Q0NIQmtZQWZmdC1wcllDQlhsRTc3ckNlTy1CelpHdVBMdXdsUTdNSHJrMTZEZTNmUmo1R19Z?oc=5",
       "source": "IBM",
       "published": "2024-10-11T07:00:00+00:00",
       "summary": "What Are Foundation Models?&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation - Engineering at Meta Blog",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM3dkTng1MTF2MnUzODd5azYwUzlZbDQwaFFMTkt1TmpSM2YzQ2JMYlliblpYd0dRZXNDSXVndktvc1VJUDMyOG83eVdYN3NQT2tJTFF5MDBFY3BQWUZmUnBkLVJiOEluN1hCeWZxSkpER2RwdXc1ZVVIcW1waXhDal9jN0cyZy11b2ZPQWs1d2lNVVp2NG9yYnJYbzBZZno0LW55YTFBNGt3dngwMTRNZWNGbjlzb1BXclBXeEMtUExrbElCN0tuSkYyc0tibHgxcGZiSGNVTWhsbVFwaUZwbkxDWQ?oc=5",
+      "source": "Engineering at Meta Blog",
+      "published": "2025-11-10T08:00:00+00:00",
+      "summary": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation&nbsp;&nbsp;Engineering at Meta Blog"
     },
     {
       "title": "How the Foundation Model Transparency Index Distorts Transparency - Interconnects AI",
@@ -73,25 +94,11 @@
       "summary": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics&nbsp;&nbsp;Menlo Ventures"
     },
     {
-      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2025-02-07T08:00:00+00:00",
-      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
-    },
-    {
-      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
-      "source": "Linux Foundation",
-      "published": "2025-12-09T08:00:00+00:00",
-      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
-    },
-    {
-      "title": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model - Cisco Blogs",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW45VDNDcURtZkJVLTZIa3BZMTB2eVAtOUlJOGNuaVY1OGtEeHBaYTVkQkxBOVdjN3I2eGlkV3JtZG1pN2hzSkp4YVBJakludEVWaUg5UjVycnRxVldiVnNkS2RnenlteVlTRzlSQUppN3Y4bkdOemlPV29nU1Robk5IR0RpeUdhcnNhdElrYXJ0R1NlZjFXWTYxeWRMNnRQblE?oc=5",
-      "source": "Cisco Blogs",
-      "published": "2025-04-28T07:00:00+00:00",
-      "summary": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model&nbsp;&nbsp;Cisco Blogs"
+      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
+      "source": "Mastercard",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
     },
     {
       "title": "Updates to Apple’s On-Device and Server Foundation Language Models - Apple Machine Learning Research",
@@ -101,32 +108,18 @@
       "summary": "Updates to Apple’s On-Device and Server Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "Large language models and multimodal foundation models for precision oncology - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1a1c3WjRxWUp1cjJDazJVMFZYd1dubE5pVmxuN3ZRYUZlVDJMOUZNRlRLWDBRQkJOWE5BamFKMmZUWXVmb21CdG00eXF4QTJ3bE9rbzh0V3VIbnBYT0JV?oc=5",
+      "source": "Nature",
+      "published": "2024-03-22T07:00:00+00:00",
+      "summary": "Large language models and multimodal foundation models for precision oncology&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "A list of large language models (LLMs) - IBM",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
       "source": "IBM",
       "published": "2025-03-10T07:00:00+00:00",
       "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
-    },
-    {
-      "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data - NASA Earthdata (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjBpbUZxVUFibTE2amlRbXJDVnprUy1OTm5sekpBWl9tS2dWMWp5R2xfdlF0N2UxZ2NBWUlQRVhzME9QYW13V2xhcE4zMU1LNUxwc3MzVlpWYUtaWW1ieE1CV2JwNHRydXlNcEF4UWMzUHhHTUVSRU9KRlZzcFMya0xobF9uakhiQ0xPYnRMQlJ3NDR0LVJXNkE1aWsxNkFZb2Q1eUFKVkJXMGJ0bl9RY1lzVHYySjI4d2c?oc=5",
-      "source": "NASA Earthdata (.gov)",
-      "published": "2023-08-03T07:00:00+00:00",
-      "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
-    },
-    {
-      "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FaWhjZWJGQnRyQ2xmRUZSenJRaEh2aUdTUkQ0NlhGbW52MEpyMWZqTFdEazE0WXFoN04yR0NxRllZRFBuUkJleUViVE9rbWpVOENYQjBXYTM5OEhNVVo4?oc=5",
-      "source": "Nature",
-      "published": "2025-03-05T08:00:00+00:00",
-      "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
-      "source": "AI at Meta",
-      "published": "2024-04-18T07:00:00+00:00",
-      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
@@ -136,6 +129,13 @@
       "summary": "Apple Intelligence Foundation Language Models Tech Report 2025&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "A clinical multimodal vision language foundation model with fine-grain explainability - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSkFyeDNuT2J1ME9SdzgyaURJNG5QQlEyVnRiaXpQZ1ZZVlVvVS1USnBrcm82VWp4TEkyamJldi1oS1BRZlBTdC1lV2ZlYlFJMkV3ZWN5VHFfWU9kT2ZZ?oc=5",
+      "source": "Nature",
+      "published": "2026-10-29T11:01:56+00:00",
+      "summary": "A clinical multimodal vision language foundation model with fine-grain explainability&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3FFVmgySGpTbHY1aER0cGVoekJJaXJQWFhfNjNZMVJjSEl4Q1hVbVJQRzR4bkxxSGlsdzRFeTU0Zl9QU3BCMWxwZTZEb0Z6MmdpVDh5Q0ZkYmcxQmlIeC1kMTM3TGh4M25TV1BJY2lKd2V4QmN3cmpaZG1lSGFnbXZxZk4?oc=5",
       "source": "Apple Machine Learning Research",
@@ -143,39 +143,39 @@
       "summary": "Introducing Apple’s On-Device and Server Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Foundation Models Explained: Everything You Need to Know - TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0JRMmRVczFQVFVvNTFyeFVCSktTYW12a2RjZjhfa0t2QlVzcG5PaTBzT2Q5Rkh3RnNxVF9PdmFrV1JRaVJtdHVNR21WX3pYeDRLOXFTSV9TZVEyWExrczNFcC1SZWhxX1dOakZMV2huZWYtOGJYNnpxZVI5bVJlZ05HLWRiYl9HdzlZVkpiSENtQURvWVQ2RWt3blV6dw?oc=5",
-      "source": "TechTarget",
-      "published": "2025-01-06T08:00:00+00:00",
-      "summary": "Foundation Models Explained: Everything You Need to Know&nbsp;&nbsp;TechTarget"
-    },
-    {
-      "title": "Accurate predictions on small data with a tabular foundation model - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XOGNtZXRnYjRfbVFYQzZqNE5uY19BWk8wNkQ3QVZHRTYxWS1Gdl9oSjNzY2g0RU5vTzQ4YmtUNDV4eG1KMm8zamZrNmZncmxJVDF6Xy1OZ1pqTTNpT3dz?oc=5",
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
       "source": "Nature",
-      "published": "2025-01-08T08:00:00+00:00",
-      "summary": "Accurate predictions on small data with a tabular foundation model&nbsp;&nbsp;Nature"
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tc2NIZFNDM1dXVWpJVzJtYlNMZ2hVV2UydlhTWnN5MWY0eV9vMjY4ZnJ3LUpvQjBJVVdJZjRYRFpEOWh1X3dTbV9ZVDZVR2xWaXlzdUlBd1o0REZfWk1F?oc=5",
+      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2025-02-07T08:00:00+00:00",
+      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
+    },
+    {
+      "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FaWhjZWJGQnRyQ2xmRUZSenJRaEh2aUdTUkQ0NlhGbW52MEpyMWZqTFdEazE0WXFoN04yR0NxRllZRFBuUkJleUViVE9rbWpVOENYQjBXYTM5OEhNVVo4?oc=5",
       "source": "Nature",
-      "published": "2025-08-23T07:00:00+00:00",
-      "summary": "Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data&nbsp;&nbsp;Nature"
+      "published": "2025-03-05T08:00:00+00:00",
+      "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation - Engineering at Meta Blog",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM3dkTng1MTF2MnUzODd5azYwUzlZbDQwaFFMTkt1TmpSM2YzQ2JMYlliblpYd0dRZXNDSXVndktvc1VJUDMyOG83eVdYN3NQT2tJTFF5MDBFY3BQWUZmUnBkLVJiOEluN1hCeWZxSkpER2RwdXc1ZVVIcW1waXhDal9jN0cyZy11b2ZPQWs1d2lNVVp2NG9yYnJYbzBZZno0LW55YTFBNGt3dngwMTRNZWNGbjlzb1BXclBXeEMtUExrbElCN0tuSkYyc0tibHgxcGZiSGNVTWhsbVFwaUZwbkxDWQ?oc=5",
-      "source": "Engineering at Meta Blog",
-      "published": "2025-11-10T08:00:00+00:00",
-      "summary": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation&nbsp;&nbsp;Engineering at Meta Blog"
+      "title": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering - Science Partner Journals",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92V1Z3MmZOcVNCeE90bTBvR3pFeDlFeHFvNjBBZmVyMUs4U1VYakhpd1c2QngydGFZcWVVT3AxeS03QlBsbkkxT3FfNEtmNi1wNGlrZjk1Y1JiUkY2Ni04?oc=5",
+      "source": "Science Partner Journals",
+      "published": "2025-09-10T07:00:00+00:00",
+      "summary": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering&nbsp;&nbsp;Science Partner Journals"
     },
     {
-      "title": "What Are Foundation Models? - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5Z1dpMUhpdDc5SEpQWDJoem1TVHY5clBtdzEwbTRUMVdhWGh6MG1Xd0E3TlBwdEwyeVp2MTJVSGJwTDUwWG1majBOc3lBV2dQaTZzdklvTnhIU3NvUGgwVlM2LXRGMDZF?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2025-02-11T08:00:00+00:00",
-      "summary": "What Are Foundation Models?&nbsp;&nbsp;NVIDIA Blog"
+      "title": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW45VDNDcURtZkJVLTZIa3BZMTB2eVAtOUlJOGNuaVY1OGtEeHBaYTVkQkxBOVdjN3I2eGlkV3JtZG1pN2hzSkp4YVBJakludEVWaUg5UjVycnRxVldiVnNkS2RnenlteVlTRzlSQUppN3Y4bkdOemlPV29nU1Robk5IR0RpeUdhcnNhdElrYXJ0R1NlZjFXWTYxeWRMNnRQblE?oc=5",
+      "source": "Cisco Blogs",
+      "published": "2025-04-28T07:00:00+00:00",
+      "summary": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model&nbsp;&nbsp;Cisco Blogs"
     }
   ]
 }
