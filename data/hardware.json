@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-05T14:21:13.248959+00:00",
+  "generated": "2026-11-05T23:27:10.841802+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
       "title": "Moonshot AI Bypasses U.S. Chip Curbs Via Europe Neocloud Deal - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFJvTHhyVjJJaXNiQ3BpMjBDYk43TG91TmJLaDdQdmQyVVlBX29oSkZ0LXJyU3dab1AybmNkY0VQMDZIOUUyaDQ2aFJxTGFXbkktZ096dlZpQmNXUHVpY1VlM2ZOalpZaXZjMWNrd2twbmd6YXE4aWxKOFFLa0lnTWlXX1oyZG5FU051TDZpRXNUWV8wSlQzYw?oc=5",
       "source": "The Tech Buzz",
-      "published": "2026-11-05T14:02:48+00:00",
+      "published": "2026-11-05T14:02:03+00:00",
       "summary": "Moonshot AI Bypasses U.S. Chip Curbs Via Europe Neocloud Deal&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money - The Next Platform",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW04M29UeV80VTQ5ZmpFXy1NQjRacjhsSklob2pib0o1WU9qNWcwMEhRd01SM0FVbWVDcHR3b1V6ZXdIdG9tQy0zanBvZVhYY3lON0Z6WDhYWDFZMWZEM1pSWFJOclRtR0h1WDU5MklqM1U0aEhNdmV2TmxEeTJJaUhBUkN3NHR6NW1YRGM1NGVKeldDcDBTVVpzdDZUUXJVMENHbTNYMUxodFA5UFVsNQ?oc=5",
-      "source": "The Next Platform",
-      "published": "2026-11-04T20:31:15+00:00",
-      "summary": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money&nbsp;&nbsp;The Next Platform"
+      "title": "Broadcom vs. TSMC: The AI Chip Design-and-Foundry Duel That Could Shape the Next Five Years - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UMFVvX0FMd09rUGgxX29uR0VsQmxnbnkwdEtQUG9lQVNJS2l0NFk1MTZ5Z1FVQ0RVLTN2dnJfdmdlWUlQY1cxU0FWUTZRQVQtYnlRMHBhRjNsOXlUd3lkX29iUzFPMm5sVDRPaXZmbnJSMkx1c0E?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-05T22:35:00+00:00",
+      "summary": "Broadcom vs. TSMC: The AI Chip Design-and-Foundry Duel That Could Shape the Next Five Years&nbsp;&nbsp;BigGo Finance"
     },
     {
       "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
@@ -31,18 +31,18 @@
       "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
     },
     {
+      "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money - The Next Platform",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW04M29UeV80VTQ5ZmpFXy1NQjRacjhsSklob2pib0o1WU9qNWcwMEhRd01SM0FVbWVDcHR3b1V6ZXdIdG9tQy0zanBvZVhYY3lON0Z6WDhYWDFZMWZEM1pSWFJOclRtR0h1WDU5MklqM1U0aEhNdmV2TmxEeTJJaUhBUkN3NHR6NW1YRGM1NGVKeldDcDBTVVpzdDZUUXJVMENHbTNYMUxodFA5UFVsNQ?oc=5",
+      "source": "The Next Platform",
+      "published": "2026-11-04T20:31:15+00:00",
+      "summary": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money&nbsp;&nbsp;The Next Platform"
+    },
+    {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-10-13T07:00:00+00:00",
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-04T16:02:00+00:00",
-      "summary": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -52,32 +52,18 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "AMD Says OpenAI’s First Custom AI Chips Run on EPYC CPUs - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVkwZkw0VU1wMUNwc0FyY0pqTDJPQUVmMWxBQkllYUl6OGlMTkpJN19MQUVmWDZqZVhpQVJZay1qWnk1aDhoRHpwUm1ISGgzLVNZajJNLVIyNzNKazVXandQRkN4aXJtRFI2cW9xZHRZM2VvNGhmRXBHTUZLTFNZYWo2NnZWSlBpYVdj?oc=5",
-      "source": "FourWeekMBA",
-      "published": "2026-11-03T23:17:11+00:00",
-      "summary": "AMD Says OpenAI’s First Custom AI Chips Run on EPYC CPUs&nbsp;&nbsp;FourWeekMBA"
+      "title": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSmN6SnJFRkFXZEF4Qm9NYWhFbVZ5NVdwX0IxdTdicm1ndFZNN0VYM3Zyd2V0bmZaMnN2RTFRZ0RlOU0tdUpSek1wWEhNM2JpODYtWjUtdDZVRjUyR2VzNDdSSnZSSTY0WFdCYTB5cDJRVS0zeWRtcU9Nd013N0tlM3ZkMjVKeVVMTU90S1FsaWViOVlqRUZRd2RLcWJVZFFUaG9GZENWY1VMV01RSzBUYzhKWjZ4LXo4UkdSNW1vX3NudVFaYk5fV19FLXB2cl92YWUzWURPWExUMXlidWZNMjJXaUJWb3RWRjJhWFRvUkJtZ9IB9wFBVV95cUxOcmkwbnpHbnNLTWZfWXpuREgtaXl3ZGo0Z183SXJrSGZlSmdlUWFmaXN1UTVYVWZYVFcxdWx4VFg5NlcySGRtN1JJQUFhWkx3aGg2bkhPTVpqSmpPZ094VXdnN1RIbXEybjdvOWlmTVZtUllJY29PaHM5eHhwMjlZVDhxVmZrYUc3REtYaXd5eDJGbmJmb0d2eDhFVDdBSHZISF9obkVPa25rRE12Tk85bEhhMURsN1Ewb1lZTF80d2hVYWhpUVN1Y2RpZnFkVC15aGFxTkZ5VlF3Y0sxUXprN3lEbkt2bkhvMnFjN0pqTFp6ZTk2U0RF?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-05T21:32:33+00:00",
+      "summary": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch&nbsp;&nbsp;Simply Wall St"
     },
     {
-      "title": "AMD Shares Jump 5% After Quarterly Report Shows AI Sales Keep Going Strong - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGhhWWRtdC1Ic0pDVTA0c2M1Z1pJQW9kTnh4OEZ3V2VIN1ZIV1BuVUwwRjJNV3hzNXp4NTB6YlR6c0lCMWY5ZDlzSWtQY2p0OGlOMWhUYUo5N0xlWFpTRVFMX0FxVE9Lb25oNGZoanJDTlgwd0hacDhFejhIeTZQRjctdHdIWHFfSUV1MkptLXd5YnlTVFFFT253V1Y3ODRtcTNBV3NQX2hXMEFXd1ZFWUpvMFcyTkNHaWFsbThDU0tWb1UzeFN5SWNyWTM4ZndE?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-04T07:35:00+00:00",
-      "summary": "AMD Shares Jump 5% After Quarterly Report Shows AI Sales Keep Going Strong&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "OpenAI’s Own-Chip Plan Is 10 GW, 1.7x Its AMD GPU Deal - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmdMSXFaQzRUTkVIV0FiLUFYYU5mWkN0RGU4VF8wcVN0c0hyazJhY3hkWjRaaGwxQkFOTjlfNEFXdDB3REtyVWxoWjhlTThyZVlKVi0xMG4wbXZqclYzS0ZHaWNDblBJZXo2UlB0LVViVVc1MUc1eDVsb2ZsSnp1MEN2MFMtUEk?oc=5",
-      "source": "FourWeekMBA",
-      "published": "2026-11-04T09:05:35+00:00",
-      "summary": "OpenAI’s Own-Chip Plan Is 10 GW, 1.7x Its AMD GPU Deal&nbsp;&nbsp;FourWeekMBA"
-    },
-    {
-      "title": "AMD Data Center Revenue Hits $8.5B, Up 97% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcC1oRG1VOXBMUkRXWW1XWTBnWGpGcVJJUVRzOF85WXJXTEIwc3hDY1Z0Z0tKR0Nwa2J4YjhHdUVkREcxQ0ZUM01pbDFfZExXeWFKNVBMR3Vhem9RWWtvVG5FM016dVFnRWdiUi10Ty16OXlyUnJ5VnVOaVBaYUw4SDAyWVN6MEk?oc=5",
-      "source": "shattered.io",
-      "published": "2026-11-02T15:59:23+00:00",
-      "summary": "AMD Data Center Revenue Hits $8.5B, Up 97% [2026]&nbsp;&nbsp;shattered.io"
+      "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-04T16:02:00+00:00",
+      "summary": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "AMD’s $13.4B Record Quarter: What Cloud Buyers Get [2026] - shattered.io",
@@ -150,13 +136,6 @@
       "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-04-14T07:00:00+00:00",
-      "summary": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
       "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
       "source": "NVIDIA Newsroom",
@@ -176,6 +155,27 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-01-05T08:00:00+00:00",
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Z211SnRyd196S3dfLWM3R1hyVy01a0RSYmNpMzgxNzVRM093ejhiTWZZN29yUnhOOFk1NmEyVERrVE43TThrNTBCMzlxMFBrSEJaa0prYw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-03-19T07:00:00+00:00",
+      "summary": "NVIDIA GTC 2026: Live Updates on What’s Next in AI&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure - AMD",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2RaUkpYbW5Ld2JDUVZmTUc0MUdBelFMNUxYSGdNRVJEYUlJWHJTVGFqczlQUUhXak03aS03bWtkR0pjMmgzcXlNR3NzZGl6Rl9nNHJBR0g2cE1LeHptNkozaEQwVG5rMElYYXFYX0pXbGxGby1VRHJ5YVprTXlHTVhtOC1IQUdJZUxoUnd3ZTljWC1CWjBfeDVn?oc=5",
+      "source": "AMD",
+      "published": "2026-05-07T07:00:00+00:00",
+      "summary": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure&nbsp;&nbsp;AMD"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX: Interactive AI Inference Accelerator for Agentic AI - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mb1ZUb3pyOGwtaHhFU1FEMDFXLXpXaGZtdWNqQ0ZTNHBVTHZMRURwWGw4Q2JDTkNmekpfbjczWkhiUlhCRlI5ZGh4WFpyM2kwemhsX2RORXk?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-03-16T21:07:16+00:00",
+      "summary": "NVIDIA Groq 3 LPX: Interactive AI Inference Accelerator for Agentic AI&nbsp;&nbsp;NVIDIA"
     }
   ]
 }
