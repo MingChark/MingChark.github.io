@@ -1,20 +1,48 @@
 {
-  "generated": "2026-11-05T05:53:07.764757+00:00",
+  "generated": "2026-11-05T14:21:13.248959+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
-      "source": "Business Insider",
-      "published": "2026-11-05T00:57:00+00:00",
-      "summary": "A top Anthropic product leader has been poached by OpenAI&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI kicks off charm offensive to change voters' view of data centers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-05T13:03:14+00:00",
+      "summary": "OpenAI kicks off charm offensive to change voters' view of data centers&nbsp;&nbsp;ReutersOpenAI pledges to halt NDAs in new data center policy proposal after election rebuke&nbsp;&nbsp;CNBCOpenAI faces Democratic backlash over AI data center expansion&nbsp;&nbsp;Fox News"
     },
     {
-      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
-      "source": "Axios",
-      "published": "2026-11-04T11:56:23+00:00",
-      "summary": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup&nbsp;&nbsp;Axios"
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
+      "source": "The Hacker News",
+      "published": "2026-11-05T04:32:22+00:00",
+      "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run&nbsp;&nbsp;The Hacker News"
+    },
+    {
+      "title": "OpenAI Says a Cyber Pipeline Racks Up $1.2 Million in API Costs - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-11-05T10:00:39+00:00",
+      "summary": "OpenAI Says a Cyber Pipeline Racks Up $1.2 Million in API Costs&nbsp;&nbsp;Gizmodo"
+    },
+    {
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel - Phoronix",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzZDItTWpNbG1fWjlOOVF0R3hRenNWSkltS3Fvc3VyWjNPTjQ3dzlreG1BODF6NnRZOXBZVVZFTnlwV0lGcTZvSzRzalZLV1BPM3lEYzBGUVoyem5PdFktbjNIMEVOQQ?oc=5",
+      "source": "Phoronix",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel&nbsp;&nbsp;Phoronix"
+    },
+    {
+      "title": "Man sues OpenAI alleging ChatGPT encouraged his wife to poison him - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWJSNVJQUDRYVWJKRkhSNjRmbEJxaEVoYnVpWVJhdDlZQlJYSmFyVDc2N21zVWNxcjBxWGdKSFFYc3NwRlk1bUdIMVpaaHN0Yi1laDMyVThtTzN2NU5iQ0FBOUVSN0g3MUh5UjVodGtUaXlwazk1RFNiOXZjSHVqcWtmbFd6OS13M3dj?oc=5",
+      "source": "USA Today",
+      "published": "2026-11-05T14:01:00+00:00",
+      "summary": "Man sues OpenAI alleging ChatGPT encouraged his wife to poison him&nbsp;&nbsp;USA Today"
+    },
+    {
+      "title": "OpenAI’s approach to mathematics does not add up - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5",
+      "source": "The Economist",
+      "published": "2026-11-04T18:11:10+00:00",
+      "summary": "OpenAI’s approach to mathematics does not add up&nbsp;&nbsp;The Economist"
     },
     {
       "title": "OpenAI Had ‘Rough’ First Half of Year Before Coding Takeoff, Brockman Says - WSJ",
@@ -31,67 +59,11 @@
       "summary": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUdLMUNNLXU2UTZIZGI2WXNDdHJXTnZOc2FKS3E3X0k1SWVIZDBjeXEzNVNlS0ZGTXJjNC1weW1OeGp2QlNJWTFaMmNNQWZMNXNMdVVnZEVtRlR2aXRHT3RSZzVsdmZNRFVYcHdpVjhHbHBpenlzekd5Z0xwUG82SG1hX25GaWNNTUpSZGpIZ1dDU3ZDVjJQdjBKRmpwRFFBVlA5eldxWGY0SWtKa2JSQ3UzbnVaNnd1N0Z1aHNIbS04ejNUZEpmM1h2aU1WckktUGE1WnRLWDdnTDdo?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-05T02:23:00+00:00",
-      "summary": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says By Reuters&nbsp;&nbsp;Investing.com"
-    },
-    {
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
-      "source": "The Hacker News",
-      "published": "2026-11-05T04:31:00+00:00",
-      "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run&nbsp;&nbsp;The Hacker News"
-    },
-    {
-      "title": "OpenAI’s approach to mathematics does not add up - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5",
-      "source": "The Economist",
-      "published": "2026-11-04T18:11:10+00:00",
-      "summary": "OpenAI’s approach to mathematics does not add up&nbsp;&nbsp;The Economist"
-    },
-    {
-      "title": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmg5LTBSY1A4Z044dkNOV2x0UC00NWVSVHVkaEpZUmlqRUJiNnh6bE44MW9JaFo1NUNzQVRHUlczci1EN0R1Um9NcS05MEFhWnlVcDNtcUI4Y0hBS05BSUpXWS1mTWJJczVGc2Y4cDNHTW1GU2k5cFdxdXpHaTFtejFlQ1J6eEZZWXZ4NXIyaUNHN1lOR1J4R1ExVU5KTUtURWJQTTBwNjJDN1ZycENXWHdxOHpKU3piTF9oZmo4eTIwOE15VF94dDVZOEk5S0pHdEE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-04T13:09:53+00:00",
-      "summary": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are ‘compute heavy.' - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc3hsdGF5SGpmX014STA2VXN1V3dBQUZKNTVvMDFwSlRFaTI3a0JIVGdQVzNOS0k1WmtNNi1OemRoaWdOb05wNFR4T191RmRodGVCYnNDcXF2TWpqVUg4MTEtNUR0Y3l6T1lBTnM0djZTLXBNWEp6SEVvbVhqSmxUd0xLeThNMEtYemI1ODFfVWFHODhRY1R6ZmZ5aEhfYVpROWx3cWM1VnI4TlY0U1RFTk82aW9JUDJjVUVNUm80Z2NzWXlIMXBYRXFocV83eF9aSmc4UzQxV1JoQzB2VWI1TmEzT3c5eXpOVjdDRjY0ZW5tYkVhSFpEdkF4Y21fdw?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-03T20:01:00+00:00",
-      "summary": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are ‘compute heavy.'&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "AI is changing mathematics -- but not how you think : Short Wave - NPR",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlFOMXdaR3JWaGxVaUc0XzFWUzV3SGdDZkl3bXFfX1BycGtkcnU5eEs2dlNNTTdRZmZQSTM2R1kxN2RTLVV1YnU4N04xQXA5QXMzczhFY1JOeEJQSXBidFVxcG84UFR5YzdVeEZWcG4xRlZkNHZQRE9GcW50WDA2THZ4QUhaZjdHeHh3ZXl0bktXQQ?oc=5",
-      "source": "NPR",
-      "published": "2026-11-04T08:00:00+00:00",
-      "summary": "AI is changing mathematics -- but not how you think : Short Wave&nbsp;&nbsp;NPR"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-11-04T21:25:44+00:00",
-      "summary": "OpenAI is already trying to shape the 2028 election&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’ - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0RKYkJfbFhrMGhDQlhSMHlxUEF6dGdjbDZPc0tYeU9hNEZGQVlEeXZuTlZZa1hFM0hwcE9ZUmFNUFd0ZERES1hkQjJkU0J4OF9WdmJ4dU5mY2xpM3kzWkYxbmFCNDQ0amVYTUdZakdCYkRLaFF3TnV3UERrVTFIYWRCUUNJV2NuOVlRRTZmd2MwSFdFd0JZejhoaWczQno0emxKVFBFSFNYR0h5ODktNHZyOEU3UQ?oc=5",
-      "source": "The Verge",
-      "published": "2026-11-03T15:00:44+00:00",
-      "summary": "OpenAI is quietly renaming data centers ‘compute campuses’&nbsp;&nbsp;The Verge"
-    },
-    {
-      "title": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT01TWjlIVVdvQU1WTEdESzQ4Wk05ZXVLbU5ReVBGMDlZNnk5UmJ2OERldl9weWRqUk5aSV9vRkxteVdRSG5QcXZmZGZ2ZkhGbzM0YldYUGE5Z3R1TXFNVmhPXy03LUd4azhqX2YyTHF5OWl2eTNIRG1Kd0V4eG45NjFNN1ZWWERuM1hjZ2d3RVY5WHNfcVBwdWZ1WmFCdGFwS1psRFZPM1diclJ2N3lkR0JjOGJ0WEpUYkVPSXlEbzhPUUFtb3VjMFMzM3o?oc=5",
-      "source": "The Guardian",
-      "published": "2026-11-03T17:03:00+00:00",
-      "summary": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi&nbsp;&nbsp;The Guardian"
+      "title": "‘Most profound shift of our lifetime’: Jill Hazelbaker joins OpenAI - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEh1ZTA3MnFlN0RCODBfMTh5aGQyQWtkMEZXUWl2OEREVWtrekxWcGpkRlhPVGFqb1B4aXBZdTVKYkhvNEZ3bHFlUlZMWktoOTVkdVhOUHJoQVpkSzhhSmItR1E4SUNJbFVrMkU1Q3F4TmJSalVOWDYtd3dVbDVOUHBfMUNJazEyWm5WRkc0dXM?oc=5",
+      "source": "The Next Web",
+      "published": "2026-11-05T14:07:41+00:00",
+      "summary": "‘Most profound shift of our lifetime’: Jill Hazelbaker joins OpenAI&nbsp;&nbsp;The Next Web"
     },
     {
       "title": "ChatGPT will now make you animated GIFs - The Verge",
@@ -101,6 +73,55 @@
       "summary": "ChatGPT will now make you animated GIFs&nbsp;&nbsp;The Verge"
     },
     {
+      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
+      "source": "Axios",
+      "published": "2026-11-04T23:05:30+00:00",
+      "summary": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-11-04T21:25:44+00:00",
+      "summary": "OpenAI is already trying to shape the 2028 election&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Andrew Garfield Says He ‘Never Had Any Interaction’ With Sam Altman While Filming ‘Artificial,’ Despite Altman Claiming They Waved to Each Other: ‘I Was Very Confused By That’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbE14WG9ydGFiWklwNXF4a2c1ZHcyQ1I5OFp2Y3hZQUFfY2ttbjFzNHgtdElXLWN3cDFGT1pQR29UZTZDQ043czJJS2h2Z3JmOE5kOW4zcV9qcjV5SUJxZ1Q2SWZ1X2hZUmYzUlYyRXZURmlDa0RMbWx4UlZHalBNenlud2E3RnZDY2JveQ?oc=5",
+      "source": "Variety",
+      "published": "2026-11-05T02:49:00+00:00",
+      "summary": "Andrew Garfield Says He ‘Never Had Any Interaction’ With Sam Altman While Filming ‘Artificial,’ Despite Altman Claiming They Waved to Each Other: ‘I Was Very Confused By That’&nbsp;&nbsp;Variety"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman Responds to Backlash Over His Comments on PC RAM - 80 Level",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0JrRWJkLVRLS1FQUG9pQmdodGljMHJDa3piY3BybzlVZVNPcVhpRElKc0RVVHJWLXRfWE9hdjN4TlZ2Rzd1QmhDNzZvX0pvNm9BeWtXY0FMUFRpbi14eG9zX1BibG9YdnB2OUNCeDdvaU91dWY3REFRQ3BKSVZZZF9QUXhSejlwbTV3ZFBKQlFvLVJ5Wm5DLQ?oc=5",
+      "source": "80 Level",
+      "published": "2026-11-05T12:48:41+00:00",
+      "summary": "OpenAI CEO Sam Altman Responds to Backlash Over His Comments on PC RAM&nbsp;&nbsp;80 Level"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU1BMzlFdFJuSkVOZ2NhZFZ3X2htODljLWJUdXV2VXR2NVZkQTlLRUxhVTdWbjdtNDB3eTRkVjh1amVoRVhfRkxnY2ZiVGJJOEpSd29kMk9UanVYQzBpeVRObkg4bWdBQXRhYlZLcFpTTk5VWDlCT0hNQnhTVXRHcU5B?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-05T10:14:04+00:00",
+      "summary": "Setting a new standard for responsible AI infrastructure&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI lays out new policy framework for data centers - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJuYW9tNHA1Vnc3dC1mdms0c2VBdmpSZ3lqbVBXMFdhZmR6MWlnbzJheXVfRVV4VlRaMjFLR1NpTURGTFh3VUJSN25MUmF6cV96TVF0a1NQNUVEeWlIWFVVbHNLeTE5ZTEtc0FUcWZrZEZsY2ZjelZXcDhmZjdCUkxtQTlGaGxsQWpGUEZxR0ItR1lZ?oc=5",
+      "source": "Politico",
+      "published": "2026-11-05T11:30:00+00:00",
+      "summary": "OpenAI lays out new policy framework for data centers&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
+      "source": "Business Insider",
+      "published": "2026-11-05T00:57:00+00:00",
+      "summary": "A top Anthropic product leader has been poached by OpenAI&nbsp;&nbsp;Business Insider"
+    },
+    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc. - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIa01VeUZfc2tSNklmMWI5NG9kcnlIVlY5Wi1IMUE1d0dDSVNvNU1wMU9NaWhZQ1BhN0pLaThXc25BZ1lMUzZSQUk3QU5mS0hGTDhJam5VUXpNUkpnY3Nv?oc=5",
       "source": "OpenAI",
@@ -108,25 +129,11 @@
       "summary": "OpenAI to acquire Pierre Computer Company, Inc.&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI hones public sector focus with new leadership hires - Nextgov/FCW",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSm5NMDJLaXZQdkpNUWFOQ0wxZjJ0YzI1QWlsam10TEl6NXBvQlVnZC13V1Rta21qVmc0VzYweUpKdENkSnh3U1lCNEF3cWJYdm9MWW5pRDFBLUw1UkdSdHRRRnpMRmpUTFJTSUpPV1RHbnRsaGc2aFk3UXU5OWt6NU5OSzIxaWN6YTRMczVpQ01qc215bU5KTEsyejdxZmpxQnZhLWFGdV9pRjdmRmstcUY2ZVNNdTBlcGpCX1NvNU8?oc=5",
-      "source": "Nextgov/FCW",
-      "published": "2026-11-04T18:32:00+00:00",
-      "summary": "OpenAI hones public sector focus with new leadership hires&nbsp;&nbsp;Nextgov/FCW"
-    },
-    {
-      "title": "OpenAI to acquire developer tooling startup Pierre Computer - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk5Rd0JvSVN2YzJIMlF4VzJpcmtoMWdMZGhEbjNKbmFETEROeEpiUy1xNXd6VEVxaVRjMFVkdGRGQTRwRjgwSGxWTVFUX05NekttNE1UN2FMYlJaanBRLU13Nm1vNXctMHdjSE5pbTAxYzBfVW9iMEF6dzdDb1g0Z1VtWlJGbTJCdDZULVUxTmFCeUk1ZnJPeVNpZVI?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-11-04T21:14:00+00:00",
-      "summary": "OpenAI to acquire developer tooling startup Pierre Computer&nbsp;&nbsp;SiliconANGLE"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East) - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSGtkS2Q0MmxhT1R5Qy1HcFg4LVE4YWxWT0Jqd0JGZWN4bzRIX1FLN2c4bDYyVEpfSUVnR1VNWE5zNTRJeWNfdmE1MnRvdkZWQk9KcVc5T3NJbkpFNzU3bg?oc=5",
+      "title": "Accelerating engineering for the physical world - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-04T15:10:13+00:00",
-      "summary": "Daybreak Red is now available in AWS GovCloud (US-East)&nbsp;&nbsp;OpenAI"
+      "published": "2026-11-03T21:53:57+00:00",
+      "summary": "Accelerating engineering for the physical world&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
@@ -134,13 +141,6 @@
       "source": "Reuters",
       "published": "2026-11-03T18:56:00+00:00",
       "summary": "OpenAI employees warned about operational security lapses for years, sources say&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Accelerating engineering for the physical world - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-03T21:53:57+00:00",
-      "summary": "Accelerating engineering for the physical world&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization - OpenAI",
