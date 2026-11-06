@@ -1,41 +1,34 @@
 {
-  "generated": "2026-11-06T13:58:04.942225+00:00",
+  "generated": "2026-11-06T22:52:51.999845+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-05T10:00:01+00:00",
-      "summary": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke&nbsp;&nbsp;CNBCOpenAI Pledges to Give Locals More Say in Data Center Projects&nbsp;&nbsp;The New York TimesOpenAI to Change How It Handles Data Center Efforts After Outcry&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Man sues OpenAI alleging ChatGPT encouraged his wife to poison him - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWJSNVJQUDRYVWJKRkhSNjRmbEJxaEVoYnVpWVJhdDlZQlJYSmFyVDc2N21zVWNxcjBxWGdKSFFYc3NwRlk1bUdIMVpaaHN0Yi1laDMyVThtTzN2NU5iQ0FBOUVSN0g3MUh5UjVodGtUaXlwazk1RFNiOXZjSHVqcWtmbFd6OS13M3dj?oc=5",
-      "source": "USA Today",
-      "published": "2026-11-05T20:45:00+00:00",
-      "summary": "Man sues OpenAI alleging ChatGPT encouraged his wife to poison him&nbsp;&nbsp;USA Today"
-    },
-    {
-      "title": "Wife used ChatGPT for murder plot against husband: lawsuit - KRON4",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWURjWFRMT1M1aUo1Z1ozVWl0SGR3MWY5My1FNGdOMFQ3V3UyTGZXcmpOd1g4Z1RwejFVWmoyOV82dkNmVlI0ZjNmX3BoaVBidkkwZ1NHd01KMGNDWURCenRTSG1RVDdnOFR0V0xPUFFVbHNOd01xXzd5MFdjUmJpaU56bndfT29mNWhJd3NZQWx3Z0dBVmpEZlNXU0hzemVi0gGmAUFVX3lxTE42cjFGdjVVb1poYy1WXzFMZWJZVVJQbmx0X1k4TTVMbnRwZlZhUUZTNFUxNTVuWjN6S09BeWo1ekJKRjNBRjFXYjlSNE1aUXAzZnZNLVBIdVU0YWw0Sm4wRXhCSjc0QXJ3V05XX3M0MFoxNjNMYnNqRGRYNHNVQWJvRU84QzQ4bVhrb25JNGszSWZORndEdVFNZGJ4Z1hqbDJFRTl5R2c?oc=5",
-      "source": "KRON4",
-      "published": "2026-11-06T00:08:07+00:00",
-      "summary": "Wife used ChatGPT for murder plot against husband: lawsuit&nbsp;&nbsp;KRON4"
-    },
-    {
-      "title": "Man Claims in Suit ChatGPT Encouraged His Wife to Poison Him - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGI0Q0ZXc0xTUkhJU19wZk1SdVdQdGwzdnFhaFRwV3FNQ0ppQUR6UFZRYkMySV9Zd2pMdVFZZFZsSXNCalN4ZzZaQTBVYUFCQnkxMnhpcm55X2FzR3BMeks4RTUwOXhkZ1VCdmdsX3FuaVNBMzJhY3BEcEFnNDZ5TUhGWW1uelhyTmtFNXk1eVpHX1JxWTI1V3d6aTRickljNlp4UVhublhHd2JoQlFSdw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-05T20:32:42+00:00",
-      "summary": "Man Claims in Suit ChatGPT Encouraged His Wife to Poison Him&nbsp;&nbsp;Bloomberg.com"
+      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEdYY1M2QU5OdnpSQU1ZcmUtNGozMDZYZGE1b202TVM1QjhpNy1INHRLZlZ2RmRORC1iY3dBRUR5OWhoYm1wR1NIbklRcTVLcTR4bEFmUzhQRXRnYTkxaTlnS0p4UHRBVmstRllPZlh3RXczTnhpM0p6WUxEbEZLbWtXUnVuUQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-05T19:59:03+00:00",
+      "summary": "OpenAI Pledges to Give Locals More Say in Data Center Projects&nbsp;&nbsp;The New York TimesOpenAI investing in AI data centers despite election results, CFO says&nbsp;&nbsp;CNBCThe midterms didn’t stop the AI buildout. They simply repriced it—and OpenAI is the first to pay up&nbsp;&nbsp;Fortune"
     },
     {
       "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5",
       "source": "Reuters",
       "published": "2026-11-05T20:05:43+00:00",
-      "summary": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating&nbsp;&nbsp;ReutersOpenAI says its new cybersecurity model is better at not hacking other companies&nbsp;&nbsp;The VergeOpenAI released a new cybersecurity model. Is that enough?&nbsp;&nbsp;TechCrunch"
+      "summary": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
+      "source": "The Hacker News",
+      "published": "2026-11-06T14:58:00+00:00",
+      "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits&nbsp;&nbsp;The Hacker News"
+    },
+    {
+      "title": "OpenAI Bolsters Cyber Defenses - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jSmRVNVhpejROUVFObk9xUFIyYnZpY0NfNm5BWXpKN1hlWG1GV3NHR1F1Zm9weks3SjMycEowd3duWDM1Y0IwLUxrUVp0SkptMWh5bnZkSHh5aUZ5X0t5bC14eHlfQm43WWMzNXJkeG1ldlgwZ3lJU0FXMA?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-06T14:16:00+00:00",
+      "summary": "OpenAI Bolsters Cyber Defenses&nbsp;&nbsp;WSJ"
     },
     {
       "title": "OpenAI’s approach to mathematics does not add up - The Economist",
@@ -45,18 +38,60 @@
       "summary": "OpenAI’s approach to mathematics does not add up&nbsp;&nbsp;The Economist"
     },
     {
-      "title": "OpenAI and Anthropic IPOs, volatility in markets after blue wave - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmhmTS1Yc0xqdk1mQW80dl8yRER4RDhwUGVOMy1qZkhETWhSMGdMOUhiN1VoVk9GMFJQNjBxZXU3SWNUTFYweFlmN3ZFZE1HVmdLZHgtMjg5VVRTZDBfTDVFazdic2lCQmd3RzZUSmJaNHFZVnJSR0NxbS04SFpwX0pDSGhCQWF5T1QzRlI0cVBWVVk3eS1zTjBPd09ZWUs2bTZZTWdYalZHenUtbElB?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-05T22:51:00+00:00",
-      "summary": "OpenAI and Anthropic IPOs, volatility in markets after blue wave&nbsp;&nbsp;Yahoo Finance"
+      "title": "OpenAI secures $11 billion funding at $1.25 trillion valuation, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-06T21:18:19+00:00",
+      "summary": "OpenAI secures $11 billion funding at $1.25 trillion valuation, Bloomberg News reports&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Tech Giants Try to Stem Flow of Election Disinfo Unleashed by A.I. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-03T18:00:07+00:00",
-      "summary": "Tech Giants Try to Stem Flow of Election Disinfo Unleashed by A.I.&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSbk12NjFsRElYclVkVDFyemhuS2hBRW1qeFJ4a3gzR3RQZzhMWnN1aDZhUnYya1p1UmZRRzMyeUJMN01hd0MxZlpySzc2VnZfNm5MY0l4VmlBTVI1VkRncHVtTFB0dDJlSHEwWUwyQ3dBMGc?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-06T19:29:54+00:00",
+      "summary": "OpenAI bugging suspect Alfozan pleads not guilty&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnZzUUZ2WFZaN0MtQjVkT1dTamxxcmY5QnBWUkFyeEZKUDRpSEhSemhqVlJmWFQ2YW1UcDRhSF9LOVFnVlZfdlFSZzFHVlAxRFE4RXYwSWhNVWdfamJ2RzNJUnN6YnQ4T0dnWGU0bTFPdjMzQWZrNzBWbkstU2VFVklSNW0?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-06T20:47:31+00:00",
+      "summary": "Ex-OpenAI employee accused of spying pleads not guilty&nbsp;&nbsp;Financial Times"
+    },
+    {
+      "title": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2RFNlI3VUFBWFl1MDNmRkZUSkJyaE5ZZ2E1NzFvSGQ0UXdMM093bk5IcW12S2dyQ1dYMF9qYkFqSFY0ZWVVQlNka2tfWEtxdXBWTHZQRzAzTkVHNDA2NDVPY3FIMEVQNzJkUmtkR2NnYjhfWndSeGFlRWU2T205eDZEUWJWa1JuZUJXc3ptSXhlZm9rd2pYRFBQU2VNQkFHdGhCR1VRR2RvcTR4?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-06T19:14:32+00:00",
+      "summary": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Wife used ChatGPT for murder plot against husband: lawsuit - KRON4",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWURjWFRMT1M1aUo1Z1ozVWl0SGR3MWY5My1FNGdOMFQ3V3UyTGZXcmpOd1g4Z1RwejFVWmoyOV82dkNmVlI0ZjNmX3BoaVBidkkwZ1NHd01KMGNDWURCenRTSG1RVDdnOFR0V0xPUFFVbHNOd01xXzd5MFdjUmJpaU56bndfT29mNWhJd3NZQWx3Z0dBVmpEZlNXU0hzemVi0gGmAUFVX3lxTE42cjFGdjVVb1poYy1WXzFMZWJZVVJQbmx0X1k4TTVMbnRwZlZhUUZTNFUxNTVuWjN6S09BeWo1ekJKRjNBRjFXYjlSNE1aUXAzZnZNLVBIdVU0YWw0Sm4wRXhCSjc0QXJ3V05XX3M0MFoxNjNMYnNqRGRYNHNVQWJvRU84QzQ4bVhrb25JNGszSWZORndEdVFNZGJ4Z1hqbDJFRTl5R2c?oc=5",
+      "source": "KRON4",
+      "published": "2026-11-06T00:08:07+00:00",
+      "summary": "Wife used ChatGPT for murder plot against husband: lawsuit&nbsp;&nbsp;KRON4"
+    },
+    {
+      "title": "Man sues OpenAI, alleges ChatGPT aided wife in murder plot against him - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWxfT1ktLUpPd1o2eTI2N2xlVDBDaVU0dXRKSVBSdHFnVXpQM0xuLVZRekdVeUhqSUE1cE5kLWxzbHJSb3p6RWtDOHFDTHlnMmVRVng2U1ZZYm1vT0VIMFlnb2xIcGYwclVzeEtxMXhNZ251R1h2RDQtaFVRNFh5QzdiSXctZ08tclNKN3lkLXFjQ3VHd0FrWUtGTTZlMGNaM19BTFF3SjlYYlFOYVhTZkZFVk1RN1dZeGxQeXlKYzhJQQ?oc=5",
+      "source": "CBS News",
+      "published": "2026-11-06T21:47:51+00:00",
+      "summary": "Man sues OpenAI, alleges ChatGPT aided wife in murder plot against him&nbsp;&nbsp;CBS News"
+    },
+    {
+      "title": "Man Claims in Suit ChatGPT Encouraged His Wife to Poison Him - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGI0Q0ZXc0xTUkhJU19wZk1SdVdQdGwzdnFhaFRwV3FNQ0ppQUR6UFZRYkMySV9Zd2pMdVFZZFZsSXNCalN4ZzZaQTBVYUFCQnkxMnhpcm55X2FzR3BMeks4RTUwOXhkZ1VCdmdsX3FuaVNBMzJhY3BEcEFnNDZ5TUhGWW1uelhyTmtFNXk1eVpHX1JxWTI1V3d6aTRickljNlp4UVhublhHd2JoQlFSdw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-05T20:32:42+00:00",
+      "summary": "Man Claims in Suit ChatGPT Encouraged His Wife to Poison Him&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations - Search Engine Roundtable",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UbktEVkJ2WkNIOTJsY3BuM3ZiamZWamcxSFNnYlBMQk1mWTk3UEFodUdFX3l1YWdDLU81Q1hJWEJJTHpvQ1FHbS0tOFRYYWJ4Qjd4Y2dZUmk4a1VCejdacVc1WHg4N21jSUk1MHdjQ3pTb1Z0?oc=5",
+      "source": "Search Engine Roundtable",
+      "published": "2026-11-06T15:32:00+00:00",
+      "summary": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations&nbsp;&nbsp;Search Engine Roundtable"
     },
     {
       "title": "OpenAI Had ‘Rough’ First Half of Year Before Coding Takeoff, Brockman Says - WSJ",
@@ -66,25 +101,46 @@
       "summary": "OpenAI Had ‘Rough’ First Half of Year Before Coding Takeoff, Brockman Says&nbsp;&nbsp;WSJ"
     },
     {
-      "title": "ChatGPT will now make you animated GIFs - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHVmMkJJSDdzTHJxRFRtUjNoSzJSQTl2Mk1kQmRLbmFaTEE4bDRxZ3FHUzh4Rzd0akdvMUtra2k0U2dPTWdEcm80YnJfRFhXN2lUYjRuSktPdG00VjVFclNqWGxUOERWQ3RKeFpHdkR5aUcxNmVxOHFwMVJJbGJHYTlWRkFFQWljX2VOUUFrUWNiRk13b190NXN4STNqdXNq?oc=5",
-      "source": "The Verge",
-      "published": "2026-11-04T18:00:00+00:00",
-      "summary": "ChatGPT will now make you animated GIFs&nbsp;&nbsp;The Verge"
+      "title": "5 Big OpenAI Partner Executive Hires From AWS And Google Cloud - CRN",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXFoSU5HQ080TFhiQXE1b3UwY0FoLWVra0o0UEo4UmpKaGtKNXF2b1ZYRGdWaUR4LWdzckw2b2FPSDJpZ0Jkd1RsY2ZDNDRhN3ZINlJKbzByYlFKcXUtQ0FZMDNrbGROdlhkVmJ1SU1HenNQRjI5VEtmMDEyS0hjV3gydTJhOGJlcE1IUF9TYlljV2dSdVp6ZzZBZw?oc=5",
+      "source": "CRN",
+      "published": "2026-11-06T16:30:00+00:00",
+      "summary": "5 Big OpenAI Partner Executive Hires From AWS And Google Cloud&nbsp;&nbsp;CRN"
     },
     {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFlV2U3dmllZWdmdnFxa1ZtTXRrekt5LXBkVlJhZm43MDlMUk9CUXJJT1pIQUFkV3h5RVczRG5EUFlkQTdyZVFlODlKb0drRklmVjhPaEx1UURpalBHN2xubHhRLUhGLURWNER5X0pUQjdha09YUVM1RVhXbGdWWDhYOENiOEwweVZQNzNXT1U1VWFibWFKT2RkVnZyYjNDYjRjd2tvWTE?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:02:27+00:00",
-      "summary": "OpenAI president Greg Brockman says company could be IPO ready in 2027&nbsp;&nbsp;TechCrunch"
+      "title": "2024: OpenAI board chair warns against resisting new tech - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaENTMTVSOHp1TlhISzA5SGpIZmFzN3lpX2NWdDJXVEpzU3VLdHVZbEJoVVNzejlTZnFtT2FEU0xpRkxBN2hpbUJNSUttaXJGNjQ5ZmRUZHJYSUNoU3RDd2Z0SGkza3AteHM2UGh4RHY4QTVPUFVsYWZGcWRLZnYzWjEwWE8?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-06T21:00:00+00:00",
+      "summary": "2024: OpenAI board chair warns against resisting new tech&nbsp;&nbsp;Yahoo"
     },
     {
-      "title": "OpenAI’s Sam Altman Backtracks After Hating on You for Having RAM - CNET",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHltMU9JMlhSRkZsNWxDZlA5amRNTlVwR2JXZHZWMVlvT1RjaW9icE4yRl81ZUZ6cGxpVjdHV2pJb2VNMFFndW9qbWVJb2ZFTkdiWnpnX3Y1Y0toOTZEZlNuZUZ1Zm5YSVlkSWttMjhtLU84dDMtblFtYlJZVDItUXlISmtKVzU2UnFNMi1qX3d6S2gx?oc=5",
-      "source": "CNET",
-      "published": "2026-11-05T19:06:18+00:00",
-      "summary": "OpenAI’s Sam Altman Backtracks After Hating on You for Having RAM&nbsp;&nbsp;CNET"
+      "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-06T20:58:41+00:00",
+      "summary": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-06T19:09:23+00:00",
+      "summary": "Measuring how AI agents handle everyday wet-lab science&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI lays out new policy framework for data centers - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJuYW9tNHA1Vnc3dC1mdms0c2VBdmpSZ3lqbVBXMFdhZmR6MWlnbzJheXVfRVV4VlRaMjFLR1NpTURGTFh3VUJSN25MUmF6cV96TVF0a1NQNUVEeWlIWFVVbHNLeTE5ZTEtc0FUcWZrZEZsY2ZjelZXcDhmZjdCUkxtQTlGaGxsQWpGUEZxR0ItR1lZ?oc=5",
+      "source": "Politico",
+      "published": "2026-11-05T11:30:00+00:00",
+      "summary": "OpenAI lays out new policy framework for data centers&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "OpenAI wants to win over data-center opponents by calling them ‘compute campuses’ and promising local benefits - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXdMUlBid3FOdmE1WmREMjJtRjc1NTBXLUxHUjBMMTBTRGJRcklBTEZkRHl4MXFSV1VOX3dQZEJRdXlISjc0cld5RXNFMjJXb1J0WEFVREhwT2VjN04yN2g3YzB2cUxmbHVfUFlwX1Q2bFE1S0pFbFJIeG55c2tBMmNPaEZxRThOZWVQVWNn?oc=5",
+      "source": "Fortune",
+      "published": "2026-11-06T17:39:00+00:00",
+      "summary": "OpenAI wants to win over data-center opponents by calling them ‘compute campuses’ and promising local benefits&nbsp;&nbsp;Fortune"
     },
     {
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents - OpenAI",
@@ -94,11 +150,25 @@
       "summary": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI issues new data center policies after midterm elections - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHpmZVFOWWg1eGFIbi1ESEZCdG5kWVgzbF9CMWRhUG41WXRHdXVTTmZGSGF0eS1tTnp4ZVpNNEJfakF3Z0FLVnoyaWJNN09WckxUUXVPQzF4aHVmczBhSUJaRTJGVXM1UWFwMWM5a05hSUlNb3JVcDhWVjhVc1VsQVRFcXFfNHI5cVZscWVCdUVjWDZ3dTJBdDNMTlRuSUtLMVHSAacBQVVfeXFMT0ExcU13ZHM1SWljMU54OFZzY2hqUzJnV2d5R0NXVDNUUG1kcXRJLWVKdUlyWklCdVBCMkJTUFY5bktLNG1CRnd3TGctZnhnT3JEN0xmcGY5OVE4UHhLVk1Id1BTOWJCRGU1aHZlRmRUVUNycmJRVlNCTVhPUlg0d0dlOWRjRWNGMFlhTzdsS3hhT2tOQ2ppeVlBMGlVUkw4Z3lOMUNXdlE?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-05T21:32:04+00:00",
-      "summary": "OpenAI issues new data center policies after midterm elections&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+      "title": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFVIUW5SSGZmTGw2cnZmN0tEbE5zWGZVekdqazlncUFkSVo2Q3ZOMFlyS2xEbHY3NVhOalJzeFRCTWIxR2xydFdUaVQxZ3RMbk9yRzN1UEt6VnZHd0FycnVPTVhhWmx6QUhHeF92MVVqWFpQYWdaVEpia1c1Qk5qYXFpYTRWS3JMUkV6eXFUM1drV1RqdDJ3VkNKb3lELWhwbl9DU1Z5V0h3d3pHNmxIcWZQd3o3aV8yUU1OSkdmTF9KVENvRU5XQ0MyYV9UX0NsUEEyTA?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-06T18:06:47+00:00",
+      "summary": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yY3F5ZFRscGZBOEtXMmRBM3lLejZuUFVscG1BT1prMm1KZlBETEdWbGp1Q3R0YWJnV3V4OWo3Rk9sOGhMZk5kYUIxa3cyOThrMC1jWWwzSXZmajBETVRF?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-06T18:17:05+00:00",
+      "summary": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdE1TbUF3dUNNZjVhZlhtOEhPOVRVbkYwV25tWXZzY1Q0LTdfV3pKOTg4bkpBZ3QwaFhlUS1LRjJHczMzelRQRFlFQWtwQlhxaDV3NHVHX2FsVzJ1eXVxR0VBLVBUUllyek1OLXZUNk5wZGxzM1Y2bnA1MGJEanV1MFFqS2ZjUl8wY25kadIBkgFBVV95cUxQc29HQmdLYzRubHlYQnBNMEo1LU5ud1dseElEaDR4bGxXRlJwZngxSnEyMW1IWjF3Yk5DQm9OTkNNQmd2OEJQSnctR3Rzb0ZXTnA2NENaWURQTk4yQ1BQTGMxZ0ZaTEpVTWpZamlLMU12OGlHZUZaT0lvOFd6V3JhUUlwdWtsOVdhQW51SUZZSUpyUQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-06T18:27:19+00:00",
+      "summary": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Setting a new standard for responsible AI infrastructure - OpenAI",
@@ -106,76 +176,6 @@
       "source": "OpenAI",
       "published": "2026-11-05T10:14:04+00:00",
       "summary": "Setting a new standard for responsible AI infrastructure&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI kicks off charm offensive to change voters' view of data centers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-05T10:04:00+00:00",
-      "summary": "OpenAI kicks off charm offensive to change voters' view of data centers&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc. - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIa01VeUZfc2tSNklmMWI5NG9kcnlIVlY5Wi1IMUE1d0dDSVNvNU1wMU9NaWhZQ1BhN0pLaThXc25BZ1lMUzZSQUk3QU5mS0hGTDhJam5VUXpNUkpnY3Nv?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-04T14:33:56+00:00",
-      "summary": "OpenAI to acquire Pierre Computer Company, Inc.&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-03T18:56:00+00:00",
-      "summary": "OpenAI employees warned about operational security lapses for years, sources say&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Accelerating engineering for the physical world - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-03T21:53:57+00:00",
-      "summary": "Accelerating engineering for the physical world&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVVsWWFIRkFSSHp4a1JRaW5lQjlwRXdmblNlZnhXQ0RJaVA3S3NjX2VmZjNDdDN3UERWVFRPVFN1UE9CMUEtMmtKbGZNNEdSM05OYVAySF9RNFlVdXVTQlp0N0NqX1hLc1BMR19qNXNmTmIzakthU0NBdlRmclhaMmhzcFRtNWFQMkI1RkkyaGJzV1FZOEptSlBkNnRGcThGa3BrTndZTE00VXd3cnE3My10X0MxWlFyNDZlZ3B1Tnc5emdJV1R2Zg?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-05T02:05:00+00:00",
-      "summary": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-06T01:10:24+00:00",
-      "summary": "Franklin Templeton uses OpenAI to support investment research&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-05T23:11:30+00:00",
-      "summary": "Merge builds product and business tools with OpenAI technology&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-03T00:37:13+00:00",
-      "summary": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-03T02:47:02+00:00",
-      "summary": "Preparing our next security sprint to harden OpenAI&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "LifeVal - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44YkZiR01IUW5MMFJ2TkY5OWc0Wk5KZW16Szk3QkliQUcxbWI1eFBOdUtlNlplbXg3RzBwQUVUcDNkaGNVNVczcg?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-03T01:04:45+00:00",
-      "summary": "LifeVal&nbsp;&nbsp;OpenAI"
     }
   ]
 }
