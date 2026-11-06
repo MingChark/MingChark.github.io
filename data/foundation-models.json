@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T23:27:10.841802+00:00",
+  "generated": "2026-11-06T05:49:34.669188+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpsS1Fnc2tCYzNnNFl1R1MyMGs2V2JOX0h5MUZEcXpibVM5NzFMWWJmVjlaeGpHaVNZelBPUWNQTWpuV3hDY1R3dnltN01hQV9QR2FaaDFjdV9yZzVGckpCSG5DRkdsajI2VmhsQWVGem1OTlJ6MElDU0ZZcWVLSEs4Q0haZU5YM0hEaUJkb0F4bHh2amxMLVV0Vzl4ZmpWR1V5akVkUWkwTkxGYXQzTFdtX2g0dGxqYUpJaC1BdG5heXp5XzFKUHpYUWRzNWlPcFc2N0F3?oc=5",
-      "source": "News On AIR",
-      "published": "2026-11-05T17:48:12+00:00",
-      "summary": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities&nbsp;&nbsp;News On AIR"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -52,6 +45,13 @@
       "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
+      "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpsS1Fnc2tCYzNnNFl1R1MyMGs2V2JOX0h5MUZEcXpibVM5NzFMWWJmVjlaeGpHaVNZelBPUWNQTWpuV3hDY1R3dnltN01hQV9QR2FaaDFjdV9yZzVGckpCSG5DRkdsajI2VmhsQWVGem1OTlJ6MElDU0ZZcWVLSEs4Q0haZU5YM0hEaUJkb0F4bHh2amxMLVV0Vzl4ZmpWR1V5akVkUWkwTkxGYXQzTFdtX2g0dGxqYUpJaC1BdG5heXp5XzFKUHpYUWRzNWlPcFc2N0F3?oc=5",
+      "source": "News On AIR",
+      "published": "2026-11-04T02:16:00+00:00",
+      "summary": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities&nbsp;&nbsp;News On AIR"
+    },
+    {
       "title": "30 of the best large language models in 2026 - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0pWNVg1aEZqYndCYTFlUUFoemRFOWZxMDlqXzVIODY4OWdfZFh6YklpdnRyaFE0amcxdzdSLW5kWl9JY2dMZk5KQlVXLVJSbV9JUFB5Q3VtUGRvUVpLY29rSkVlczlHWi16YjQ4T0lJSXRzV1k5aWhWYjBPU2FJc25n?oc=5",
       "source": "TechTarget",
@@ -64,6 +64,13 @@
       "source": "NVIDIA Newsroom",
       "published": "2026-05-31T07:00:00+00:00",
       "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md - Linux Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXp2bHpmOG1FTFBJWVdTVlI3QVFTTnNpdzdHT2VoUHlHc0U0UXU1REFTZzVVbm5jUDI4RHdULVYzWkwwS0xaS1FoalpYQUFGMlZ5T3I4Sy1ENTdqNHU2MWh5el9SS0tvTDBkWVVFUE96dVRoTlRzZE8xRC1qNW9pZ1kzVTBGSlJDQUFxZnlNbWppVFJad2ZmTFhWZjNJZXpTRWpwN0RUU3VQWDTSAbsBQVVfeXFMTXV1VUo3VmwtLTZvN203QUhKV1lHZzFMTy0waWFfeF8tV3RxSnN3eXI3R1hWNUh5WVBHLTBNRXcwV0x6NFMxOXZmYmVvT2U1a2t0eTlhN215dnc4V3M0eTNLMEh5Q3pkVGhSZURUVGQ2WVB1elppaFdLaGZ0b2xuNTZ4bnh1d2dGb0xTZzE2d2ZNWUFsSk8zcUZFazh6cFh6dTBXSVA0YjJ2QTB5VHIzYmdvazVZLUwyN1o4MA?oc=5",
+      "source": "Linux Foundation",
+      "published": "2025-12-09T08:00:00+00:00",
+      "summary": "Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md&nbsp;&nbsp;Linux Foundation"
     },
     {
       "title": "What Are Foundation Models? - IBM",
@@ -101,13 +108,6 @@
       "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
     },
     {
-      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2025-02-07T08:00:00+00:00",
-      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
-    },
-    {
       "title": "Updates to Apple’s On-Device and Server Foundation Language Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFJQV2J4MUg5TUdyT1hYQ3V4TFhJQmJxQ2ZkWk1OLUVBencxRjNQRHVDZnZoTjJNcEFvLWpGNS1fUWVQeHpFUlBMSlBzclNwSFN3M0dEZjMyZDUyYURqYTlkS3RQQm10WS1ncGxab2ZuNzRJLWk5NnBEblB4dUdtaGJxSG9kUQ?oc=5",
       "source": "Apple Machine Learning Research",
@@ -143,6 +143,13 @@
       "summary": "Introducing Apple’s On-Device and Server Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2025-02-07T08:00:00+00:00",
+      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
+    },
+    {
       "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FaWhjZWJGQnRyQ2xmRUZSenJRaEh2aUdTUkQ0NlhGbW52MEpyMWZqTFdEazE0WXFoN04yR0NxRllZRFBuUkJleUViVE9rbWpVOENYQjBXYTM5OEhNVVo4?oc=5",
       "source": "Nature",
@@ -169,13 +176,6 @@
       "source": "NASA Earthdata (.gov)",
       "published": "2023-08-03T07:00:00+00:00",
       "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
-    },
-    {
-      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
-      "source": "AI at Meta",
-      "published": "2024-04-18T07:00:00+00:00",
-      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
     }
   ]
 }
