@@ -1,34 +1,27 @@
 {
-  "generated": "2026-11-07T12:42:03.776955+00:00",
+  "generated": "2026-11-07T21:37:04.998309+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "AMD: AI Panic Meets Outsized CPU/GPU Gains - Upgrade To Buy - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkVYYnN6QkpYa3VnNXBjWkV1NjdtMlJzV3ZEaFVOcm9WY2JCekU5S2E1Nlhxbk16bVdVTGJuS1RnbEhCeDE5NGpJbHRXTHhxT2VtOFBQR2JRR2FLR0p6aGo0SEpQZ25VdnROc0p5TllTWDdZZHRZbVNDYjYyV2JwQ05NdU9LdUFBSVJOZGVaam1VRlVHTUhzcXhMdzU?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-07T17:00:00+00:00",
+      "summary": "AMD: AI Panic Meets Outsized CPU/GPU Gains - Upgrade To Buy&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "Nvidia's H200 Chips Reached China Through Ghost Company - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JKT2N5OXBlRDFDSG5xSE5VYTJYcG9LMTZ4dGpmaTRKd3B1MTI2V0hIZ1FxVVBqOUt0Rkl2eGg5ZDc0QThiX0xyeUQ4STZweGI0a1pSWDZ2aURwUVpjZnVXV0RaVHMzTldpeFZMaWh4SGhlVXBBRDV5bVlIX0RReld6VTI0OTlpY05PakFtYU9HZw?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-11-07T16:06:29+00:00",
+      "summary": "Nvidia's H200 Chips Reached China Through Ghost Company&nbsp;&nbsp;The Tech Buzz"
+    },
     {
       "title": "The AI Chip Race Is Changing. This Could Matter More Than GPU Market Share - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFlVdWN0Q0pDUDAzWERKZEx0d1htRHRKdnk3TzVEVzVuZW1BeVlqeXlzUl9zODQyLWU3eFg2cW1obUVWNXdCWjVXQzVVaTQxckZpdEtGUEpQeFhDMXpFYXZmdk1laGdhdzJJbHJDNUg0WlBseU1oY1F1SFZpd3lCTXk3Vmd6amQ2dlFHMlQ3Q2NYdnZDMV9GTDlLd0hHYkU1WUctWHpnYjRFTzJtMlZ3YnBWa1NodXY3?oc=5",
       "source": "24/7 Wall St.",
       "published": "2026-11-06T15:33:00+00:00",
       "summary": "The AI Chip Race Is Changing. This Could Matter More Than GPU Market Share&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Forget Nvidia. Here’s the Company Behind the Chips - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmxmYzB1b1JfZmM3c01KbGFpTFpxUGxsX29HTlF5X2ZWLXBaLVY5M1dXQVVSaUJfOXRaZmhsUWFjTXNSSUs2UUpoYy1HYUJRVllkbjhTQnRHWHBJSUlNWXduY0VYUVdsSmNnODk5UlBSZ29BTTZWdWlBcF94dFpwRjVFTnFidDhKSlNyb3N3TXpzVUUycEtj?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-06T17:03:00+00:00",
-      "summary": "Forget Nvidia. Here’s the Company Behind the Chips&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGlfQ0xYUGlZZEJ4eEFqaG1DZ3NVamZMWU82YUFCeWwxSWJsVHZhV2FtWmVLRWw1UGE5emNhSWhoeEpleU5tdk80NkZscUMxUWRFYWw3V3R4c25GMkJPOWRhY2FNc0oyUEI4ZW9JZTF5ckVFbkV2d2Y1U3NXaEhUTTYxTlZJWEpyNGR1cC1vOWY?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-06T18:23:03+00:00",
-      "summary": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints&nbsp;&nbsp;Unite.AI"
-    },
-    {
-      "title": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbUh1QnhhRC01aTFGRWF2bjZXWWhTQW1iSlFSUGZVYVBEOVlsUmtYT1VrTDFVRzZmN2pnMHgxSFNfeGtOV0d4TU54ckNaSTA4ZTd0QW9YTGM?oc=5",
-      "source": "www.tokenpost.com",
-      "published": "2026-11-07T07:27:33+00:00",
-      "summary": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era&nbsp;&nbsp;www.tokenpost.com"
     },
     {
       "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling - Bloomberg.com",
@@ -38,6 +31,13 @@
       "summary": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling&nbsp;&nbsp;Bloomberg.com"
     },
     {
+      "title": "Forget Nvidia. Here’s the Company Behind the Chips - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmxmYzB1b1JfZmM3c01KbGFpTFpxUGxsX29HTlF5X2ZWLXBaLVY5M1dXQVVSaUJfOXRaZmhsUWFjTXNSSUs2UUpoYy1HYUJRVllkbjhTQnRHWHBJSUlNWXduY0VYUVdsSmNnODk5UlBSZ29BTTZWdWlBcF94dFpwRjVFTnFidDhKSlNyb3N3TXpzVUUycEtj?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-06T17:03:00+00:00",
+      "summary": "Forget Nvidia. Here’s the Company Behind the Chips&nbsp;&nbsp;24/7 Wall St."
+    },
+    {
       "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money - The Next Platform",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW04M29UeV80VTQ5ZmpFXy1NQjRacjhsSklob2pib0o1WU9qNWcwMEhRd01SM0FVbWVDcHR3b1V6ZXdIdG9tQy0zanBvZVhYY3lON0Z6WDhYWDFZMWZEM1pSWFJOclRtR0h1WDU5MklqM1U0aEhNdmV2TmxEeTJJaUhBUkN3NHR6NW1YRGM1NGVKeldDcDBTVVpzdDZUUXJVMENHbTNYMUxodFA5UFVsNQ?oc=5",
       "source": "The Next Platform",
@@ -45,11 +45,18 @@
       "summary": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money&nbsp;&nbsp;The Next Platform"
     },
     {
-      "title": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlpMbU1JV05ickdjUmpRZ2JzcEpsNTFnLVY5WTd5X3JjYzZBeFY1QzNjRHhnVE8tcVNjc01hNVNNdFVuT1I1UlAydDBMMGlwT0FYb1U3VUpkb3AzcmFqYmg3ejZybldYZUxoZy12S2l6S2Y4NTlqbER0emI0eWctRkVQSGdPeFlWcHJDQVhycjVaT3ZXaERqcVU5QQ?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-03T21:37:14+00:00",
-      "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
+      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-11-02T18:20:34+00:00",
+      "summary": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGlfQ0xYUGlZZEJ4eEFqaG1DZ3NVamZMWU82YUFCeWwxSWJsVHZhV2FtWmVLRWw1UGE5emNhSWhoeEpleU5tdk80NkZscUMxUWRFYWw3V3R4c25GMkJPOWRhY2FNc0oyUEI4ZW9JZTF5ckVFbkV2d2Y1U3NXaEhUTTYxTlZJWEpyNGR1cC1vOWY?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-06T18:23:03+00:00",
+      "summary": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints&nbsp;&nbsp;Unite.AI"
     },
     {
       "title": "Your AI infrastructure investment can do more with GPU-accelerated analytics - IBM",
@@ -57,6 +64,13 @@
       "source": "IBM",
       "published": "2026-11-03T08:00:00+00:00",
       "summary": "Your AI infrastructure investment can do more with GPU-accelerated analytics&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbUh1QnhhRC01aTFGRWF2bjZXWWhTQW1iSlFSUGZVYVBEOVlsUmtYT1VrTDFVRzZmN2pnMHgxSFNfeGtOV0d4TU54ckNaSTA4ZTd0QW9YTGM?oc=5",
+      "source": "www.tokenpost.com",
+      "published": "2026-11-07T07:27:33+00:00",
+      "summary": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era&nbsp;&nbsp;www.tokenpost.com"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
@@ -115,13 +129,6 @@
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "published": "2026-11-06T21:14:51+00:00",
-      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
-    },
-    {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN201YmZQQ1VvVDJNcVZKdFQ2S0xwRUVZYjdmeW9sMzJzbnhmNXFTdkxSV2NMQU43SDlNMDBrUVRNZUJ3WU9DQ3hkRDFmQmFrUjZoeG1maVVXOTVBcWxRU3lITmt5MDdhSEdlNEp6ekV4NGhiRm9WS1JSUjZMV0lGWW5TeDRWSm9xaXI0RjFYZHJfb3pCbmJVcWY1TnpKaHUxaVAyaQ?oc=5",
       "source": "NVIDIA Developer",
@@ -157,25 +164,18 @@
       "summary": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch&nbsp;&nbsp;Simply Wall St"
     },
     {
+      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "published": "2026-11-06T21:14:51+00:00",
+      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
+    },
+    {
       "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
       "source": "NVIDIA Newsroom",
       "published": "2026-03-16T07:00:00+00:00",
       "summary": "NVIDIA Vera Rubin Opens Agentic AI Frontier&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
