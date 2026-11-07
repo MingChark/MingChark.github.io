@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T05:20:11.443769+00:00",
+  "generated": "2026-11-07T12:42:03.776955+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -22,6 +22,13 @@
       "source": "Unite.AI",
       "published": "2026-11-06T18:23:03+00:00",
       "summary": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints&nbsp;&nbsp;Unite.AI"
+    },
+    {
+      "title": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbUh1QnhhRC01aTFGRWF2bjZXWWhTQW1iSlFSUGZVYVBEOVlsUmtYT1VrTDFVRzZmN2pnMHgxSFNfeGtOV0d4TU54ckNaSTA4ZTd0QW9YTGM?oc=5",
+      "source": "www.tokenpost.com",
+      "published": "2026-11-07T07:27:33+00:00",
+      "summary": "George Noble Warns Nvidia's Customer Financing Echoes Cisco's Dot-Com Era&nbsp;&nbsp;www.tokenpost.com"
     },
     {
       "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling - Bloomberg.com",
@@ -101,18 +108,18 @@
       "summary": "AMD’s $13.4B Record Quarter: What Cloud Buyers Get [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "published": "2026-11-06T21:14:51+00:00",
-      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
-    },
-    {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-09-22T07:00:00+00:00",
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "published": "2026-11-06T21:14:51+00:00",
+      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
     },
     {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
@@ -129,13 +136,6 @@
       "summary": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "AMD sales forecast tops estimates on soaring AI chip demand - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkI5UnVaOXYybmZYWmp6bzYzU2RFeEV1bVhKOHVTdWVGZzNSRG81U0FxNWdVYWViWlFzYlJGa3B5R3hVZXo3TzVCeWpGalQ3cDFqYzFBSEtkTjdUZEx3Q29ISTI1aGx5dDdFQUI2VWpuQVBGaXo0T3RzbFI5cExJbDAxclUwR1VMczhRN1ZIX05oQU5GVFZBQ2dHblpvZw?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-11-04T01:50:00+00:00",
-      "summary": "AMD sales forecast tops estimates on soaring AI chip demand&nbsp;&nbsp;The Straits Times"
-    },
-    {
       "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
       "source": "The Official Microsoft Blog",
@@ -143,18 +143,18 @@
       "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
     },
     {
-      "title": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSmN6SnJFRkFXZEF4Qm9NYWhFbVZ5NVdwX0IxdTdicm1ndFZNN0VYM3Zyd2V0bmZaMnN2RTFRZ0RlOU0tdUpSek1wWEhNM2JpODYtWjUtdDZVRjUyR2VzNDdSSnZSSTY0WFdCYTB5cDJRVS0zeWRtcU9Nd013N0tlM3ZkMjVKeVVMTU90S1FsaWViOVlqRUZRd2RLcWJVZFFUaG9GZENWY1VMV01RSzBUYzhKWjZ4LXo4UkdSNW1vX3NudVFaYk5fV19FLXB2cl92YWUzWURPWExUMXlidWZNMjJXaUJWb3RWRjJhWFRvUkJtZ9IB9wFBVV95cUxOcmkwbnpHbnNLTWZfWXpuREgtaXl3ZGo0Z183SXJrSGZlSmdlUWFmaXN1UTVYVWZYVFcxdWx4VFg5NlcySGRtN1JJQUFhWkx3aGg2bkhPTVpqSmpPZ094VXdnN1RIbXEybjdvOWlmTVZtUllJY29PaHM5eHhwMjlZVDhxVmZrYUc3REtYaXd5eDJGbmJmb0d2eDhFVDdBSHZISF9obkVPa25rRE12Tk85bEhhMURsN1Ewb1lZTF80d2hVYWhpUVN1Y2RpZnFkVC15aGFxTkZ5VlF3Y0sxUXprN3lEbkt2bkhvMnFjN0pqTFp6ZTk2U0RF?oc=5",
-      "source": "Simply Wall St",
-      "published": "2026-11-05T21:32:33+00:00",
-      "summary": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch&nbsp;&nbsp;Simply Wall St"
-    },
-    {
       "title": "10 top AI hardware and chip-making companies in 2026 - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtjczdfNm85VkZhR3V2OFpnZ1N0TjV0enprMkRWdzY3LVRzRm8yaXRvcklvRXQxMmllTW4yUm4xOU53dmFKMkVNNWJoMHE5UzN2dkl2MFdyQmt2aUFZeUVjMjZpemU3MlR1RXdsY1ozdEVpV3JCSUJWbGdVWXpLS3FKaUtvYWlCRkh2eHU3S3ZkQ1JWRjZr?oc=5",
       "source": "TechTarget",
       "published": "2026-01-30T08:00:00+00:00",
       "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
+    },
+    {
+      "title": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSmN6SnJFRkFXZEF4Qm9NYWhFbVZ5NVdwX0IxdTdicm1ndFZNN0VYM3Zyd2V0bmZaMnN2RTFRZ0RlOU0tdUpSek1wWEhNM2JpODYtWjUtdDZVRjUyR2VzNDdSSnZSSTY0WFdCYTB5cDJRVS0zeWRtcU9Nd013N0tlM3ZkMjVKeVVMTU90S1FsaWViOVlqRUZRd2RLcWJVZFFUaG9GZENWY1VMV01RSzBUYzhKWjZ4LXo4UkdSNW1vX3NudVFaYk5fV19FLXB2cl92YWUzWURPWExUMXlidWZNMjJXaUJWb3RWRjJhWFRvUkJtZ9IB9wFBVV95cUxOcmkwbnpHbnNLTWZfWXpuREgtaXl3ZGo0Z183SXJrSGZlSmdlUWFmaXN1UTVYVWZYVFcxdWx4VFg5NlcySGRtN1JJQUFhWkx3aGg2bkhPTVpqSmpPZ094VXdnN1RIbXEybjdvOWlmTVZtUllJY29PaHM5eHhwMjlZVDhxVmZrYUc3REtYaXd5eDJGbmJmb0d2eDhFVDdBSHZISF9obkVPa25rRE12Tk85bEhhMURsN1Ewb1lZTF80d2hVYWhpUVN1Y2RpZnFkVC15aGFxTkZ5VlF3Y0sxUXprN3lEbkt2bkhvMnFjN0pqTFp6ZTk2U0RF?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-05T21:32:33+00:00",
+      "summary": "Why AMD Stock Weakness Puts AI Semiconductor Leaders Back On Watch&nbsp;&nbsp;Simply Wall St"
     },
     {
       "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
