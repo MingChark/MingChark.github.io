@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T22:52:51.999845+00:00",
+  "generated": "2026-11-07T05:20:11.443769+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "24/7 Wall St.",
       "published": "2026-11-06T15:33:00+00:00",
       "summary": "The AI Chip Race Is Changing. This Could Matter More Than GPU Market Share&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0lJLXdrVkh1Znk1NVctYlYwdjhzR2hySkctbHliLW03bmQ3WGtJT3FFQ1dUb2RSZEZVZXRNNkVPcFgxdnVfUU0zYm5xMklxekQyejBTa0JzT19uT0o1d1N6WVlzZkNNTkxiZUN3dlhwMDc2ZUZHMzlackpiVjVUU2wxNnBnSm9DOTkyc2FQdTZLaWFIUV9OYkN4eDBJdGxDY2JCVS1XNVJLSmowYzgwSGlOak5UZw?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-06T10:03:19+00:00",
-      "summary": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "title": "Forget Nvidia. Here’s the Company Behind the Chips - 24/7 Wall St.",
@@ -31,11 +24,11 @@
       "summary": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints&nbsp;&nbsp;Unite.AI"
     },
     {
-      "title": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlpMbU1JV05ickdjUmpRZ2JzcEpsNTFnLVY5WTd5X3JjYzZBeFY1QzNjRHhnVE8tcVNjc01hNVNNdFVuT1I1UlAydDBMMGlwT0FYb1U3VUpkb3AzcmFqYmg3ejZybldYZUxoZy12S2l6S2Y4NTlqbER0emI0eWctRkVQSGdPeFlWcHJDQVhycjVaT3ZXaERqcVU5QQ?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-03T21:37:14+00:00",
-      "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
+      "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0lJLXdrVkh1Znk1NVctYlYwdjhzR2hySkctbHliLW03bmQ3WGtJT3FFQ1dUb2RSZEZVZXRNNkVPcFgxdnVfUU0zYm5xMklxekQyejBTa0JzT19uT0o1d1N6WVlzZkNNTkxiZUN3dlhwMDc2ZUZHMzlackpiVjVUU2wxNnBnSm9DOTkyc2FQdTZLaWFIUV9OYkN4eDBJdGxDY2JCVS1XNVJLSmowYzgwSGlOak5UZw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-06T10:03:19+00:00",
+      "summary": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling&nbsp;&nbsp;Bloomberg.com"
     },
     {
       "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money - The Next Platform",
@@ -43,6 +36,13 @@
       "source": "The Next Platform",
       "published": "2026-11-04T20:31:15+00:00",
       "summary": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money&nbsp;&nbsp;The Next Platform"
+    },
+    {
+      "title": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlpMbU1JV05ickdjUmpRZ2JzcEpsNTFnLVY5WTd5X3JjYzZBeFY1QzNjRHhnVE8tcVNjc01hNVNNdFVuT1I1UlAydDBMMGlwT0FYb1U3VUpkb3AzcmFqYmg3ejZybldYZUxoZy12S2l6S2Y4NTlqbER0emI0eWctRkVQSGdPeFlWcHJDQVhycjVaT3ZXaERqcVU5QQ?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-11-03T21:37:14+00:00",
+      "summary": "AMD Stock Surges 7% as AI Chip Sales Double Data Center Revenue&nbsp;&nbsp;The Tech Buzz"
     },
     {
       "title": "Your AI infrastructure investment can do more with GPU-accelerated analytics - IBM",
@@ -87,13 +87,6 @@
       "summary": "Broadcom vs. TSMC: The AI Chip Design-and-Foundry Duel That Could Shape the Next Five Years&nbsp;&nbsp;BigGo Finance"
     },
     {
-      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
-      "source": "ShiftDelete.Net",
-      "published": "2026-11-06T21:14:51+00:00",
-      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
-    },
-    {
       "title": "Intel Drops 5%, NVIDIA Retreats 2% After AMD Earnings Beat and Strong 2027 Outlook as Intel Falls 3%; AMD Stock Goes Nowhere - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVnlhSjhhcGtkM1VvZ1BqMEVhR0d0QWNlaXNfYXNBS3ItR3dIX0k5SS1mQjlqUFBTM0tqa1F6SExNWndUeC1VSzZDNmtwYjVzb0piU3c4MFdlQ0MwdUZBVHVRbTZaT0QwX3llODFMc1A0M1pyLXNJRkJ5MkZRXzJCWUJYUG1RSm9ySVZfb2lhRGtzQVV5ZHBHWk1MQlJRcHZkaGJjNnNEZWpWUDZsbkxJSVZpUWw3Z3FrUEF0cG9hclZwdE1YTHYtNlFndW5pNWRiajlJUTVIcXNNeU93NWJPSWZFSTdUblp4cXVfRUpZM2FIZXV3T3c?oc=5",
       "source": "24/7 Wall St.",
@@ -106,6 +99,13 @@
       "source": "shattered.io",
       "published": "2026-11-04T11:47:46+00:00",
       "summary": "AMD’s $13.4B Record Quarter: What Cloud Buyers Get [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "TPU vs GPU: Which AI Chip Wins for Training and Inference - ShiftDelete.Net",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NGxJTDhORnJCMzdjemQ0MFlEOTN5R2ZNQXlJT0pKTTFCVUFaSDM5YVhyWVJXS3BUWGdiSmVSN01KLVhMODdYOXliVExLUQ?oc=5",
+      "source": "ShiftDelete.Net",
+      "published": "2026-11-06T21:14:51+00:00",
+      "summary": "TPU vs GPU: Which AI Chip Wins for Training and Inference&nbsp;&nbsp;ShiftDelete.Net"
     },
     {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
