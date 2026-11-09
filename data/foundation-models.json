@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T21:50:57.563619+00:00",
+  "generated": "2026-11-09T05:29:04.081855+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -66,13 +66,6 @@
       "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
     },
     {
-      "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpsS1Fnc2tCYzNnNFl1R1MyMGs2V2JOX0h5MUZEcXpibVM5NzFMWWJmVjlaeGpHaVNZelBPUWNQTWpuV3hDY1R3dnltN01hQV9QR2FaaDFjdV9yZzVGckpCSG5DRkdsajI2VmhsQWVGem1OTlJ6MElDU0ZZcWVLSEs4Q0haZU5YM0hEaUJkb0F4bHh2amxMLVV0Vzl4ZmpWR1V5akVkUWkwTkxGYXQzTFdtX2g0dGxqYUpJaC1BdG5heXp5XzFKUHpYUWRzNWlPcFc2N0F3?oc=5",
-      "source": "News On AIR",
-      "published": "2026-11-04T02:16:00+00:00",
-      "summary": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities&nbsp;&nbsp;News On AIR"
-    },
-    {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
       "source": "NVIDIA Newsroom",
@@ -92,6 +85,13 @@
       "source": "IBM",
       "published": "2024-10-11T07:00:00+00:00",
       "summary": "What Are Foundation Models?&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics - Menlo Ventures",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oTDJmOExVMks2SWxFYlZsVE5PRGgyclotWjE2bXJTaWRmak1EczRrQTFLa0RrbldNTTBSTHB3bC1QSjR5c1ZwQldkT2d0MXlPUkdWSnp0MHl0MWpYaXRHYWRaa2wzLUJYRDRHNTlJYVB5dw?oc=5",
+      "source": "Menlo Ventures",
+      "published": "2025-07-31T07:00:00+00:00",
+      "summary": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics&nbsp;&nbsp;Menlo Ventures"
     },
     {
       "title": "Updates to Apple’s On-Device and Server Foundation Language Models - Apple Machine Learning Research",
@@ -143,18 +143,18 @@
       "summary": "Towards ecologically meaningful foundation models&nbsp;&nbsp;Nature"
     },
     {
-      "title": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics - Menlo Ventures",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oTDJmOExVMks2SWxFYlZsVE5PRGgyclotWjE2bXJTaWRmak1EczRrQTFLa0RrbldNTTBSTHB3bC1QSjR5c1ZwQldkT2d0MXlPUkdWSnp0MHl0MWpYaXRHYWRaa2wzLUJYRDRHNTlJYVB5dw?oc=5",
-      "source": "Menlo Ventures",
-      "published": "2025-07-31T07:00:00+00:00",
-      "summary": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics&nbsp;&nbsp;Menlo Ventures"
-    },
-    {
       "title": "Inside Mastercard’s new gen AI engine - Mastercard",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
       "source": "Mastercard",
       "published": "2026-03-17T07:00:00+00:00",
       "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
+    },
+    {
+      "title": "Apple Intelligence Foundation Language Models - Apple Machine Learning Research",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUllSFJkSFRPc2RwdENuOTVWMjVHSm1LMWlLUFB6UE5RVmJMeFNWdTBVbDZfNHhnWFlfZUdQdjNwOU1heDRIeHUxS0lnNnNUXy1NR0dLak1DZ0o4OE5UeE95UUZqTXg1ZFItZjVMWXVBb2tsNjNpZ09tbmdDNzdRZjFsblpicExDdnlhb3Y4VXk3Zw?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published": "2024-07-29T18:12:08+00:00",
+      "summary": "Apple Intelligence Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
       "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
@@ -171,11 +171,11 @@
       "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
     },
     {
-      "title": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation - Engineering at Meta Blog",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM3dkTng1MTF2MnUzODd5azYwUzlZbDQwaFFMTkt1TmpSM2YzQ2JMYlliblpYd0dRZXNDSXVndktvc1VJUDMyOG83eVdYN3NQT2tJTFF5MDBFY3BQWUZmUnBkLVJiOEluN1hCeWZxSkpER2RwdXc1ZVVIcW1waXhDal9jN0cyZy11b2ZPQWs1d2lNVVp2NG9yYnJYbzBZZno0LW55YTFBNGt3dngwMTRNZWNGbjlzb1BXclBXeEMtUExrbElCN0tuSkYyc0tibHgxcGZiSGNVTWhsbVFwaUZwbkxDWQ?oc=5",
-      "source": "Engineering at Meta Blog",
-      "published": "2025-11-10T08:00:00+00:00",
-      "summary": "Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation&nbsp;&nbsp;Engineering at Meta Blog"
+      "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FaWhjZWJGQnRyQ2xmRUZSenJRaEh2aUdTUkQ0NlhGbW52MEpyMWZqTFdEazE0WXFoN04yR0NxRllZRFBuUkJleUViVE9rbWpVOENYQjBXYTM5OEhNVVo4?oc=5",
+      "source": "Nature",
+      "published": "2025-03-05T08:00:00+00:00",
+      "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
     }
   ]
 }
