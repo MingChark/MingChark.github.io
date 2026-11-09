@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T05:29:04.081855+00:00",
+  "generated": "2026-11-09T15:40:31.388014+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "PLaMo 3 Translate: World-Class Translation with Open Weights—Here’s How We Built It - 株式会社Preferred Networks",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NX3Z0SGM1UHFiSjRxVklnaHgwRlpPSGdqaWlFUnhueVhwY0ZuUVlfclV4MjhjbW9QZ3FVLU1mR1BkMWdLbXhMRWxkSlFTWE81WlVycEMyMXlHSERVRzk3U29JZWwxMFFHc2hpMlF0bklRcmR6XzVKMkZR?oc=5",
-      "source": "株式会社Preferred Networks",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": "PLaMo 3 Translate: World-Class Translation with Open Weights—Here’s How We Built It&nbsp;&nbsp;株式会社Preferred Networks"
     },
     {
       "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
@@ -36,13 +29,6 @@
       "source": "NASA Science (.gov)",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
-    },
-    {
-      "title": "IndiaAI Mission Releases Foundation Models - https://www.fintechbiznews.com/",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHVmWDJ3X1BBUVROSGxOOUt0TGxLR25QQWRLUGJOTUpSYUF0WmgzOU1EcUUxSl95Y1pBWGc4dWJDMXdyVGJtbTBzczBsTFBjMzBjMjVuaUZoWm1WUk5heFBkQzNQN2ZCOS1xOTRxY1NJR0VQX2VGeUVJUS1oZzdGaURfYUs4Vi11UXplOFFhNXBtcjFoZm4w?oc=5",
-      "source": "https://www.fintechbiznews.com/",
-      "published": "2026-11-04T08:39:50+00:00",
-      "summary": "IndiaAI Mission Releases Foundation Models&nbsp;&nbsp;https://www.fintechbiznews.com/"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
@@ -94,6 +80,13 @@
       "summary": "2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics&nbsp;&nbsp;Menlo Ventures"
     },
     {
+      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
+      "source": "Mastercard",
+      "published": "2026-03-17T07:00:00+00:00",
+      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
+    },
+    {
       "title": "Updates to Apple’s On-Device and Server Foundation Language Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFJQV2J4MUg5TUdyT1hYQ3V4TFhJQmJxQ2ZkWk1OLUVBencxRjNQRHVDZnZoTjJNcEFvLWpGNS1fUWVQeHpFUlBMSlBzclNwSFN3M0dEZjMyZDUyYURqYTlkS3RQQm10WS1ncGxab2ZuNzRJLWk5NnBEblB4dUdtaGJxSG9kUQ?oc=5",
       "source": "Apple Machine Learning Research",
@@ -136,18 +129,11 @@
       "summary": "Introducing Apple’s On-Device and Server Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Towards ecologically meaningful foundation models - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83anNkVjluYkVSZl9keXhWT2FHTUFNQnUxeXZDOUFWNGc2TTVnRjE2Vmo1UUJ1R2c4d3RnM3QwYmM5eFMxRWJqZEIwSTlJV1lOYUFWc3gyTENFT202a2Yw?oc=5",
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
       "source": "Nature",
-      "published": "2026-11-06T10:33:15+00:00",
-      "summary": "Towards ecologically meaningful foundation models&nbsp;&nbsp;Nature"
-    },
-    {
-      "title": "Inside Mastercard’s new gen AI engine - Mastercard",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkstZ0NERnBlNzFId0EwTnVNMm5ORWQyWmhQZnA3WkdSWXpMTmhHWGRfRU50dFJpcmlZREQ1cXRnMTZuX1N3alE1Y0RrOVMxam4zTGE1Wi1VcWlKR2piaEpUNnFzcXZBbkw5cWJCMFBuSFpqQjlTb2dJbGRSRXYtSzVDc2V2SS1lMDR0cnJTUGpsdlR2S3FidWFRTGJIdC1pbnR3?oc=5",
-      "source": "Mastercard",
-      "published": "2026-03-17T07:00:00+00:00",
-      "summary": "Inside Mastercard’s new gen AI engine&nbsp;&nbsp;Mastercard"
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
       "title": "Apple Intelligence Foundation Language Models - Apple Machine Learning Research",
@@ -155,13 +141,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2024-07-29T18:12:08+00:00",
       "summary": "Apple Intelligence Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
-      "source": "Nature",
-      "published": "2025-08-05T07:00:00+00:00",
-      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
       "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
@@ -176,6 +155,27 @@
       "source": "Nature",
       "published": "2025-03-05T08:00:00+00:00",
       "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model - Cisco Blogs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW45VDNDcURtZkJVLTZIa3BZMTB2eVAtOUlJOGNuaVY1OGtEeHBaYTVkQkxBOVdjN3I2eGlkV3JtZG1pN2hzSkp4YVBJakludEVWaUg5UjVycnRxVldiVnNkS2RnenlteVlTRzlSQUppN3Y4bkdOemlPV29nU1Robk5IR0RpeUdhcnNhdElrYXJ0R1NlZjFXWTYxeWRMNnRQblE?oc=5",
+      "source": "Cisco Blogs",
+      "published": "2025-04-28T07:00:00+00:00",
+      "summary": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model&nbsp;&nbsp;Cisco Blogs"
+    },
+    {
+      "title": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering - Science Partner Journals",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92V1Z3MmZOcVNCeE90bTBvR3pFeDlFeHFvNjBBZmVyMUs4U1VYakhpd1c2QngydGFZcWVVT3AxeS03QlBsbkkxT3FfNEtmNi1wNGlrZjk1Y1JiUkY2Ni04?oc=5",
+      "source": "Science Partner Journals",
+      "published": "2025-09-10T07:00:00+00:00",
+      "summary": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering&nbsp;&nbsp;Science Partner Journals"
+    },
+    {
+      "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data - NASA Earthdata (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjBpbUZxVUFibTE2amlRbXJDVnprUy1OTm5sekpBWl9tS2dWMWp5R2xfdlF0N2UxZ2NBWUlQRVhzME9QYW13V2xhcE4zMU1LNUxwc3MzVlpWYUtaWW1ieE1CV2JwNHRydXlNcEF4UWMzUHhHTUVSRU9KRlZzcFMya0xobF9uakhiQ0xPYnRMQlJ3NDR0LVJXNkE1aWsxNkFZb2Q1eUFKVkJXMGJ0bl9RY1lzVHYySjI4d2c?oc=5",
+      "source": "NASA Earthdata (.gov)",
+      "published": "2023-08-03T07:00:00+00:00",
+      "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
     }
   ]
 }
