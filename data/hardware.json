@@ -1,7 +1,21 @@
 {
-  "generated": "2026-11-10T01:19:26.487813+00:00",
+  "generated": "2026-11-10T14:35:15.923189+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "China’s Moonshot AI rents advanced Nvidia chips: Bloomberg (NVDA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlpRekZkdGhKYndfaEhzaWFWaGRON0tYeDBtVUljQjJheHRRbXA2d3RYRUV4Wk1aRUJ4RlZEell5R2xuWGx0d2M5UEtTN2x0SXByLUFIM1NsUGYwa0dmZFNERVZDaVk5QXJGYlo1NG81X1pSbHFkdGRfYnQ3TmVNLXhPUXJ1bEJOWDlnOS1TdC02d3VnMlV2RmJ3?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-11-10T08:16:00+00:00",
+      "summary": "China’s Moonshot AI rents advanced Nvidia chips: Bloomberg (NVDA:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+    },
+    {
+      "title": "Google expands AI chip lineup as Nvidia faces CEO spy scandal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmZ4bWtBYVNQZnY4ajU4cmlvVDFFVkwzRGgwRnJ5ZWlHM3BDaWpNTUh1OFhTMDR1Wkx6VGw4WmNKQ2NDd2ZINlhRT1JwT0pRblZ6azB0SFlnbVZoaHJmQ1A5bERWbVczN1piSC1fOHVzOUI4bjl3S2tuU05PNWdwOVZpa2FhZDJpdWtaWHJfM2M5dFVnd0ZrMQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-09T13:14:04+00:00",
+      "summary": "Google expands AI chip lineup as Nvidia faces CEO spy scandal&nbsp;&nbsp;Yahoo Finance"
+    },
     {
       "title": "Nvidia history: 10 milestones from GPUs to the AI boom - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZSEdQOWxQMkloRlZjajhIcUR0dXAxNEtqU3pad1dYMnNNREdIRktieVo3TEFmbi1waG9INy0tNFVxMzlVX0d5T3V1M2Rjb3hrVFVMMzl5dEVCdUZZcGN6UHVB?oc=5",
@@ -17,6 +31,13 @@
       "summary": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory&nbsp;&nbsp;Decrypt"
     },
     {
+      "title": "Google’s Semiconductor Alliance vs. NVIDIA’s Integrated Ecosystem: How TPUs Are Reshaping the Global AI Semiconductor Industry - semivision",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PT2NYd2F2c3JCVlpQb0xwX2NYUG43dlBTUW9ZRENFeU1OSVY1MGZqNUtvcWdUVV9zWm8yR0wtRklHNThXSDVMLWhuWkhfakkxMEZzbFVJNG5ISTFXSTcyNmJEMW85N0trejNVcFpNRlh1U0dsbTA2QUJEdGQzVDQ?oc=5",
+      "source": "semivision",
+      "published": "2026-11-10T03:09:38+00:00",
+      "summary": "Google’s Semiconductor Alliance vs. NVIDIA’s Integrated Ecosystem: How TPUs Are Reshaping the Global AI Semiconductor Industry&nbsp;&nbsp;semivision"
+    },
+    {
       "title": "Google Hands AMD Major Win in AI Chip Race - TradingView",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXBiTFQzRkxOY0ZfWFRmT1FQc1YyYWtUMHptbmJVWXJ2YmozSjNUT1FqTU1UNU5CRkdmOWVUU29KRlJHVkxuLXZQTVdydEdDTnIxY2N2TVNyZFl0dHcya3A5Wm5IdmZ5NmhSTnBKOHJEZDBDYWJaaDFvRnRyNkZjZHMwSnpnOGV2YkwzV001Umd4d0FlSTZiMnJoWUdVcnNKeHRoNg?oc=5",
       "source": "TradingView",
@@ -24,18 +45,32 @@
       "summary": "Google Hands AMD Major Win in AI Chip Race&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzhzVy1pOUJQbUNIemtyRkJQSTVyNG5yOVl6N2NFQ3FNRlhCRnBZNXBVekUzOGlhMVVvRWwtcko3RlBWa0xyZm5TZGJOR3hhTFo4NUJWaUtaRWRaQ1JtdGh0UjMtWVZHSE9YRDhWODgwdjJjVExtVnFxeDdJN05xY1k1UlRjRVBKUktqQmE5bVpyQUdLalZzMFVBUmxldw?oc=5",
-      "source": "blog.google",
-      "published": "2026-11-09T13:13:40+00:00",
-      "summary": "Our newest TPUs: 8tx and 8i Max, built for the agentic era&nbsp;&nbsp;blog.google"
+      "title": "Google TPU 8tx, 8i Max: 4 Systems in 1 Year [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWVua0dvUzRLRkRYSjFQY0ZHS2lhMGdfVWxQV2lIc2ZCejF4Uko2NlBjZEFJekVRMUpDSFZ1NjAyeHdfMjlNbjFBNER3LWRTeHhMSTlITV9lZ0l5NEotSHQtckpfTWpWR0xnMGhVOU1FRURjSmJPU0hqbk5BY0RrX3I0dm5zVHJjd0xYQ01R?oc=5",
+      "source": "shattered.io",
+      "published": "2026-11-10T01:34:45+00:00",
+      "summary": "Google TPU 8tx, 8i Max: 4 Systems in 1 Year [2026]&nbsp;&nbsp;shattered.io"
     },
     {
-      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTRKSkN4WGNPOEpHMDJlUWw5QnZnOXlDUFV2bzA4dVBBcE5GenVVMWp6NGRQaTRTMDFqVHF4YkN3WlBYYlo2YjhGdkw1SHY5N2xiT2FRRjNza0RGY2NlNC1Bb2J0YzZ1a29yZ3hRQ2c4NTRIWmZyNzUycHRXeEV3RzBBbXlQdXdZTUZseUFXUElDWWRjc2tKOUdER1VFXzZLWFp0Yy02Rk1hQQ?oc=5",
-      "source": "The Decoder",
-      "published": "2026-11-09T13:00:51+00:00",
-      "summary": "Google ships four TPU variants in one year as it ramps up competition with Nvidia&nbsp;&nbsp;The Decoder"
+      "title": "Nvidia, SK Telecom and Rebellions plan Korean sovereign AI systems - TNGlobal",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1M5c1luUmhGT2JqNU1CT0tCZG9DNGs3VEhzRFFPWEhHWkdJajlQbjBqR2ZVenF6T1puUHdmQVNFcVRLZlR6dTk3dzNFWG55VnlJZTV1Q192ckFkTkhwR2tYOXpxVVFjVlU5ZWpiTllkUUtBV0xnQVNodmRnVnZhQmVWMA?oc=5",
+      "source": "TNGlobal",
+      "published": "2026-11-10T07:56:36+00:00",
+      "summary": "Nvidia, SK Telecom and Rebellions plan Korean sovereign AI systems&nbsp;&nbsp;TNGlobal"
+    },
+    {
+      "title": "China's Moonshot AI Appears to Have Leased 32 of Nvidia's Most Advanced B300 Servers, Raising Questions of Export-Control Workaround - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uSWwyZ0EyeWZTNXdyZktZNFNwTldMaDdiQmZXYXc5OEpGa0NWS1Q4U0hvSzdCZHhJZ05KOW55cXRwSlJDTDJoX2tiSmxuQXV1cGZfcFF0VlV4RkxhSE54QnZsdkxkOUlyQWpDVGN0QTNOSHV2X3c?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-10T10:35:00+00:00",
+      "summary": "China's Moonshot AI Appears to Have Leased 32 of Nvidia's Most Advanced B300 Servers, Raising Questions of Export-Control Workaround&nbsp;&nbsp;BigGo Finance"
+    },
+    {
+      "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDVoakd0ZGRESnplbWRGcm9Zc2dLZHNSd0JZNFpiWS1PZFFiQVAzekJ0TExFYlg4ZjdtX0d4a09xWXc2dEhHaUNocXpoUlZvVVRJYlpsSk9vZVVxak0zcXVzNzNNT0VkNXd5UV80UHNyWUJDQmRidTFNdXdPOW5CM0RZNjVQajNYSEttaldaSEJGVmpOaHpfeFRJMFRUT2Q5cUhJSWIyUk1WSUNEd3VUYzJDYVJMUQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-09T14:33:00+00:00",
+      "summary": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth - ServeTheHome",
@@ -45,18 +80,18 @@
       "summary": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Nvidia Expands South Korean Physical AI Work With Samsung, LG and Kakao Mobility - AI Insider",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmtsSmhlNzBKc2hoallURHNVdjVvNUl2ekx5bVplZzRndnF4SEx6VENGVGlLTE54ZjZhLXluZmdCMVRhN0tMcl8ySk5tT2M0SVd2NWx3NTI0d2RyXzR3Yzg2czRfMkR0UGRDRDd1dkZoRGJXSzVOTzRrNjMxSnhRVE1FMVl5MW9zTWJoTnJBcGd4bHZ5ZndQVk5MeXljRFRjMUJtakMtVkg5MkxiSkdsa21sQW1WczVT?oc=5",
-      "source": "AI Insider",
-      "published": "2026-11-09T14:49:10+00:00",
-      "summary": "Nvidia Expands South Korean Physical AI Work With Samsung, LG and Kakao Mobility&nbsp;&nbsp;AI Insider"
+      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTRKSkN4WGNPOEpHMDJlUWw5QnZnOXlDUFV2bzA4dVBBcE5GenVVMWp6NGRQaTRTMDFqVHF4YkN3WlBYYlo2YjhGdkw1SHY5N2xiT2FRRjNza0RGY2NlNC1Bb2J0YzZ1a29yZ3hRQ2c4NTRIWmZyNzUycHRXeEV3RzBBbXlQdXdZTUZseUFXUElDWWRjc2tKOUdER1VFXzZLWFp0Yy02Rk1hQQ?oc=5",
+      "source": "The Decoder",
+      "published": "2026-11-09T13:00:51+00:00",
+      "summary": "Google ships four TPU variants in one year as it ramps up competition with Nvidia&nbsp;&nbsp;The Decoder"
     },
     {
-      "title": "Nvidia's H200 Chips Reached China Through Ghost Company - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JKT2N5OXBlRDFDSG5xSE5VYTJYcG9LMTZ4dGpmaTRKd3B1MTI2V0hIZ1FxVVBqOUt0Rkl2eGg5ZDc0QThiX0xyeUQ4STZweGI0a1pSWDZ2aURwUVpjZnVXV0RaVHMzTldpeFZMaWh4SGhlVXBBRDV5bVlIX0RReld6VTI0OTlpY05PakFtYU9HZw?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-07T16:06:29+00:00",
-      "summary": "Nvidia's H200 Chips Reached China Through Ghost Company&nbsp;&nbsp;The Tech Buzz"
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzhzVy1pOUJQbUNIemtyRkJQSTVyNG5yOVl6N2NFQ3FNRlhCRnBZNXBVekUzOGlhMVVvRWwtcko3RlBWa0xyZm5TZGJOR3hhTFo4NUJWaUtaRWRaQ1JtdGh0UjMtWVZHSE9YRDhWODgwdjJjVExtVnFxeDdJN05xY1k1UlRjRVBKUktqQmE5bVpyQUdLalZzMFVBUmxldw?oc=5",
+      "source": "blog.google",
+      "published": "2026-11-09T13:13:40+00:00",
+      "summary": "Our newest TPUs: 8tx and 8i Max, built for the agentic era&nbsp;&nbsp;blog.google"
     },
     {
       "title": "Korea Advances Physical AI Across Industries With NVIDIA - NVIDIA Blog",
@@ -66,11 +101,11 @@
       "summary": "Korea Advances Physical AI Across Industries With NVIDIA&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "Google Unveils TPU 8tx and 8i Max for Agentic AI Workloads - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoyRDlBYmNGNGFCdE40NlF0RDhWa0RNSk1Vdk1ta09lbnR4Y0VybnVIbzFhQ2RJVTVTbzZrLUl0YUJkTVl3UUQxeTFPVWdfUUNTZVFQMUYwQXNXYXpvYlFxbHJPTjBRTGFLdXUzXzhSeFRQUWVxTWF3TW9qamx4dERaTjVLRDFtVjVKcU96UThxQ2xvUmc?oc=5",
-      "source": "The Tech Buzz",
-      "published": "2026-11-09T14:01:00+00:00",
-      "summary": "Google Unveils TPU 8tx and 8i Max for Agentic AI Workloads&nbsp;&nbsp;The Tech Buzz"
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure - TradingView",
@@ -80,32 +115,32 @@
       "summary": "Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "AMD: AI Panic Meets Outsized CPU/GPU Gains - Upgrade To Buy - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkVYYnN6QkpYa3VnNXBjWkV1NjdtMlJzV3ZEaFVOcm9WY2JCekU5S2E1Nlhxbk16bVdVTGJuS1RnbEhCeDE5NGpJbHRXTHhxT2VtOFBQR2JRR2FLR0p6aGo0SEpQZ25VdnROc0p5TllTWDdZZHRZbVNDYjYyV2JwQ05NdU9LdUFBSVJOZGVaam1VRlVHTUhzcXhMdzU?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-07T17:00:00+00:00",
-      "summary": "AMD: AI Panic Meets Outsized CPU/GPU Gains - Upgrade To Buy&nbsp;&nbsp;Seeking Alpha"
+      "title": "Nvidia Expands South Korean Physical AI Work With Samsung, LG and Kakao Mobility - AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmtsSmhlNzBKc2hoallURHNVdjVvNUl2ekx5bVplZzRndnF4SEx6VENGVGlLTE54ZjZhLXluZmdCMVRhN0tMcl8ySk5tT2M0SVd2NWx3NTI0d2RyXzR3Yzg2czRfMkR0UGRDRDd1dkZoRGJXSzVOTzRrNjMxSnhRVE1FMVl5MW9zTWJoTnJBcGd4bHZ5ZndQVk5MeXljRFRjMUJtakMtVkg5MkxiSkdsa21sQW1WczVT?oc=5",
+      "source": "AI Insider",
+      "published": "2026-11-09T14:49:10+00:00",
+      "summary": "Nvidia Expands South Korean Physical AI Work With Samsung, LG and Kakao Mobility&nbsp;&nbsp;AI Insider"
     },
     {
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
+      "title": "Google Unveils New TPUs, AMD Pushes Helios Into Nvidia's Gap - Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0Jld3dEY25zaVFsUkd0RVVVbjJkNXpZLXVzMkZFRDR3WGpFOHZtQ3RrZElwTUZHTWF2cFdteTNEa1lYcDg1ajFBVldKUy1FZElhN0ExU1VwbWpvXzZvT0RoOThGWG9HWmJueFNnc1pZTk9Rc09RcXdBalhwWEtqQzhraFhQWV9lS2pza0YwczdkdXZBMi1qNUdjc2NoVkU?oc=5",
+      "source": "Seoul Economic Daily",
+      "published": "2026-11-10T08:46:12+00:00",
+      "summary": "Google Unveils New TPUs, AMD Pushes Helios Into Nvidia's Gap&nbsp;&nbsp;Seoul Economic Daily"
     },
     {
-      "title": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGlfQ0xYUGlZZEJ4eEFqaG1DZ3NVamZMWU82YUFCeWwxSWJsVHZhV2FtWmVLRWw1UGE5emNhSWhoeEpleU5tdk80NkZscUMxUWRFYWw3V3R4c25GMkJPOWRhY2FNc0oyUEI4ZW9JZTF5ckVFbkV2d2Y1U3NXaEhUTTYxTlZJWEpyNGR1cC1vOWY?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-06T18:23:03+00:00",
-      "summary": "AWS Adds NVIDIA GPU Partitioning to SageMaker Inference Endpoints&nbsp;&nbsp;Unite.AI"
+      "title": "Google Unveils TPU 8tx and 8i Max for Agentic AI Workloads - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoyRDlBYmNGNGFCdE40NlF0RDhWa0RNSk1Vdk1ta09lbnR4Y0VybnVIbzFhQ2RJVTVTbzZrLUl0YUJkTVl3UUQxeTFPVWdfUUNTZVFQMUYwQXNXYXpvYlFxbHJPTjBRTGFLdXUzXzhSeFRQUWVxTWF3TW9qamx4dERaTjVLRDFtVjVKcU96UThxQ2xvUmc?oc=5",
+      "source": "The Tech Buzz",
+      "published": "2026-11-09T14:01:00+00:00",
+      "summary": "Google Unveils TPU 8tx and 8i Max for Agentic AI Workloads&nbsp;&nbsp;The Tech Buzz"
     },
     {
-      "title": "AMD chips to power Google Cloud’s confidential AI system By Investing.com - Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2UxNHkwRHJBbS0wY1g5U09NakxoY3ExcGxybEdnaHB0bnZVVEJ1REFoLXA4NG54ZHJLYXlnZkpiWjk4ZnNpS3JYT2tPcDJxZ2s3SmcxX1d5bUhNTm1Ub3h5RDJvV2M4cGN2WGlkbWg1Sk95TjM2N042bVJEX0dLMTFUOGRQdDNwRTYwZnVMZUNydEVCSkFmZjhpUG9qQkcwai1sWFZhemdKdUJwLXpHM1NVYldyNEU?oc=5",
-      "source": "Investing.com UK",
-      "published": "2026-11-09T13:06:00+00:00",
-      "summary": "AMD chips to power Google Cloud’s confidential AI system By Investing.com&nbsp;&nbsp;Investing.com UK"
+      "title": "Why is Google increasingly making its own AI chips instead of just buying Nvidia GPUs? - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGg1WXlqNlNlQ0xsckFqRzZ6TkpTTmcxUzNxMWs5WTd3Y1Q0M2JfVmswZzNnNTJTbDdYdmJHZldDV2FXVzZUdjVSc3hFWkF4bFlodEMtQnpkekhEcHROTUN3U0lWRm5ZMnhUWV9RSjFYc1VZSzNpN09xS254Y1c5SWNPZGRsdDkwaUF3bEI4Vk5MV084SGc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-10T04:52:46+00:00",
+      "summary": "Why is Google increasingly making its own AI chips instead of just buying Nvidia GPUs?&nbsp;&nbsp;Vietnam.vn"
     },
     {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
@@ -115,6 +150,13 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
+      "title": "AMD stock rallies 12% as Google Cloud taps its EPYC processors for next-generation AI infrastructure - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTlVTTMxUUg4cEEzdU1hTVVxUVV2QllMU0dsSnV3V3ZZWV83VXpKSVRQekhLM3B6bEJOdG9iVVlWbXc2MVItZ2h4d0NNempUa20xU09lNndZTFFjVExCMWxSNlozWWI4YWhkTkZ0NmJTZmNNeFpxQzVLMXYzWFdYck5FVGN6el9wbVR1S2pkOHduZFctR29Oa0JMNlhOLTlnWTFGMzlheU5KTVN6M2RDQXY5YVduZXhqVHMxd3d0d1RIOFM3Q2xzRFJsc29QTEdX?oc=5",
+      "source": "IndiaIPO",
+      "published": "2026-11-09T18:35:56+00:00",
+      "summary": "AMD stock rallies 12% as Google Cloud taps its EPYC processors for next-generation AI infrastructure&nbsp;&nbsp;IndiaIPO"
+    },
+    {
       "title": "NVIDIA reportedly to invest billions in additional CoWoS capacity: SPIL becomes a key partner for AI accelerators - igor´sLAB",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFNKeHVZMUxTblRWUFVucmN2ZHVCM0ZxMTJVNFhMRVMyLXF0Nmo3WV91ZmdDMnRSU09PRkwwLWRqbFFGVU5ISkxGOHhoTV9zckRYdkIyaEZGQ0FpWDFTcUU3RFlBRWhRX1p3V3BnYmNCbFQtbUd1SUNIM2Q5ejc3VGpHOXRTVl96U1Bfbk1SaHRPYmxkdDVTcFdhMmFpbTdkTmRwOA?oc=5",
       "source": "igor´sLAB",
@@ -122,60 +164,18 @@
       "summary": "NVIDIA reportedly to invest billions in additional CoWoS capacity: SPIL becomes a key partner for AI accelerators&nbsp;&nbsp;igor´sLAB"
     },
     {
+      "title": "Agentic AI Accelerators: Google Adds Confidential TPU 8tx and Doubled TPU 8i Max Chips - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUHdkWHZ2SVp1SnFLWG9GcU85RUZNNU5xNlNZSTVNWGJ2aEw5WC1KN0Zzc204TTBrR09tTm1VTmwyOWhiNExpQzVRZzk1ZGV5Y2VEQTVWN25CbmZ2eXFzSS1ETzAtdDdDOHc?oc=5",
+      "source": "Trend Hunter",
+      "published": "2026-11-10T08:00:01+00:00",
+      "summary": "Agentic AI Accelerators: Google Adds Confidential TPU 8tx and Doubled TPU 8i Max Chips&nbsp;&nbsp;Trend Hunter"
+    },
+    {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-09-22T07:00:00+00:00",
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN201YmZQQ1VvVDJNcVZKdFQ2S0xwRUVZYjdmeW9sMzJzbnhmNXFTdkxSV2NMQU43SDlNMDBrUVRNZUJ3WU9DQ3hkRDFmQmFrUjZoeG1maVVXOTVBcWxRU3lITmt5MDdhSEdlNEp6ekV4NGhiRm9WS1JSUjZMV0lGWW5TeDRWSm9xaXI0RjFYZHJfb3pCbmJVcWY1TnpKaHUxaVAyaQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-01-05T08:00:00+00:00",
-      "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaExZSUhHYkVnVFg2Z1hPOFpyVi03bzRTUXZrQUZSS0dMTm01cW5JUl8tQjI0cUJMRGVXSU9KNGlZVS1iWS0xZFN5dldrNldmaWt1d2RkaGJYZF9FY2FnRlVyRkpCTmMtR1hqb3BSQVA3QXQyTzhjUDlycHZ5ekNmVVFvcXAtdGJhMkRNLUxrNUZqVWkxekN5Z1dkUUpudHFiOHJad18tSEZjbWVuaUl2Q3pJUzdNSG9yLVFrdy14d056N2M?oc=5",
-      "source": "Reuters",
-      "published": "2026-04-01T07:00:00+00:00",
-      "summary": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
-      "source": "The Official Microsoft Blog",
-      "published": "2026-01-26T08:00:00+00:00",
-      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
-    },
-    {
-      "title": "10 top AI hardware and chip-making companies in 2026 - TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtjczdfNm85VkZhR3V2OFpnZ1N0TjV0enprMkRWdzY3LVRzRm8yaXRvcklvRXQxMmllTW4yUm4xOU53dmFKMkVNNWJoMHE5UzN2dkl2MFdyQmt2aUFZeUVjMjZpemU3MlR1RXdsY1ozdEVpV3JCSUJWbGdVWXpLS3FKaUtvYWlCRkh2eHU3S3ZkQ1JWRjZr?oc=5",
-      "source": "TechTarget",
-      "published": "2026-01-30T08:00:00+00:00",
-      "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
-    },
-    {
-      "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Vera Rubin Opens Agentic AI Frontier&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-05-31T07:00:00+00:00",
-      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
