@@ -1,27 +1,20 @@
 {
-  "generated": "2026-11-14T13:13:59.310925+00:00",
+  "generated": "2026-11-14T22:08:30.240078+00:00",
   "query": "OpenAI",
   "articles": [
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-13T15:09:04+00:00",
+      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers&nbsp;&nbsp;The New York Times"
+    },
     {
       "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
       "source": "Fortune",
       "published": "2026-11-13T17:05:00+00:00",
       "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-13T15:00:01+00:00",
-      "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users&nbsp;&nbsp;CNBCOpenAI launches ChatGPT Wallet, letting AI agents pay for purchases&nbsp;&nbsp;ReutersOpenAI Debuts New ChatGPT Payment Method With Card Networks&nbsp;&nbsp;Bloomberg"
-    },
-    {
-      "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnF3WmhYX29rcl9xVEtiOW1ya1hZS0ljNm1vM25aRC1NWjZjUlFUbTl1ZXZ2N1FLOV9wVm96MnBvbDJIby1EWFZadDQ2bzRxek5USWNOTWRON2gzM255VUx6eVRaRldIX0RDOS1uckJMSklIMmhOVmNvZGVmbjJqSk5GanhGYnliRk96cEt1VUJ0RUloMV9QaUlB?oc=5",
-      "source": "Vox",
-      "published": "2026-11-14T11:00:00+00:00",
-      "summary": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal&nbsp;&nbsp;Vox"
     },
     {
       "title": "Meet the seven co-founders of Anthropic - CNBC",
@@ -31,11 +24,11 @@
       "summary": "Meet the seven co-founders of Anthropic&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-13T23:20:11+00:00",
-      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers&nbsp;&nbsp;The New York Times"
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T20:35:49+00:00",
+      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development&nbsp;&nbsp;Reuters"
     },
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
@@ -45,20 +38,6 @@
       "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away&nbsp;&nbsp;Ars Technica"
     },
     {
-      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-11-12T21:35:58+00:00",
-      "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures&nbsp;&nbsp;Bloomberg"
-    },
-    {
-      "title": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2F3YnBFS2Z5NFljbDJPRmFuVC1wMllwN3E4Zm91aDdZOHF4NDJpWkRTZjB5MnFqbzByRk1JSTZ1bHhDOW9feHV5S2NCNk9CZkExUER2VFBtUnJMVzNsNmxXZnVRUDRncEd5Vkt6SVRqanVjRzlDb21ob25VYzdmOFNtZXJlQl94SzdQTzZ6OElQNWJsLTBSVkl3bEV1RGNaMThPeUhvWE9fTFh2WWc?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-11-13T14:00:00+00:00",
-      "summary": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death&nbsp;&nbsp;The Seattle Times"
-    },
-    {
       "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer - The Register",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
       "source": "The Register",
@@ -66,18 +45,25 @@
       "summary": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer&nbsp;&nbsp;The Register"
     },
     {
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T20:35:49+00:00",
-      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development&nbsp;&nbsp;Reuters"
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVRfXzM5NXVKbU5PVWZpQXBwNjBmaG9uLWstSHBPNWI5QVMwcW1OaUwzbkdpQUFkR1RST2dqVEFyMnZaenBmRjQ2MkJ1RmptYU82LTBKUTRDZk5zakViN2RsdU9HcWJGdVFUVzMyNFJfUG1jS2JOZTkxSU9tWkxQaHZORHlIUlp1dWFqWjJlTUFSSjdPMGZGb3VNajdUOWZtTEszdEZvYl9VbmozYmJn?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00+00:00",
+      "summary": "The AI graveyard: a running list of projects and startups that didn’t make it&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Introducing ChatGPT Wallet - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-13T15:15:30+00:00",
-      "summary": "Introducing ChatGPT Wallet&nbsp;&nbsp;OpenAI"
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-13T15:00:01+00:00",
+      "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users&nbsp;&nbsp;CNBCOpenAI launches ChatGPT Wallet, letting AI agents pay for purchases&nbsp;&nbsp;ReutersOpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card&nbsp;&nbsp;PYMNTS.com"
+    },
+    {
+      "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnF3WmhYX29rcl9xVEtiOW1ya1hZS0ljNm1vM25aRC1NWjZjUlFUbTl1ZXZ2N1FLOV9wVm96MnBvbDJIby1EWFZadDQ2bzRxek5USWNOTWRON2gzM255VUx6eVRaRldIX0RDOS1uckJMSklIMmhOVmNvZGVmbjJqSk5GanhGYnliRk96cEt1VUJ0RUloMV9QaUlB?oc=5",
+      "source": "Vox",
+      "published": "2026-11-14T11:00:00+00:00",
+      "summary": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal&nbsp;&nbsp;Vox"
     },
     {
       "title": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident - Fast Company",
@@ -87,25 +73,32 @@
       "summary": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident&nbsp;&nbsp;Fast Company"
     },
     {
+      "title": "Introducing ChatGPT Wallet - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-13T15:15:30+00:00",
+      "summary": "Introducing ChatGPT Wallet&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-12T21:35:58+00:00",
+      "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures&nbsp;&nbsp;Bloomberg.com"
+    },
+    {
+      "title": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdml5MXp1UVBjd2dBRTFCTlduVkFrajExVTh6cHZrS3pMcjFqeW5ZYWJPVW5iYjZXU281OENpeFZ5S053bXBGdV8xWXd6LVhfNkNsdWR3dGVGMVBYWjVERXRKLVdDVmFFNks5NlA0OFZJX3lNWFQ2N01HYUJUemhQUmRzNGFiRG9mcXJWMnRRRm1hNWYxMVE?oc=5",
+      "source": "PCMag",
+      "published": "2026-11-14T13:10:09+00:00",
+      "summary": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet&nbsp;&nbsp;PCMag"
+    },
+    {
       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary - The Decoder",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0RCaDFRSml1TkxBN09Ed3pkZDhDNDAzYThkdktlU3lVMy1IblZSb0dyRkw2TjNCTFF0c0dha25JdlZNNzh1OWlrTzI5T2dOUEtGSHdWNDVMTlMyZm5BS3lGQXNtTnN3Wm82OUtMOGVHX2FsOUhBZHRGQlVKQXJrMTZtM2xHTWQ2VmVnRlhhd0RTamJiWEZabWc1TVFZTk1ieDdDQ3ZxTmxJVy1kczNnUWM0UVpEVVFZWmgtM1RhVXpyMGdKN0ZpY3I4SzZIR0RJd2JMdmY5S1Q2VTFYTFVTUG1zcmE?oc=5",
       "source": "The Decoder",
       "published": "2026-11-14T11:45:17+00:00",
       "summary": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary&nbsp;&nbsp;The Decoder"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5",
-      "source": "Mashable",
-      "published": "2026-11-13T21:49:56+00:00",
-      "summary": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you&nbsp;&nbsp;Mashable"
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazB2cTNEbl9qWDE2Z3BCOVh4Q1U1eDRka1Uxc18wQWhQNXRRTGRQV3VSOHRrUFlhZ0FKamNQb21zYkM5WWVfc0tJcGUwWktRbUFWTkkwc0Nya1RFbTVjNTBKa01XMzNhOTFyNzNWTG9NQXVHcGVTM2xwZ2xyUjNEVkxmSU9rY3Nq?oc=5",
-      "source": "The Verge",
-      "published": "2026-11-13T20:45:10+00:00",
-      "summary": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you&nbsp;&nbsp;The Verge"
     },
     {
       "title": "OpenAI Is Sustaining Enormous Losses - Futurism",
@@ -115,11 +108,25 @@
       "summary": "OpenAI Is Sustaining Enormous Losses&nbsp;&nbsp;Futurism"
     },
     {
-      "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTVrbGxtV2JYcE9oZ01ETGtMUmtuWVdUdVlyNmZuUWdPQ0ttNEdHbGItNDFzeFpFUDhZTlI5ckJjREtoVjlZQ3hxd1dHeF96SEFnbnpjTGllTzZMRXppYjlIRGNIOTBCSTlpYU9VRjhENDF2Rk5kaXFmVkYxd3psb2VScE9xRHBkQnJlcV9IU3NZczJYX25fLXdFdFhOZ2piU1dJLVV0dklfYUF3QjM0VEg3blkwdnJwaXlEX0Z2OWpucXBENlM4NzNB?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2026-11-14T00:20:07+00:00",
-      "summary": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card&nbsp;&nbsp;PYMNTS.com"
+      "title": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T01:02:00+00:00",
+      "summary": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Scientists confirm OpenAI’s blockbuster quantum physics result - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkptS0N6akxLR09tNWlmd1VZT0luUzZucXhJUS1mbWtpNWRwMUZRb3BOTzNLb1FtdU5LVlZPek9kWkZfSzJvWmJ3T3cyT0lrVnRjNFhuTmx2TjZTRzdUMDRpVF9NamtOTUwzMHhab3Fza04wVXRWQTZuMzU2ZTFwY05ad1lNNXZ0VWdsbWRSVDU1b194OFpqRkNOVQ?oc=5",
+      "source": "Scientific American",
+      "published": "2026-11-11T12:30:00+00:00",
+      "summary": "Scientists confirm OpenAI’s blockbuster quantum physics result&nbsp;&nbsp;Scientific American"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-10T18:10:37+00:00",
+      "summary": "Introducing Businesses in ChatGPT&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
@@ -129,11 +136,11 @@
       "summary": "Shield helps technicians hand off legacy portal work with OpenAI&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Introducing Businesses in ChatGPT - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-10T18:10:37+00:00",
-      "summary": "Introducing Businesses in ChatGPT&nbsp;&nbsp;OpenAI"
+      "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T20:26:15+00:00",
+      "summary": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents&nbsp;&nbsp;Reuters"
     },
     {
       "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
@@ -157,25 +164,18 @@
       "summary": "ChatGPT Plus for veterans and servicemembers&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T20:26:15+00:00",
-      "summary": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents&nbsp;&nbsp;Reuters"
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0N2OFdtbV9VNWVjZlRCMUVMZFVweGM5VWh0UTlSNDFibkFSNk9SaldWOVhfWk9YV1JpTk5PWHVKaks5T3JadGFkRWNjTTdyVkJQTndvTGFrQlNxUW5ZMGNSQlVaWmZNMlA3Zmw1RkRSRDFJME50bXIxTkJQc19iRHBwaXpQYkl2RDd0VFJEOFVERUdNYlBQdzNFQkh2Vk9tMWhRWA?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-11-11T16:14:44+00:00",
+      "summary": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "Scientists confirm OpenAI’s blockbuster quantum physics result - Scientific American",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkptS0N6akxLR09tNWlmd1VZT0luUzZucXhJUS1mbWtpNWRwMUZRb3BOTzNLb1FtdU5LVlZPek9kWkZfSzJvWmJ3T3cyT0lrVnRjNFhuTmx2TjZTRzdUMDRpVF9NamtOTUwzMHhab3Fza04wVXRWQTZuMzU2ZTFwY05ad1lNNXZ0VWdsbWRSVDU1b194OFpqRkNOVQ?oc=5",
-      "source": "Scientific American",
-      "published": "2026-11-11T12:30:00+00:00",
-      "summary": "Scientists confirm OpenAI’s blockbuster quantum physics result&nbsp;&nbsp;Scientific American"
-    },
-    {
-      "title": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T01:02:00+00:00",
-      "summary": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion&nbsp;&nbsp;WSJ"
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
+      "source": "Decrypt",
+      "published": "2026-11-14T14:01:02+00:00",
+      "summary": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto&nbsp;&nbsp;Decrypt"
     }
   ]
 }
