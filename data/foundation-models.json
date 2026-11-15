@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T05:39:11.971860+00:00",
+  "generated": "2026-11-15T13:41:41.652797+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -22,13 +22,6 @@
       "source": "NASA Science (.gov)",
       "published": "2026-05-07T07:00:00+00:00",
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
-    },
-    {
-      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
-      "source": "AI at Meta",
-      "published": "2026-03-26T07:00:00+00:00",
-      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "30 of the best large language models in 2026 - TechTarget",
@@ -101,18 +94,18 @@
       "summary": "Updates to Apple’s On-Device and Server Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
-      "source": "Nature",
-      "published": "2026-06-12T07:00:00+00:00",
-      "summary": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "A list of large language models (LLMs) - IBM",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
       "source": "IBM",
       "published": "2025-03-10T07:00:00+00:00",
       "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
+      "source": "Nature",
+      "published": "2026-06-12T07:00:00+00:00",
+      "summary": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks&nbsp;&nbsp;Nature"
     },
     {
       "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data - NASA Earthdata (.gov)",
@@ -129,6 +122,13 @@
       "summary": "Apple Intelligence Foundation Language Models Tech Report 2025&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
+      "source": "Nature",
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3FFVmgySGpTbHY1aER0cGVoekJJaXJQWFhfNjNZMVJjSEl4Q1hVbVJQRzR4bkxxSGlsdzRFeTU0Zl9QU3BCMWxwZTZEb0Z6MmdpVDh5Q0ZkYmcxQmlIeC1kMTM3TGh4M25TV1BJY2lKd2V4QmN3cmpaZG1lSGFnbXZxZk4?oc=5",
       "source": "Apple Machine Learning Research",
@@ -141,13 +141,6 @@
       "source": "Apple Machine Learning Research",
       "published": "2024-07-29T18:12:08+00:00",
       "summary": "Apple Intelligence Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
-    },
-    {
-      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
-      "source": "Nature",
-      "published": "2025-08-05T07:00:00+00:00",
-      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
       "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
@@ -176,6 +169,13 @@
       "source": "PYMNTS.com",
       "published": "2025-02-07T08:00:00+00:00",
       "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
+    },
+    {
+      "title": "Accurate predictions on small data with a tabular foundation model - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XOGNtZXRnYjRfbVFYQzZqNE5uY19BWk8wNkQ3QVZHRTYxWS1Gdl9oSjNzY2g0RU5vTzQ4YmtUNDV4eG1KMm8zamZrNmZncmxJVDF6Xy1OZ1pqTTNpT3dz?oc=5",
+      "source": "Nature",
+      "published": "2025-01-08T08:00:00+00:00",
+      "summary": "Accurate predictions on small data with a tabular foundation model&nbsp;&nbsp;Nature"
     }
   ]
 }

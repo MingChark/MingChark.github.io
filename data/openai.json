@@ -1,63 +1,7 @@
 {
-  "generated": "2026-11-15T05:39:11.971860+00:00",
+  "generated": "2026-11-15T13:41:41.652797+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-13T17:05:00+00:00",
-      "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-13T15:09:04+00:00",
-      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Meet the seven co-founders of Anthropic - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmx5a0M0RE5jMXUzRE16VFRaY2xZMjBoQ19hRGhaSkEtNzRKaGk1eWFidXhhTmY5S1d2U0lMbHJNZUxsb3V1eHlOTXhKalp1OFgyQmNmMU5FLU5Cd044QnNhdEpUekxQa05jeEwybWtwVXZEQTJrbzZNZk80cGNJRUJ30gGHAUFVX3lxTE1ubHplaC1vS3hRNFpxQTZYcGhKQjBXMlJoNHFqbkhxRmlVZ2hoQW9rSXVMdTBRU19EZUpRdHFrS241ekdFYVhZS0txeU9wYmhZemVkOVhrU01EbU9QMnJkc1dqNDZMSFExRWJobnhTU2xQUG5aa29EeUp6RG1TaDlWTHc4a1NMdw?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-14T12:00:01+00:00",
-      "summary": "Meet the seven co-founders of Anthropic&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-12T20:35:49+00:00",
-      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development&nbsp;&nbsp;Reuters"
-    },
-    {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2JKcnBjeEdYVWVPMUxxbGphdkJZNWZPRE9SNWxBNDdDMjkwSm1DQURGUjVTZmUxVXQwMGkzemJOTl9oN3c5TzdvaWhWeUdtRldIODM1Q1ZfUzI0SE9LcTNNV1FsOF82SUVKTmx3ZmdYN3RTNjg0MXNZTlRDNWxCYkNpd09hemdzdjR1Z2d0bVJkU0U3ZG9BZlBVVVlnWmVzU2c?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-11-13T17:25:45+00:00",
-      "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "Kakao, OpenAI Collaborate on AI-Generated Short Animation Based on Ryan Begins Webtoon - Anime News Network",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTg0X0UwU29SOGFZSnBjeGN1WVpsQUVkTjFSejduX2FROE1KQzdhVkxEQ2MzQWlxa0FtNEgwQjBVbWx4ZzZLRzEtNkw1QlA1VTljbHNJd182QURYeVdzUklFTW03UVpFTFR1VWVwNXVGSktQakl1YWhUVE1SYUlOUGY3MktrQTRKNkpOWFI4QTFwZWdFeFhHYks1bTUxUTlkYVRPaUI1Ql9SQVJwbTBaUUtELUREcmRZRS1JZXVvcHdkR2V3NmFjYmp1dTg1SVNGOWRSNm1FYUxWQQ?oc=5",
-      "source": "Anime News Network",
-      "published": "2026-11-14T18:15:00+00:00",
-      "summary": "Kakao, OpenAI Collaborate on AI-Generated Short Animation Based on Ryan Begins Webtoon&nbsp;&nbsp;Anime News Network"
-    },
-    {
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0NuYzZvQnRuaWZOTGtNYWpDQlN3VFljSExRa3k3ZDEzTm5BdEQ1Y1gwbmdMZXU2bjIwU2xmN3htejZpR3I3Zmcxd2RJVnZHZWY1aWFNTm9BTHhRN2dlanB3MldDOUJnQ2VnZmtMNkktOVJOLUgwLWhKcnpkQU5WRnR5VDRrNUFxak1ZNHdOWFlSR3BUYjBsOXZzUFRzcUdhUDZCMDRpVmtjblk?oc=5",
-      "source": "The Decoder",
-      "published": "2026-11-14T16:50:59+00:00",
-      "summary": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol&nbsp;&nbsp;The Decoder"
-    },
-    {
-      "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnF3WmhYX29rcl9xVEtiOW1ya1hZS0ljNm1vM25aRC1NWjZjUlFUbTl1ZXZ2N1FLOV9wVm96MnBvbDJIby1EWFZadDQ2bzRxek5USWNOTWRON2gzM255VUx6eVRaRldIX0RDOS1uckJMSklIMmhOVmNvZGVmbjJqSk5GanhGYnliRk96cEt1VUJ0RUloMV9QaUlB?oc=5",
-      "source": "Vox",
-      "published": "2026-11-14T11:00:00+00:00",
-      "summary": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal&nbsp;&nbsp;Vox"
-    },
     {
       "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
@@ -73,18 +17,88 @@
       "summary": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VqV2RZM3g2SEMzeEdNNmNjSmtZNzY1dTVjZ0F2WWdLdW9iaENMajhQdEpiX2t5VnFxaFdJR1ZPcVBGVmstX3ZZNXdUbFprOE5oTFFfa1Q5UkhXaXJQRER4Vkp4YWQxeEtJNmVvM3FjTWhXc1c5TnFGVzVsUVVRV002dlpSQlh3alhwMDFiZ2VvZlVuQjZ4dUJTcUM?oc=5",
-      "source": "TechCrunch",
-      "published": "2026-11-13T16:00:12+00:00",
-      "summary": "ChatGPT’s new Wallet lets AI agents shop and check out for you&nbsp;&nbsp;TechCrunch"
+      "title": "ChatGPT Is Ready to Reach Into Your Wallet - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UEJyMTY4M1lOTDgxZFBRcUpCcEFCclpzcUtvUXZOY2UwOVZLeF9idjJGYWd0MWQyd1V6cGs5NzFCSEdGa1ZRX3RzRm5tZUVIVmJMYUVjUGV2OTMtS1B0Y2R6cHF2Z1lKbUtJc1RqdnlScndDdU9GLTFjUnkyZw?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-11-13T19:15:01+00:00",
+      "summary": "ChatGPT Is Ready to Reach Into Your Wallet&nbsp;&nbsp;Gizmodo"
     },
     {
-      "title": "Why CrowdStrike CEO George Kurtz is looking forward to Anthropic and OpenAI going public - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTXI3NHl2S29INklEaUo4b2szRTZQY1FCTDMwejY2LUp0X2tZVFlBeFN5bDVudjlRbk1EUXZSVURzYVJaUURINzZ3X09SSHVPZlUyWG9HeFJ4NW5WSW1YXzJIZGZDci1iN2N6WjNHV25wTXRHejVPT1JrOHZtVU1OcGRDTHJPdVRZOFZ3YnA3VjhsQ0JhZUd3THBPYkxHMVRlcDJWdFJPNWpkbEhuZ2wtY0J6REdLaWpZUFE4dXdQeTNFQld5allvTmdhOUtINGM4SmNRS3A4WUMzYkROMWc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-12T18:03:57+00:00",
-      "summary": "Why CrowdStrike CEO George Kurtz is looking forward to Anthropic and OpenAI going public&nbsp;&nbsp;Yahoo Finance"
+      "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "source": "Fortune",
+      "published": "2026-11-13T17:05:00+00:00",
+      "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-13T15:09:04+00:00",
+      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Former OpenAI researcher says the 'most likely reason' you will die is due to 'an AI accident' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjk4UmcxSXEtTUFwYWZWNG81eWtWOWNGd2J5SjRvdWQwYm9tbUIxelR0UHdJYTZwZzNSeDhlN0N1eVhOR2gzMnZCNFZNby04TU9mdVZYSHJqb21HWWNwMm9TZE5QX0JJRF9xZHNIdWhNRlY3TmowMGw3anZITGExVFZBS1pjWEk1a1pqMEJTdDVPOXdpT2hpTTcyTWhzQ1E?oc=5",
+      "source": "Business Insider",
+      "published": "2026-11-15T09:37:00+00:00",
+      "summary": "Former OpenAI researcher says the 'most likely reason' you will die is due to 'an AI accident'&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2JKcnBjeEdYVWVPMUxxbGphdkJZNWZPRE9SNWxBNDdDMjkwSm1DQURGUjVTZmUxVXQwMGkzemJOTl9oN3c5TzdvaWhWeUdtRldIODM1Q1ZfUzI0SE9LcTNNV1FsOF82SUVKTmx3ZmdYN3RTNjg0MXNZTlRDNWxCYkNpd09hemdzdjR1Z2d0bVJkU0U3ZG9BZlBVVVlnWmVzU2c?oc=5",
+      "source": "Ars Technica",
+      "published": "2026-11-13T17:25:45+00:00",
+      "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away&nbsp;&nbsp;Ars Technica"
+    },
+    {
+      "title": "OpenAI Board Member Warns AI Takeover Could Be Months Away - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVRqSW9hb0lleThEMDFlYnJlbmM4cmRWZkZ4U2JZQUdaMzg4dmp1eXhsR2hYS2ZEUl9MVUVoU1VKaVdaSW9sU0dGRUpzeExySXMwdmJJcDE3eDM1Z2QyZXhyeFBvTkVYWXg1cS0wZVdKcmt4OUR4MVZXaTFZMGNla3FNdmc3NjRHdkNlZTlqTjNCN3RIdDR0d1lTTXN4Zm9BOEJUQV9NWmp1MzRyQmRzVUF3RnI4UUozNnc?oc=5",
+      "source": "Gizmodo",
+      "published": "2026-11-12T21:24:42+00:00",
+      "summary": "OpenAI Board Member Warns AI Takeover Could Be Months Away&nbsp;&nbsp;Gizmodo"
+    },
+    {
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-12T20:35:49+00:00",
+      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVRfXzM5NXVKbU5PVWZpQXBwNjBmaG9uLWstSHBPNWI5QVMwcW1OaUwzbkdpQUFkR1RST2dqVEFyMnZaenBmRjQ2MkJ1RmptYU82LTBKUTRDZk5zakViN2RsdU9HcWJGdVFUVzMyNFJfUG1jS2JOZTkxSU9tWkxQaHZORHlIUlp1dWFqWjJlTUFSSjdPMGZGb3VNajdUOWZtTEszdEZvYl9VbmozYmJn?oc=5",
+      "source": "TechCrunch",
+      "published": "2026-11-14T17:30:00+00:00",
+      "summary": "The AI graveyard: a running list of projects and startups that didn’t make it&nbsp;&nbsp;TechCrunch"
+    },
+    {
+      "title": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOblhPdHNseXdVSEZEZFJBcUJBNS1aVEprajFXaGNORnRGcUY3ZGJ2NTJvdFNzU1JhLW9xei1fSmhQWUxDRXBmWTc3UU1RZ3c3SnZ6ZGIzZTdiYmgwZXFNNVNaWGJTcG9nX01XTjZqak1iQU9tRFRIODJlQ296R1M1NHhreUNHcWdMaV9UQnpGX3U1eFVfMmNqYlYybGVSSUhKUjQxXzRhcG9tVjFFZ1Vwbkp0QTRXdlFwQVhnNENFUjZHV2NBWTJKMnpOazR5NVlzVTc5ZmNsbjFQYnRmcmVtOWx4RUtJdnBxS013YkJkdEN2ZUVOY3pDZ2d0YzBRNkdsUWt5N0pfbzZmWjl4NVk2OUFFV0FtTWg3Unh3WWpLcUJTNDBodGVyemhLY2VXT2NhVmJQclZpSEVUSzdQd1o4ZVhQMGx5MnVmRkhmY2NkYk1DemdHS2JtSFJjVkF5UFNrVmc?oc=5",
+      "source": "TechRadar",
+      "published": "2026-11-14T15:00:00+00:00",
+      "summary": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better&nbsp;&nbsp;TechRadar"
+    },
+    {
+      "title": "Nvidia’s Interim CEO Pushed Back on a “$250 Billion Credit Backstop” for OpenAI. Oracle Has the Most at Stake - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamhpM1VDSGVleHJSV2JuNU9MVTBXRkluaHIxWXdDb2RPa1hsdUtyZURjTllsU05xWFFmNUNaRkt3LW9BUG1IZ2FVTFQ4d1p4cUtRcjQ5OGZ0VmNtanFkUG9NTGxJR01HWHIyUGROOUxKQVN6M1BmZ3pGNFZsV3QzcXRoUlJWUTBQZlBnazliVURnSkI0ZXRpM1NwbFVzcExMdkF3eFJ5VU1mTFBWSFYwTDc5THFBc09TcVFSaWR2M2F4dlhJZTA1YWdR?oc=5",
+      "source": "TIKR.com",
+      "published": "2026-11-14T12:48:21+00:00",
+      "summary": "Nvidia’s Interim CEO Pushed Back on a “$250 Billion Credit Backstop” for OpenAI. Oracle Has the Most at Stake&nbsp;&nbsp;TIKR.com"
+    },
+    {
+      "title": "Microsoft outage hits AI tools of Anthropic and OpenAI, companies’ Status Page give details - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQkx5ME15eWN2eU90Z0J5VEpuU2ZLU042ZXZXOFFEMDg3TFduQWczZ0VDSnJWWW9SaU5vY2Y1VGJ5OTByV0FOblU1dUZnWXR6QUZyT09VZEFmZm9WYWx2LURIdTdmUWt2SElxdmFxd0tQY280YnloMTdEbWJXRkZUV1JoTDloOG9DNmFFSng0VlpwblhwMGoxM3ZnQU5hMEpHeE9uSHFPTm1EeGRuNXh6eV80LXJ1RThVenR2MmdZUG5aZmlqR0tXbFgzRzRKTUI3OUlnLWN2dWV6cTdfSkdYMHMyUVVSWjRCRkFlQS1oT29uVmliNmhVa3d0eXVGOWN6TVHSAYcCQVVfeXFMTUpJN3NmazhSb09VZlhmVFdGQWZGT2xoUHNBQjhiX29GR2JSekhULUkxR0dWeGE0am5xNnFvQzVieU9KZFVSTG9uVGdzMTk4Zm9oTEVnR0p3SGRGN3ZCaHFYTUxTa0tlNXh5WkozV01mLUNUdkxPcEQtWVNqb1RVMTRWN2VVYjR5VGRIWXZwSllBOFZHTlV1RVhDTEFCLXFhVjJPVF8yU3pockRhZWwtOVBXUEhMYUkyU1BUdTlJekc2X3NGTEdfdU9ITVVMYUN1bXFraVQ1Tm1DNFpCRXJMTGxURDZhX1hPbERLN0I3NWp6cFBTQ0MtT1JwbFJrZG85RHVaeWEwYjA?oc=5",
+      "source": "The Times of India",
+      "published": "2026-11-13T09:28:00+00:00",
+      "summary": "Microsoft outage hits AI tools of Anthropic and OpenAI, companies’ Status Page give details&nbsp;&nbsp;The Times of India"
+    },
+    {
+      "title": "Meet the seven co-founders of Anthropic - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmx5a0M0RE5jMXUzRE16VFRaY2xZMjBoQ19hRGhaSkEtNzRKaGk1eWFidXhhTmY5S1d2U0lMbHJNZUxsb3V1eHlOTXhKalp1OFgyQmNmMU5FLU5Cd044QnNhdEpUekxQa05jeEwybWtwVXZEQTJrbzZNZk80cGNJRUJ30gGHAUFVX3lxTE1ubHplaC1vS3hRNFpxQTZYcGhKQjBXMlJoNHFqbkhxRmlVZ2hoQW9rSXVMdTBRU19EZUpRdHFrS241ekdFYVhZS0txeU9wYmhZemVkOVhrU01EbU9QMnJkc1dqNDZMSFExRWJobnhTU2xQUG5aa29EeUp6RG1TaDlWTHc4a1NMdw?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-14T12:00:01+00:00",
+      "summary": "Meet the seven co-founders of Anthropic&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Introducing ChatGPT Wallet - OpenAI",
@@ -108,13 +122,6 @@
       "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0RCaDFRSml1TkxBN09Ed3pkZDhDNDAzYThkdktlU3lVMy1IblZSb0dyRkw2TjNCTFF0c0dha25JdlZNNzh1OWlrTzI5T2dOUEtGSHdWNDVMTlMyZm5BS3lGQXNtTnN3Wm82OUtMOGVHX2FsOUhBZHRGQlVKQXJrMTZtM2xHTWQ2VmVnRlhhd0RTamJiWEZabWc1TVFZTk1ieDdDQ3ZxTmxJVy1kczNnUWM0UVpEVVFZWmgtM1RhVXpyMGdKN0ZpY3I4SzZIR0RJd2JMdmY5S1Q2VTFYTFVTUG1zcmE?oc=5",
-      "source": "The Decoder",
-      "published": "2026-11-14T19:16:38+00:00",
-      "summary": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary&nbsp;&nbsp;The Decoder"
-    },
-    {
       "title": "OpenAI Is Sustaining Enormous Losses - Futurism",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaRkZHTlAxTW5JZVprMjlvU3dRSlpyYWpHS0RhUW5ZUEYySmxKUkpGaUdpNXZyekk0VGhPTmoyVDB3QVpzdk9mVE9abFNvWk9zM3R5bVpVc2ZoRGhrUHd1TVVCeWpMSWZEbFh5eG1KQkVSQjA1dFE?oc=5",
       "source": "Futurism",
@@ -122,32 +129,25 @@
       "summary": "OpenAI Is Sustaining Enormous Losses&nbsp;&nbsp;Futurism"
     },
     {
-      "title": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T01:02:00+00:00",
-      "summary": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion&nbsp;&nbsp;WSJ"
+      "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit - Cointribune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUFhZ2FMMFZNS003Z2dUQVVmTFBaOHdsNTdOTFUtSVdpdWMwSXhUWVoyeHZMYy14RUUxaFNUbXV1TFRwZzZMOEkwQ0Q4Qnd2by1ubnZ2ei01ZDdwUkswdFMxVDQ1VVF2WVo3ZURNa09wZHBNRkRBU0wyYzNVelBfQkUya19kck56aTBqaWp3VTBmdw?oc=5",
+      "source": "Cointribune",
+      "published": "2026-11-15T11:05:00+00:00",
+      "summary": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit&nbsp;&nbsp;Cointribune"
     },
     {
-      "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXg3SVJ4Y3JqV0gwc2FLQ21obmhCR0I0X3BjUkZTZ2tDd0owWFJpWnlLUUdscFNzTUYtQlFHZ0tTMkVMZFc2RmQySG1hbnk3ZjJZem5mMzYxamJRLXgwYUNXWC11TXB2QmJzTjJtMXJPWmpONjg1bjdoenB3dDdTeWxvVFUzUjNTUjJnZDRoNlhFVHA2X1JBTFhHQXA0M1BHZjkxc2NUaVhXbG53WlFIb0VR?oc=5",
-      "source": "Startup Fortune",
-      "published": "2026-11-15T04:50:35+00:00",
-      "summary": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups&nbsp;&nbsp;Startup Fortune"
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing GPT-6 Sol and Luna&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Introducing Businesses in ChatGPT - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-10T18:10:37+00:00",
+      "published": "2026-11-09T22:38:57+00:00",
       "summary": "Introducing Businesses in ChatGPT&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-10T15:04:04+00:00",
-      "summary": "Work at the Frontier: AI’s effect on freelance work&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters",
@@ -160,8 +160,15 @@
       "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-14T00:20:12+00:00",
+      "published": "2026-11-13T21:21:02+00:00",
       "summary": "Shield helps technicians hand off legacy portal work with OpenAI&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-10T15:04:04+00:00",
+      "summary": "Work at the Frontier: AI’s effect on freelance work&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace - OpenAI",
@@ -169,13 +176,6 @@
       "source": "OpenAI",
       "published": "2026-11-09T19:04:29+00:00",
       "summary": "ChatGPT Enterprise now available in AWS Marketplace&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZDVqU2NMbXRqaFZkVEJfcnRlUHMzT3hTUEV6V21mQmk2aS1MOW1Wb0pXYlZxd3JPTlJZcmxvSjZydzRtWGlMcG1WaTIwa2dMbjZLRnQ2XzFqX25SQ1FFSQ?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-11T05:05:22+00:00",
-      "summary": "ChatGPT Plus for veterans and servicemembers&nbsp;&nbsp;OpenAI"
     }
   ]
 }
