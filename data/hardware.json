@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-14T22:08:30.240078+00:00",
+  "generated": "2026-11-15T05:39:11.971860+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWNVcnZJbFJvVWlUZjFEOUladm5ad0lmZTZnSmE0TjFSRGFiQzB5XzBVRUpTNVdTMzk2ZUlsOXFyWHRIaTFMX09rdTNyZFRuNm1nbkowQ2RLTDlxdUhxZXd1clRxT3RQV0ZLUmxBWjJTenV0N1FZaXZwRTZfaDI4dzJ0MmxlN3RoUzJ1ZHpfNnRZQTRFa00zQUhuODhjT2JpV0pCLUw2VThCUzJ5RUNYa1g5bnNqUQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-11-11T17:08:55+00:00",
-      "summary": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-11-13T11:00:00+00:00",
+      "summary": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls&nbsp;&nbsp;Tom's Hardware"
     },
     {
       "title": "Google's new TPU systems tackle AI memory and data protection with existing chips - MarketScale",
@@ -17,11 +17,11 @@
       "summary": "Google's new TPU systems tackle AI memory and data protection with existing chips&nbsp;&nbsp;MarketScale"
     },
     {
-      "title": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-11-13T11:00:00+00:00",
-      "summary": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls&nbsp;&nbsp;Tom's Hardware"
+      "title": "U.S. lab says Chinese AI models trained on Nvidia Blackwell chips despite sanctions - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFRFVnhDbnY0TUFmLTEtTFZXeXVTMUJ2U3k0MTBIT1dLaUZXY3RhZGdiVG55UHdlWlVpNk5uMWtqUWcxWTJLU0pTLVVZT04tVmhIZUFVYl83dWhMdlJrbDNPUkpvbGJEd05HdGpTM3NkVUtLOW01cmlKeDZUU284cW5WLTNpaGo20gGcAUFVX3lxTE9UanE0aUdjbldQTUQ3enNWMEdZaEp0cDZrUkNjLTlJU1NtMnRNYjd0dUJMUi1FMjVsMlFpTl9Ob044M2tMdGtjV3J3bjFIMXROZlctdWdPUl9FY2h5VVZzc2Iwd0MxaEJjcldwZWhPcmdaNEx1SFBMeUZUXzhFV1psSUhJX1c4bHE0X19Od0pXVUlzMkhkLUhmOXphWg?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-14T23:07:00+00:00",
+      "summary": "U.S. lab says Chinese AI models trained on Nvidia Blackwell chips despite sanctions&nbsp;&nbsp;Chosunbiz"
     },
     {
       "title": "Nvidia’s retreat from Huang's circular AI financing won’t bring back affordable GeForce cards in 2027 - Notebookcheck",
@@ -36,13 +36,6 @@
       "source": "shattered.io",
       "published": "2026-11-12T05:43:35+00:00",
       "summary": "GPU vs TPU vs NPU: 4 AI Chip Camps Compared [2026]&nbsp;&nbsp;shattered.io"
-    },
-    {
-      "title": "Hyperscalers commit billions to next-gen AI data centers - ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3hwVjdSaHdrTXNkdFNDMGgwVkJFSWNSTXQ5QkFjUnRNTlUwZU1aYXhNeTVTcGZNdWIwQWVQXzZVUW5NUUdVV1doNWFHSlBMWDZHVGpKWUJDek01dUNYQXJPUWhFTzhDWHhZS2RxRGZOSzZjVHRsOUNKOGRhRGQ3Mk9zTHROSFBacW5IMW1aMUVvLVMzNWtlTzRnTEpGaFVtTGtxMU1COFlSVzVRR1QyVk1fLXdlQWFSZmxaMlNRTkxKVUxnX2tsTFY0cy1sWkNMbTUxdi1oVnUtT2ZDWF9v0gHjAUFVX3lxTE51T2JCYzdWZjdPU2h5ZUFDTm4zYWRMMXJtWHkxNHdXRlQ2RFc5U1lDWXFXTVdWcGtyLTNIR0p0YjFsLXpEQ2VXbnprMXFMMUxNeldLVHdNaXQ5S0MzZnM4U3ZWZ2VxSEI4N21BM0ZUU0E1VzYtZzQxZDNFZVBmOGpFV2pRMUcxaVZwVW9yMGdYUU0yMlJkd3M1SzRHc2RjOU56NXFTbUUwRHhSQ3JTTGFBMUp5REd5cWJFZ2J3NTJlMVpwYVlFb3dWTTFjQUU1RnFYaEJnUGt6OXRldlBieWRLV3RR?oc=5",
-      "source": "ET Datacenters",
-      "published": "2026-11-14T03:44:05+00:00",
-      "summary": "Hyperscalers commit billions to next-gen AI data centers&nbsp;&nbsp;ET Datacenters"
     },
     {
       "title": "Nvidia and the World Without Jensen - SemiAnalysis",
@@ -76,15 +69,8 @@
       "title": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang’s Cousin Rallies Amid Ex-CEO’s ‘Spy Soap Opera’ - The Daily Upside",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcFZWdnlkYTR0bTIxNm4xd1BYcmtLZWR5bENlWjlEX2N2bUdmX2VrMzZHeXFoemFCSUY1Tm54LWF2SnVJSklHVVNlZjI5WWt2MUVCX2NwNVU5QXlVYi1YNTVJYWplZHZRUHNUYjBkbjRpeUYzSmFKMjh0SF9ZTkVnbUZ1Q045SG1mX29ZM3F3RDE0NzFQX2k4amh4UnFncTdWUzNGZXZ6NGl2WGdYT3ZWWkRhZHpVZG93VjZwX19QYjRIQnRFem5QZkdFcmNteV82Q19PczNfVGFocGZQcGlOR25GaUNQUDFNR0dKbkVrZWZQZ0FGWWFXLUdKQ2N1SkU?oc=5",
       "source": "The Daily Upside",
-      "published": "2026-11-13T05:02:18+00:00",
+      "published": "2026-11-13T05:01:00+00:00",
       "summary": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang’s Cousin Rallies Amid Ex-CEO’s ‘Spy Soap Opera’&nbsp;&nbsp;The Daily Upside"
-    },
-    {
-      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
-      "source": "NVIDIA",
-      "published": "2026-11-10T18:36:10+00:00",
-      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
     },
     {
       "title": "Reuters identifies $3.2 billion in Chinese AI projects reliant on Nvidia - ForkLog",
@@ -94,13 +80,6 @@
       "summary": "Reuters identifies $3.2 billion in Chinese AI projects reliant on Nvidia&nbsp;&nbsp;ForkLog"
     },
     {
-      "title": "Gigabyte and Schneider Electric collaborate on AI factory infrastructure - ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa21qWE9jRnZMdHlZS0dSSFdVd0VlQzJfcTNGRm5raUtMSWZLNTU1em9FZGhObzZfeXZ6NTFHWkU3Zlpna3VUbEJqMnQwU0lfN0Q1dVYtOWJxS0Z0LVNsVkc0UzZHRUxGT1dYSlBSZmFWcUp1V3RadzVaVWR3ZVo5d252cE11cDFuT0VLdmN5ZjduYTU2VUZJMFBaRWJ1MWpEdjBkQTFHdi1ucDloY1YzdWo2UnFEMVh6dENScEtwVjJNcFkxMGFtN3FnUDJKcjhwbTFfUWI4R3RqWmJTVUtCV3F4c1ZQYU1YbHhfR2hCT3lOeWI20gH4AUFVX3lxTE51OWNZc01sQ2g3SVZTcVFkZnNFZmlsLW5rNnVCZC1JeVF2MnRQUC1sNUI1OEZHdnV6VTZVWlJMclB5cWIzQzlheDVaVDEweUJyeDJZWWUzRWdCbmRKMW9RMEJmN0pOVUhreDdhd0QycTRoRHZKMS1oXzluV2JGYy12TWpORFhjZGoxUmJtbDBXNXR3bVk4QWhmMnNTVF9vWkN2Uk00UjJFN0dlRm5maThXRVBZUl90dF9JUmxfakpsdjJnd3lBWGtnRl9FM2ptRUdlcmJxYTVMMmlSNHlNdDE3V2lIVXZqZEh3eTN2ZUdjc1UybnlEVllX?oc=5",
-      "source": "ET Datacenters",
-      "published": "2026-11-14T03:44:05+00:00",
-      "summary": "Gigabyte and Schneider Electric collaborate on AI factory infrastructure&nbsp;&nbsp;ET Datacenters"
-    },
-    {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
       "source": "NVIDIA Developer",
@@ -108,11 +87,18 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang — possible projects could include SpaceX’s planned GPU manufacturing, Terafab, or Tesla’s AI accelerators - Tom's Hardware",
+      "title": "Hyperscalers commit billions to next-gen AI data centers - ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3hwVjdSaHdrTXNkdFNDMGgwVkJFSWNSTXQ5QkFjUnRNTlUwZU1aYXhNeTVTcGZNdWIwQWVQXzZVUW5NUUdVV1doNWFHSlBMWDZHVGpKWUJDek01dUNYQXJPUWhFTzhDWHhZS2RxRGZOSzZjVHRsOUNKOGRhRGQ3Mk9zTHROSFBacW5IMW1aMUVvLVMzNWtlTzRnTEpGaFVtTGtxMU1COFlSVzVRR1QyVk1fLXdlQWFSZmxaMlNRTkxKVUxnX2tsTFY0cy1sWkNMbTUxdi1oVnUtT2ZDWF9v0gHjAUFVX3lxTE51T2JCYzdWZjdPU2h5ZUFDTm4zYWRMMXJtWHkxNHdXRlQ2RFc5U1lDWXFXTVdWcGtyLTNIR0p0YjFsLXpEQ2VXbnprMXFMMUxNeldLVHdNaXQ5S0MzZnM4U3ZWZ2VxSEI4N21BM0ZUU0E1VzYtZzQxZDNFZVBmOGpFV2pRMUcxaVZwVW9yMGdYUU0yMlJkd3M1SzRHc2RjOU56NXFTbUUwRHhSQ3JTTGFBMUp5REd5cWJFZ2J3NTJlMVpwYVlFb3dWTTFjQUU1RnFYaEJnUGt6OXRldlBieWRLV3RR?oc=5",
+      "source": "ET Datacenters",
+      "published": "2026-11-14T03:44:05+00:00",
+      "summary": "Hyperscalers commit billions to next-gen AI data centers&nbsp;&nbsp;ET Datacenters"
+    },
+    {
+      "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang — possible projects could include Terafab, SpaceX’s planned GPU manufacturing, or Tesla’s AI accelerators - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPdjI3LU9nVFl0aWJReVpvYkN0dWlFN3pjd0F4dzFxZTVUTlNWcklJQU9Jc1VRZUdld01seUZiSDBNSS12RENKZ2xUZ0dDZDJJSngwVGJNTzZxNWxpNkF6WVl5TDE4V0lRdWFrenUtMXdZaDZONGJiVlpyYW5HWlZ6cGIyTG5Mb3lETkpDSmNYcE00cjJvYkptS2YtMk8xZGhNUnhvaHNkSHhsbXl2RmlZNVZzRnhjRFpsMTBzbjdfdUxCWVFMbFlTbV9lVWdkR2hOWnRXRmhJcUx3TEtjeFdCN2FXTjltdDU4ME81R19EUGRCVzd1Y2FjMUc0Z1pndlgtdGY2SEJPY01FMUdmSnB2cnZxUzYteVNaX2tmU1pSRHVkczFPakFjVXRSN2hSWGVCUFlpdFFSQllUZWp0TjFqSlhlRHNKNWhLLVM3LXJoeGw4dw?oc=5",
       "source": "Tom's Hardware",
       "published": "2026-11-12T15:46:04+00:00",
-      "summary": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang — possible projects could include SpaceX’s planned GPU manufacturing, Terafab, or Tesla’s AI accelerators&nbsp;&nbsp;Tom's Hardware"
+      "summary": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang — possible projects could include Terafab, SpaceX’s planned GPU manufacturing, or Tesla’s AI accelerators&nbsp;&nbsp;Tom's Hardware"
     },
     {
       "title": "Nvidia’s AI Dominance Faces 2027 Turning Point, KB Securities Report Says - Businesskorea",
@@ -150,6 +136,13 @@
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
+      "title": "Gigabyte and Schneider Electric collaborate on AI factory infrastructure - ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa21qWE9jRnZMdHlZS0dSSFdVd0VlQzJfcTNGRm5raUtMSWZLNTU1em9FZGhObzZfeXZ6NTFHWkU3Zlpna3VUbEJqMnQwU0lfN0Q1dVYtOWJxS0Z0LVNsVkc0UzZHRUxGT1dYSlBSZmFWcUp1V3RadzVaVWR3ZVo5d252cE11cDFuT0VLdmN5ZjduYTU2VUZJMFBaRWJ1MWpEdjBkQTFHdi1ucDloY1YzdWo2UnFEMVh6dENScEtwVjJNcFkxMGFtN3FnUDJKcjhwbTFfUWI4R3RqWmJTVUtCV3F4c1ZQYU1YbHhfR2hCT3lOeWI20gH4AUFVX3lxTE51OWNZc01sQ2g3SVZTcVFkZnNFZmlsLW5rNnVCZC1JeVF2MnRQUC1sNUI1OEZHdnV6VTZVWlJMclB5cWIzQzlheDVaVDEweUJyeDJZWWUzRWdCbmRKMW9RMEJmN0pOVUhreDdhd0QycTRoRHZKMS1oXzluV2JGYy12TWpORFhjZGoxUmJtbDBXNXR3bVk4QWhmMnNTVF9vWkN2Uk00UjJFN0dlRm5maThXRVBZUl90dF9JUmxfakpsdjJnd3lBWGtnRl9FM2ptRUdlcmJxYTVMMmlSNHlNdDE3V2lIVXZqZEh3eTN2ZUdjc1UybnlEVllX?oc=5",
+      "source": "ET Datacenters",
+      "published": "2026-11-14T03:44:05+00:00",
+      "summary": "Gigabyte and Schneider Electric collaborate on AI factory infrastructure&nbsp;&nbsp;ET Datacenters"
+    },
+    {
       "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
       "source": "NVIDIA Developer",
@@ -176,6 +169,13 @@
       "source": "ChannelLife Australia",
       "published": "2026-11-11T03:08:38+00:00",
       "summary": "AMD chips power Google Cloud's confidential TPU 8tx&nbsp;&nbsp;ChannelLife Australia"
+    },
+    {
+      "title": "Who Will Benefit After Jensen Huang Resigns? AMD, Broadcom and TSMC Vie for Nvidia AI Chip Share - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRURTbDFsTXZJai1zZUh6enVIVDdOSmtTNGxLMDRwcUFZTXVPLWs1SlZtSEstTU9tX1hNX25NZ0hFbm40ekZ0SFZLZk83X0ZveFJvb0RYQ0UtRmNxVXlvZWxROEtrNE9vMnNVelJUUlRsNDRVLS10cUlrXzBXMEhncFJwZXA3aEUxeWdUcXNZYTlqSlVZa0ZIWEJUTW1MWWJTNXBiMXNCaHNRd2RtQURYYVpxQlVsRUo3UFdtQUVHSnJxWWJLc21lMmdSN1F6Vmc?oc=5",
+      "source": "TradingKey",
+      "published": "2026-11-13T06:58:40+00:00",
+      "summary": "Who Will Benefit After Jensen Huang Resigns? AMD, Broadcom and TSMC Vie for Nvidia AI Chip Share&nbsp;&nbsp;TradingKey"
     }
   ]
 }
