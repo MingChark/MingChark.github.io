@@ -1,14 +1,7 @@
 {
-  "generated": "2026-11-15T22:37:54.623123+00:00",
+  "generated": "2026-11-16T05:39:12.818176+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
-    {
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWNVcnZJbFJvVWlUZjFEOUladm5ad0lmZTZnSmE0TjFSRGFiQzB5XzBVRUpTNVdTMzk2ZUlsOXFyWHRIaTFMX09rdTNyZFRuNm1nbkowQ2RLTDlxdUhxZXd1clRxT3RQV0ZLUmxBWjJTenV0N1FZaXZwRTZfaDI4dzJ0MmxlN3RoUzJ1ZHpfNnRZQTRFa00zQUhuODhjT2JpV0pCLUw2VThCUzJ5RUNYa1g5bnNqUQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-11-11T17:08:55+00:00",
-      "summary": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
-    },
     {
       "title": "Jensen Huang Said Its China AI Business Was Dead. Reuters Just Found $3.2 Billion That Raises Questions - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkZmYTJfNS1xTy0yaEVaWDRzR3JVS0FqS191eU9GMy0xWXlHcWRTZ2FOdUNwUkoxemx1dGZIbUs0LV83TTl6SmVITlh6Z01ScXp0LWV0cDljSUJHdmhzcXMzeXRUNnBNX0hYekFOaXdhczVrc1B6cHZKMTItUWp4OFZQZkdCUHROVkViMHhyQl9rRkl0eVN4RnhuYURLNUllNXJiazJQV3RCQnl4bjRUV19fZ1Z6cEhCNHdjZ1Z2LW9KYXJlVHBVN3JUV1FNdnVHdHMwVGFNM1h0ZkRwRFE?oc=5",
@@ -24,11 +17,25 @@
       "summary": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls&nbsp;&nbsp;Tom's Hardware"
     },
     {
+      "title": "Samsung Seen as Biggest Winner From Shift Beyond Nvidia - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93U0NlbmZQTk5RZUJCNEp1LXh6aENNU2JGNzduZVVSeHBtci1kRUNiTFByNkpIbXV3WUF5cl84UElicmg1ZE1NRWhpdkZoVHNkWjl5QVk4RkIzR3NnQV9OcENXOHh3enFsQTh4RnFzLWp3V0sx?oc=5",
+      "source": "Businesskorea",
+      "published": "2026-11-16T00:59:30+00:00",
+      "summary": "Samsung Seen as Biggest Winner From Shift Beyond Nvidia&nbsp;&nbsp;Businesskorea"
+    },
+    {
       "title": "GPU vs TPU vs NPU: 4 AI Chip Camps Compared [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWbTc2bzFtMG5pelZtOUdyVUJDM01kNm9naG1VdjlwSW1FNl9KYTNUcHpuRGZ0QTF0NzdieU1Hc25nM0w1YThIdVVZQmszTGwtLU5ZbFJkOWdrTGg5ckpyaVc2T3A2LUt1ajVMalQ2Ni1FaDhvZmc?oc=5",
       "source": "shattered.io",
       "published": "2026-11-12T05:43:35+00:00",
       "summary": "GPU vs TPU vs NPU: 4 AI Chip Camps Compared [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "Google’s TPU 8tx and 8i Max: bandwidth vs. confidential inference - MarketScale",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeERCMlpHelpRTFBBVUx5N2FyX0RoRm1jclR6cGVHSVdob2pHQ3I3QW5iOGtxSW0tOGFib2VvN2NZbmZUdzh2a1VlRUxWREhYMUZwelpEN3hYTHpmMkxSckJDYUgxNGFFaktoM1ZaNGhtTWpQRGdoWE1YS3pqR3g1MFBKOUx3U25FOVFQS0h6cF9mdTFGa19oYkduOU1kNWo2RWVLaXpneVJYN0haTm1LRk5paHNTMXRBOUw2WmMwZVlvZ0xIbW14S2hVdGdsMjJpMHpTS2tBdkpZc2lxbFE?oc=5",
+      "source": "MarketScale",
+      "published": "2026-11-14T14:27:00+00:00",
+      "summary": "Google’s TPU 8tx and 8i Max: bandwidth vs. confidential inference&nbsp;&nbsp;MarketScale"
     },
     {
       "title": "AMD lands a key role in Google’s new TPU 8tx AI system - Crypto Briefing",
@@ -38,25 +45,18 @@
       "summary": "AMD lands a key role in Google’s new TPU 8tx AI system&nbsp;&nbsp;Crypto Briefing"
     },
     {
-      "title": "Google's new TPU systems tackle AI memory and data protection with existing chips - MarketScale",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeERCMlpHelpRTFBBVUx5N2FyX0RoRm1jclR6cGVHSVdob2pHQ3I3QW5iOGtxSW0tOGFib2VvN2NZbmZUdzh2a1VlRUxWREhYMUZwelpEN3hYTHpmMkxSckJDYUgxNGFFaktoM1ZaNGhtTWpQRGdoWE1YS3pqR3g1MFBKOUx3U25FOVFQS0h6cF9mdTFGa19oYkduOU1kNWo2RWVLaXpneVJYN0haTm1LRk5paHNTMXRBOUw2WmMwZVlvZ0xIbW14S2hVdGdsMjJpMHpTS2tBdkpZc2lxbFE?oc=5",
-      "source": "MarketScale",
-      "published": "2026-11-14T14:27:00+00:00",
-      "summary": "Google's new TPU systems tackle AI memory and data protection with existing chips&nbsp;&nbsp;MarketScale"
+      "title": "KB Securities predicted that Samsung Electronics will benefit the most as competition in the artific.. - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wTDJBaE40X09hODQ4MFhkV2NhVVUwWGNReXNSZUR2WGNyTGtpTUxGVjA2Y0FoS3JVMk5EQzVUV3FWdGo2TU1UWEpuZndNbGs?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-15T23:45:34+00:00",
+      "summary": "KB Securities predicted that Samsung Electronics will benefit the most as competition in the artific..&nbsp;&nbsp;매일경제"
     },
     {
-      "title": "Nvidia and the World Without Jensen - SemiAnalysis",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KakQ5VWxsZURJUjBsN256UlgyU3FBanR3VldBcVdTczdIb0JMbS1leGxfTlhBLWpYZUdXZjViYzBud0xOVV9LMm1HVVhIVGVZNlZyd1pRdTlOTF96c1JmVFYxT0RUNnR3NWRrSkZYRzlrMXZiakYyUTU2bG1Vdw?oc=5",
-      "source": "SemiAnalysis",
-      "published": "2026-11-12T18:06:26+00:00",
-      "summary": "Nvidia and the World Without Jensen&nbsp;&nbsp;SemiAnalysis"
-    },
-    {
-      "title": "Nvidia Might Not Be The Biggest Threat to AMD’s Current Market Position - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR05XdkF0emEtbEFzN1ZjNGEwV0JQMHFLSm5Qb3BVSDJvZWJXQU1MNThQZGoyczNKVVNWUG04aER0Qk1jcURfZEVDTWoxcnhaZmNqeUtqbF93dzBqcDZSWVFiaFRuaDE4Y3RxWVVKNTlicU52NmZfMVhBTFNHbXhLa09IQW16VWRrSUhNcVRjYURiVm5uYmczWWZFalRIamlyZVo4dU5nM0cwcmxpeldzbHlsbU8?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-12T15:45:00+00:00",
-      "summary": "Nvidia Might Not Be The Biggest Threat to AMD’s Current Market Position&nbsp;&nbsp;24/7 Wall St."
+      "title": "KB Securities says Samsung to benefit most as AI ecosystem diversifies beyond Nvidia - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQME5HSzM5T1FOLTl0QUR6aFZWUW5fWHhVMU9ITHBMalBUZ0l0ZFlXdlllS1RLWV83LU1fNHNES25fNHh0bVZsUVNaRjFXaFJYY2RoZVkyM3JwSnBpM1FhcFF2Ulh0TlNrOTRGZ1l6MTJXNk1sS0ZlWUZGNUpjeThGZtIBlAFBVV95cUxQWVNQWGFFLTQ3aUtxZTl4Wi1hcTh3cGd3QlNYOVlhblJHR3BmMnh3ZUVETGplZ2VJSnpOU0tFaVBLR0RXZ21xYmxoQmZ1cHNUUzN5eXFlSlpfT2dvMHdoZUtVd2d0VGwxSFBlMUtCbVZXdU9fUHpRZG5sbHhBeFRTN1pIQm9qdmNfSjlPbmZVYl80dldx?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-11-15T22:49:00+00:00",
+      "summary": "KB Securities says Samsung to benefit most as AI ecosystem diversifies beyond Nvidia&nbsp;&nbsp;Chosunbiz"
     },
     {
       "title": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs - Wccftech",
@@ -66,25 +66,18 @@
       "summary": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs&nbsp;&nbsp;Wccftech"
     },
     {
-      "title": "Nvidia’s retreat from Huang's circular AI financing won’t bring back affordable GeForce cards in 2027 - Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkx1OTk2emVxdExRTXpGTy1OVGNBM0YwZFRnbmV0VGg2ZGphWEFmTmc1M0taX1p3enBaY2hiM25JX3VDUGgxUHBUcmpDQWRvdm1FUF95QkZ2YkNwcy1ZdFU1YzBncGhfaEl1Nmg4TEhwQkFKMEJ1RmxBcEhHU1B2UEtFZU16bjhSdEdJT2RnZ016bVJ3VkhxTHJjdDlOZFVHTW1FTXVhek45YVhNYTBLUnV2ZlExQ3JXUXEtX0kyRVoxTHlkZjJMdjVrTnFwZm9URVRpSW9wSUdNekd1ZWo0?oc=5",
-      "source": "Notebookcheck",
-      "published": "2026-11-14T18:21:00+00:00",
-      "summary": "Nvidia’s retreat from Huang's circular AI financing won’t bring back affordable GeForce cards in 2027&nbsp;&nbsp;Notebookcheck"
-    },
-    {
-      "title": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang’s Cousin Rallies Amid Ex-CEO’s ‘Spy Soap Opera’ - The Daily Upside",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcFZWdnlkYTR0bTIxNm4xd1BYcmtLZWR5bENlWjlEX2N2bUdmX2VrMzZHeXFoemFCSUY1Tm54LWF2SnVJSklHVVNlZjI5WWt2MUVCX2NwNVU5QXlVYi1YNTVJYWplZHZRUHNUYjBkbjRpeUYzSmFKMjh0SF9ZTkVnbUZ1Q045SG1mX29ZM3F3RDE0NzFQX2k4amh4UnFncTdWUzNGZXZ6NGl2WGdYT3ZWWkRhZHpVZG93VjZwX19QYjRIQnRFem5QZkdFcmNteV82Q19PczNfVGFocGZQcGlOR25GaUNQUDFNR0dKbkVrZWZQZ0FGWWFXLUdKQ2N1SkU?oc=5",
-      "source": "The Daily Upside",
-      "published": "2026-11-13T05:01:00+00:00",
-      "summary": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang’s Cousin Rallies Amid Ex-CEO’s ‘Spy Soap Opera’&nbsp;&nbsp;The Daily Upside"
-    },
-    {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-10-13T07:00:00+00:00",
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Nvidia’s retreat from Huang's circular AI financing won’t bring back affordable GeForce cards in 2027 - Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkx1OTk2emVxdExRTXpGTy1OVGNBM0YwZFRnbmV0VGg2ZGphWEFmTmc1M0taX1p3enBaY2hiM25JX3VDUGgxUHBUcmpDQWRvdm1FUF95QkZ2YkNwcy1ZdFU1YzBncGhfaEl1Nmg4TEhwQkFKMEJ1RmxBcEhHU1B2UEtFZU16bjhSdEdJT2RnZ016bVJ3VkhxTHJjdDlOZFVHTW1FTXVhek45YVhNYTBLUnV2ZlExQ3JXUXEtX0kyRVoxTHlkZjJMdjVrTnFwZm9URVRpSW9wSUdNekd1ZWo0?oc=5",
+      "source": "Notebookcheck",
+      "published": "2026-11-14T18:21:00+00:00",
+      "summary": "Nvidia’s retreat from Huang's circular AI financing won’t bring back affordable GeForce cards in 2027&nbsp;&nbsp;Notebookcheck"
     },
     {
       "title": "Reuters identifies $3.2 billion in Chinese AI projects reliant on Nvidia - ForkLog",
@@ -108,13 +101,6 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Nvidia’s AI Dominance Faces 2027 Turning Point, KB Securities Report Says - Businesskorea",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pNzBuT0dEV3I3VXF0TG1uSDN3Y0tRRmtiWDVlR0twenR3Nm5YWnp1TGQxY05QV2NmZWZwVUZFOS1rM1JfTjdEczI0UzU0S2NQU0FYTEZYRk9QSXVDM0VrbFczeFhLMllOYkJpT1hZVVlzX2hm?oc=5",
-      "source": "Businesskorea",
-      "published": "2026-11-12T02:17:05+00:00",
-      "summary": "Nvidia’s AI Dominance Faces 2027 Turning Point, KB Securities Report Says&nbsp;&nbsp;Businesskorea"
-    },
-    {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
       "source": "NVIDIA Developer",
@@ -129,13 +115,6 @@
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "US Lab: China's DeepSeek and Kimi Trained on Nvidia's Most Advanced Chips - news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zN3FGczBKT21zRXluekJtN0ZhbmV0aXd2aTNUUGlxaThPZ3JNRks1azZrM3M3S2U3a0RmRko2SVNUaElOUGdrODBSM1FEVFBLczJRa0h5cFVDbGtuV2dWOVNXTXQ3WUZVaFV3RFV3?oc=5",
-      "source": "news.sbs.co.kr",
-      "published": "2026-11-15T00:22:00+00:00",
-      "summary": "US Lab: China's DeepSeek and Kimi Trained on Nvidia's Most Advanced Chips&nbsp;&nbsp;news.sbs.co.kr"
-    },
-    {
       "title": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China - MLQ.ai",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXZiTnZQV3Fka0hSYTJoM0gwYlllckVQaXZtOXliZ0lhM3k1LXNHTkQ1RHRyZl9JUW9LSFo1ckFROG1Ea0lMbjFKeHJWS01Bbmh0STk4ZHZCQ2dWdlBPYnFWZ0VyaERPNGU1MlU3Z1gyMHg1LWFELVB6Q2xDUVFmZktKclRWdF9Ud21LdkFQOEtJWUpDRFE?oc=5",
       "source": "MLQ.ai",
@@ -143,18 +122,25 @@
       "summary": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China&nbsp;&nbsp;MLQ.ai"
     },
     {
-      "title": "Nvidia After Huang: The Next GPU Investment Wave Will Shape Korea’s HBM Growth - Korea IT Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1veUVQdEMzY3A3R0hHYU95bjd1REZTWW1PbmJTMXIyTDJPOWxIbnBGTklmQ1cwLU1HSEZ4SzlWdHFCQS1hNE1CNS11dHdpTlRaOWFseTVrVFhtb2VaZTdBRVlkczlkTDlhNzF5eUVyQTA?oc=5",
-      "source": "Korea IT Times",
-      "published": "2026-11-13T10:36:00+00:00",
-      "summary": "Nvidia After Huang: The Next GPU Investment Wave Will Shape Korea’s HBM Growth&nbsp;&nbsp;Korea IT Times"
-    },
-    {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN201YmZQQ1VvVDJNcVZKdFQ2S0xwRUVZYjdmeW9sMzJzbnhmNXFTdkxSV2NMQU43SDlNMDBrUVRNZUJ3WU9DQ3hkRDFmQmFrUjZoeG1maVVXOTVBcWxRU3lITmt5MDdhSEdlNEp6ekV4NGhiRm9WS1JSUjZMV0lGWW5TeDRWSm9xaXI0RjFYZHJfb3pCbmJVcWY1TnpKaHUxaVAyaQ?oc=5",
       "source": "NVIDIA Developer",
       "published": "2026-01-05T08:00:00+00:00",
       "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "US Lab: China's DeepSeek and Kimi Trained on Nvidia's Most Advanced Chips - news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zN3FGczBKT21zRXluekJtN0ZhbmV0aXd2aTNUUGlxaThPZ3JNRks1azZrM3M3S2U3a0RmRko2SVNUaElOUGdrODBSM1FEVFBLczJRa0h5cFVDbGtuV2dWOVNXTXQ3WUZVaFV3RFV3?oc=5",
+      "source": "news.sbs.co.kr",
+      "published": "2026-11-15T00:22:00+00:00",
+      "summary": "US Lab: China's DeepSeek and Kimi Trained on Nvidia's Most Advanced Chips&nbsp;&nbsp;news.sbs.co.kr"
+    },
+    {
+      "title": "Nvidia After Huang: The Next GPU Investment Wave Will Shape Korea’s HBM Growth - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1veUVQdEMzY3A3R0hHYU95bjd1REZTWW1PbmJTMXIyTDJPOWxIbnBGTklmQ1cwLU1HSEZ4SzlWdHFCQS1hNE1CNS11dHdpTlRaOWFseTVrVFhtb2VaZTdBRVlkczlkTDlhNzF5eUVyQTA?oc=5",
+      "source": "Korea IT Times",
+      "published": "2026-11-13T10:36:00+00:00",
+      "summary": "Nvidia After Huang: The Next GPU Investment Wave Will Shape Korea’s HBM Growth&nbsp;&nbsp;Korea IT Times"
     },
     {
       "title": "Who Will Benefit After Jensen Huang Resigns? AMD, Broadcom and TSMC Vie for Nvidia AI Chip Share - TradingKey",
@@ -176,6 +162,20 @@
       "source": "The Official Microsoft Blog",
       "published": "2026-01-26T08:00:00+00:00",
       "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
+    },
+    {
+      "title": "10 top AI hardware and chip-making companies in 2026 - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtjczdfNm85VkZhR3V2OFpnZ1N0TjV0enprMkRWdzY3LVRzRm8yaXRvcklvRXQxMmllTW4yUm4xOU53dmFKMkVNNWJoMHE5UzN2dkl2MFdyQmt2aUFZeUVjMjZpemU3MlR1RXdsY1ozdEVpV3JCSUJWbGdVWXpLS3FKaUtvYWlCRkh2eHU3S3ZkQ1JWRjZr?oc=5",
+      "source": "TechTarget",
+      "published": "2026-01-30T08:00:00+00:00",
+      "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
+    },
+    {
+      "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Vera Rubin Opens Agentic AI Frontier&nbsp;&nbsp;NVIDIA Newsroom"
     }
   ]
 }
