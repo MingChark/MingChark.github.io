@@ -1,7 +1,49 @@
 {
-  "generated": "2026-11-17T01:44:33.565576+00:00",
+  "generated": "2026-11-17T15:42:28.290412+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days - www.trendingtopics.eu",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTTVTRVFhWjB1RjB4TE8wZV96UHQ3QVNoV0JWcmZlTFhXYnh4cDZZRDNUd0hSVnhBb2ZVZ0RpYTFOZ3pLNHctWTU2Snp2OVZkb3diTjdsdWl4OXV0TGJhVlY0enRfSzNEYUNLbXUxUk1aOUJwVkE?oc=5",
+      "source": "www.trendingtopics.eu",
+      "published": "2026-11-17T11:57:44+00:00",
+      "summary": "Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days&nbsp;&nbsp;www.trendingtopics.eu"
+    },
+    {
+      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-11-17T06:52:57+00:00",
+      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
+    },
+    {
+      "title": "AMD Closes Taalas Deal to Add Model-Specific AI Inference Chips - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSklZR0JNcUZoVkR3bzQzQzVDSnVMMk1XNlRXemtrRUxETG5rbWtpc2paenYtWVptLWp0M2Frb1ZVTk04dlNIYjRValV6VmRkS08tRzkybkVwMEhCWHZaaXo2dWlnUmN6bk9HR1o4UGhPZDFzLVJIU2lWSVlKTnl3Q3dlQmJvMkcxaEhqQ2h3?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-17T14:36:02+00:00",
+      "summary": "AMD Closes Taalas Deal to Add Model-Specific AI Inference Chips&nbsp;&nbsp;Unite.AI"
+    },
+    {
+      "title": "AMD MI430X targets scientific computing and AI - Jon Peddie",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFZNUVU4VENKZDZvY2VBd0VjMlNJUFgzWHRFOUlqM1RpRWpmYWlDNWQ2N19JWmMybklFR3h0cEZrdzhHV3hpRXptT3JRZG5TeVl3NlUxLVFZekhnZklLeFdQdmx1c3RBNjBzWFZnYkpsY2poRmw4SkprWGwzdkZrUzlJT2w?oc=5",
+      "source": "Jon Peddie",
+      "published": "2026-11-16T20:30:10+00:00",
+      "summary": "AMD MI430X targets scientific computing and AI&nbsp;&nbsp;Jon Peddie"
+    },
+    {
+      "title": "AI Chip Market Expectations Plummet: Sharply Reduced Outlooks for Artificial Intelligence Semiconductors - eu.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mYS1EVUhKMXF5WWFISUt2elZocE5zQlVMTzF3aURaMWtwUjV6b1QxbWlkQXRxS1p1STdxcE94OXZSM25ZOFF5M3BBNnFOOVdZNktz?oc=5",
+      "source": "eu.36kr.com",
+      "published": "2026-11-17T02:21:07+00:00",
+      "summary": "AI Chip Market Expectations Plummet: Sharply Reduced Outlooks for Artificial Intelligence Semiconductors&nbsp;&nbsp;eu.36kr.com"
+    },
+    {
+      "title": "Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVjFpOTdPc2VJcERVbXVCYmJsSmNLSmstbG9aanBiQzRCVVpQb1JIc2R0RHJVWHBSQnN2SFh2WFc5QlF1SXlWYkdWYmg2aEVyeHkzZFRkU2k0VjhISzdCWDFSeUJjM3ZOcW9zSC1PVkhDYzBoaFRtd3AwY0hQUW9GeVJQT2NCUTR3Mlo2clFvay1NUlh3ck1peVhlTnVVeTBtX1NrZGZwUjF4bktzdU51OG1XNGlRNkJ4bi1peEFtUnZpRWMtdmFKUjFaelJnc2E3OXV0Uk9pRUY4bXQ5cnBN?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-17T12:00:00+00:00",
+      "summary": "Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs&nbsp;&nbsp;TradingView"
+    },
     {
       "title": "Up to 1.5 Million Nvidia AI Chips May Have Been Smuggled Into China Before Jensen Huang’s Exit - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1NDMms3VkJSdlJ5VzJuX0wtR3hScUxUQ2g1TFFGU1h4Ukd6SzlUZzFnbDYwazBheFY3QjFISnFrUTgxSTFmc21zZHNUY2szWTMtZ1hNaEZLc3BFU1lONUl4M2hoRHAxY29hejlmZ0xlbDJqSHdPQ2tGc3ROSUZ6VXhVQlJMaG1QNmhTc21R?oc=5",
@@ -10,11 +52,18 @@
       "summary": "Up to 1.5 Million Nvidia AI Chips May Have Been Smuggled Into China Before Jensen Huang’s Exit&nbsp;&nbsp;Yahoo Finance"
     },
     {
-      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
-      "source": "NVIDIA",
-      "published": "2026-11-16T18:52:57+00:00",
-      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
+      "title": "Nvidia GPU Shortage Seen Lasting Through FY2028, Boosting Korean Memory Makers - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yaEsxeWhnVkpRVmw2c0lxR3JmM3FSekVkaW1WUzM0dk45UV9vWkY4YWhSV0RDM0lxMkZtTTJhT0VONW5tdWdDNDJ2NGtNMXFRcUJUR01yTDQ3RDlHTUc5WV85cVlOYzBHM3VTdW1GdlVYM0tU?oc=5",
+      "source": "Businesskorea",
+      "published": "2026-11-17T02:12:24+00:00",
+      "summary": "Nvidia GPU Shortage Seen Lasting Through FY2028, Boosting Korean Memory Makers&nbsp;&nbsp;Businesskorea"
+    },
+    {
+      "title": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW11ZllIbGV5eF9id3NmbHlLN0MwcXRFMHBkSnlaRFI0Uzc2ZEJpelMyY0JEYW9oRS1ZWWszNEZFVkxiMnRUc01pa0NKczRyQ29tbi1DR3A1djNCeWtGVkNfeEg3M3FLMUdGSnl2NXFRSXl2WnRxaVlsOFFkQXRKcmJzU004NnJCOTFTZWttenEtQW45QVc1LW5GeWRudl8yb0UxNF9vb2RDWm1oNE1tV2tSUHNfTk1kOHBSRzhQQldPUFFGOVdad1FRSUdtdw?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-17T03:41:00+00:00",
+      "summary": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26&nbsp;&nbsp;TradingView"
     },
     {
       "title": "AI Infrastructure Boom Hits the Brakes: SemiAnalysis Slashes 2028 Capex Forecast by Nearly 30%, Nvidia the Biggest Casualty - BigGo Finance",
@@ -24,39 +73,18 @@
       "summary": "AI Infrastructure Boom Hits the Brakes: SemiAnalysis Slashes 2028 Capex Forecast by Nearly 30%, Nvidia the Biggest Casualty&nbsp;&nbsp;BigGo Finance"
     },
     {
-      "title": "NVIDIA adds Python support for edge AI inference on Jetson devices - Developer Tech News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU12QkVBdzVqc3NNQUtkT081d3AwUVBWY2RPN3VoQ3pNNTRxV0VNOGp6Ni0yZE4zVjhZejhHeW9JSGg5ckQyTl9ob3BSWm9SQzRiQnZPNld1aU5adFlVVVNUNmlvQURxOUFOYTJDZGI3ZTZnaDJGUEV4aHJaRzdUNw?oc=5",
-      "source": "Developer Tech News",
-      "published": "2026-11-16T10:18:27+00:00",
-      "summary": "NVIDIA adds Python support for edge AI inference on Jetson devices&nbsp;&nbsp;Developer Tech News"
-    },
-    {
-      "title": "Nvidia's weakening AI chip dominance to benefit Samsung: analysts - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWG00MG5ZY0F1RU45TlppOXB3NHpnLXdWZ2s4d3dHZjdfOEVyZnZ0WmNvX2VEOXNzclFQc1RQNTJiM3lkNUQ3UjBwbUc5WkFGUWVLVVl3M0pYcThDbTVKWUZRaDFRcjA3cmdiN2tjdTN4U2Q1bFVUU1ZvRkM1MjJoRmJXMEdTdm43UmgtZzRWMktGVmp2ZVoyUVUtR2ZBcW1jcDRBNy1WNFVZRVlXWEF5N0RGandYTlFIOVA1SmF6Ry3SAcYBQVVfeXFMTzBUcWs5X09nUkVIRGNBdE82ZXJ0VERtSENXUTROY1JhcXBSamVTZy1qRmdZcGwwNmJXRExhMXEzTXRPdXdzSENSa1FHSFp3czJIM0hKUXRmMzdMX2h3QWZaZVBqbTJiUkc2cDFRcGdyZENDaEl4NExNZzdLTmQyY0Z3WHdPRFZ1MnFSOXJUay0yS2NRRU5nWTBCLVY3RUh4VGtWaVRrTmdPU2pSV2JZOTI2V0dvMUNpR1ROdzg2U21tT1VsNzdB?oc=5",
-      "source": "The Korea Times",
-      "published": "2026-11-16T06:46:03+00:00",
-      "summary": "Nvidia's weakening AI chip dominance to benefit Samsung: analysts&nbsp;&nbsp;The Korea Times"
-    },
-    {
-      "title": "Jensen Huang Said Its China AI Business Was Dead. Reuters Just Found $3.2 Billion That Raises Questions - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkZmYTJfNS1xTy0yaEVaWDRzR3JVS0FqS191eU9GMy0xWXlHcWRTZ2FOdUNwUkoxemx1dGZIbUs0LV83TTl6SmVITlh6Z01ScXp0LWV0cDljSUJHdmhzcXMzeXRUNnBNX0hYekFOaXdhczVrc1B6cHZKMTItUWp4OFZQZkdCUHROVkViMHhyQl9rRkl0eVN4RnhuYURLNUllNXJiazJQV3RCQnl4bjRUV19fZ1Z6cEhCNHdjZ1Z2LW9KYXJlVHBVN3JUV1FNdnVHdHMwVGFNM1h0ZkRwRFE?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-15T16:21:00+00:00",
-      "summary": "Jensen Huang Said Its China AI Business Was Dead. Reuters Just Found $3.2 Billion That Raises Questions&nbsp;&nbsp;24/7 Wall St."
-    },
-    {
-      "title": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM And Near-NVFP4 Precision - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmN1WWlGXzdsSm83VHU2ZlpIVzg3TTM2TzRkblU2dldBZ29ueUhhdF9xdTJnVTNQTDBRdmo1OEtwODY5NWpKQ3FFWjdJV2x6M0x5OTdrQ0FZZVU1bFVPNXpBX2lMOFJFLUVsTjRRMUhvc2lYOUdRYWRuUEVURW1yX3ItOFlBUlFrbEZDSW1DRkxrSE9sY3Jrd00yN002NXNINU9yR0VHdWU1TldkSzExS1lvVjFYZGVkUWhZMW130gHDAUFVX3lxTE5WYXdUaTMxM0pFQ1NnRGJxZmd1cTZDbFd3NTlYNVhsTnlfZWxsdjlheWpYTzd2TERkVWJIa3IxRjh6dG1PXzl5UlVPdnNBeGZPMkppRUhsaHc3WG1wWnU0SjRGdmVabGVCbEhyNFR2N0ZnQ2EteWtWZllHMlVGZEtOR29yQjRvZzZScFJ6MUxwd1ZJWTBQeG1BNk50UmhmVFNpcFJ2SEVPVW9IdDZQWlJtbHlxdnNRTDFBbFo1Umx6YVU1MA?oc=5",
-      "source": "Wccftech",
-      "published": "2026-11-16T12:48:09+00:00",
-      "summary": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM And Near-NVFP4 Precision&nbsp;&nbsp;Wccftech"
-    },
-    {
       "title": "Google’s TPU 8tx and 8i Max: bandwidth vs. confidential inference - MarketScale",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeERCMlpHelpRTFBBVUx5N2FyX0RoRm1jclR6cGVHSVdob2pHQ3I3QW5iOGtxSW0tOGFib2VvN2NZbmZUdzh2a1VlRUxWREhYMUZwelpEN3hYTHpmMkxSckJDYUgxNGFFaktoM1ZaNGhtTWpQRGdoWE1YS3pqR3g1MFBKOUx3U25FOVFQS0h6cF9mdTFGa19oYkduOU1kNWo2RWVLaXpneVJYN0haTm1LRk5paHNTMXRBOUw2WmMwZVlvZ0xIbW14S2hVdGdsMjJpMHpTS2tBdkpZc2lxbFE?oc=5",
       "source": "MarketScale",
       "published": "2026-11-14T14:27:00+00:00",
       "summary": "Google’s TPU 8tx and 8i Max: bandwidth vs. confidential inference&nbsp;&nbsp;MarketScale"
+    },
+    {
+      "title": "NVIDIA adds Python support for edge AI inference on Jetson devices - Developer Tech News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU12QkVBdzVqc3NNQUtkT081d3AwUVBWY2RPN3VoQ3pNNTRxV0VNOGp6Ni0yZE4zVjhZejhHeW9JSGg5ckQyTl9ob3BSWm9SQzRiQnZPNld1aU5adFlVVVNUNmlvQURxOUFOYTJDZGI3ZTZnaDJGUEV4aHJaRzdUNw?oc=5",
+      "source": "Developer Tech News",
+      "published": "2026-11-16T10:18:27+00:00",
+      "summary": "NVIDIA adds Python support for edge AI inference on Jetson devices&nbsp;&nbsp;Developer Tech News"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
@@ -66,34 +94,6 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVM2Ynh0TU5uTXY2anNORURZTHJzOFFzTlJNdVpyYlJiTE5fbnJvVTdGSXZoOGVsTDVJU2ZKM0JzeTBYQ3dpQnllYWc3ZC1NRGVTY1dXUU1aZVJtYmpUeU9TT2xCclF3RFNCaGhzRTRSaThXUHQtWnZoSWFGYklReHZGRzNXSVFLZFdJaVVLWVE2QXlSLXhSR1JvMS1GcEY1QnFoZ21pZk01OW84eFHSAbMBQVVfeXFMTjI0eWhUc05UMVl1ei03YVpsYXRFZ0lkUEtWOHp3ajBhNUd6OC1TUmNrM1NuU0xwTmtURWdQLUZLMUxMaF9mSjRydXdYSFNaM3ltVm9jdDlhOU9BZi1BOVNudlpZSGlTUEhfQzZEVXVWQTUtS1hkVjFYWHV5WHFEcEJUVWZtREFtVUpVTGZHU1hlaXFCOVZ6NFYzTExaYlk3RENPTGpQOGttdm1GNE5UeGdBOVE?oc=5",
-      "source": "Wccftech",
-      "published": "2026-11-14T14:00:00+00:00",
-      "summary": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs&nbsp;&nbsp;Wccftech"
-    },
-    {
-      "title": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFRWV0Q4T3k2RjYtX2MxVG0wWTRwaEE5d3JoQ0s5c3piQ2xZSEI0SlhSUnltYTc0REZiRHVXTEJ3c0RfaVpmczJObzY1enJRUVBsV1VyNVRoQWRKeThnT0xzZFY1ay1QaHZnTGd2dTBRSkNhdmxaY1NlWGlQdkFXSjhRVHV4a1Zmb1VjYklicHFvbFh4RV9EV0xuMEw0cEpkckhSWDI1OFI2U1lfZFhoYWdOQmZDT0w2OUE1MWVn?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-16T22:27:18+00:00",
-      "summary": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks&nbsp;&nbsp;MLQ.ai"
-    },
-    {
-      "title": "Hyperscalers commit billions to next-gen AI data centers - ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3hwVjdSaHdrTXNkdFNDMGgwVkJFSWNSTXQ5QkFjUnRNTlUwZU1aYXhNeTVTcGZNdWIwQWVQXzZVUW5NUUdVV1doNWFHSlBMWDZHVGpKWUJDek01dUNYQXJPUWhFTzhDWHhZS2RxRGZOSzZjVHRsOUNKOGRhRGQ3Mk9zTHROSFBacW5IMW1aMUVvLVMzNWtlTzRnTEpGaFVtTGtxMU1COFlSVzVRR1QyVk1fLXdlQWFSZmxaMlNRTkxKVUxnX2tsTFY0cy1sWkNMbTUxdi1oVnUtT2ZDWF9v0gHjAUFVX3lxTE51T2JCYzdWZjdPU2h5ZUFDTm4zYWRMMXJtWHkxNHdXRlQ2RFc5U1lDWXFXTVdWcGtyLTNIR0p0YjFsLXpEQ2VXbnprMXFMMUxNeldLVHdNaXQ5S0MzZnM4U3ZWZ2VxSEI4N21BM0ZUU0E1VzYtZzQxZDNFZVBmOGpFV2pRMUcxaVZwVW9yMGdYUU0yMlJkd3M1SzRHc2RjOU56NXFTbUUwRHhSQ3JTTGFBMUp5REd5cWJFZ2J3NTJlMVpwYVlFb3dWTTFjQUU1RnFYaEJnUGt6OXRldlBieWRLV3RR?oc=5",
-      "source": "ET Datacenters",
-      "published": "2026-11-14T03:44:05+00:00",
-      "summary": "Hyperscalers commit billions to next-gen AI data centers&nbsp;&nbsp;ET Datacenters"
-    },
-    {
-      "title": "AMD lands a key role in Google’s new TPU 8tx AI system - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lcS1KQ1RWcEhCeDZHWElZNnpYeGpaakdIcnNvR0V1T19CenBaSGRLMUx3ZWdXM2JiZjA3NGxxLTlldEs5bk1acW5lY0h2U3JNMHRsZ0JYOUtZeFk5Sk1TVUFVSmRmTTV4cTk0S01nUTU?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-11-15T13:28:57+00:00",
-      "summary": "AMD lands a key role in Google’s new TPU 8tx AI system&nbsp;&nbsp;Crypto Briefing"
-    },
-    {
       "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
       "source": "AIMultiple",
@@ -101,11 +101,11 @@
       "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
-      "title": "Samsung Seen as Biggest Winner From Shift Beyond Nvidia - Businesskorea",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93U0NlbmZQTk5RZUJCNEp1LXh6aENNU2JGNzduZVVSeHBtci1kRUNiTFByNkpIbXV3WUF5cl84UElicmg1ZE1NRWhpdkZoVHNkWjl5QVk4RkIzR3NnQV9OcENXOHh3enFsQTh4RnFzLWp3V0sx?oc=5",
-      "source": "Businesskorea",
-      "published": "2026-11-16T00:59:30+00:00",
-      "summary": "Samsung Seen as Biggest Winner From Shift Beyond Nvidia&nbsp;&nbsp;Businesskorea"
+      "title": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM And Near-NVFP4 Precision - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmN1WWlGXzdsSm83VHU2ZlpIVzg3TTM2TzRkblU2dldBZ29ueUhhdF9xdTJnVTNQTDBRdmo1OEtwODY5NWpKQ3FFWjdJV2x6M0x5OTdrQ0FZZVU1bFVPNXpBX2lMOFJFLUVsTjRRMUhvc2lYOUdRYWRuUEVURW1yX3ItOFlBUlFrbEZDSW1DRkxrSE9sY3Jrd00yN002NXNINU9yR0VHdWU1TldkSzExS1lvVjFYZGVkUWhZMW130gHDAUFVX3lxTE5WYXdUaTMxM0pFQ1NnRGJxZmd1cTZDbFd3NTlYNVhsTnlfZWxsdjlheWpYTzd2TERkVWJIa3IxRjh6dG1PXzl5UlVPdnNBeGZPMkppRUhsaHc3WG1wWnU0SjRGdmVabGVCbEhyNFR2N0ZnQ2EteWtWZllHMlVGZEtOR29yQjRvZzZScFJ6MUxwd1ZJWTBQeG1BNk50UmhmVFNpcFJ2SEVPVW9IdDZQWlJtbHlxdnNRTDFBbFo1Umx6YVU1MA?oc=5",
+      "source": "Wccftech",
+      "published": "2026-11-16T12:48:09+00:00",
+      "summary": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM And Near-NVFP4 Precision&nbsp;&nbsp;Wccftech"
     },
     {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
@@ -122,11 +122,18 @@
       "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXZiTnZQV3Fka0hSYTJoM0gwYlllckVQaXZtOXliZ0lhM3k1LXNHTkQ1RHRyZl9JUW9LSFo1ckFROG1Ea0lMbjFKeHJWS01Bbmh0STk4ZHZCQ2dWdlBPYnFWZ0VyaERPNGU1MlU3Z1gyMHg1LWFELVB6Q2xDUVFmZktKclRWdF9Ud21LdkFQOEtJWUpDRFE?oc=5",
+      "title": "SemiAnalysis sharply cuts AI compute forecasts: 2028 capital expenditure forecast lowered by nearly 30%, five-year silicon wafer shipment area cut by 17%, with NVIDIA hit hardest. - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0xlOXlCMGJCdlBvX1g3YzdkTEdvbGlvRm9pNWoxRXp3dVE2X3NvWEswUm1oak1mdjVxVWMzMFJobXBRSTlVTG5zbktDMmVSV3EtTklsRFRQOEcwRlJscE5ZQTkwU2x0VmU1X015Q1NSblphazZackhwX3dLMXFaSm1nSjZkWVpiSTh2c1RINDJDMmdrNFNEQlZlSUU4U3pDNkVUVE12V1Qwc0gyWWEtd2VvZzFnS2pxNDVkWXhKdnM?oc=5",
+      "source": "富途牛牛",
+      "published": "2026-11-16T11:38:10+00:00",
+      "summary": "SemiAnalysis sharply cuts AI compute forecasts: 2028 capital expenditure forecast lowered by nearly 30%, five-year silicon wafer shipment area cut by 17%, with NVIDIA hit hardest.&nbsp;&nbsp;富途牛牛"
+    },
+    {
+      "title": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFRWV0Q4T3k2RjYtX2MxVG0wWTRwaEE5d3JoQ0s5c3piQ2xZSEI0SlhSUnltYTc0REZiRHVXTEJ3c0RfaVpmczJObzY1enJRUVBsV1VyNVRoQWRKeThnT0xzZFY1ay1QaHZnTGd2dTBRSkNhdmxaY1NlWGlQdkFXSjhRVHV4a1Zmb1VjYklicHFvbFh4RV9EV0xuMEw0cEpkckhSWDI1OFI2U1lfZFhoYWdOQmZDT0w2OUE1MWVn?oc=5",
       "source": "MLQ.ai",
-      "published": "2026-11-13T14:12:01+00:00",
-      "summary": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China&nbsp;&nbsp;MLQ.ai"
+      "published": "2026-11-16T22:27:18+00:00",
+      "summary": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks&nbsp;&nbsp;MLQ.ai"
     },
     {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
@@ -169,13 +176,6 @@
       "source": "NVIDIA",
       "published": "2026-03-16T19:36:38+00:00",
       "summary": "NVIDIA Groq 3 LPX: Interactive AI Inference Accelerator for Agentic AI&nbsp;&nbsp;NVIDIA"
-    },
-    {
-      "title": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnREa0xvSW5oajJHZTJXZ3AtZy1QZmF0cEdhUm0tUzQ3dlljdVV6RDViVy1jWTkxeXkwVnNHQ2hYcVRneXpfTVlJYWx0SjdXaDBEY19FMkpCem9xQ21INk4xa3RvMVk4ZzJsX1JIZWhQUmFzMnRIcURsRmEtOWxiVU5XVENFUUhEdnFxOGRxbkZZblctYW5HNXZWWUV6T2pWQWd3UmdCVXpsS3VhdXc?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-02-04T08:00:00+00:00",
-      "summary": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
