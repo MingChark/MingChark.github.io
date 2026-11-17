@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T15:15:35.207256+00:00",
+  "generated": "2026-11-17T01:44:33.565576+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -108,18 +108,18 @@
       "summary": "Updates to Apple’s On-Device and Server Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "A list of large language models (LLMs) - IBM",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
-      "source": "IBM",
-      "published": "2025-03-10T07:00:00+00:00",
-      "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
-    },
-    {
       "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
       "source": "Nature",
       "published": "2026-06-12T07:00:00+00:00",
       "summary": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "A list of large language models (LLMs) - IBM",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
+      "source": "IBM",
+      "published": "2025-03-10T07:00:00+00:00",
+      "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
     },
     {
       "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
@@ -150,11 +150,11 @@
       "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
     },
     {
-      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
-      "source": "AI at Meta",
-      "published": "2024-04-18T07:00:00+00:00",
-      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
+      "source": "Nature",
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
       "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
@@ -164,11 +164,11 @@
       "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
-      "source": "Nature",
-      "published": "2025-08-05T07:00:00+00:00",
-      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
+      "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
+      "source": "AI at Meta",
+      "published": "2024-04-18T07:00:00+00:00",
+      "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
     },
     {
       "title": "Foundation-sec-8b: Cisco Foundation AI’s First Open-Source Security Model - Cisco Blogs",
