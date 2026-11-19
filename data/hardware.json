@@ -1,13 +1,34 @@
 {
-  "generated": "2026-11-18T15:22:31.407875+00:00",
+  "generated": "2026-11-19T00:03:04.411549+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
+    {
+      "title": "TPU vs GPU: 288 GB B300, 432 GB MI455X, 0 Prices - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWklOWGF0ZVlvX1RHLVR5SEZSclpSMzlIc0V0LXpKZjNuUUpieEJCNHFZQ20yU2tPUUc3UEFOS1MyZVdmVTRPemNDSHQxVlBJSnVUM096ajF5OC1jbkN6NGtFMW53SkFLMXJ4VENndDB2ejRPZDVKYnR3LXdmblVkQnVPYzl1QQ?oc=5",
+      "source": "shattered.io",
+      "published": "2026-11-18T20:04:08+00:00",
+      "summary": "TPU vs GPU: 288 GB B300, 432 GB MI455X, 0 Prices&nbsp;&nbsp;shattered.io"
+    },
     {
       "title": "U.S. Tightens AI Chip Exports to Southeast Asia Data Centers - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemdqVnhncWdEcktNZzJ6bTRPcnJTREg2eWtPOFM3ZmRqckNDWDNRMjl0VVdiaWlkRkhLbUZJQngzTjd6V2F1ZXRBbGFCSmRJMHdXQWNzcjJuUGs0Z09DSzNaaE1ZRXdLUnNxOUZQcG5pR243RXBxMDNuYjZ1SnN0YzduaFNQMTBsMFU0cTUyOUlDVm1COVY4?oc=5",
       "source": "The Tech Buzz",
       "published": "2026-11-18T08:31:56+00:00",
       "summary": "U.S. Tightens AI Chip Exports to Southeast Asia Data Centers&nbsp;&nbsp;The Tech Buzz"
+    },
+    {
+      "title": "AI Chip Market Expectations Plummet: Sharply Reduced Outlooks for Artificial Intelligence Semiconductors - eu.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mYS1EVUhKMXF5WWFISUt2elZocE5zQlVMTzF3aURaMWtwUjV6b1QxbWlkQXRxS1p1STdxcE94OXZSM25ZOFF5M3BBNnFOOVdZNktz?oc=5",
+      "source": "eu.36kr.com",
+      "published": "2026-11-17T02:21:07+00:00",
+      "summary": "AI Chip Market Expectations Plummet: Sharply Reduced Outlooks for Artificial Intelligence Semiconductors&nbsp;&nbsp;eu.36kr.com"
+    },
+    {
+      "title": "Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGRxQWtwUVk2d0VkVGpBdTBGbnVjeHFzOEpiNDdBR056UFJxMXFiTVRCc09UdC13YldqMG84WVIybkE4RTV4M0NMdWtySE9EMjlxb20tS0ZTbnVxX0RRYzA1TjR5UktZV3VYVnBkakhxMllncmFEbE9QNFhBRFM0MVJmaVk2WGtoNS1tUUpJcXB2aUtHSFVRSVVkWV9wblF6M3pabU5ZcG5fVktTbjFnSnMwVUc?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-11-18T19:39:00+00:00",
+      "summary": "Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook&nbsp;&nbsp;24/7 Wall St."
     },
     {
       "title": "Nvidia has halted exports of high-performance AI processors to China - UkrMedia News",
@@ -17,6 +38,13 @@
       "summary": "Nvidia has halted exports of high-performance AI processors to China&nbsp;&nbsp;UkrMedia News"
     },
     {
+      "title": "Police raid on Megaspeed office finds empty server racks and no NVIDIA GPUs - TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2VBRHI0Wm9aTmhUTldQc3k4eDU4dTBZNU51VHB3V2I1dkRCcW5VZFRfZi1rYzNGV0NwVXAwa2NnajI4Nzd4QkthTzJXTDZWMldwbm5Zcnd4aFFWWkZEQXVhYVAzX1FueHdZU25DR1oxOWlLRXZNZEp4WURmaFdPZ1ZCM3IxWWtuUEplYlN3dGdIcE5ueHEyeC1YTWNUeUFyTTBrNVdfWUpkelMtbUR4bk1SUHA0UjFRRHZxbFlidmVlQQ?oc=5",
+      "source": "TweakTown",
+      "published": "2026-11-18T04:12:10+00:00",
+      "summary": "Police raid on Megaspeed office finds empty server racks and no NVIDIA GPUs&nbsp;&nbsp;TweakTown"
+    },
+    {
       "title": "AMD MI430X targets scientific computing and AI - Jon Peddie",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFZNUVU4VENKZDZvY2VBd0VjMlNJUFgzWHRFOUlqM1RpRWpmYWlDNWQ2N19JWmMybklFR3h0cEZrdzhHV3hpRXptT3JRZG5TeVl3NlUxLVFZekhnZklLeFdQdmx1c3RBNjBzWFZnYkpsY2poRmw4SkprWGwzdkZrUzlJT2w?oc=5",
       "source": "Jon Peddie",
@@ -24,53 +52,11 @@
       "summary": "AMD MI430X targets scientific computing and AI&nbsp;&nbsp;Jon Peddie"
     },
     {
-      "title": "GPU giants throw HPC users some tasty crumbs - The Register",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjFuNmtyOGw2SXd3ME13SnItM1lKMXlCdFNRUmlLZkQtRERNallLTDFBTXdzVEhYVlFUSkg2NnotRDhpbXFrZThsd04yamlKZW9VYjR2OWt3blhnUGJ6TlBnQWRRRG8tRkN6Zk9zUUNTcmwwN2xkZDAyNzA0SXhicTVGNEpvUm5sRF85WjNCV1N2NFlYeHRGY1dTMA?oc=5",
-      "source": "The Register",
-      "published": "2026-11-17T22:37:46+00:00",
-      "summary": "GPU giants throw HPC users some tasty crumbs&nbsp;&nbsp;The Register"
-    },
-    {
-      "title": "AMD Pushes Instinct MI350P Into Windows Server 2025, Betting On-Prem AI Inference - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pd3BiMEltNTRtZ2p1X242d3ZjazEtejNhOHotc2hoR3V3OFpNRUY3SU9oakExZTByR05BMU4tSFlJVG1SSTh1eWFnNE81WXppSTYwMDRlVHNqSWg5QjhyaGE2VEloVzJkNm9lRXZzNDdFMDRvQmc?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-18T04:25:00+00:00",
-      "summary": "AMD Pushes Instinct MI350P Into Windows Server 2025, Betting On-Prem AI Inference&nbsp;&nbsp;BigGo Finance"
-    },
-    {
-      "title": "AMD strengthens its AI stack with Taalas acquisition - OC3D",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1JCXzgwN0NjbTI3Mk5CRnFCVzUtdXJUdDdmcUJNODJGUDJpZm9DcWtVWmJaMkNyMjB1UzcyWWdPcUtubThvdlVsYzhNaS1Vb2ZLdUFxM1dpclQtajFsVFVzcUhVc0tFWHlmaVl1Z2FvRklwci1uS2tSazh6V0M4ekwwY2hVdU1hTkVEYW54RVU?oc=5",
-      "source": "OC3D",
-      "published": "2026-11-17T16:03:29+00:00",
-      "summary": "AMD strengthens its AI stack with Taalas acquisition&nbsp;&nbsp;OC3D"
-    },
-    {
-      "title": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWEotQkJhNVMzZGpLOVN2WXJNODhzOEt1WFZ4RnpodmJPOWxBTDl5bnhtcUVqRmlNaXdwd3k0LWNzdDZKMm1GdDVvenZwTnpVZmdtR1IyZ2RPRTNiN3liUThFUTE3Z2JqV0RSaFktODItR0tJb3Y3YXZCZkNVSS1FdmxVYWl0bDN4MmJDekFsLXNwTnloQUlGVzc0T3Q3WkhhVUREaWlvTjBjQlFxRWMzQTROMDR0YXRFTlZlbUxiZFBkMzluRWJfb2RNMW9wOGxzYk5rNFVoXzNZa0dINlpN?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-17T19:39:00+00:00",
-      "summary": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "CUDA turns 20, with 11 million developers - Jon Peddie",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01SUxPcVloRzcwbEJQUC1Rek41a0YxOGpoWlZ5SFRNS2YtZ2x1eEZZZjZmMktxMDBGSHc4T0pVTkRjelpSaDFEM04tdDU0azFyaDJqVEc4Mmo5LU9VaTdfSkY4aldvVFJaR1NYNWlGbGZITVJiOE5rYzNWQmk?oc=5",
-      "source": "Jon Peddie",
-      "published": "2026-11-17T16:54:04+00:00",
-      "summary": "CUDA turns 20, with 11 million developers&nbsp;&nbsp;Jon Peddie"
-    },
-    {
-      "title": "AMD acquires Taalas and World Labs to expand AI chip and model development - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03bFF5Q3JQM0gtaFh5RkM5SW1TRldRQ3h5MHF2Y3VVRkNlNlFUYktPVjRBSmdXTndiWXBEWmhGcEo3cENfS0x6elhMSVZuRHpOakg2T3VEcmNFWDNEUDcxN3JnVDRmeEgtakxmRUZIRlA4OFlKanFndUxB0gGOAUFVX3lxTFBReEMtRjZma2RENFhudWVjVHlQR2xNRC1RYnhTdmZUUEtMOFNIOFVlWkNFQUVGa0xSSEhiREVBNUsybHZyZHRObllCbmh1UEVMMnJ4Z0x4V0J5ZUtnRDRhQV9GU0JsM0ZsWUxldU9IQkRZWnlWRVV2T19BMU4xa0JRQmNaSGpkNXVZWEJpRFE?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-18T09:01:00+00:00",
-      "summary": "AMD acquires Taalas and World Labs to expand AI chip and model development&nbsp;&nbsp;Chosunbiz"
-    },
-    {
-      "title": "OpenAI Signs 457 MW AI Data Center Deal as AMD Expands Its Challenge to Nvidia - Coinpaper",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnJMSnhsWEgxay01STh2T2FWamxyTzNBX0c1bmEwTTFxYm9neTd4bkdnQVJrUktkZThibnVxeWVRNWJWT0NzcTNhbUpybkc0ZUlCSF9Rc3pYbXNDcG02U1RRRzB3dW1wUENtaE1aLXZEejBYNW9uMVFJVEdWY0l3RmxpSTlMbGFoVVNlcHpsYXJqTmxDemxqbGEyOHVVQzZWa29ONlZ0YUF1Vjg?oc=5",
-      "source": "Coinpaper",
-      "published": "2026-11-17T16:33:59+00:00",
-      "summary": "OpenAI Signs 457 MW AI Data Center Deal as AMD Expands Its Challenge to Nvidia&nbsp;&nbsp;Coinpaper"
+      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-11-17T06:52:57+00:00",
+      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
     },
     {
       "title": "Nvidia GPU Shortage Seen Lasting Through FY2028, Boosting Korean Memory Makers - Businesskorea",
@@ -80,11 +66,25 @@
       "summary": "Nvidia GPU Shortage Seen Lasting Through FY2028, Boosting Korean Memory Makers&nbsp;&nbsp;Businesskorea"
     },
     {
-      "title": "AMD Closes Taalas Deal to Add Model-Specific AI Inference Chips - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSklZR0JNcUZoVkR3bzQzQzVDSnVMMk1XNlRXemtrRUxETG5rbWtpc2paenYtWVptLWp0M2Frb1ZVTk04dlNIYjRValV6VmRkS08tRzkybkVwMEhCWHZaaXo2dWlnUmN6bk9HR1o4UGhPZDFzLVJIU2lWSVlKTnl3Q3dlQmJvMkcxaEhqQ2h3?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-17T14:36:02+00:00",
-      "summary": "AMD Closes Taalas Deal to Add Model-Specific AI Inference Chips&nbsp;&nbsp;Unite.AI"
+      "title": "OpenAI Signs 457 MW AI Data Center Deal as AMD Expands Its Challenge to Nvidia - Coinpaper",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnJMSnhsWEgxay01STh2T2FWamxyTzNBX0c1bmEwTTFxYm9neTd4bkdnQVJrUktkZThibnVxeWVRNWJWT0NzcTNhbUpybkc0ZUlCSF9Rc3pYbXNDcG02U1RRRzB3dW1wUENtaE1aLXZEejBYNW9uMVFJVEdWY0l3RmxpSTlMbGFoVVNlcHpsYXJqTmxDemxqbGEyOHVVQzZWa29ONlZ0YUF1Vjg?oc=5",
+      "source": "Coinpaper",
+      "published": "2026-11-17T16:33:59+00:00",
+      "summary": "OpenAI Signs 457 MW AI Data Center Deal as AMD Expands Its Challenge to Nvidia&nbsp;&nbsp;Coinpaper"
+    },
+    {
+      "title": "AMD strengthens its AI stack with Taalas acquisition - OC3D",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1JCXzgwN0NjbTI3Mk5CRnFCVzUtdXJUdDdmcUJNODJGUDJpZm9DcWtVWmJaMkNyMjB1UzcyWWdPcUtubThvdlVsYzhNaS1Vb2ZLdUFxM1dpclQtajFsVFVzcUhVc0tFWHlmaVl1Z2FvRklwci1uS2tSazh6V0M4ekwwY2hVdU1hTkVEYW54RVU?oc=5",
+      "source": "OC3D",
+      "published": "2026-11-17T16:03:29+00:00",
+      "summary": "AMD strengthens its AI stack with Taalas acquisition&nbsp;&nbsp;OC3D"
+    },
+    {
+      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
+      "source": "AIMultiple",
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
     },
     {
       "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics - NVIDIA Blog",
@@ -94,11 +94,32 @@
       "summary": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "Neysa deploys 8,192 AMD GPUs in Mumbai to scale AI infrastructure - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPODQwYUc5ZXU2Mk5GVUtpNGxWX1dVR290UEF2ZHdLcFR3cHRIUy1FR09WWjhiZ3lvS0NfbllFRllMNER0cUdFbXpsX291Smo2SjFrRl9QaUVqSlYxWkN1dUhLck5UX2xqUGwxdUVEblhOeHFRTFBvNjZ2T3hoWUdha0VOZVdqUGRlQ2VtaVpkVDVfV2t4THhWWi04aEI0MjMxSmJvUmNjalZnbEFNM1A0bm1WS1MwemctbkJEYU5FZkhzRmRMU3M2Wk53TlI2VWRzT01ybU9JVE1XX21XSVHSAeMBQVVfeXFMT21IMkhnTXQ1YlRnazJSUnlPS2NMS2hYY0lwSHNoLXVUbW1tTDNiWW0zVWdDNHFqemktNzM0U0R1djR3SEs0Z2ZTc3RlVFhXZV8zLVZtNlVrc1lfQS1UcDhxd3JtZ3YtLVN4SnNWSVR3RnhJWWcwSTIwTi03emRqT2pUYTBwUjBZcEZVbUJHc3Z4dE1pbUlZVzFGLXNydURJb0UwMHBKaG1tS0VvMFRGdzhYeGpYc014Z0s3cmo5bE9VdlROMU96U1MwZ0ZjejQ1LUE2TXRJSGdCYmwtd3VxSkxiYlk?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-11-18T13:27:30+00:00",
-      "summary": "Neysa deploys 8,192 AMD GPUs in Mumbai to scale AI infrastructure&nbsp;&nbsp;Moneycontrol.com"
+      "title": "GPU giants throw HPC users some tasty crumbs - The Register",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjFuNmtyOGw2SXd3ME13SnItM1lKMXlCdFNRUmlLZkQtRERNallLTDFBTXdzVEhYVlFUSkg2NnotRDhpbXFrZThsd04yamlKZW9VYjR2OWt3blhnUGJ6TlBnQWRRRG8tRkN6Zk9zUUNTcmwwN2xkZDAyNzA0SXhicTVGNEpvUm5sRF85WjNCV1N2NFlYeHRGY1dTMA?oc=5",
+      "source": "The Register",
+      "published": "2026-11-17T22:37:46+00:00",
+      "summary": "GPU giants throw HPC users some tasty crumbs&nbsp;&nbsp;The Register"
+    },
+    {
+      "title": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWEotQkJhNVMzZGpLOVN2WXJNODhzOEt1WFZ4RnpodmJPOWxBTDl5bnhtcUVqRmlNaXdwd3k0LWNzdDZKMm1GdDVvenZwTnpVZmdtR1IyZ2RPRTNiN3liUThFUTE3Z2JqV0RSaFktODItR0tJb3Y3YXZCZkNVSS1FdmxVYWl0bDN4MmJDekFsLXNwTnloQUlGVzc0T3Q3WkhhVUREaWlvTjBjQlFxRWMzQTROMDR0YXRFTlZlbUxiZFBkMzluRWJfb2RNMW9wOGxzYk5rNFVoXzNZa0dINlpN?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-17T19:39:00+00:00",
+      "summary": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms&nbsp;&nbsp;TradingView"
+    },
+    {
+      "title": "Intel Publishes Benchmarks for D270 \"Crescent Island\" GPU, Claims Wins Over RTX PRO 6000 - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1k2ckJac3hXdUVhdkJtei1UZTVmVEdZa3RqcGFsNXF5RzlIbWxwbDhJTXJXSWsya2Zjc19oNlVBVkpLTjJyRUVwdThkUVdTMzd4ME04OW5kZUsxaDVqY0k3ckgtOGJaUU01QWVMNUhyQmpLWjVnVDlrbWhUSExTS0ZCZngwN2lpa2tHandIWHBEdWJjS0ZfblZjYUlnWG9FVjJTaWU2Slg1OHJFS0xoTDdldDFjcDVicHYxWtIBwgFBVV95cUxNTjRDemZQN2l2YWM1bEVLRmNaWFRBbHI0b1FfdlZQbWc5cHFod285SGVBTENXeHY5Z1VBQUtKMXp5QktxanAtZ2V6aHBqRy0zd0FsNUxmOUZzbl90UTd0dUtKR2w0REFkYzNaT05QUjZXdndEcmZDVXY5MldWU0o5OEM4aXk3SVdMZVN2UXZxTGRFdXlJSzZ2WUwtd3NTX1ZGVEdMVE1LbmN4U0xWcDBUQ3k3TEswck9wUVJQaDd0NVZ1Zw?oc=5",
+      "source": "TechPowerUp",
+      "published": "2026-11-17T15:16:01+00:00",
+      "summary": "Intel Publishes Benchmarks for D270 \"Crescent Island\" GPU, Claims Wins Over RTX PRO 6000&nbsp;&nbsp;TechPowerUp"
+    },
+    {
+      "title": "AMD Pushes Instinct MI350P Into Windows Server 2025, Betting On-Prem AI Inference - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pd3BiMEltNTRtZ2p1X242d3ZjazEtejNhOHotc2hoR3V3OFpNRUY3SU9oakExZTByR05BMU4tSFlJVG1SSTh1eWFnNE81WXppSTYwMDRlVHNqSWg5QjhyaGE2VEloVzJkNm9lRXZzNDdFMDRvQmc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-18T04:25:00+00:00",
+      "summary": "AMD Pushes Instinct MI350P Into Windows Server 2025, Betting On-Prem AI Inference&nbsp;&nbsp;BigGo Finance"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
@@ -115,32 +136,11 @@
       "summary": "Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs&nbsp;&nbsp;TradingView"
     },
     {
-      "title": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028 - ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR284TGNDTVNUOHVXUnM0NkZraTZOTk9JZlhidUVQY1JKLVF3UjA3ZTdrWkszNVozRG8ybE1CU1dkaEJVSy16UG9ld1FFNWhkZjE0MjBoS2FjNmlsQktRYlZ2V1dLYWJZNzc0TDllQU1RMm5wUmZEdGhvdG1adVNNSUNDc0loY3VGTzRIak0wd1Ixa3V2ZHVhWk8zUm4yNF9pd2RZ?oc=5",
-      "source": "ServeTheHome",
-      "published": "2026-11-17T15:45:19+00:00",
-      "summary": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028&nbsp;&nbsp;ServeTheHome"
-    },
-    {
-      "title": "Intel Publishes Benchmarks for D270 \"Crescent Island\" GPU, Claims Wins Over RTX PRO 6000 - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1k2ckJac3hXdUVhdkJtei1UZTVmVEdZa3RqcGFsNXF5RzlIbWxwbDhJTXJXSWsya2Zjc19oNlVBVkpLTjJyRUVwdThkUVdTMzd4ME04OW5kZUsxaDVqY0k3ckgtOGJaUU01QWVMNUhyQmpLWjVnVDlrbWhUSExTS0ZCZngwN2lpa2tHandIWHBEdWJjS0ZfblZjYUlnWG9FVjJTaWU2Slg1OHJFS0xoTDdldDFjcDVicHYxWtIBwgFBVV95cUxNTjRDemZQN2l2YWM1bEVLRmNaWFRBbHI0b1FfdlZQbWc5cHFod285SGVBTENXeHY5Z1VBQUtKMXp5QktxanAtZ2V6aHBqRy0zd0FsNUxmOUZzbl90UTd0dUtKR2w0REFkYzNaT05QUjZXdndEcmZDVXY5MldWU0o5OEM4aXk3SVdMZVN2UXZxTGRFdXlJSzZ2WUwtd3NTX1ZGVEdMVE1LbmN4U0xWcDBUQ3k3TEswck9wUVJQaDd0NVZ1Zw?oc=5",
-      "source": "TechPowerUp",
-      "published": "2026-11-17T15:16:01+00:00",
-      "summary": "Intel Publishes Benchmarks for D270 \"Crescent Island\" GPU, Claims Wins Over RTX PRO 6000&nbsp;&nbsp;TechPowerUp"
-    },
-    {
-      "title": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW11ZllIbGV5eF9id3NmbHlLN0MwcXRFMHBkSnlaRFI0Uzc2ZEJpelMyY0JEYW9oRS1ZWWszNEZFVkxiMnRUc01pa0NKczRyQ29tbi1DR3A1djNCeWtGVkNfeEg3M3FLMUdGSnl2NXFRSXl2WnRxaVlsOFFkQXRKcmJzU004NnJCOTFTZWttenEtQW45QVc1LW5GeWRudl8yb0UxNF9vb2RDWm1oNE1tV2tSUHNfTk1kOHBSRzhQQldPUFFGOVdad1FRSUdtdw?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-17T03:41:00+00:00",
-      "summary": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26&nbsp;&nbsp;TradingView"
-    },
-    {
-      "title": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5",
-      "source": "AIMultiple",
-      "published": "2026-10-13T07:00:00+00:00",
-      "summary": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors&nbsp;&nbsp;AIMultiple"
+      "title": "NVIDIA Rubin HPC: More than 50,000 CUDA cores and seventh-generation NVLink for 2028 - igor´sLAB",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHVwcTgtX0R2RDBDZ3lTbTJrbEV2Y1U5eFVHZDZLbUprSjE5UjNuS09vYlRyX2VJQWdyY2dxMHRIcmp1Tm4wdklCZVQxOVlfZEJfMi10WDdiTVdvaXI5MXNHdFB6bTFIajBaNzNEYW4wbUJ6UkllMUFZdDdBR0hoMkxYLWYwY1ZNNzBPbjVCZ2V4c29vOWFHVXlNVllZZw?oc=5",
+      "source": "igor´sLAB",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "NVIDIA Rubin HPC: More than 50,000 CUDA cores and seventh-generation NVLink for 2028&nbsp;&nbsp;igor´sLAB"
     },
     {
       "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
@@ -150,11 +150,11 @@
       "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVW11ZllIbGV5eF9id3NmbHlLN0MwcXRFMHBkSnlaRFI0Uzc2ZEJpelMyY0JEYW9oRS1ZWWszNEZFVkxiMnRUc01pa0NKczRyQ29tbi1DR3A1djNCeWtGVkNfeEg3M3FLMUdGSnl2NXFRSXl2WnRxaVlsOFFkQXRKcmJzU004NnJCOTFTZWttenEtQW45QVc1LW5GeWRudl8yb0UxNF9vb2RDWm1oNE1tV2tSUHNfTk1kOHBSRzhQQldPUFFGOVdad1FRSUdtdw?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-17T03:41:00+00:00",
+      "summary": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26&nbsp;&nbsp;TradingView"
     },
     {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
@@ -164,18 +164,18 @@
       "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
-      "source": "The Official Microsoft Blog",
-      "published": "2026-01-26T08:00:00+00:00",
-      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
+      "title": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028 - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR284TGNDTVNUOHVXUnM0NkZraTZOTk9JZlhidUVQY1JKLVF3UjA3ZTdrWkszNVozRG8ybE1CU1dkaEJVSy16UG9ld1FFNWhkZjE0MjBoS2FjNmlsQktRYlZ2V1dLYWJZNzc0TDllQU1RMm5wUmZEdGhvdG1adVNNSUNDc0loY3VGTzRIak0wd1Ixa3V2ZHVhWk8zUm4yNF9pd2RZ?oc=5",
+      "source": "ServeTheHome",
+      "published": "2026-11-17T15:45:19+00:00",
+      "summary": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028&nbsp;&nbsp;ServeTheHome"
     },
     {
-      "title": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFRWV0Q4T3k2RjYtX2MxVG0wWTRwaEE5d3JoQ0s5c3piQ2xZSEI0SlhSUnltYTc0REZiRHVXTEJ3c0RfaVpmczJObzY1enJRUVBsV1VyNVRoQWRKeThnT0xzZFY1ay1QaHZnTGd2dTBRSkNhdmxaY1NlWGlQdkFXSjhRVHV4a1Zmb1VjYklicHFvbFh4RV9EV0xuMEw0cEpkckhSWDI1OFI2U1lfZFhoYWdOQmZDT0w2OUE1MWVn?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-16T22:27:18+00:00",
-      "summary": "Intel says its D270 data center GPU beats Nvidia's RTX PRO 6000 by up to 5.9 times in first benchmarks&nbsp;&nbsp;MLQ.ai"
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }

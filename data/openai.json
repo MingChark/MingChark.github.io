@@ -1,56 +1,7 @@
 {
-  "generated": "2026-11-18T15:22:31.407875+00:00",
+  "generated": "2026-11-19T00:03:04.411549+00:00",
   "query": "OpenAI",
   "articles": [
-    {
-      "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available - The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhQQ0QwU01kcHNpY2FqUERROWJrSG5obWVmWm1TQmxHRFZBMUlWMkFnUkp4TmhlQ1VHQlFSSm4tNGQ1TmFNX28xSkVCWUtVX3kwLTd4Q0ktVHZOWUhXS1NZVE1jWjkxZDVYenhUTmZYUUM4SUhKRUtkZ3pZa05lZENmTVc5YnNnMEM0UDdaYXhieDFjT1BUcQ?oc=5",
-      "source": "The GitHub Blog",
-      "published": "2026-11-17T20:20:29+00:00",
-      "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available&nbsp;&nbsp;The GitHub Blog'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users&nbsp;&nbsp;VentureBeatOpenAI Unveils New Astra AI Model After Scrapping Prior Release&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3JNTjZ1QkdUMEhpN0oxeDREM0Voc2IxM2dVaFBqaE0xQkpsaTJlWTc2TkZLS3lUcVNMOURBLWpWcFEzSXVlejVraERGc1pZeFZjT1IteG9PSGtvQlhkRE1OOC1YVjVMTVI2bGdpb3FVcEZTaElxdms4MnlXQU9udzlMVmVBYy1qWXZ2aUxBWEQ4UmxyNms0MWtWamdOeFpGTzZ5WXUxWUc1VFRiOTVlYklmMmUwVkEtRFAw?oc=5",
-      "source": "Ars Technica",
-      "published": "2026-11-17T18:13:34+00:00",
-      "summary": "OpenAI sued by California after admitting to 80 loss-of-control incidents&nbsp;&nbsp;Ars Technica"
-    },
-    {
-      "title": "California sues OpenAI over hacking risks - NPR",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVENfR2JteXlPbExMQ0pZTFlwaldLRTRhbTR4ZEQ1bzZXSHZjQmhQb3hjMS1ITGxuSVlSaE1qQWNvamJsNDNPZTU4RlBZdlZaNXoyVXdDWTVzTjJFaDZ1SjdHSzhJaXFDUG41NGFKN0FDWTVRQjVpQUtxbGV5X1dwRzN0Y2MtY2ZpVmVEZTB6UUFjRzNGTEZZWU5zMngwdw?oc=5",
-      "source": "NPR",
-      "published": "2026-11-16T22:06:22+00:00",
-      "summary": "California sues OpenAI over hacking risks&nbsp;&nbsp;NPR"
-    },
-    {
-      "title": "California AG Accuses OpenAI of Misleading and Endangering the Public - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1BJNG1IYjgtcXFUWURleDlpR3BnRTBzcTA2V0Y1Zl9YNjkwLVVhU0xpMnI4bHVwUS10aVJVMkJOdUkwdnRpeVVTSDBFM2JLajJiZHpGQk13NnNILS0tSzBWb2p4SnctUnQyRFVtYXEtU0ROQUMxbjB0bFI2WXFteVhrTnU2SzZ1dWc4Q3hsR1pjYlpYMGRtU09lNGkwZF9wNllOZWQxTTRPdw?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-16T20:19:00+00:00",
-      "summary": "California AG Accuses OpenAI of Misleading and Endangering the Public&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "DealBook Summit Live Updates: OpenAI Executives Sam Altman and Greg Brockman Speak - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-18T15:19:22+00:00",
-      "summary": "DealBook Summit Live Updates: OpenAI Executives Sam Altman and Greg Brockman Speak&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNV9XcFZiZXAtTlhlNmt2YmpCREQ5VWFqSkY4NV80V1B2QlBDLWZQc3J5ODBuWHpZeU02NzB4Qy1uWUtfS1ZuZ3pxcGRqZG5FS2s4RklEN19mQzRZZmlKOXpuZUxCcGxnOFlYcEJ1NlZVc3NaLVVvVUJjWFlKd0I3LWluMTZRXzBOcTRFWFE0QjdmLXVjOEtkWTJHN1czRERjcy1BaXFSQVpjMVVXQkxtX3hEdV9STDJHb3dvaWZB?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-18T15:05:43+00:00",
-      "summary": "OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang&nbsp;&nbsp;CNBC"
-    },
-    {
-      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough - NPR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5",
-      "source": "NPR",
-      "published": "2026-11-18T10:00:00+00:00",
-      "summary": "OpenAI announces new AI safety program; researchers worry it won't be enough&nbsp;&nbsp;NPR"
-    },
     {
       "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI - The Information",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
@@ -59,18 +10,53 @@
       "summary": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI&nbsp;&nbsp;The Information"
     },
     {
-      "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-17T18:18:54+00:00",
-      "summary": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI&nbsp;&nbsp;Reuters"
+      "title": "Microsoft’s $500 Million ByteDance Deal Dismays OpenAI - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkxPZldyWnBFZUJ2TExfRVdFM3JFTktqdm5SaEMwRVdrajR5NUpocktpcjFrRHozQ2k3NTc3ZDdvdGdCZEE3bkhocUlYTUVsQTdCTjhJRDFKbF9LZTljNG1BVFMxbTF4eEt3Z3hPajV5dkRsMm4zeVJQaVptTXhLN3E5dEQxcUh2WGFveFdPazRnU3dPY0dhOW9vMEliN25lQXA4SlEycFB0N05ZREVv?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2026-11-18T20:33:33+00:00",
+      "summary": "Microsoft’s $500 Million ByteDance Deal Dismays OpenAI&nbsp;&nbsp;PYMNTS.com"
     },
     {
-      "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
-      "source": "Axios",
-      "published": "2026-11-17T18:31:47+00:00",
-      "summary": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models&nbsp;&nbsp;Axios"
+      "title": "ByteDance nears $500m Azure deal for OpenAI models, The Information reports - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zTVhUeUVaT3ZTX0ZPVHRGdFBoQkQ3aFdJazNKWDdkWGFfaXhVRkVyZXVRYjYySHZGNmZiZGJWX1R3dVd5VXFxbEVlQnVNSllfVXZsandSN0tJQjd1ZWtCYWdrbTVWazQ3WjNndDExVTlKQkhtdG1hU0Y4TDQ?oc=5",
+      "source": "The Next Web",
+      "published": "2026-11-18T14:53:39+00:00",
+      "summary": "ByteDance nears $500m Azure deal for OpenAI models, The Information reports&nbsp;&nbsp;The Next Web"
+    },
+    {
+      "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available - The GitHub Blog",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhQQ0QwU01kcHNpY2FqUERROWJrSG5obWVmWm1TQmxHRFZBMUlWMkFnUkp4TmhlQ1VHQlFSSm4tNGQ1TmFNX28xSkVCWUtVX3kwLTd4Q0ktVHZOWUhXS1NZVE1jWjkxZDVYenhUTmZYUUM4SUhKRUtkZ3pZa05lZENmTVc5YnNnMEM0UDdaYXhieDFjT1BUcQ?oc=5",
+      "source": "The GitHub Blog",
+      "published": "2026-11-17T20:20:29+00:00",
+      "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available&nbsp;&nbsp;The GitHub Blog"
+    },
+    {
+      "title": "Oregon Sues OpenAI for $2 Billion, Says ChatGPT Puts Kids in Harm’s Way - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VQNHM4bHdDYVlPcERnc2hYZmZnQkt5aXNvRUM1ak9yaGU3bks2UlQ0dTJSVjgza0ZESzZtNWFIQko4ekRXTkFRLWk4a1c4SE1qb2g3MTlDMzdwRzNXemRJYkdtMEZRYTh5a3R5SEUteldxZC1hNER1djVwS3dubm1pVQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-18T22:51:31+00:00",
+      "summary": "Oregon Sues OpenAI for $2 Billion, Says ChatGPT Puts Kids in Harm’s Way&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXEtVV9aMmdJbkZqQllsMExBMkd4WUVkdE1KUUQyNDl2M1hYaDNVQ3FTLVR1TjBPMElDdWJuQ2JhamxBWmgzdkdSQjllZ3RxMHVXLXN5UTUyWkxmQ1M3MXRSS1RYNG9Sb1l5RWFfU0FPNUFZeGtlckVDeTBGVm9oQ3NNUnNyM3JPV1pac3RXMklyWFktZWNna3BuZWp0bHVZQ3lmRHpiZTE3RFNYX001Z2hScWNLQ2dPbUVQSXBTNU5td0M0Qklyd2Vpd2w?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-18T22:16:12+00:00",
+      "summary": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWdZaUN1dnRCOHkyM3d0UEVkNHAxc0JvSHNhZ1dJY3VBUF8wc2V4aXNVRzMwQ2dGY3o5bEJDT2lWVEhRYms4UlFUREdZSjdwbm5BaHdIc0dvOHRhT0lrVnBXcjdGYl9mTV9TN2t0Y1k4OFVCc1dRVzQ1eVBaWDdiTUExMUI3ZW9fbC1FYngyZDYzV0Z0WDBpVjMwWmM?oc=5",
+      "source": "The Information",
+      "published": "2026-11-18T22:05:00+00:00",
+      "summary": "OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "Opinion | I Spent a Year Talking to Anthropic Employees. Here’s What They Believe. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hR0p1eTMya0NpcWxrVWhoRFFfQTF4S3pqaWdrc0xNei1rSGdmNFhoSThIaXc4cW1vaW5sTnpGYTlMdGxPeWZIeHBvMGt6TlNLcUQwby1BRDI2Z0JyU2dmZFU5bm9USkVJM1lyQnZjeUFqMndRQVE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-18T10:05:11+00:00",
+      "summary": "Opinion | I Spent a Year Talking to Anthropic Employees. Here’s What They Believe.&nbsp;&nbsp;The New York Times"
     },
     {
       "title": "The seven Anthropic founders who are about to become multi-billionaires - BBC",
@@ -80,6 +66,27 @@
       "summary": "The seven Anthropic founders who are about to become multi-billionaires&nbsp;&nbsp;BBC"
     },
     {
+      "title": "OpenAI CEO Sam Altman on potential IPO: 'We plan to be public' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzRKREtMcWcwZmpCNDJfcVF6ZjhnMU42TEE1WUY5YWNVUmYxMFprSmVoY2R2NXVHdEkxRi1vMUp4NG4tYjAzaUI3b0RGekkxd25BcHVYVzByd1ZIakhzN3dSb3E4NDVadzl0aWFoU1ZTYkQyY2RZZ1I2ajZoWF9MejNyVjFzR0NHbzdzWmEtUlFjQzRZLS1RZmYzNHBJamo3b3RDTVZMa0w4NHNvUWowQXA4ZXdvWE0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18T18:43:33+00:00",
+      "summary": "OpenAI CEO Sam Altman on potential IPO: 'We plan to be public'&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "Video: OpenAI’s Sam Altman on A.I. Safety - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd19XM096TDVYSVg4MVFPQkYtQ3NUZWFwNTMtQmZxNWJCUnBERGVaWEJUSnRIU2o1SE4xTzBrVWl4cmVLanJaYzJ0SnBPcm5VWGNqZDNjRXI1eDJVTmhwRDFmQ05GTGhwOGNXaVVvWGNDZ1o4akJqa1h6aWVsQnFCa2loZ1dJWW9XRGNrRDhEMURaMk1qeVJyVjRJNzVsSG0yVVRqLQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-18T17:36:33+00:00",
+      "summary": "Video: OpenAI’s Sam Altman on A.I. Safety&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5",
+      "source": "NPR",
+      "published": "2026-11-18T10:00:00+00:00",
+      "summary": "OpenAI announces new AI safety program; researchers worry it won't be enough&nbsp;&nbsp;NPR"
+    },
+    {
       "title": "China-based AI safety group briefed US AI labs, including OpenAI - Politico",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMU5UaTlmU2xrNWh1SGF6MFF2NHBTMnFaUHNtR2pDSmJQb01BWWxkNlZLYnJBUkszSE9WQUsyVGhUbGN4YTlJSzlhd3A5ZEtfc2xUU3JxWElNWElqRl9IVWkwUENkVWVfMlFKOEpsb01tTElveU5fNlZDV082cUJ6T2xPdldtVzVUTnJYY250T2l2amt2bFNsQTAtTTRTQWpmNXlrRnN6emRscXFfSTI1Qm9DOA?oc=5",
       "source": "Politico",
@@ -87,32 +94,60 @@
       "summary": "China-based AI safety group briefed US AI labs, including OpenAI&nbsp;&nbsp;Politico"
     },
     {
-      "title": "OpenAI’s New Hacking Model Found Dozens Of Holes In Apple Tech - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkxUaUhOZUU5NnJYYjliaXI0YlducDdoVW9id2FOMXN3aWxSZGVZMFRDX1RUTlJtU29DV3BjSW1IYjhud0xxbWk1WjUwRllzeVVUbEJqVFowS0cwMzBoWUpqVksyWHpvaFV6Vkp6bzZ2WWE5QjM5SU12MW1SejNOUVQwUEZudnROU2RjeFdyOWxtczNVY3NPQnM3Nm0zZ0FhYm9ZX3VaTGV4dk9mZmtDazUtTzFwQ1pBZWc?oc=5",
-      "source": "Forbes",
-      "published": "2026-11-17T19:20:03+00:00",
-      "summary": "OpenAI’s New Hacking Model Found Dozens Of Holes In Apple Tech&nbsp;&nbsp;Forbes"
+      "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-18T19:35:30+00:00",
+      "summary": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "Oregon sues OpenAI for $2 billion, says ChatGPT puts kids in harm’s way - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzkwN0NGMlhFdDV4U01lTkFPdklkWkY3QkdHMnRCVVF5MElRU3ktd3prZENEem9LeVVEMGEzX1FfRGQ0VnItRjI0ZExVWlhIQnQwMTNjRXljbTdCV0ZRNy1sY3RKQ2tETmJHWC0zY2ZkNzZTVWg2dDUtUjBTN3htbDZfSVk4blJrZXBnY1pCTGxVcmkxMmtuQnpFVkRLTnI1a2NWV0RjbzJEVXN2cEx5TXpLYl9UOWdk0gHMAUFVX3lxTE5HdHJ3OFFXcEpIVHZLSm9YdGVNYVFheUgxNUxDd0lIZnlzTHd5a1A0S0N3RWN4N3NiZ3plY05NTTQzVk9XUnB6ejA0T1k1WWtad0Y2dndUdjFTenR6YUN0eXBtTFR5MklMNWdCOVVGdW1uU0Jqd0dPOEhHazdkLW9CTUZPem53VWNnX3FIejNla09TZnFSMGZHZEk0LXlwTUVKX1k3OXZVeVgwYVRrdm1Ud3U5U3QzeHNNemIyY1NhaGxoVW5IbkZjYjRhQw?oc=5",
-      "source": "OregonLive.com",
-      "published": "2026-11-18T06:44:00+00:00",
-      "summary": "Oregon sues OpenAI for $2 billion, says ChatGPT puts kids in harm’s way&nbsp;&nbsp;OregonLive.com"
+      "title": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work - CNET",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5",
+      "source": "CNET",
+      "published": "2026-11-18T16:28:38+00:00",
+      "summary": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work&nbsp;&nbsp;CNET"
     },
     {
-      "title": "Oregon AG files $2 billion lawsuit against OpenAI - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWVjb3ctUjJIOTNsc0pTcFdWbHRZOE1qRUFVTFdRcmhPYmlMR2JuQWswNE4xcldpMzZuVlJhSTVPMUVTSEpxbHplQXZyZXdzTllxN0xSYkQ1anZHSk1Pc3BscUZKREg4NVdUdTZzQ3J4NTVZa012UFJmNzZDOGFXVGxlRUdBbkNXbDdYYzdDaG9DcTZXOUg5TklzMWs5d1pGM3c?oc=5",
-      "source": "KPTV",
-      "published": "2026-11-17T16:59:00+00:00",
-      "summary": "Oregon AG files $2 billion lawsuit against OpenAI&nbsp;&nbsp;KPTV"
+      "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-17T18:18:54+00:00",
+      "summary": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "Oregon AG sues OpenAI, claims company knowingly endangers teens - OPB",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU91cFBCaTN3aGJhX1pIVGhSTDBoLV9FWGwzY3FEQWZSR1FGR1VFSm85ODVsN1JSSUZWUG5WbU4yV2dWdGQ2c2prd2tZeW4xaURyOURuRDhKa0VCUDBUNE1sTGJsQUZWOXhMVkExTXZUMnE4WnIyZl9MREhWU0RFeUJGaG43Wnk3WGFfREVrVU5pRUlHSTVMR0hEZVdtVDFMYVVnUA?oc=5",
-      "source": "OPB",
-      "published": "2026-11-17T22:36:48+00:00",
-      "summary": "Oregon AG sues OpenAI, claims company knowingly endangers teens&nbsp;&nbsp;OPB"
+      "title": "Advancing chip design with OpenAI models - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-18T17:06:03+00:00",
+      "summary": "Advancing chip design with OpenAI models&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
+      "source": "Axios",
+      "published": "2026-11-18T16:40:45+00:00",
+      "summary": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models&nbsp;&nbsp;Axios"
+    },
+    {
+      "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXc0MGZDdEtfb1IzT0doUkdCeEZSbmdqWlVvb0t5NXRXQjBfLUdnY1Jkd1A1RHFmWVRjYmhsVW5lcjlwazlId0VTc0s0Qzg1aGdhREttRko0aGNaQkphVVlTTktYQjBfSmdVdWVKSjZ3NnlkaE02QllENnN5NnBaQ1NoM2t4TFlEb3ctWjBhSXREdDg?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-18T18:10:04+00:00",
+      "summary": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-18T20:09:34+00:00",
+      "summary": "Managing frontier AI risk: From training to deployment&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "California sues OpenAI over hacking risks - NPR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVENfR2JteXlPbExMQ0pZTFlwaldLRTRhbTR4ZEQ1bzZXSHZjQmhQb3hjMS1ITGxuSVlSaE1qQWNvamJsNDNPZTU4RlBZdlZaNXoyVXdDWTVzTjJFaDZ1SjdHSzhJaXFDUG41NGFKN0FDWTVRQjVpQUtxbGV5X1dwRzN0Y2MtY2ZpVmVEZTB6UUFjRzNGTEZZWU5zMngwdw?oc=5",
+      "source": "NPR",
+      "published": "2026-11-16T22:06:22+00:00",
+      "summary": "California sues OpenAI over hacking risks&nbsp;&nbsp;NPR"
     },
     {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT - OpenAI",
@@ -122,13 +157,6 @@
       "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Astra for Law leads in legal intelligence - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-17T17:49:36+00:00",
-      "summary": "Astra for Law leads in legal intelligence&nbsp;&nbsp;OpenAI"
-    },
-    {
       "title": "Strengthening NATO and allied cyber defenses with AI - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
       "source": "OpenAI",
@@ -136,46 +164,18 @@
       "summary": "Strengthening NATO and allied cyber defenses with AI&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZC1UYUtkd0JZU043eUgyaDZuV0UxTzdCRFZqX281andjdGtXTl9IN1g5dTgxSmpDRlJ2b2FFN1M1dHVfTjEzVWVMeEpERjI0RktYNzZNUzUzRW1XSDExY0psTTJ2Z1pOQ0cw?oc=5",
+      "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-16T17:19:12+00:00",
-      "summary": "Strengthening the fight against online child sexual abuse with new tools and support&nbsp;&nbsp;OpenAI"
+      "published": "2026-11-17T17:47:15+00:00",
+      "summary": "Introducing GPT-6.2 Astra and Sol&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
+      "title": "Our first phase of embedded assessments - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZVGdBQUtlTWlmbEFkV0Fydjk3TUtBLTVVampGckhqYWdHamswNW5GU0xRT0dzR2hwSHYzYWdEM2VoeW5UQkQ5bld4QVlGcEFmblB6bTFFOHJqbDNoUTBZcjRIdTVERDA5TW5GYW9hcUtrUUk?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-16T14:13:03+00:00",
-      "summary": "More ways to move care forward with ChatGPT for Healthcare&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Broadening access to AI for scientists - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-16T17:15:16+00:00",
-      "summary": "Broadening access to AI for scientists&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-16T14:13:03+00:00",
-      "summary": "Advancing computer-use agents for healthcare teams&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSGFfWmVQdlE5eUpDUzdzczVqWV9MSnhzQnhKXzlicXUtdmFfandZbE9fUTAtVnVUeElydnowdzQ0dkY0Q0VxeTlDQ2JpeU5iR0JGaW5uN3FibEZaVFFFOE5jVUVwS2dvWXRNTHpGUkNpUU0?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-15T22:29:40+00:00",
-      "summary": "A step toward defining the Standard Model on a lattice&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-      "source": "OpenAI",
-      "published": "2026-11-16T17:19:12+00:00",
-      "summary": "Science at the Frontier: How scientists use ChatGPT&nbsp;&nbsp;OpenAI"
+      "published": "2026-11-16T16:14:13+00:00",
+      "summary": "Our first phase of embedded assessments&nbsp;&nbsp;OpenAI"
     }
   ]
 }
