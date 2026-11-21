@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T06:20:33.635746+00:00",
+  "generated": "2026-11-21T18:53:22.041040+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -36,13 +36,6 @@
       "source": "Mistral AI",
       "published": "2026-10-15T07:00:00+00:00",
       "summary": "Timestral: Mistral's time-series foundation models&nbsp;&nbsp;Mistral AI"
-    },
-    {
-      "title": "30 of the best large language models in 2026 - TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0pWNVg1aEZqYndCYTFlUUFoemRFOWZxMDlqXzVIODY4OWdfZFh6YklpdnRyaFE0amcxdzdSLW5kWl9JY2dMZk5KQlVXLVJSbV9JUFB5Q3VtUGRvUVpLY29rSkVlczlHWi16YjQ4T0lJSXRzV1k5aWhWYjBPU2FJc25n?oc=5",
-      "source": "TechTarget",
-      "published": "2025-12-03T08:00:00+00:00",
-      "summary": "30 of the best large language models in 2026&nbsp;&nbsp;TechTarget"
     },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
@@ -108,11 +101,11 @@
       "summary": "Updates to Apple’s On-Device and Server Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "A list of large language models (LLMs) - IBM",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
-      "source": "IBM",
-      "published": "2025-03-10T07:00:00+00:00",
-      "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
+      "title": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering - Science Partner Journals",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92V1Z3MmZOcVNCeE90bTBvR3pFeDlFeHFvNjBBZmVyMUs4U1VYakhpd1c2QngydGFZcWVVT3AxeS03QlBsbkkxT3FfNEtmNi1wNGlrZjk1Y1JiUkY2Ni04?oc=5",
+      "source": "Science Partner Journals",
+      "published": "2025-09-10T07:00:00+00:00",
+      "summary": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering&nbsp;&nbsp;Science Partner Journals"
     },
     {
       "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
@@ -120,6 +113,13 @@
       "source": "Nature",
       "published": "2026-06-12T07:00:00+00:00",
       "summary": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "A list of large language models (LLMs) - IBM",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsSUJjdjVtTk5vaHpIVTlXZXQ4WWo2N0loYWh0a1dxMXJDVm9oZXpuQ09fUC1sXzhzN2xBSVkxa3N1bEQ3UnFxWUhiVUlaUnpvYmRhckVIQXo3RnlldlFxWUxTcXJETXh6elNZ?oc=5",
+      "source": "IBM",
+      "published": "2025-03-10T07:00:00+00:00",
+      "summary": "A list of large language models (LLMs)&nbsp;&nbsp;IBM"
     },
     {
       "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
@@ -150,11 +150,11 @@
       "summary": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&nbsp;&nbsp;NASA Earthdata (.gov)"
     },
     {
-      "title": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering - Science Partner Journals",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92V1Z3MmZOcVNCeE90bTBvR3pFeDlFeHFvNjBBZmVyMUs4U1VYakhpd1c2QngydGFZcWVVT3AxeS03QlBsbkkxT3FfNEtmNi1wNGlrZjk1Y1JiUkY2Ni04?oc=5",
-      "source": "Science Partner Journals",
-      "published": "2025-09-10T07:00:00+00:00",
-      "summary": "BatGPT-Chem: A Foundation Large Model for Chemical Engineering&nbsp;&nbsp;Science Partner Journals"
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
+      "source": "Nature",
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
     },
     {
       "title": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine - Nature",
@@ -164,18 +164,18 @@
       "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
-      "source": "Nature",
-      "published": "2025-08-05T07:00:00+00:00",
-      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
       "source": "AI at Meta",
       "published": "2024-04-18T07:00:00+00:00",
       "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
+    },
+    {
+      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
+      "source": "PYMNTS.com",
+      "published": "2025-02-07T08:00:00+00:00",
+      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
     }
   ]
 }
