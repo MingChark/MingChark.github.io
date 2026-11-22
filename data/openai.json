@@ -1,20 +1,13 @@
 {
-  "generated": "2026-11-21T18:53:22.041040+00:00",
+  "generated": "2026-11-22T05:52:32.612035+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI - The Information",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
-      "source": "The Information",
-      "published": "2026-11-18T14:00:00+00:00",
-      "summary": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1dGc0wwcjc3X09sdEFPR0VkSG5jT3JZUnpJNWFIbGRDR1ZEQnJJZ01XLTlXYVBUY0liZmJKWXdwdTZjUERLSVFMX055dHEzR1IyREJjU1UzX3gtTFlMWHA4bHdOQzJmay0zUzlidE00NFVjUFAydEpfUXE4c3E0cUI0Zk9TV1duNVJ2Zm5laWNQTldmRWdRQTJtZUxJUHM4ZzY3ckIxazNsaDdjcVo1bUI0UW9panRHWUNveFZ5VHl3MkY3VnozbUgyYS1QWWtlZDNXUdIB2gFBVV95cUxPQ1BpX2llOUpDRkxGSW9ydnVVdkV1ZVpraXh0NldadXZaU2cwYzVWQkJKVUVIal9oYk4xVmF1SG5kYjNiQ2YteHlTc21DWVljMUhub2JoRTBBOGcxYjdJcFROR1pUaE1vZFBVdjQwUGpqd3RjYjV4TXFsazN4UTNJY3ZuQkZXcXhrNTVZeUtSZjVtYXQ1a28zWjFTdnhZVzlZeVhYRkU0UzVjanNVWjdhUG1FaTBOM0lJRFVMa1hIbXJfWEE1UmdBREZiTkxlSmVTS21WS0dDVFBIdw?oc=5",
-      "source": "Wccftech",
-      "published": "2026-11-20T10:53:29+00:00",
-      "summary": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing&nbsp;&nbsp;Wccftech"
+      "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teVBVYVBpX09MbkhFa0tJUWR1QkNhMUFROUR0WUFLRnd6TnhCYTh6RURoUlNRckVWQ1loZEQ1bE1NeFBpWmpKOUdHeG5oQ1VEMUY4LW0ybGVaRzYtcU9wai0zaVlub2ZKcjh1enZIdXJKZWZDdk1XNzk3NFdPWUk?oc=5",
+      "source": "Los Angeles Times",
+      "published": "2026-11-21T11:00:00+00:00",
+      "summary": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution&nbsp;&nbsp;Los Angeles Times"
     },
     {
       "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise - Reuters",
@@ -24,74 +17,18 @@
       "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise&nbsp;&nbsp;Reuters"
     },
     {
+      "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-11-19T21:44:56+00:00",
+      "summary": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic&nbsp;&nbsp;Bloomberg"
+    },
+    {
       "title": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal - The Information",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtvcmNHUnFkdTRhSXd2YVVwOGVRdVdoYkdVZG1rRnJDWWt3T2dUTFhfOGtPZVR1UEtyNnZWYVNNOVp2bUE1SWc3Sk9fdFF5dG9VaHdGcUVRQWRkbGZZYTJNUmhEOUJyZWJ3VFZHUU42RGFabG16bzduRlhMNGRjOEZvVU5zT0FnQzBNTzFjNUxRNm8?oc=5",
       "source": "The Information",
       "published": "2026-11-21T16:09:00+00:00",
       "summary": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODhkb3RwOUxtMGxqZ1NJd1Y4TmY3YWphX3luYzJMa0M4eTZPT3pNMU9sN1NiMTFrY05KblNnVVBjb3VTOGk0b0hRTW9leHVBd2NoU01VMFRBOFptTllnSmRHZExEMlBocmVxNVdnTTUyZDAtMV8xekFDNVdhNEZFUFYyT2JNTDZERU1aekpHZXZ6NTY1aWxPa3dIZUFxNk41RXZ4eG1wOWJkWjI4TTUyM3FHX0YyTU1yMW8tbWJmMW9DWktHMUNKVHA5TTg1emhlcEE?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-20T22:13:53+00:00",
-      "summary": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny&nbsp;&nbsp;Investing.com"
-    },
-    {
-      "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teVBVYVBpX09MbkhFa0tJUWR1QkNhMUFROUR0WUFLRnd6TnhCYTh6RURoUlNRckVWQ1loZEQ1bE1NeFBpWmpKOUdHeG5oQ1VEMUY4LW0ybGVaRzYtcU9wai0zaVlub2ZKcjh1enZIdXJKZWZDdk1XNzk3NFdPWUk?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-11-21T11:00:00+00:00",
-      "summary": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution&nbsp;&nbsp;Los Angeles Times"
-    },
-    {
-      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXZ6eE9iLTltOVlCekZVQTRSRUlQYzBvWnk3OGd1UXg3ZnA3elVIYVpDLXZpUVFNMndtVDRrMU40V0hXdnIxUmVOUlBjcGZnYThVSE55NmxFMXh3Q3pmcnNRYVZZVzhrZkJuRTFUT2tIeWM3X1hHYTNBaEVqZm5yb3JuOXY4OFU?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-19T21:52:13+00:00",
-      "summary": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-19T21:44:56+00:00",
-      "summary": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic&nbsp;&nbsp;Bloomberg.com"
-    },
-    {
-      "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82TGdCX1dlQkUwQlhMLUdNeWRSWFliVkozNnd5bWxOMl9QbTF6d1c3TG5BekhkdnNWdFJkVFVzMVMtMlhfVGJPTjF6VTNJYzg3cVJKa3FpQUNPd1dfcXR4Z0RVZFIweEpBQVJMOGFRVm5qTUdCM1BndzhfMXZ2dw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T17:58:30+00:00",
-      "summary": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "Apple Developing AI Agent to Rival Meta and OpenAI - The Information",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFnNjhGLUwyN1Z5c2ZSOWJZd19SZkV6Vl94MDhmZWtPajRKaGozV090MWx0ZkxJa2VSRUtoU19zQzZCeWFHNTlGNkxmblhFakRMQWFVSE9fY3pZUlNsTHVqRWVSbmdrTU5NV2VNZ1FDM3FLeDFkUWNRWHlNdEJBUlJiV3I5WFYwbEhJdQ?oc=5",
-      "source": "The Information",
-      "published": "2026-11-19T22:49:00+00:00",
-      "summary": "Apple Developing AI Agent to Rival Meta and OpenAI&nbsp;&nbsp;The Information"
-    },
-    {
-      "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’ - EdSource",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnVjZmRnYXJRcWdVM3lrQUh3R0NDQ2hXckhkdkdiVWlTbHRIbGJ2SHNEMS1YQ2NvVEhoSUN1REpiZWRvQUFoOVVtZzVvaE9wWmo4a29VOG1WTXJ6ZENoU2t2cmFjV1hPdFpqSDlKSy1WWW5LTXdlWGVoblVMY0J5bUZXUEt2SVXSAY8BQVVfeXFMUDdMdHFOY2VaY2Rla3NjRFpyME5qRVJPUllJOWpCSWNYSWxtQ3d6SUNBZ3ZHMEg5MmZxdnpldDQtLVFaRzhicnZaN3lTY2ZqdXhncVlhVmJKU0RaaXI3TFBuenp0YS1sLWxrcTJYQkdQWFh3dS1VbHRZRHV4OVZQckZvcy05NHB5eS1xRWljNEE?oc=5",
-      "source": "EdSource",
-      "published": "2026-11-21T02:03:38+00:00",
-      "summary": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’&nbsp;&nbsp;EdSource"
-    },
-    {
-      "title": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEVoekdDd1VQb25yVW1mTEtiQmQxd3RYX0JnQ2RUWUx1TnF1ZGVPaGdmc3BLQi1SbTZBaWxPZm5kVXl4M1l0NjdVRk0tZXdEdUd1OWItUnhSYXJNT3dNR0Z3MkZLLUczUU1yTnBGczRHWVVNbW0xS0FjMm1jS0VUQkM0UkljOTIzdkhNcGVRV1JpWDdwZVBxd2xNclZ6WXFMTEE?oc=5",
-      "source": "Business Insider",
-      "published": "2026-11-20T13:10:00+00:00",
-      "summary": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible&nbsp;&nbsp;Business Insider"
-    },
-    {
-      "title": "'I should have listened': Sam Altman regrets not taking an equity stake in OpenAI. Here's how much he could have made - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVdoUG1oOG5yZmRfS1NqRXlDNHVCeE9SN3dDcWZMVkdJSGxEcDRkakM0akpHYVctS2MtNXEyZ1ZDY1BpbkZMclFGWk8yNTF5Vk95dkluNnRtLW9pWjA5NFpuSklXQm5IbktyS1Z5UzZUNU5makNMU0NJRDl5WHRJQnY5NTZxbUlOTVZhdGJyYkRZRDJnVVdweTBuZzM?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T12:45:00+00:00",
-      "summary": "'I should have listened': Sam Altman regrets not taking an equity stake in OpenAI. Here's how much he could have made&nbsp;&nbsp;Yahoo Finance"
     },
     {
       "title": "California suit against OpenAI could be a roadmap for other states - Politico",
@@ -101,6 +38,41 @@
       "summary": "California suit against OpenAI could be a roadmap for other states&nbsp;&nbsp;Politico"
     },
     {
+      "title": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEVoekdDd1VQb25yVW1mTEtiQmQxd3RYX0JnQ2RUWUx1TnF1ZGVPaGdmc3BLQi1SbTZBaWxPZm5kVXl4M1l0NjdVRk0tZXdEdUd1OWItUnhSYXJNT3dNR0Z3MkZLLUczUU1yTnBGczRHWVVNbW0xS0FjMm1jS0VUQkM0UkljOTIzdkhNcGVRV1JpWDdwZVBxd2xNclZ6WXFMTEE?oc=5",
+      "source": "Business Insider",
+      "published": "2026-11-20T13:10:00+00:00",
+      "summary": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible&nbsp;&nbsp;Business Insider"
+    },
+    {
+      "title": "OpenAI tried to ruin Anthropic's IPO. It backfired. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTlWSkdISDFSS2F0TXZJRVNhTmRRVGZIS1RhX1J4TUV1Z3VTOWJfYklsM3VZMElpdWVDQkh5OE9WWEFScjBuYmsyS0VjSF95X0dvNmZVNmdSVEFaYV9CNWt3QU1udXdXMjhEOGVnREo2OTAyTHFGblhEekNEYzcxbnBGanlndw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T12:00:00+00:00",
+      "summary": "OpenAI tried to ruin Anthropic's IPO. It backfired.&nbsp;&nbsp;Yahoo Finance"
+    },
+    {
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZl9NVnpyaGtfLXJXQTNEZ1p2SDN1bDZMT2luSGdwbS1ITXp6ek5pUHRjUF9DeVNqR1hCSFo3QjRLRXZRWWZybG5LenJxNjdTbFpzOUtxV3VjMUlhTDBSa2IxWUM4cHB1dFJJUjRROGxkTWhieDlzRnFSNHctaU12WW5oZ9IBgwFBVV95cUxPZl9NVnpyaGtfLXJXQTNEZ1p2SDN1bDZMT2luSGdwbS1ITXp6ek5pUHRjUF9DeVNqR1hCSFo3QjRLRXZRWWZybG5LenJxNjdTbFpzOUtxV3VjMUlhTDBSa2IxWUM4cHB1dFJJUjRROGxkTWhieDlzRnFSNHctaU12WW5oZw?oc=5",
+      "source": "MarkTechPost",
+      "published": "2026-11-21T11:46:17+00:00",
+      "summary": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min&nbsp;&nbsp;MarkTechPost"
+    },
+    {
+      "title": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1dGc0wwcjc3X09sdEFPR0VkSG5jT3JZUnpJNWFIbGRDR1ZEQnJJZ01XLTlXYVBUY0liZmJKWXdwdTZjUERLSVFMX055dHEzR1IyREJjU1UzX3gtTFlMWHA4bHdOQzJmay0zUzlidE00NFVjUFAydEpfUXE4c3E0cUI0Zk9TV1duNVJ2Zm5laWNQTldmRWdRQTJtZUxJUHM4ZzY3ckIxazNsaDdjcVo1bUI0UW9panRHWUNveFZ5VHl3MkY3VnozbUgyYS1QWWtlZDNXUdIB2gFBVV95cUxPQ1BpX2llOUpDRkxGSW9ydnVVdkV1ZVpraXh0NldadXZaU2cwYzVWQkJKVUVIal9oYk4xVmF1SG5kYjNiQ2YteHlTc21DWVljMUhub2JoRTBBOGcxYjdJcFROR1pUaE1vZFBVdjQwUGpqd3RjYjV4TXFsazN4UTNJY3ZuQkZXcXhrNTVZeUtSZjVtYXQ1a28zWjFTdnhZVzlZeVhYRkU0UzVjanNVWjdhUG1FaTBOM0lJRFVMa1hIbXJfWEE1UmdBREZiTkxlSmVTS21WS0dDVFBIdw?oc=5",
+      "source": "Wccftech",
+      "published": "2026-11-20T10:53:29+00:00",
+      "summary": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing&nbsp;&nbsp;Wccftech"
+    },
+    {
+      "title": "How Anthropic Upstaged OpenAI on Road to Blockbuster IPO - The Information",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2pTZ19ZTndCaWJXMlQxWXEwc1YxeUpHNGExaUJXeFJNcE8wanpRSDlXdXVXdUdKUkU4WTQ2Z182bjlpc0RMWi1iT1ZDZGlzemJ5Rk5TcmpQMkdhX3FCUjBRQjlaSlNiYV85b20zaEstbEZmcEZWNWUzQUJYbmdHY2VEamM2cXFjUVNxY2dXVQ?oc=5",
+      "source": "The Information",
+      "published": "2026-11-20T14:18:00+00:00",
+      "summary": "How Anthropic Upstaged OpenAI on Road to Blockbuster IPO&nbsp;&nbsp;The Information"
+    },
+    {
       "title": "Combatting adversarial distillation - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
       "source": "OpenAI",
@@ -108,11 +80,32 @@
       "summary": "Combatting adversarial distillation&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "Army plans to work with OpenAI on Project Gatekeeper - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDU2bHV0enVHZzk2WFpNMnhYX1hiNGZQNW1HYkdCck9VTW9UX1FRVzl1aVlXd2M0eFRiUWF1RldJcWNPUUtUVUl2TmMxbHBoQUQ0bXNTejN3c0FGekhoUzVSR2dQcnh3YnVJZERLLW41S2RwQ0F1MEVRS2pnN0xwSW12eU1paTg?oc=5",
-      "source": "DefenseScoop",
-      "published": "2026-11-20T23:10:39+00:00",
-      "summary": "Army plans to work with OpenAI on Project Gatekeeper&nbsp;&nbsp;DefenseScoop"
+      "title": "UC signs deal with OpenAI to expand AI access, lower costs - Daily Bruin",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW9aOVU5UFRyZUtEMzFCQm9sU2N3ZEtLTlNiY3ZkRG54SWxpNTFBWDNsQ1BNaDk5ZkxFbFpKMlJjTG1fM1c2MDBTNURZZDVJOFdnZjdaQkxOY1htRnprM2llSF83ZkxHT0xRRXNVTU1zcXpmcTI2QlZFdzdFRG8xZTRLSmwzWm8tUG1vTkJuVll4S0RlVHc?oc=5",
+      "source": "Daily Bruin",
+      "published": "2026-11-21T22:37:00+00:00",
+      "summary": "UC signs deal with OpenAI to expand AI access, lower costs&nbsp;&nbsp;Daily Bruin"
+    },
+    {
+      "title": "Oracle OpenAI Contract Fully Funded After $20B Raise - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcENkeElZREdDT0FDZnlMNG41bjFMTl9UV19MZTVzRmo3Z0tYUGxhdnNLdU5WVjNqdmwyU09FQUdqRFgxM19NZC12ODRFc1VrOGV0emlFa3dPeDdPcHFUcEMwYXdMWXZicTVoQTFhRnFLdDhiYkE2TURPdHBqM3NLN0xacFdYNUF6WHNlZGNn?oc=5",
+      "source": "shattered.io",
+      "published": "2026-11-22T04:44:23+00:00",
+      "summary": "Oracle OpenAI Contract Fully Funded After $20B Raise&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’ - EdSource",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnVjZmRnYXJRcWdVM3lrQUh3R0NDQ2hXckhkdkdiVWlTbHRIbGJ2SHNEMS1YQ2NvVEhoSUN1REpiZWRvQUFoOVVtZzVvaE9wWmo4a29VOG1WTXJ6ZENoU2t2cmFjV1hPdFpqSDlKSy1WWW5LTXdlWGVoblVMY0J5bUZXUEt2SVXSAY8BQVVfeXFMUDdMdHFOY2VaY2Rla3NjRFpyME5qRVJPUllJOWpCSWNYSWxtQ3d6SUNBZ3ZHMEg5MmZxdnpldDQtLVFaRzhicnZaN3lTY2ZqdXhncVlhVmJKU0RaaXI3TFBuenp0YS1sLWxrcTJYQkdQWFh3dS1VbHRZRHV4OVZQckZvcy05NHB5eS1xRWljNEE?oc=5",
+      "source": "EdSource",
+      "published": "2026-11-21T02:03:38+00:00",
+      "summary": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’&nbsp;&nbsp;EdSource"
+    },
+    {
+      "title": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGJTSlFJc1lrMF9oV1dFVF9BclVIZkVzaS1QaFRQSURWTFM2TDhCM3NBeVppcDBIRnc0cllqVERQTFI2RktjdXNIdkFtUFZGS2JSd3NRRUhDaFFhdFV4THlSeW9ZcnFEeHVWLUxxTkUwWU1pc3c5bmdXTGFVbXIyNmtxN2hXdVRYV1ZNM3N2M01zRWRNY3dGQTVqalVfTmEz?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-19T02:00:00+00:00",
+      "summary": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle&nbsp;&nbsp;WSJ"
     },
     {
       "title": "Can AI help scientists identify promising drug candidates? - OpenAI",
@@ -125,7 +118,7 @@
       "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
       "source": "Reuters",
-      "published": "2026-11-19T01:45:00+00:00",
+      "published": "2026-11-19T01:45:42+00:00",
       "summary": "Arizona says it is investigating OpenAI, other firms over possible rogue agents&nbsp;&nbsp;Reuters"
     },
     {
@@ -176,6 +169,13 @@
       "source": "OpenAI",
       "published": "2026-11-16T17:19:12+00:00",
       "summary": "Strengthening the fight against online child sexual abuse with new tools and support&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Broadening access to AI for scientists - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:15:16+00:00",
+      "summary": "Broadening access to AI for scientists&nbsp;&nbsp;OpenAI"
     }
   ]
 }
