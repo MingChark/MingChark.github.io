@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T23:25:24.198074+00:00",
+  "generated": "2026-11-23T06:40:52.267443+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -143,13 +143,6 @@
       "summary": "Apple Intelligence Foundation Language Models&nbsp;&nbsp;Apple Machine Learning Research"
     },
     {
-      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
-      "source": "Nature",
-      "published": "2025-08-05T07:00:00+00:00",
-      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
-    },
-    {
       "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data - NASA Earthdata (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjBpbUZxVUFibTE2amlRbXJDVnprUy1OTm5sekpBWl9tS2dWMWp5R2xfdlF0N2UxZ2NBWUlQRVhzME9QYW13V2xhcE4zMU1LNUxwc3MzVlpWYUtaWW1ieE1CV2JwNHRydXlNcEF4UWMzUHhHTUVSRU9KRlZzcFMya0xobF9uakhiQ0xPYnRMQlJ3NDR0LVJXNkE1aWsxNkFZb2Q1eUFKVkJXMGJ0bl9RY1lzVHYySjI4d2c?oc=5",
       "source": "NASA Earthdata (.gov)",
@@ -164,18 +157,25 @@
       "summary": "Medical foundation large language models for comprehensive text analysis and beyond | npj Digital Medicine&nbsp;&nbsp;Nature"
     },
     {
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models - MIT News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTRLQ2ZlOThxMlpvaGI5LURpT2g2eG9GUGgtZDhoSFRVUHdITThhX1REa2ttLWVscHZVUTNVb0dGTTF2RWNtTVNfdlFNbUtreHB5NW1hN19MYnVobnlmRE1PRVpzWUY0VkhkM0NXMTNObVMxNHFYR3MxY1dlUnlPV3RpczJDbUVSNVZEMUplTTgwTWZDb2NWdVZ4djBhVzVpYzMyVm1wbW16dEk1NFE?oc=5",
+      "source": "MIT News",
+      "published": "2026-11-20T21:00:00+00:00",
+      "summary": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models&nbsp;&nbsp;MIT News"
+    },
+    {
+      "title": "Exploring the role of large language models in the scientific method: from hypothesis to discovery - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1TVlEeGxiZ2lnOGU1VG9uQ1Bpcm9SLTU0ajlveVlUNXlENVpwS0lUNndfbVZBT2FvUkYzMk5IWTBGTXJ2UlRJUVV2MTE3TTh3d3NVME00RzMyOEo1bXZv?oc=5",
+      "source": "Nature",
+      "published": "2025-08-05T07:00:00+00:00",
+      "summary": "Exploring the role of large language models in the scientific method: from hypothesis to discovery&nbsp;&nbsp;Nature"
+    },
+    {
       "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
       "source": "AI at Meta",
       "published": "2024-04-18T07:00:00+00:00",
       "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date&nbsp;&nbsp;AI at Meta"
-    },
-    {
-      "title": "AI Cheat Sheet: Large Language Foundation Model Training Costs - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFFTMU9TMTN0UU44d2N0V0dPQ0pmNjZqVkEyLXJ0U2l1ck9TXzh3Yl9ycjNYR2IyYS1TYlhYeHdDZjJxZXdFbkxlUm4yMC1lc1o4YlVsY0x0UERQSDRfbHRweVJCS2FsR21LRUxYNWZpVXZjUEJKVTcyRjJWT0kzeXVlSEJtb3A2akQtaU12QXhjWk5lSzN4Y3RNdzl2UDhFT09CNlMyaXVzMHZwRVNSLVhrSmpSSklxVHpn?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2025-02-07T08:00:00+00:00",
-      "summary": "AI Cheat Sheet: Large Language Foundation Model Training Costs&nbsp;&nbsp;PYMNTS.com"
     }
   ]
 }
