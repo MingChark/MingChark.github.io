@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T22:07:21.985552+00:00",
+  "generated": "2026-11-25T07:44:53.796409+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -10,6 +10,13 @@
       "summary": "Amazon scoops up AI accelerator tech to keep chips busy at all times&nbsp;&nbsp;The Register"
     },
     {
+      "title": "Alibaba Says Proprietary AI Chips Offset US Restrictions - Silicon UK",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcG5ZaERaUkJHMUZkMFM4bVNKakd3R2JoS1Z6ZGU4QV9aS05XY0Mwd0JPbVlNX0RTWDJoVzh4YzdMaHhoWnZoRjRTU1k3TmhhdXhUcXJWTi1kb2w3bE5FVzZkbUFmSDdnbGN6cVFTZW14T2tk?oc=5",
+      "source": "Silicon UK",
+      "published": "2026-11-23T09:00:05+00:00",
+      "summary": "Alibaba Says Proprietary AI Chips Offset US Restrictions&nbsp;&nbsp;Silicon UK"
+    },
+    {
       "title": "Congressional Panel Warns China's Military Seeks Advanced Nvidia AI Chips for Weapons Despite U.S. Export Curbs - OODA Loop",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUzltWUVYUnpwM0JRZjhnd0FaS1JMcFotLVVUVExZNmNEN1BTYzFvUFBDNEtSQ1F6Z0ZScjlPTlY3MExKWjA3Q0V6YXloY01ZNVpselI5cUNUbGV2MHJ4aFlLSUs4YjhDejBWc1AxTXo1UlZ2eVUwcGVzSVM5TUdJay1qb1hWTkI2bjgxX1JNaWpDdkU4cjBHdzJObG41STJhT0h2bkhoN0Y4MUhFWVhKMWZCVDllb3NTd2taWXZaNDFkU3JuTE5hWHEwejFFa1lFY3lVZVN2d1hUaWVScW1Db19kQQ?oc=5",
       "source": "OODA Loop",
@@ -17,11 +24,11 @@
       "summary": "Congressional Panel Warns China's Military Seeks Advanced Nvidia AI Chips for Weapons Despite U.S. Export Curbs&nbsp;&nbsp;OODA Loop"
     },
     {
-      "title": "Alibaba Says Proprietary AI Chips Offset US Restrictions - Silicon UK",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcG5ZaERaUkJHMUZkMFM4bVNKakd3R2JoS1Z6ZGU4QV9aS05XY0Mwd0JPbVlNX0RTWDJoVzh4YzdMaHhoWnZoRjRTU1k3TmhhdXhUcXJWTi1kb2w3bE5FVzZkbUFmSDdnbGN6cVFTZW14T2tk?oc=5",
-      "source": "Silicon UK",
-      "published": "2026-11-23T09:00:05+00:00",
-      "summary": "Alibaba Says Proprietary AI Chips Offset US Restrictions&nbsp;&nbsp;Silicon UK"
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWNVcnZJbFJvVWlUZjFEOUladm5ad0lmZTZnSmE0TjFSRGFiQzB5XzBVRUpTNVdTMzk2ZUlsOXFyWHRIaTFMX09rdTNyZFRuNm1nbkowQ2RLTDlxdUhxZXd1clRxT3RQV0ZLUmxBWjJTenV0N1FZaXZwRTZfaDI4dzJ0MmxlN3RoUzJ1ZHpfNnRZQTRFa00zQUhuODhjT2JpV0pCLUw2VThCUzJ5RUNYa1g5bnNqUQ?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "AMD and Unsloth bring NPU acceleration to 100+ agentic AI applications - Beinsure",
@@ -36,13 +43,6 @@
       "source": "ForkLog",
       "published": "2026-11-19T11:04:07+00:00",
       "summary": "Nvidia Halts Shipments of US-Approved AI Chips to China Amid Spy Scandal&nbsp;&nbsp;ForkLog"
-    },
-    {
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWNVcnZJbFJvVWlUZjFEOUladm5ad0lmZTZnSmE0TjFSRGFiQzB5XzBVRUpTNVdTMzk2ZUlsOXFyWHRIaTFMX09rdTNyZFRuNm1nbkowQ2RLTDlxdUhxZXd1clRxT3RQV0ZLUmxBWjJTenV0N1FZaXZwRTZfaDI4dzJ0MmxlN3RoUzJ1ZHpfNnRZQTRFa00zQUhuODhjT2JpV0pCLUw2VThCUzJ5RUNYa1g5bnNqUQ?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-11-11T08:00:00+00:00",
-      "summary": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
       "title": "US moves to cut China's remote access to NVIDIA AI chips through overseas data centers - TweakTown",
@@ -66,18 +66,18 @@
       "summary": "3 AI Chip Stocks To Watch Beyond Nvidia Stock Today&nbsp;&nbsp;Simply Wall St"
     },
     {
-      "title": "Why Jensen Huang and Nvidia matter so much to markets - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjJTSlQ2OWI3emNFeVdlajVMVjR0Q3FhM09zNWJmR3RjUnJ4QWgtS0JDLXN2d1ZSVkZaYXJMbEl2Y0Q5aDRCV2tvQktQOWNUdEVFbkhGSnZibElTTzBZandlRkFCR2U2T01ycndtWGloU2E2cUk0QUsyVFVnZER0d0diVlBQUTJ1RjkzUC1QdUR1ci1Md2J3X0V1MnVjbFZyTGJxUmE4ZEhGR2hjd3c?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-11-23T23:45:00+00:00",
-      "summary": "Why Jensen Huang and Nvidia matter so much to markets&nbsp;&nbsp;The Straits Times"
-    },
-    {
       "title": "Your AI infrastructure investment can do more with GPU-accelerated analytics - IBM",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWFsSEVqSFVHT053MXg3UlVWaXg2M2tGcjZyLUJWZF9SeVpVVl9sT2VhX1FESTItcjBVUndCVHZrMmgydzRReEZJNDRmWDBYVGVMdlBkUUFzaC1jZmczWkJ1RzJLcXRRVTA1NGE4N2VUbm5ydGxOOVFZbWhtR09FY0ZIbEIwNTg4cy1icm5OdUZXOGFvUGV5T1RXbnRacWxZV2NlVW9hSk41d1lRZnJCWg?oc=5",
       "source": "IBM",
       "published": "2026-11-03T08:00:00+00:00",
       "summary": "Your AI infrastructure investment can do more with GPU-accelerated analytics&nbsp;&nbsp;IBM"
+    },
+    {
+      "title": "Why Jensen Huang and Nvidia matter so much to markets - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjJTSlQ2OWI3emNFeVdlajVMVjR0Q3FhM09zNWJmR3RjUnJ4QWgtS0JDLXN2d1ZSVkZaYXJMbEl2Y0Q5aDRCV2tvQktQOWNUdEVFbkhGSnZibElTTzBZandlRkFCR2U2T01ycndtWGloU2E2cUk0QUsyVFVnZER0d0diVlBQUTJ1RjkzUC1QdUR1ci1Md2J3X0V1MnVjbFZyTGJxUmE4ZEhGR2hjd3c?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-11-23T23:45:00+00:00",
+      "summary": "Why Jensen Huang and Nvidia matter so much to markets&nbsp;&nbsp;The Straits Times"
     },
     {
       "title": "China’s Moonshot AI rents advanced Nvidia chips: Bloomberg - TradingView",
@@ -94,18 +94,11 @@
       "summary": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms&nbsp;&nbsp;ASUS Pressroom"
     },
     {
-      "title": "US approved 879,000 Nvidia and AMD AI chips for Chinese military-linked buyers - news.lavx.hu",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUV0LWNlbG14YWF6d3p2VU8wZHhkNGdjeHF6WEt3Vk5TUzlkTzByLXg5LTlVcTNKTFZhWFRtc2hQMGsxdWQtdVlmZlJTUDgyd2JLTjZrRGppdXhTbDE0dGVxLWZWc1BnalE0aGdBTVBwdHRzS0NVSjhaUUdRQkZROThldUZpSUZ3M3lhUzdIb1pmZkp4cW41cXdfQmEyNUhHNmJETzJ1ckh3ZlU?oc=5",
-      "source": "news.lavx.hu",
-      "published": "2026-11-21T00:33:53+00:00",
-      "summary": "US approved 879,000 Nvidia and AMD AI chips for Chinese military-linked buyers&nbsp;&nbsp;news.lavx.hu"
-    },
-    {
-      "title": "Report: Amazon to offload $8B worth of AI chips, lease them back - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRrUjRwSmQ5azcxcEtPQjBqeWNWcDdHSU5yU3dhdi1UYXotR0pTYUhSZzVEaXVRbk5kYkUyWW52bDJ6NXFUQ1VFUVdKM2N2VG5sOW45SGNWNm9hZFBvRXFpMFVQRkVpdkJxb0tRZ191WkdXZkFpb015QkNMNU1QWm5WZWVkWlE0ZkplSURQeXhxMTNnYzRYYjNlaWpnUTQ?oc=5",
-      "source": "SiliconANGLE",
-      "published": "2026-10-02T07:00:00+00:00",
-      "summary": "Report: Amazon to offload $8B worth of AI chips, lease them back&nbsp;&nbsp;SiliconANGLE"
+      "title": "XPerf ™ Helps Customers Make Every AI Accelerator Count on AMD Instinct™ GPU Based Systems. - EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1ItRU5KQTA5Vi1BYU1WZzVLMnRMZ2FnbEJvVUpTVURSeEpkNXp5ZkxOMzlRRjFSSDdnc2dOVGY0cGJOeXZlSkpnX1VfZHdJamVVUDBaY2h6OFMzTWFLdHhsQ3dHeEsyQ0Z3cG1hLVBaYkNuTkpXeUdqMzYtUEpOWlhfdWQwTmNrcWtNb19ILXdIVnVaZHVLbm9fcHpxQWhuUFRGRmE3TmdiOEw1dzk3RmFXdUFFbWk1bTJvR1RFT3BlRm9fbWp4bHJDd24zQlk?oc=5",
+      "source": "EIN Presswire",
+      "published": "2026-11-12T15:19:00+00:00",
+      "summary": "XPerf ™ Helps Customers Make Every AI Accelerator Count on AMD Instinct™ GPU Based Systems.&nbsp;&nbsp;EIN Presswire"
     },
     {
       "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
@@ -136,25 +129,25 @@
       "summary": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "NVIDIA RTX Spark Compact Desktops Out Now - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wLTQ0TXQ3UWpsQkx5MHNhRnhQdXJZbnFuUnNVcGZabU9fdDA5NXFfSHc0QmxOaTZaTmp1dG9QZTJpaVlrNEJyV0M5MFl3UUR6UHN2NmlGMmlqb1VFaWhIS2VORVVLNE5MLUVRRVlQaU1lUTFjdE5YWjJIbw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-11-18T14:06:51+00:00",
-      "summary": "NVIDIA RTX Spark Compact Desktops Out Now&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "XPerf ™ Helps Customers Make Every AI Accelerator Count on AMD Instinct™ GPU Based Systems. - EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1ItRU5KQTA5Vi1BYU1WZzVLMnRMZ2FnbEJvVUpTVURSeEpkNXp5ZkxOMzlRRjFSSDdnc2dOVGY0cGJOeXZlSkpnX1VfZHdJamVVUDBaY2h6OFMzTWFLdHhsQ3dHeEsyQ0Z3cG1hLVBaYkNuTkpXeUdqMzYtUEpOWlhfdWQwTmNrcWtNb19ILXdIVnVaZHVLbm9fcHpxQWhuUFRGRmE3TmdiOEw1dzk3RmFXdUFFbWk1bTJvR1RFT3BlRm9fbWp4bHJDd24zQlk?oc=5",
-      "source": "EIN Presswire",
-      "published": "2026-11-12T15:19:00+00:00",
-      "summary": "XPerf ™ Helps Customers Make Every AI Accelerator Count on AMD Instinct™ GPU Based Systems.&nbsp;&nbsp;EIN Presswire"
-    },
-    {
       "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VUN4TFNYSi04aUh5dFJOTUNGRUYtbnFrVGI1NkVPaTRibDludFZST2JYd29ETkQ4Y0xJUURqcmNYWERkajZKZ0JZSFRUQ2RmSWc?oc=5",
       "source": "NVIDIA Blog",
       "published": "2026-11-16T08:00:00+00:00",
       "summary": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEtVcFg0YVl6eTVJandzYnUzeW9lM1dEMGRMSW9sRlBTazVaZXp1TS02OTliSFI0N1ROOHhXUW9RNG9SWnQxYlNDWS1KY09aWGRkZkxjd01LNU95U3M0TkVCTEJVcVU4dVItd1VycE5zSFNUZ05wbWEyalRsdGdVMGxDSEh3V2lrWUhqZ2t4UjA?oc=5",
+      "source": "NVIDIA Developer",
+      "published": "2026-10-13T07:00:00+00:00",
+      "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "US approved 879,000 Nvidia and AMD AI chips for Chinese military-linked buyers - news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUV0LWNlbG14YWF6d3p2VU8wZHhkNGdjeHF6WEt3Vk5TUzlkTzByLXg5LTlVcTNKTFZhWFRtc2hQMGsxdWQtdVlmZlJTUDgyd2JLTjZrRGppdXhTbDE0dGVxLWZWc1BnalE0aGdBTVBwdHRzS0NVSjhaUUdRQkZROThldUZpSUZ3M3lhUzdIb1pmZkp4cW41cXdfQmEyNUhHNmJETzJ1ckh3ZlU?oc=5",
+      "source": "news.lavx.hu",
+      "published": "2026-11-21T00:33:53+00:00",
+      "summary": "US approved 879,000 Nvidia and AMD AI chips for Chinese military-linked buyers&nbsp;&nbsp;news.lavx.hu"
     },
     {
       "title": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale - Oracle Blogs",
@@ -164,6 +157,13 @@
       "summary": "Oracle Cloud Infrastructure and AMD Helios™ Build an Open Foundation for AI at Scale&nbsp;&nbsp;Oracle Blogs"
     },
     {
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wLTQ0TXQ3UWpsQkx5MHNhRnhQdXJZbnFuUnNVcGZabU9fdDA5NXFfSHc0QmxOaTZaTmp1dG9QZTJpaVlrNEJyV0M5MFl3UUR6UHN2NmlGMmlqb1VFaWhIS2VORVVLNE5MLUVRRVlQaU1lUTFjdE5YWjJIbw?oc=5",
+      "source": "NVIDIA Blog",
+      "published": "2026-11-18T14:06:51+00:00",
+      "summary": "NVIDIA RTX Spark Compact Desktops Out Now&nbsp;&nbsp;NVIDIA Blog"
+    },
+    {
       "title": "Korea Advances Physical AI Across Industries With NVIDIA - NVIDIA Blog",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWHA3cVl3bzdBbjI0MFQxR1BIbmZ0Q0tGTmZ0V3RTTUh0UGl3ekFVSUY2d1ZJTk1MM1hGUWl4UzRBUFVqMVE1R2RUMmxGS09sWHhYR2hqWFB4dXVCTGxaYVFldHpYSTVXR2c?oc=5",
       "source": "NVIDIA Blog",
@@ -171,11 +171,11 @@
       "summary": "Korea Advances Physical AI Across Industries With NVIDIA&nbsp;&nbsp;NVIDIA Blog"
     },
     {
-      "title": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXZiTnZQV3Fka0hSYTJoM0gwYlllckVQaXZtOXliZ0lhM3k1LXNHTkQ1RHRyZl9JUW9LSFo1ckFROG1Ea0lMbjFKeHJWS01Bbmh0STk4ZHZCQ2dWdlBPYnFWZ0VyaERPNGU1MlU3Z1gyMHg1LWFELVB6Q2xDUVFmZktKclRWdF9Ud21LdkFQOEtJWUpDRFE?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "SemiAnalysis says more than 1.5 GW of banned Nvidia chips reached China&nbsp;&nbsp;MLQ.ai"
+      "title": "Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEMzdHkxc01oaHV1d2JWM1RHa0laQVBsaEZlQ21NeTYzSGZpOWZBR1k5bHRsZHp4VmN2LURLMlVhQW5jNzBvOHp4RmVoMkt6SEsxUGJCcENhalR0Y2E1aHBJcmxXV1Z4aHlwSVUyQV9NVEN1MkJQZ0p3Xzd2S2hBakQ4cTB4YVBESG52RnhndDVxdGQtc3hibXlfSXJMVGt6SUFGRW1hVUh0dWZYWkUxZFJhWXhMSEI3TmdOZ3BOSjBJQUQzTmRUb1NfYkxrdWVrd1dCNktFbWVkOG5nSTJv?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-17T12:00:00+00:00",
+      "summary": "Rockwell Automation Expands Edge Computing Options for Industrial AI with NVIDIA GPUs&nbsp;&nbsp;TradingView"
     }
   ]
 }
