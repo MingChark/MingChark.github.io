@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T07:35:54.771666+00:00",
+  "generated": "2026-11-26T21:09:46.842676+00:00",
   "query": "foundation model OR large language model release",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "source": "Apple Machine Learning Research",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "Introducing the Third Generation of Apple’s Foundation Models&nbsp;&nbsp;Apple Machine Learning Research"
+    },
+    {
+      "title": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities - www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTMnlncTR6U2NKUUF4Q3FMbUNZa05ocTJBSVVaTmJlcUdJQlN3Q2IzaWdkUWNPUjBadzlycW54NDZSZTlTOFl1UDVrQUVDTE9NUkE3bXdrbGs4RVJ6Y3B4Q0JMZ2dJVklXVDJBZGZtUFhzbVFvUVI4b29INA?oc=5",
+      "source": "www.pib.gov.in",
+      "published": "2026-11-26T05:53:00+00:00",
+      "summary": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "title": "A clinical multimodal vision language foundation model with fine-grain explainability - Nature",
@@ -38,13 +45,6 @@
       "summary": "Introducing Geospatial Foundation Models in ArcGIS&nbsp;&nbsp;Esri"
     },
     {
-      "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
-      "source": "VentureBeat",
-      "published": "2026-06-10T07:00:00+00:00",
-      "summary": "A $1,500 foundation model that rivals larger LLMs&nbsp;&nbsp;VentureBeat"
-    },
-    {
       "title": "HOPPR Introduces New AI Model for Chest CT Exams - Diagnostic and Interventional Cardiology",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
       "source": "Diagnostic and Interventional Cardiology",
@@ -73,11 +73,11 @@
       "summary": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit&nbsp;&nbsp;NASA Science (.gov)"
     },
     {
-      "title": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMl96Mk9zbE5kWnA0MFVIVEpkRDQ1Q0s1bUh3VHFZUVpqOG83VFRmaDFGSkMyVHd1Q01xVmhVbUx2Z3VRZW4yNW1QU3ZnVFNjMWN3a1o1SkZ4YXhRamkzX0h5aXJLVWJ0U0E?oc=5",
+      "title": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BazFDcTZBQTljempFWVZtSmJIbTFMTEdXaE9UV2VjNWVoTlp6R3VWVTFoQ0JSNDdQSUp5NHpFT0NzdVg0bVRzZUZwajBSZV83V0NiVU1hM3dHdE5WclZYMnhwZk8yeG11OG1QaWU0RQ?oc=5",
       "source": "shattered.io",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "IBM, NASA Open-Source Moon AI Model, Cut Errors 23% [2026]&nbsp;&nbsp;shattered.io"
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026]&nbsp;&nbsp;shattered.io"
     },
     {
       "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
@@ -87,25 +87,18 @@
       "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli&nbsp;&nbsp;AI at Meta"
     },
     {
+      "title": "Robot Foundation Models: A Complete Technical Survey - Medium",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNEV0tqYlI1NWhjcmJULVJYUGIwbWVWZVhmN2QxbzQxZTREZjBRZHhhNndGbnA1QV9UajV6OC1Gb3prX0I4R2dqN1oxZ3NkSHlFVnZmXzUyOXB5cnhCSldCX3RSZHhnemxwMVNWb05yV3RmZlJnakZWWXRZODR5MzNBeEtVdVNPWjlvci0xOUh0N2pfVk81MDdyZmY?oc=5",
+      "source": "Medium",
+      "published": "2026-08-17T07:00:00+00:00",
+      "summary": "Robot Foundation Models: A Complete Technical Survey&nbsp;&nbsp;Medium"
+    },
+    {
       "title": "Microsoft takes on AI rivals with three new foundational models - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjVQNERwX2JBZ0ZzMHdZOTQ1LVJOQWN0TUJzT3JlbUU1eUI2NFRWSzZvRHJ2SXdZbFJwNzk5eWdGcDRIc2xMdTV0el9pVHEzMXhaUUswU2o3S1RQQkFObmRLeHZlcDNpME1YM0Y0SzJRZkNZV21la3YwRDdxbk9LV2NpWk85RXU2YUtUMV9oeHhPSk1GNGFHZHd1VmFjRDQ?oc=5",
       "source": "TechCrunch",
       "published": "2026-04-02T07:00:00+00:00",
       "summary": "Microsoft takes on AI rivals with three new foundational models&nbsp;&nbsp;TechCrunch"
-    },
-    {
-      "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
-      "source": "Medium",
-      "published": "2026-07-04T07:00:00+00:00",
-      "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
-    },
-    {
-      "title": "AGIBOT releases GO-2 foundation model for embodied AI - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmFpbXhsRDI3aXg0YlhXRjljMV9ZSFdGTWR6dzFBVHZfU05meW0wN05VeGh2QjdDYXIzYk14eWRUd1ZtRlk5T3hEMjFma2pWLU5aMy1wNmlJdW9GNGJ1X3VibWhlRjQ4TnNqMUhid204aF9MbXlReGJTWTFPN09iZ3pxRnZzbFMz?oc=5",
-      "source": "The Robot Report",
-      "published": "2026-04-09T07:00:00+00:00",
-      "summary": "AGIBOT releases GO-2 foundation model for embodied AI&nbsp;&nbsp;The Robot Report"
     },
     {
       "title": "An open vision-language model for diverse medical applications - Nature",
@@ -120,6 +113,13 @@
       "source": "shattered.io",
       "published": "2026-10-20T07:00:00+00:00",
       "summary": "Dream Labs Raises $90M Seed for Any-Robot AI Model [2026]&nbsp;&nbsp;shattered.io"
+    },
+    {
+      "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar - www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lfN25IVjFQRDV5UWJ5alV0Sl9jam1Wd3VDU0xHTzNWQzNyNVNjOVV6SlhSZ05sWVljLV9aNEhRcVJqa0JjTXJDYWdZOTdZN0JrT01lWkxzQ09BTGJqY2NRQzNlbHA4NHNjMDJtVThWZzdQbmxmMjFlNU1JQkR3SFlZdTlrdw?oc=5",
+      "source": "www.pib.gov.in",
+      "published": "2026-11-26T06:23:26+00:00",
+      "summary": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar&nbsp;&nbsp;www.pib.gov.in"
     },
     {
       "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
@@ -141,6 +141,13 @@
       "source": "Nature",
       "published": "2026-04-04T07:00:00+00:00",
       "summary": "Decipher-MR: a vision-language foundation model for 3D MRI representations&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "TabFM and the Rise of Tabular Foundation Models - Medium",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9KMEhILXk0OFptSkdoMWZFWFpNUlZ2eXFQOVQ1UjdoMjQ1LXRCU29oQjdkU0FiNlZZNlhuNzRNTTVBMzE3eVRWMWJ6Z2lDRi1oWEZueklxbm5pWkpuc0sxYVozeEpsVGhOX2lXWGMxZlBLZzFUdVBkeUIyTnRmd1hMSU1RNy1icTBNLWZWeVZFaUtUVVAw?oc=5",
+      "source": "Medium",
+      "published": "2026-07-04T07:00:00+00:00",
+      "summary": "TabFM and the Rise of Tabular Foundation Models&nbsp;&nbsp;Medium"
     },
     {
       "title": "Apple’s third-generation Foundation Models explained - 9to5Mac",
@@ -169,13 +176,6 @@
       "source": "The Robot Report",
       "published": "2026-05-11T07:00:00+00:00",
       "summary": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands&nbsp;&nbsp;The Robot Report"
-    },
-    {
-      "title": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar - www.pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55UDJHZDJkNnRudDB1VndSZXVqQlJqTzVLbFlkZWVIanJfYVJHZUo4VzlyNVdsNllPSFlBRlFiY254WTBTT0Y3UTU0TTRKZWFqRjZwMkRtc3BWNXRwanNJQXZ1SWNVdG9U?oc=5",
-      "source": "www.pib.gov.in",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI Innovation Centre Pillar&nbsp;&nbsp;www.pib.gov.in"
     }
   ]
 }

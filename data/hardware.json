@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T07:35:54.771666+00:00",
+  "generated": "2026-11-26T21:09:46.842676+00:00",
   "query": "AI hardware OR AI chips OR GPU accelerator (Nvidia OR AMD OR TPU)",
   "articles": [
     {
@@ -24,13 +24,6 @@
       "summary": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.&nbsp;&nbsp;The Globe and Mail"
     },
     {
-      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
-      "source": "NVIDIA",
-      "published": "2026-11-25T18:59:45+00:00",
-      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
-    },
-    {
       "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times - The Register",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamM1eERYd1dVMXVUc1Y4eFZ2dGNGT3dWODg5U2NLZUkzN0FUZWs2WXRjWDJ3VE4xTWtfZjFBa1JEQm1PYUx6alJJcFVIQ0t6OUEzOG5qNHBLU1JwcmVXdUFleGY5VlY3aktVRzhWQmVxRTVLbUhmdW9BLUxWUDNOaGJBM3dhYUthd3drNjRRM0hlRVpXQTRveFVaWTM1elB6ZjAzMTF4d1FKREVZNV91aGRQTG9CbTVhNUJfRm9Cc3JqV2M?oc=5",
       "source": "The Register",
@@ -38,32 +31,25 @@
       "summary": "Amazon scoops up AI accelerator tech to keep chips busy at all times&nbsp;&nbsp;The Register"
     },
     {
-      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMExMVU1Ndm9iY3hNS0VCaWxpQzJaS28xenZlY21SSkNsTUhoY0FyUnZZUGlsNlFNVEZqYjFzMWJKNHR5cVZCNWNxalMwZWhMSjRUZ2RUYXZlcHA5aUs3Z2lOY2F5QVFYTmJZbnNicXplT2w2OUV4TmR3bS1rRjVWWFV0dEl0U1Z5cEdOVGhiMHVScVV2R0xaOFo2cWZhYlVleENGRlU4QldsVEh3Z1dNcGdrMlJxWjY1d0E5djJaRGpobWNyLXVRelU0bGJVbE5ZQk93MXh6T0tGR0RPQTV6dTBnOFotTTFrYmFDUjVwY3kyelF2UHVNaDV2OWpWZzVQVWN5MGpQRzhDblRJbmxFdjFQVC1DbnZ5ZGVCUTQ2OWpHMEI2ZExsYThqN2k5Rm0zNk5r?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-30T07:00:00+00:00",
-      "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;Tom's Hardware"
+      "title": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh1NTJ0QVdnakQ4bENuSVBZNU5WTk85Qzhqdjh1SDdKV01YMEREVUtiNzU5NkVvYnVSbnFUZHRYUDNxdFp0RTY5OEhIaW9KcG1hdm9MQ1FzZ1VGMlpWalJFS0RsODBZZDVvMDd5OGJQQkVMS3dCaWFGeVhIMnhvd1EybWdtQWc?oc=5",
+      "source": "NVIDIA",
+      "published": "2026-11-25T18:59:45+00:00",
+      "summary": "NVIDIA cuPhoton: GPU-Accelerated Scientific Data Processing&nbsp;&nbsp;NVIDIA"
     },
     {
-      "title": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaExZSUhHYkVnVFg2Z1hPOFpyVi03bzRTUXZrQUZSS0dMTm01cW5JUl8tQjI0cUJMRGVXSU9KNGlZVS1iWS0xZFN5dldrNldmaWt1d2RkaGJYZF9FY2FnRlVyRkpCTmMtR1hqb3BSQVA3QXQyTzhjUDlycHZ5ekNmVVFvcXAtdGJhMkRNLUxrNUZqVWkxekN5Z1dkUUpudHFiOHJad18tSEZjbWVuaUl2Q3pJUzdNSG9yLVFrdy14d056N2M?oc=5",
-      "source": "Reuters",
-      "published": "2026-04-01T07:00:00+00:00",
-      "summary": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks&nbsp;&nbsp;Reuters"
+      "title": "UBS sees Chinese AI chips taking 88% of China's market by 2028 - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUxaZ0FlWXNGQWIzTVlQb1laOXF0YmNkaWdJcXlxclhVYU5jY2FmamxnWkpVSUR6UTEwaWFhNXpkaFZwMTVHbXRDUDFSYWxkd1o3V1BialVtSHNodERYOHI1dXhaczVrUE0ydDNkaVJsc0N3cTNGWENPVU5JSU9IMzZfVGdJT1Ji?oc=5",
+      "source": "MLQ.ai",
+      "published": "2026-11-26T08:24:13+00:00",
+      "summary": "UBS sees Chinese AI chips taking 88% of China's market by 2028&nbsp;&nbsp;MLQ.ai"
     },
     {
-      "title": "3 AI Chip Stocks To Watch Beyond Nvidia Stock Today - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY194VGdPME9hZHFQMGdERjk1T1c2Y0hMa08yRU5CVzNENHRjWHBNdUk4S1BGVkEycWpaalZvX29XcWlINTFqZUNwb3BzcnUwcXBBR0NFZjFmdG54ZDc5M3lzcEw1OTRxN1FyVGZUY09MZVBrYjJiaDNpYy1pUko4bjJibktlOEY5Q0pBU1JqTHFTbC1GajV1bzFFU1B1MXdJbGJxbGtMVkdianFNNE5fWk9pR1R5ZUE5ZzFxN05aaVZfa21ZemkzMUdQdDRwcWY0cEFWY2VPNy11alFJM0HSAeMBQVVfeXFMT1czWnhGSV9HV0NKWmhwalpiRHV6cjdyeEd3X1Fldm8xMmU5bk1iNy1OSlZJNlZHZVRHazZpTVZxRFRzcW5acEFaNHJPSTRMRndwdjBiSFJiV3hGa0RkVkxZMG5oYVZSeEg3dTk3SU5MX0RJS3lwUUJXLXZEN1BVdmswUGNwVXBOcnM5YV9nRmx4SFk0ekxtUlZZNzd3Q2g5SmNBTTk0V0dOMkVTckIyTFppR1lpYXJadVR6SFh4aGZQYUduQ1BvVzB1ZU1BZzFrY2lsazJKVTZHbDlSUHpjXzktTWs?oc=5",
+      "title": "Advanced Micro Devices (AMD) Completes Taalas Acquisition - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjZ3LXJQeWdwVDZYMUJYLWhENlp6WG1MQjh3eU13SFNjLW11MkV0bVpSS3NwVHIwdGtTS1ZNazhWSV94NTNuVThNaEozdHVJN0pXeG1pd2JvUElOY3pWS29naTRyS0w5M1RXSXBuODFDQ2ZlX3huWEhMQTROenVMLVFqRXpTMm1KcHhEclNRVUxjVktOTHZxWUNNSzdCR3FPTVJacFJhODRmV3VtaHFVVWxwUWNURFR0NzV6aXBmWlUyZHd6aHRJcEZNaEg2bmtIY3MzSlpaUEzSAd4BQVVfeXFMTkRJWHB3SHRlZkhPMUhXZXRUeW0weXk2c2NyaUJLSWp2d2t3Wk1QVDlNYXlwWmdRamhHSWlfalAyZFRiYjRhSUc5ajFYT3pGYjVqQ1VVODRLR2FvUzZ5WFM3aFowY1VRajVzQjM3QmdlUDNuUzZ6ZHlJVklkcmtTZl9JckhoRUx1UGZGNkFkRmxFN1pYUHdjR1lCa2huRXVNU3BvYmt6TW1SbElvWkI3VHlwQmZhdU8tck5uZ25VbGFvRDFFb21QbjZQUGI1dnhUY1F4QVYwdzZpM2Y5eDJ3?oc=5",
       "source": "Simply Wall St",
-      "published": "2026-11-24T00:13:57+00:00",
-      "summary": "3 AI Chip Stocks To Watch Beyond Nvidia Stock Today&nbsp;&nbsp;Simply Wall St"
-    },
-    {
-      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-06T07:00:00+00:00",
-      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
+      "published": "2026-11-26T18:09:43+00:00",
+      "summary": "Advanced Micro Devices (AMD) Completes Taalas Acquisition&nbsp;&nbsp;Simply Wall St"
     },
     {
       "title": "Why Jensen Huang and Nvidia matter so much to markets - The Straits Times",
@@ -73,32 +59,18 @@
       "summary": "Why Jensen Huang and Nvidia matter so much to markets&nbsp;&nbsp;The Straits Times"
     },
     {
-      "title": "Databricks and NVIDIA: Building for the Agentic Era - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUXJpQWd0WW50MmN2cDllX2h1alVzVE1WWFlyUlJtMlZqbmtrbG0wVVVwZnRMcUZPYy0zMHlRT2x4S2hJSmV5YjE4Tldka3AwY2RCYWFkcUxuMy1ZM0FRTkRMRkZDRnU4MmxjOXhsdmJlSTdXLUljUEFYUUU0Z2c?oc=5",
-      "source": "Databricks",
-      "published": "2026-06-17T07:00:00+00:00",
-      "summary": "Databricks and NVIDIA: Building for the Agentic Era&nbsp;&nbsp;Databricks"
+      "title": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMExMVU1Ndm9iY3hNS0VCaWxpQzJaS28xenZlY21SSkNsTUhoY0FyUnZZUGlsNlFNVEZqYjFzMWJKNHR5cVZCNWNxalMwZWhMSjRUZ2RUYXZlcHA5aUs3Z2lOY2F5QVFYTmJZbnNicXplT2w2OUV4TmR3bS1rRjVWWFV0dEl0U1Z5cEdOVGhiMHVScVV2R0xaOFo2cWZhYlVleENGRlU4QldsVEh3Z1dNcGdrMlJxWjY1d0E5djJaRGpobWNyLXVRelU0bGJVbE5ZQk93MXh6T0tGR0RPQTV6dTBnOFotTTFrYmFDUjVwY3kyelF2UHVNaDV2OWpWZzVQVWN5MGpQRzhDblRJbmxFdjFQVC1DbnZ5ZGVCUTQ2OWpHMEI2ZExsYThqN2k5Rm0zNk5r?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals&nbsp;&nbsp;Tom's Hardware"
     },
     {
-      "title": "10 top AI hardware and chip-making companies in 2026 - TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtjczdfNm85VkZhR3V2OFpnZ1N0TjV0enprMkRWdzY3LVRzRm8yaXRvcklvRXQxMmllTW4yUm4xOU53dmFKMkVNNWJoMHE5UzN2dkl2MFdyQmt2aUFZeUVjMjZpemU3MlR1RXdsY1ozdEVpV3JCSUJWbGdVWXpLS3FKaUtvYWlCRkh2eHU3S3ZkQ1JWRjZr?oc=5",
-      "source": "TechTarget",
-      "published": "2026-01-30T08:00:00+00:00",
-      "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
-    },
-    {
-      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
-      "source": "The Official Microsoft Blog",
-      "published": "2026-01-26T08:00:00+00:00",
-      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
-    },
-    {
-      "title": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production - Amazon Web Services",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXdtQlo5RHBWTERFUzJQRFp2X25STU1JTExtX1A3aDMxVGpycWlPR1cwLTVFMlRpQ3VsTWh2aG0xTlZKY1pTdXBJTHh6V3RXdTNxeVdrOFc5TU5XeGFKUnRicFZzTTFMaXhOOU9ScUVSU1VoQ3RibVZiV1dnRkNrWkVLMzNUcTdNdGp6ZmhGeHFvMEp1enhadjItYlZBQ2dTUlFsSmlHVWtlUnZWMWVsaTdWYXJETUZ1WUlhOHFXdnN1VUtnMlNUOFhRUm9WajA?oc=5",
-      "source": "Amazon Web Services",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production&nbsp;&nbsp;Amazon Web Services"
+      "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "AMD buys chip startup that hardwires AI models into its silicon&nbsp;&nbsp;CNBC"
     },
     {
       "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents - NVIDIA Developer",
@@ -108,11 +80,39 @@
       "summary": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5",
+      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
       "source": "NVIDIA Developer",
-      "published": "2026-10-06T07:00:00+00:00",
-      "summary": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "published": "2026-09-22T07:00:00+00:00",
+      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+    },
+    {
+      "title": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaExZSUhHYkVnVFg2Z1hPOFpyVi03bzRTUXZrQUZSS0dMTm01cW5JUl8tQjI0cUJMRGVXSU9KNGlZVS1iWS0xZFN5dldrNldmaWt1d2RkaGJYZF9FY2FnRlVyRkpCTmMtR1hqb3BSQVA3QXQyTzhjUDlycHZ5ekNmVVFvcXAtdGJhMkRNLUxrNUZqVWkxekN5Z1dkUUpudHFiOHJad18tSEZjbWVuaUl2Q3pJUzdNSG9yLVFrdy14d056N2M?oc=5",
+      "source": "Reuters",
+      "published": "2026-04-01T07:00:00+00:00",
+      "summary": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Maia 200: The AI accelerator built for inference - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
+      "source": "The Official Microsoft Blog",
+      "published": "2026-01-26T08:00:00+00:00",
+      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog"
+    },
+    {
+      "title": "10 top AI hardware and chip-making companies in 2026 - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtjczdfNm85VkZhR3V2OFpnZ1N0TjV0enprMkRWdzY3LVRzRm8yaXRvcklvRXQxMmllTW4yUm4xOU53dmFKMkVNNWJoMHE5UzN2dkl2MFdyQmt2aUFZeUVjMjZpemU3MlR1RXdsY1ozdEVpV3JCSUJWbGdVWXpLS3FKaUtvYWlCRkh2eHU3S3ZkQ1JWRjZr?oc=5",
+      "source": "TechTarget",
+      "published": "2026-01-30T08:00:00+00:00",
+      "summary": "10 top AI hardware and chip-making companies in 2026&nbsp;&nbsp;TechTarget"
+    },
+    {
+      "title": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMXd4N2x1NTJ6NHVNYVBrMGU2M3pMUTR0OWxSTGpMcVBhWkh4WmZWRHFycVlXYUtYeDhMNHRDZXFzMGFlQVJ2ODFwY1BFVUQ3TUlxTVpMZUV1N3E5N3NnZWk5cEpBTnNVX200cTNBdm1sOHk50gF6QVVfeXFMTXFaeTZVb05qUGtpX2oxTmlUdWRVUTFlei04RXFSWXJ1aFpXUjY5bGg4azF6eUZaSUNMS29kcXZZWDZxVDFNc3FWdmZ0bENhRDZ4SV9nbzVfNUE3TUcta19lRDNYUGp3RE00MFIzSW1QX0E0cnlHbzBFR0E?oc=5",
+      "source": "CNBC",
+      "published": "2026-03-11T07:00:00+00:00",
+      "summary": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals&nbsp;&nbsp;CNBC"
     },
     {
       "title": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog - NVIDIA Developer",
@@ -122,11 +122,18 @@
       "summary": "Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     },
     {
-      "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEo3VkdmLTZya3pSSkE4RVNnTzdKS1hqMW4tRlpValVvb0p5dElWR3h6UHZLd1NQVzB2YWNhWHlsN0ZjRmNBVjYtQUkwLTloaWNKQXZIbzNKMUtGeFk5cWpMQm9OOU1fWFpZSjlVaHVQUF9udEZ2dFBfeTNaMXl5UWFWdnZCMmQ0d3ZsQzhnTmQ1dkRtaEk0YWc2Wklzak0?oc=5",
-      "source": "NVIDIA Developer",
-      "published": "2026-09-22T07:00:00+00:00",
-      "summary": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-05-31T07:00:00+00:00",
+      "summary": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
+      "title": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production - Amazon Web Services",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXdtQlo5RHBWTERFUzJQRFp2X25STU1JTExtX1A3aDMxVGpycWlPR1cwLTVFMlRpQ3VsTWh2aG0xTlZKY1pTdXBJTHh6V3RXdTNxeVdrOFc5TU5XeGFKUnRicFZzTTFMaXhOOU9ScUVSU1VoQ3RibVZiV1dnRkNrWkVLMzNUcTdNdGp6ZmhGeHFvMEp1enhadjItYlZBQ2dTUlFsSmlHVWtlUnZWMWVsaTdWYXJETUZ1WUlhOHFXdnN1VUtnMlNUOFhRUm9WajA?oc=5",
+      "source": "Amazon Web Services",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production&nbsp;&nbsp;Amazon Web Services"
     },
     {
       "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - NVIDIA Newsroom",
@@ -136,11 +143,11 @@
       "summary": "NVIDIA Vera Rubin Opens Agentic AI Frontier&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-03-16T07:00:00+00:00",
-      "summary": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit&nbsp;&nbsp;NVIDIA Newsroom"
+      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia — stock soars 11% - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2U3bkkwSEVJdXJxZ3IySWRZQlZKcHl4TklYS0tMQjhvSUlNd1pELXc2Q1BaQ1Jfc3ZRX1RYRExXUjUxaDhHNXdXLUtLaTdCS01KNENsU2hkWkJiQWhJUjV5YXFWWTdha1ZaVWRnN1hYUnZHcUNlZlpRNVZ1eEx4Z2phMNIBiAFBVV95cUxNbjBaOWpHSkpIYzAycW5lZGU0UjBzbTNyTDhsdnQ1ejVKRzFpcjYwQjJVc2pFNGpkUDhqM0VoVmZWMEotOC1Jb1kwWEMzd09nUHFJRzZWR3UtWWpUTkx6MEZ6SDRwZzBnZTUweEhSdjk5bmZidFhPWGJBLWVZN24xcmpaRGxZcWh6?oc=5",
+      "source": "CNBC",
+      "published": "2025-10-27T07:00:00+00:00",
+      "summary": "Qualcomm announces AI chips to compete with AMD and Nvidia — stock soars 11%&nbsp;&nbsp;CNBC"
     },
     {
       "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era - NVIDIA Newsroom",
@@ -150,6 +157,13 @@
       "summary": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
+      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit&nbsp;&nbsp;NVIDIA Newsroom"
+    },
+    {
       "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
       "source": "NVIDIA Newsroom",
@@ -157,25 +171,11 @@
       "summary": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer&nbsp;&nbsp;NVIDIA Newsroom"
     },
     {
-      "title": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnREa0xvSW5oajJHZTJXZ3AtZy1QZmF0cEdhUm0tUzQ3dlljdVV6RDViVy1jWTkxeXkwVnNHQ2hYcVRneXpfTVlJYWx0SjdXaDBEY19FMkpCem9xQ21INk4xa3RvMVk4ZzJsX1JIZWhQUmFzMnRIcURsRmEtOWxiVU5XVENFUUhEdnFxOGRxbkZZblctYW5HNXZWWUV6T2pWQWd3UmdCVXpsS3VhdXc?oc=5",
+      "title": "Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6 | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFlHMjFXc2ZBekNkeU1JTGJPUEpYMkFCOGUzdlZZeW5rNDZNNFREMmp3QkhJa0YwOFNOVFVIWkVHUVk0NV9tNEJxSXlReG0zMkYyckFSLVRCZmpwRzcxOXpuRFNUQVVyYXZsV1BmSVpOY2FicFlGYU9mR3R2d0VxWjJSeUxoZlM1dHdrc3lwSjIwWFYtTlRBcFVLbVc2NXVpX2NscTRpS3AxZUMyZkNhRA?oc=5",
       "source": "NVIDIA Developer",
-      "published": "2026-02-04T08:00:00+00:00",
-      "summary": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints&nbsp;&nbsp;NVIDIA Developer"
-    },
-    {
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Z211SnRyd196S3dfLWM3R1hyVy01a0RSYmNpMzgxNzVRM093ejhiTWZZN29yUnhOOFk1NmEyVERrVE43TThrNTBCMzlxMFBrSEJaa0prYw?oc=5",
-      "source": "NVIDIA Blog",
-      "published": "2026-03-19T07:00:00+00:00",
-      "summary": "NVIDIA GTC 2026: Live Updates on What’s Next in AI&nbsp;&nbsp;NVIDIA Blog"
-    },
-    {
-      "title": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure - AMD",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2RaUkpYbW5Ld2JDUVZmTUc0MUdBelFMNUxYSGdNRVJEYUlJWHJTVGFqczlQUUhXak03aS03bWtkR0pjMmgzcXlNR3NzZGl6Rl9nNHJBR0g2cE1LeHptNkozaEQwVG5rMElYYXFYX0pXbGxGby1VRHJ5YVprTXlHTVhtOC1IQUdJZUxoUnd3ZTljWC1CWjBfeDVn?oc=5",
-      "source": "AMD",
-      "published": "2026-05-07T07:00:00+00:00",
-      "summary": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure&nbsp;&nbsp;AMD"
+      "published": "2025-09-11T07:00:00+00:00",
+      "summary": "Build High-Performance Vision AI Pipelines with NVIDIA CUDA-Accelerated VC-6 | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer"
     }
   ]
 }
