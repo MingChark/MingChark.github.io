@@ -1,97 +1,34 @@
 {
-  "generated": "2026-11-27T20:53:31.616682+00:00",
+  "generated": "2026-11-28T07:01:07.477964+00:00",
   "query": "OpenAI",
   "articles": [
     {
-      "title": "A Stanford physicist drops an AI-assisted theory that has scientists at odds - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakRON240eHBoQ2hUUjc3S1M2V2tZZmJDeEFlYjVQcWFaQVIyWktSM090UTRLY1pMMGNseEVwVF9pUldCSTVWaWFLUm9BOGROM1YycGpldG91SGNYVElOa1ctd3NuX0JEbGM4aUJCY3huREdrNFBXM0liQ1RIVmFyQzZoaGV6OW1TZXNsbkRLQkp1d01lZmMwUlQ3VXZmZHcwMTFjRWtEbw?oc=5",
-      "source": "Business Insider",
-      "published": "2026-11-26T23:50:00+00:00",
-      "summary": "A Stanford physicist drops an AI-assisted theory that has scientists at odds&nbsp;&nbsp;Business Insider"
+      "title": "OpenAI countersues Apple in ongoing trade secrets fight - CNN",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTW11Wi1QV2lsNzVvRlYyVklERHdsUkxKLXdRbjRjbDk2eC1UYmM1LXNZN2FPdEdhRC1lci1SYU56M3ZSOWMxM3p6OXB0c2h0dTFVVjBHSWNVSEZJSnNuSnBJMU5HZGd6STY3Sg?oc=5",
+      "source": "CNN",
+      "published": "2026-11-27T19:58:31+00:00",
+      "summary": "OpenAI countersues Apple in ongoing trade secrets fight&nbsp;&nbsp;CNNOpenAI countersues Apple over allegations of stealing trade secrets&nbsp;&nbsp;CBS NewsOpenAI countersues Apple over trade secrets as AI race heats up&nbsp;&nbsp;Al JazeeraOpenAI Says Apple Pressured Suppliers to Shun Its Devices&"
     },
     {
-      "title": "Anthropic and OpenAI Race to Embed Engineers as Faith in AI Buildout Wobbles - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjVBQmdpU09pZXdvRmNYTnpTRThRVUxldWJRVDR0dDk5RjVJM0c1WWN1SzU2LXNzakp4aHB5TVlsRjlkdldhWjVlOVRoMW9zZmNXelFKS0IxLVo4OG9JZ0hBcS1SbV95QXpxR0d1Rnh1VWxfNmxOZU85VkhtUGdNMERTdFdhRHhlOFpn?oc=5",
-      "source": "Barron's",
-      "published": "2026-11-27T11:00:00+00:00",
-      "summary": "Anthropic and OpenAI Race to Embed Engineers as Faith in AI Buildout Wobbles&nbsp;&nbsp;Barron's"
-    },
-    {
-      "title": "OpenAI countersues Apple for stealing trade secrets - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanQycFJEajNxdE50c0xGTkpDeGlsaUFUdDJZaXhWZU1vTEJSRS1Zc1pPZ3RrX19oUFRCMVhPdHkxWF9QYnl3YV9uZExBOExFWXk2SUpzNmFGd01hM3ZMUWNyckhTdzc4d1Rpb2g0NURNZjZMWTAzTlF2QjRCZW1qbzFqbHNnblh6LVFjUjlJdUVVSE5oN3NZcXJmN3FGR0t00gGmAUFVX3lxTE54U0ZaVnhJdGtVLTYwTmxSSzRqY2dRdFRxZE1jc0xYdFVzRWNmMDgxZ2tvSkNzMUI1T2pFaGNEVmxVQXBTTm1YczNKU1hjMG1KTTBmbUM5SjhxMmZ2UVA5SU85NHd6ZGZSQU1Qcl9PelVDNFdNVXVXdlNsdHZkcl9mZkxRVDRIejJlcGtmVENUS2pBVkduZEVHcGJTUkp2M1RKZlJ5R1E?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-27T18:56:49+00:00",
-      "summary": "OpenAI countersues Apple for stealing trade secrets&nbsp;&nbsp;CNBCOpenAI countersues Apple for stealing trade secrets&nbsp;&nbsp;Financial TimesOpenAI countersues Apple in ongoing trade secrets fight&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1RWUDNfdFhiM242MUZmNTlSajdYeEllVVU0YzFkdmptd1phTjVzYWNBeXduX05iSUNjSVgwUkJwajFETlYteDMtamYxb1liMTJQWFlSbFkxLW9SQXFZWFRNZHhWQlRUNkxEblY2dVF1ZHlnTmhtRHhzOF8wTVJJbV94VVFXZzZ4ZmthNGJPU2pNdFQ2V1JlVjVhNWpYNVlUSnNYM1BvMkhLZTdtdXo5bDBSNzJwTkxEQzNJ?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-11-27T00:40:00+00:00",
-      "summary": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season&nbsp;&nbsp;Bloomberg"
-    },
-    {
-      "title": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-26T10:03:00+00:00",
-      "summary": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell&nbsp;&nbsp;Fortune"
-    },
-    {
-      "title": "OpenAI discovers efficiency limit for multiplying large sets of numbers - New Scientist",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWVaV2pVMGtNcVBTYU5FVXU3LUpNQ2VTcm85SERBY29vSW9vc2hrQUJ4WFNyTm1JUS1kb2JUWVJxaDFMZGFIZ08yc0pFU0xCVXFOalhWb2hfZ1FEOE1HRVBWWXdZWEhRRmQ5NHN5ZmVqSUlSb2JTUVpreHpTZmRmVndWOERLVWtmZXVkQjFxaTFsLWVDbmM4eGJKbVcwOHR5dklDdURDZk5qLWJySnJOVzVzM1RKNi05?oc=5",
-      "source": "New Scientist",
-      "published": "2026-11-26T04:53:32+00:00",
-      "summary": "OpenAI discovers efficiency limit for multiplying large sets of numbers&nbsp;&nbsp;New Scientist"
-    },
-    {
-      "title": "OpenAI’s IPO Countdown Clock Is Ticking - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3Qxb0R3X0EydVhiOG9yX1ZCczV1eVBZaGdvYVlFWGdTNjBNS3dEYjI1dzZOS2lMQW1tTEZDc1h5cFNtWTFHcUFnSWxzcFJIcDNvLVdNOEZzQnRhNnNlYi1xMFJFUUI5Z3Z0b2xVTHB2NXBlV2RoUGpIVDJQbzZtNQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-24T17:00:00+00:00",
-      "summary": "OpenAI’s IPO Countdown Clock Is Ticking&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI - Axios",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXpKRVJxZXhKY0lFc2JUUVhrNUZhek5tVVQxUmxlS2oyTUFvOTUxWWhJeF9XSmVlTkg0S3U0NDFUbDBfODF6MWlWUFZtY051eE1uNS02SjEyMTZBa2pXUWdoNkZMZi1wa1E0bTVob0dUTDN5SHZRbU9wQnd5MUVFaTkyZ296TXFBakR3VklFaVFlQQ?oc=5",
-      "source": "Axios",
-      "published": "2026-11-26T02:20:35+00:00",
-      "summary": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTBzOVZwVmduRG8yZEdiOU5HdWdEdFlUUlhGX3ZkcWY2bGJLTDdlNkt4WUVEMC1EQTJDc2xtV0R1VnE3OGhWRmY3SlNaSDBlc01WSHpxaEJzVVVncVZ6U2dzWG9sanJHWHB1OUtwNnNyWUZnb1pCdkNYaFlOS2xlM0w4U0tkNzRlRVBhTjNtR0ZDN09Q?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-26T19:30:03+00:00",
-      "summary": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.&nbsp;&nbsp;Yahoo Finance"
-    },
-    {
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNkVpb05PVHpGbUViaXo4cUFrZjVkQVg2eld2X3ZKN2tDeVlEYXJuNUNFTWxnOHR0aWVJS3F4RlU2UThMXzVGbnNScVJkRzU3b2dGVklGazQzeTZkMXpYWVE2R2xYUEQ1OG83Y3FLUm90SVNIRGdreWVwUHozSU1BU1RsQXBzU0tXV1VHd1NnbkVqUXYtRmlWXzdfcFpGVWFwb1BJSnJIdUVFaFJmeVNBcHNianpuZnVsQXdNMFgtaGJUeWt1NjZDM09NcEtubTNrcFB3d3pZeUNMblhUd3Y1TWNic1pRZ9IB6wFBVV95cUxQMXM1ZXk4VnpPczZTcHh1WTNzbzktVFdCLWt3eEtlcVJlbU52ZzhRNnNNdnV1Vzk3ajhIc1hjN3JSYlJxQmJNb0NxLWlRbm9rSllvVlk3a2VscXdqVGV0ZUc4RDM2SU43NXRuMlBsak9GcEJaN0d6Q3JSS2hEZndsMzlTLUtZVlhfdTdiNUVQWV9VdXhBRVVhRHRZTXBtZy1tMWpheVg3a1YzUmNndWs5ajljMVRpYUdRQ2Q0WFpCTWlJQVl5YUdOU25oNVppdFN6OURVZ051c1BYeVZHNHZqQ1ZxajZmYURaVGF3?oc=5",
-      "source": "BleepingComputer",
-      "published": "2026-11-26T21:06:22+00:00",
-      "summary": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug&nbsp;&nbsp;BleepingComputer"
+      "title": "OpenAI Made a Big Mistake. Its Response Was Even Worse - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEFoTlF3QUU4RlB5OGViaVdCMTVCTEhleUk4Q3FhVElEQXk5bTZaVTl0czZnUTJYY3ItbldTZkF3enNKMm5tU09Ea0NRNURXOVk1VDV6dUhlcTJrZWpOd2dWS19keF9NanVkRG1tYno1RWJfSWtiLURZQW51dWV6ZC1qU1JITDIzU3BpNUZqb0twb1JMT0dhZQ?oc=5",
+      "source": "Inc.com",
+      "published": "2026-11-27T21:39:37+00:00",
+      "summary": "OpenAI Made a Big Mistake. Its Response Was Even Worse&nbsp;&nbsp;Inc.com"
     },
     {
       "title": "OpenAI countersues Apple for stealing trade secrets - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
       "source": "Reuters",
-      "published": "2026-11-27T19:12:19+00:00",
+      "published": "2026-11-27T23:00:08+00:00",
       "summary": "OpenAI countersues Apple for stealing trade secrets&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5",
+      "title": "OpenAI and Cisco introduce Shirudo - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
       "source": "OpenAI",
-      "published": "2026-11-24T21:03:41+00:00",
-      "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities&nbsp;&nbsp;OpenAI"
-    },
-    {
-      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk85RFhOaVQ1UzZ5ZmN5cjd1ZWhGSXlfR1hEZEYtelMzb3M3a3B2RWlFaWlxMUYtbnlWSHZwdVhjMWR2cXBIVmtaTGUtbzRhVVRBWFF2VDlVaGh4OXVJVVlSdFJBN1kwVEJ3QXpjeVNYWlBJQmJKSVFrX0F5cUFwVk9mdXZDcTJLNXJROGFPeVJpeF9fbXZxYnZBOFBEd2c?oc=5",
-      "source": "The Decoder",
-      "published": "2026-11-27T16:05:23+00:00",
-      "summary": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork&nbsp;&nbsp;The Decoder"
+      "published": "2026-11-23T21:24:12+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "OpenAI counter-sues Apple over trade secret theft - AppleInsider",
@@ -101,13 +38,6 @@
       "summary": "OpenAI counter-sues Apple over trade secret theft&nbsp;&nbsp;AppleInsider"
     },
     {
-      "title": "OpenAI Countersues Apple And Accuses It Of Stealing Trade Secrets - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3FiOEtHMXhvNzJzUmVNUUZVMEUtWGZoWThRUG1jWmJWMVduTk5sekljODZnSEtiYlh0ckw4VHhva3ZXeVNwLTByVllEU2tYNDZzZ0FObF9UYU9qTTN2NGZtNVRnUHJNc3lYOXhaeWM3bW1tZDRnZkh0b3dKSmxhd1hPRG9lNnRMci0wWmdpWVJzMXNfWkI3YnNTZ0k1N1l5?oc=5",
-      "source": "Engadget",
-      "published": "2026-11-27T19:44:38+00:00",
-      "summary": "OpenAI Countersues Apple And Accuses It Of Stealing Trade Secrets&nbsp;&nbsp;Engadget"
-    },
-    {
       "title": "Prediction markets push OpenAI IPO expectations later into 2027 - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1QtdE95dUdaZ2Y1R1hLV3FidmtBRmdPWnlUdEU0MVRDSFNjU0xZa20wczZMVU16eVBqOEhjbG1pMHJaN0ZvMUJ3WV9EQXJMYU1aaFZPYlZ2T21SemMzNm9XRl9RVElEVTNKNmRJXzktRUs2ZTNaN2lNcU5OcERrelhR0gGHAUFVX3lxTE9tbWZXOWQ5Z2ttSGpUcWx0Nm5mNlY3R3NPczRRVEpEYk1WMjBOM2MtNzV2SE54a3VHbUtlaHNkVzJ3eURRT20yOHRmdmVkRC1vekhqSFJMZkRuSlE5aExRQzEtYzRDSU0xTEtPWmlPMHV5Y2xMRlRQcGxpUXBVdm1RNE80WVZBWQ?oc=5",
       "source": "CNBC",
@@ -115,11 +45,11 @@
       "summary": "Prediction markets push OpenAI IPO expectations later into 2027&nbsp;&nbsp;CNBC"
     },
     {
-      "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzh2Tm5VUGRFa3N6RVZncTFpbnhRYWkwa3BaQ3JUaG5FZnNscmVQYzJEa2cyZzY0UmRUU2wzM0dpNllId1pSN3Y0endBWVYxRU5GTmp4ZExLWXN0UzhSRllULWhrc2FQTS1Nb0hzUTZLZHJ1OXZZUjQwSjJTNGJkWllxcEpvajM4ekJZaXVvTXJjdVFQWEtvWWlWVDZqQV9PVDVxRXI0ako?oc=5",
-      "source": "9to5Mac",
-      "published": "2026-11-27T18:42:00+00:00",
-      "summary": "OpenAI countersues Apple, alleging trade secret theft and supplier threats&nbsp;&nbsp;9to5Mac"
+      "title": "OpenAI says Apple pressured suppliers to shun its devices - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVFwa3dtaVRYYVJvdG5zRnRFRFdpNlFGaEpnSUh5akNyNnhlb0lZekttQkZ5eUJQVDI3VjFWeEVaV2N3c1pZazNxQlVLVmU0UEIyUlRsS3MzaVBBRHZXQ1gtaWtRcDlZM3FDR05COUtEZ0hPN3pfQjNnRDlWTjd5ZmdJalJMN2d4SDFMSjJILXI?oc=5",
+      "source": "The Japan Times",
+      "published": "2026-11-28T01:09:00+00:00",
+      "summary": "OpenAI says Apple pressured suppliers to shun its devices&nbsp;&nbsp;The Japan Times"
     },
     {
       "title": "BREAKING: Employees at OpenAI and Anthropic are panicking - Marcus on AI | Substack",
@@ -136,32 +66,32 @@
       "summary": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work&nbsp;&nbsp;TechCrunch"
     },
     {
-      "title": "OpenAI countersues Apple over alleged trade secret theft, supplier pressure - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFdlVEhybGpQYV9ReG1NbmVqd1ZjTnpRSU5NNGREOGhtc05VdENOcklpNzlBV2txbG1SM3MwWlpTLVB3Y2VpMml4Z25qU2dXeUo5VThqaG5RajRuSEVLYlhxZUNlOE1jdU1TOVRlMDdMb21SU2FmY216YkxYQ0FHLUpKXzRXRWFjbmJYelBMWTdhdU5FUmx0MmJQeDhZNG9GRl9JTHdRbEo2MFZRUTkwdmxNdkUxeW82XzJlNFVMV0d4Nzdm?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "2026-11-27T20:07:54+00:00",
-      "summary": "OpenAI countersues Apple over alleged trade secret theft, supplier pressure&nbsp;&nbsp;Anadolu Ajansı"
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRG9nQl9TdkRvTE1uUDVQYWFSUUh6REFsNUh1dFJ0UXZuN2VEZHp3dlI2RVRPeUJPbk5HcGRMVHpEREJreXI5M3ppMTVRZWhCeEdKV3JmRDdLS2xmQTExUEJJN0QzNU1JT0hNN3lGMkxIX1ZreTV1eDNBTnBxeEwzUlJ0bmNMZ2JuNjR6YlBsZzBsakJrUHNQeFFYVE1EWXkwU19yd0Q2TmRNckIwNGdzcnpfZk8?oc=5",
+      "source": "The Decoder",
+      "published": "2026-11-27T19:38:37+00:00",
+      "summary": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers&nbsp;&nbsp;The Decoder"
     },
     {
-      "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZms3RVBNRHhZMWYyVVFiTy1FdW1xNUNHb3JGN1VYcDAybHZZdlFjd3g4VXQ2SGNBSDZsM0FsX2w1VVNmbHhUQlRqaWpzbjVvVDc1Q3A1TWtqdHFPS3o0eTBRbkc0N2I2WFZNMzdsdXB1TnJwMzhuWV9vMUoxV3g0NzZVNmhVU05GYldrZU9LYw?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-27T19:02:10+00:00",
-      "summary": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices&nbsp;&nbsp;Yahoo Finance UK"
+      "title": "OpenAI countersues Apple, accusing it of stealing device secrets and pressuring shared suppliers - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHlkUTF0eE1lQ1p4dXhZWnF3dGtuazE1ekFzMWRPb2N5a3p3dXpDMG00ZmktNTVIaXgxODNjLWpzbVBDcVctdU8xT1d0SnhUVllfTWNiTERWZDlpbTZvTy12cGZ6bVR3WjVzR2l0M2R6SHd5d3JETEo0SHprdVpYMjUzUDVyRDBqNjFnemlwWFM3S2VfblpuZUdxTlVHRmp3RzZod01FMHQxdGRxSTdHc0huX3gyRDZhNWVYWC1IcE55TEI4SncwQw?oc=5",
+      "source": "Dealroom",
+      "published": "2026-11-28T05:37:43+00:00",
+      "summary": "OpenAI countersues Apple, accusing it of stealing device secrets and pressuring shared suppliers&nbsp;&nbsp;Dealroom"
     },
     {
-      "title": "OpenAI countersues Apple in ongoing trade secrets fight - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYW0xejdFRnF6QzVGc0pRcUNKRXI3Q2luOXBHN2hiakdjWWxwOGxJWjlmRjNCZXJrVzlxTTRyQk5FMFUzZHFBYUc0QXpac0xvMk9oakprN3c5azlTbms5YktkYVRaQU9xSmJkcW13TngzRG00NU0yX0w4ZE92Z1lLUG9oY2RDcDVWcUwyTlh2WnVMVzFzZHRKel9Qd1pWRTloOXpn?oc=5",
-      "source": "Gizmodo",
-      "published": "2026-11-27T20:08:53+00:00",
-      "summary": "OpenAI countersues Apple in ongoing trade secrets fight&nbsp;&nbsp;Gizmodo"
+      "title": "OpenAI accuses Apple of stealing trade secrets in latest filing between warring tech giants - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakJJeWpjeTI0aVFXOERLZG9VVHRHc28wSGZFaGlQVTk5RmVLamk4VG00ZFJSck5VTGNoM3M5ZXo1cExfNlhCbm1zbWpCa3pfM3BBdjlqeUg1ZWJPMVMxR09acDQzaHlyZVNmVGVDRm1uV1RDdUdZa2t1RWxyd1N2aDVrc2F3d1Rxb0tGLVoxQ1BXZVpNZDlvY0JHa1BMQWEzTFhxa3Z2aG5MQW5VUjJIelloaDdOSm5OdExkc29xNmVWSlpYZWFpa1ZQMA?oc=5",
+      "source": "New York Post",
+      "published": "2026-11-27T23:49:00+00:00",
+      "summary": "OpenAI accuses Apple of stealing trade secrets in latest filing between warring tech giants&nbsp;&nbsp;New York Post"
     },
     {
-      "title": "OpenAI Combines ChatGPT’s Chat and Work Tools, Raising Concerns Over Usage Limits - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWE9nRll4aHVXODN5SzBzLTdQenJRMGlyRVJHOUc4bmRxTEFKVmVzQ1l3NU9OZTNZY21IeDFvVVlGTTgwQ0JfSlc5Wk5rbDZ3dmJscUhMVzZwMXQzd2xUNkZWS25mLWxCU0szN1NsTXFLV2JlSTdVYUhPbHpQengxTmxxN2lnVmtfOWxLUDhmcGZuMWZOTzRvR2hCWG1BNHZnMnA2ZVEyUVBLRGFfY3ZvNTlfazN1ellpbEk2TlplTlNKZWtHOGlBWGFFRWgyNzdYTGx6bHF0N0tlTFU?oc=5",
-      "source": "Benzinga",
-      "published": "2026-11-27T17:01:24+00:00",
-      "summary": "OpenAI Combines ChatGPT’s Chat and Work Tools, Raising Concerns Over Usage Limits&nbsp;&nbsp;Benzinga"
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-24T21:03:41+00:00",
+      "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities&nbsp;&nbsp;OpenAI"
     },
     {
       "title": "Searching for distant planets with Astra - OpenAI",
@@ -171,11 +101,81 @@
       "summary": "Searching for distant planets with Astra&nbsp;&nbsp;OpenAI"
     },
     {
-      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRG9nQl9TdkRvTE1uUDVQYWFSUUh6REFsNUh1dFJ0UXZuN2VEZHp3dlI2RVRPeUJPbk5HcGRMVHpEREJreXI5M3ppMTVRZWhCeEdKV3JmRDdLS2xmQTExUEJJN0QzNU1JT0hNN3lGMkxIX1ZreTV1eDNBTnBxeEwzUlJ0bmNMZ2JuNjR6YlBsZzBsakJrUHNQeFFYVE1EWXkwU19yd0Q2TmRNckIwNGdzcnpfZk8?oc=5",
+      "title": "Perplexity and Intelligence - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-22T19:12:41+00:00",
+      "summary": "Perplexity and Intelligence&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdXZBMHRlenptLXduWlZuVzlDS1VuRzgyc3RxVUZHQ254YmpVM21lOU1Pd0pJSU1HTDZ2YTdfRjBSUGFZSUFIYVc3RjlvTlhCcmpzaFloYmZQWDEyamd0OExnSTZSYWFqekJ0TFAzQ0pHY045MXJJWWx3WTU0QdIBgwFBVV95cUxPWl81RnJfSUhQMnBTLUhlUXZUMEI5NjE1ckRxTUZrcW5XckxsLWVCbktmSHd1M01QZjZKc2g2bHBYVW16NWlHRDNXd282eTh1TEhzaFNnS2V0SGUyYzEzNjY2QjJnUkduXzFvWjFkRWRTTXZyU21XaVFYZE5uN3pPTWk2MA?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-24T21:45:49+00:00",
+      "summary": "Saudi national charged in OpenAI bugging to be released on $1 million bond&nbsp;&nbsp;CNBC"
+    },
+    {
+      "title": "OpenAI’s IPO Countdown Clock Is Ticking - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3Qxb0R3X0EydVhiOG9yX1ZCczV1eVBZaGdvYVlFWGdTNjBNS3dEYjI1dzZOS2lMQW1tTEZDc1h5cFNtWTFHcUFnSWxzcFJIcDNvLVdNOEZzQnRhNnNlYi1xMFJFUUI5Z3Z0b2xVTHB2NXBlV2RoUGpIVDJQbzZtNQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-24T17:00:00+00:00",
+      "summary": "OpenAI’s IPO Countdown Clock Is Ticking&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk85RFhOaVQ1UzZ5ZmN5cjd1ZWhGSXlfR1hEZEYtelMzb3M3a3B2RWlFaWlxMUYtbnlWSHZwdVhjMWR2cXBIVmtaTGUtbzRhVVRBWFF2VDlVaGh4OXVJVVlSdFJBN1kwVEJ3QXpjeVNYWlBJQmJKSVFrX0F5cUFwVk9mdXZDcTJLNXJROGFPeVJpeF9fbXZxYnZBOFBEd2c?oc=5",
       "source": "The Decoder",
-      "published": "2026-11-27T19:38:37+00:00",
-      "summary": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers&nbsp;&nbsp;The Decoder"
+      "published": "2026-11-27T16:05:23+00:00",
+      "summary": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork&nbsp;&nbsp;The Decoder"
+    },
+    {
+      "title": "Combatting adversarial distillation - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
+      "source": "OpenAI",
+      "published": "2026-11-20T20:27:23+00:00",
+      "summary": "Combatting adversarial distillation&nbsp;&nbsp;OpenAI"
+    },
+    {
+      "title": "OpenAI files countersuit against Apple in dispute over alleged trade secret theft - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFVDU1Z5QUdjQzlCaGlwdnEyWTZQc214X1BwSkxPN2FnbnQ5MDlYb3NxY3d2ZS1oVXR0aFNBUm9vVHFnQXlscG9HTEJvT1B5SWJWQnozUkNwd2ZIMFhuQmxEckRsX3M1cEVuZXo2VG1oUGJZYmdZb2Fkd1hYUlBMaEZKVzdWTjM4R25XREIxNjVxN1haUlBKUFg1M0RuTmJWSWNHZWxsQ1h6Q3BiZWs1M3dVSEJhMzZrc09MbWN3cUw4Yk9WaUJIOWNQNDMzdw?oc=5",
+      "source": "Anadolu Ajansı",
+      "published": "2026-11-28T06:52:09+00:00",
+      "summary": "OpenAI files countersuit against Apple in dispute over alleged trade secret theft&nbsp;&nbsp;Anadolu Ajansı"
+    },
+    {
+      "title": "OpenAI Countersues Apple In Trade Secrets Battle - The Information",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWElkVUZWcHdsdnJUVHBvd0ZzeTNRbGhQeUM5ZnJzbGdQQzVCYTNIcFdMQzZYNTZ5Z2VTUmlqUUtFdjV4a2NBRXNuVVJCV0xCTmwxVU5xejMxZDllaktNSkx4YTNQVE5EQVM3eHMyM3Nnb3Q5NTZmZ0hZTjZlUVE1VDc5aXRBTkFMWE9tazMxaw?oc=5",
+      "source": "The Information",
+      "published": "2026-11-27T19:06:00+00:00",
+      "summary": "OpenAI Countersues Apple In Trade Secrets Battle&nbsp;&nbsp;The Information"
+    },
+    {
+      "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf' - MoneyWise.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmJXZ0VsaDNFSmhXQzcxZkpLaTRwb29aTTR3RTVrSTFMNnJ0aS12WlNpZFZ1TTFOenFCeE9rSWFBWk0wbTJRWHVSZVJuWXFUV3QxOGMza0Q0ZmxzRTBEdnZmX0ZOdWRKQjlNV1VTa003R0FEMTZYLW0yT1pMQnp2WUI4M1VVejZMTUFXdA?oc=5",
+      "source": "MoneyWise.com",
+      "published": "2026-11-27T22:24:29+00:00",
+      "summary": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'&nbsp;&nbsp;MoneyWise.com"
+    },
+    {
+      "title": "OpenAI countersues Apple in row over trade secrets, suppliers - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUZNbmdzN3N1ekdsc1h0N0pVMUFnUVBLU29EMnREeEtHYUk1emNzbGxwSmhLMGluc3I1U1ZtZUo5YkNJWEE3ZUtOX0dHanNyUjdDb01oN29PMVBBd2dvOGRtLS05aGF5ZnZtZmJSZC1rZkdMenNZU214ZExyR2tod0FUOUJ1a2Z5Y1k5dDJYRW5DZzRIazJzSmlxa1lQVjJ5?oc=5",
+      "source": "Arab News",
+      "published": "2026-11-27T23:19:20+00:00",
+      "summary": "OpenAI countersues Apple in row over trade secrets, suppliers&nbsp;&nbsp;Arab News"
+    },
+    {
+      "title": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
+      "source": "Fortune",
+      "published": "2026-11-26T10:03:00+00:00",
+      "summary": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell&nbsp;&nbsp;Fortune"
+    },
+    {
+      "title": "OpenAI Countersues Apple in Trade Secrets Dispute - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXFwRlZBbWQ4c2hMYjJHUHZQMVNVWUZEbFRkV3k2SXlZajM0ZXM3VTd0cHlTVy1JYWdsRVRmTjNUUUZ4ektMSmxzM2Rmd3FkNTNOUF9BdW1mLU52cnRzaXhpN3llV25LNHFQMHJpNl90eW5GaVN3N1IwY1pBUUtZd3dxWG4wMzU1WWRn?oc=5",
+      "source": "The Defiant",
+      "published": "2026-11-27T21:27:21+00:00",
+      "summary": "OpenAI Countersues Apple in Trade Secrets Dispute&nbsp;&nbsp;The Defiant"
     }
   ]
 }
